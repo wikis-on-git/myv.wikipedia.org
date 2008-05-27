@@ -1,6 +1,50 @@
-{{approved
-|interwiki=w:myv:
-|project=wikipedia
-|name=Erzya Wikipedia
-|date=May 26, 2008
-}}
+{| border="0" cellspacing="5" cellpadding="0"
+| colspan=2 |{{Прякслопа пандо}}
+|-
+| colspan=2 |{{Прякслопа куншка}}
+|-
+| valign=top width="60%" |
+<div>
+<center>'''Теемс од лопань сёрмадовкс:'''</center>
+<inputbox>
+ type=create
+ width=60
+ bgcolor=#ffffff
+ default=
+</inputbox>
+</div><br>
+{{Потмо}}
+| width="40%" valign=top |{{Нурька тексттнэ}}
+|-
+| colspan=2 | {{Индекс А-Я}}
+|-
+| colspan=2 | {{Википедият}}
+|-
+| colspan=2 | {{Малавикс проекттнэ}}
+|}
+__notoc__ __noeditsection__
+<!-- интервики больших разделов + финно-угорские -->
+[[ca:]]
+[[de:]]
+[[et:]]
+[[en:]]
+[[es:]]
+[[fr:]]
+[[it:]]
+[[ja:]]
+[[kv:]]
+[[hu:]]
+[[nl:]]
+[[no:]]
+[[pl:]]
+[[pt:]]
+[[ro:]]
+[[ru:]]
+[[se:]]
+[[fi:]]
+[[sv:]]
+[[udm:]]
+[[fiu-vro:]]
+[[zh:]]
+
+[[Category:Wp/myv| ]]
