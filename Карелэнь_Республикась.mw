@@ -2,13 +2,13 @@
 Лем=Карелэнь Республикась|
 РЛ=Республика Карелия|
 OfNm2=Karjalan tazavalla|
-Коцт=[[Image:Flag of Karelia.svg|150px|Карелэнь Республиканть коцт]]|
-FSCoA=[[Image:Coat of Arms of Republic of Karelia.svg|125px|Карелэнь Республиканть герб]]|
+Коцт=[[Артовкс:Flag of Karelia.svg|150px|Карелэнь Республиканть коцт]]|
+FSCoA=[[Артовкс:Coat of Arms of Republic of Karelia.svg|125px|Карелэнь Республиканть герб]]|
 FlagLnk=Карелэнь Республиканть коцтось|
 CoALnk=Карелэнь Республиканть гербесь|
 FSMapName=RussiaKarelia|
 FSCtrWhat=Прявтош|
-FSCtrNm=[[Петраньзаводонь ош|Петраньзаводонь ош]]|
+FSCtrNm=[[Петраньзаводонь ош]]|
 AreaRnk=21-це|
 TotArea=172 400|
 WaterPrcnt=14,7|
@@ -17,7 +17,7 @@ PopRnk=67-це|
 PopCtDate=2005|
 PopDens=4,1&nbsp;|
 FedDistrNm=?|
-EcRegNm=[[?|?]]|
+EcRegNm=[[?]]|
 CadNo=10|
 OfLangs=[[Рузонь кель|рузонь]]|
 Прявтонть лем = Республикань прявтось|
@@ -32,8 +32,7 @@ MSKS=0|
 <br clear="all">
 {{Россия Масторонть масторпелькстнэ}}
 
-
-[[Category:Россия Масторонть масторпелькстнэ|К]]
+[[Категория:Россия Масторонть масторпелькстнэ|К]]
 
 [[af:Republiek van Karelië]]
 [[ar:جمهورية كاريليا]]
@@ -84,6 +83,7 @@ MSKS=0|
 [[ta:கரேலியா]]
 [[tr:Karelya Cumhuriyeti]]
 [[tt:Kareliä]]
+[[ug:كارېلىيە]]
 [[uk:Республіка Карелія]]
 [[war:Republika han Karelia]]
 [[zh:卡累利阿共和国]]
