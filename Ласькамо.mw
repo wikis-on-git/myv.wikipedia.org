@@ -16,11 +16,11 @@
 | range map width = 250px
 | section name = Подвиды
 | section text = 
-''Lynx lynx lynx''<BR>
-''Lynx lynx isabellinus''<BR>
-''Lynx lynx kozlovi''<BR>
-''Lynx lynx sardiniae''<BR>
-''Lynx lynx stroganovi''<BR>
+''Lynx lynx lynx''<br />
+''Lynx lynx isabellinus''<br />
+''Lynx lynx kozlovi''<br />
+''Lynx lynx sardiniae''<br />
+''Lynx lynx stroganovi''<br />
 | latin = {{Btname|Lynx lynx|(Linnaeus, 1758)}}
 | wikispecies = Lynx lynx
 | commons =Lynx lynx
@@ -33,7 +33,7 @@
 [[af:Eurasiese rooikat]]
 [[ar:وشق أوراسيا]]
 [[bat-smg:Lūšis]]
-[[be:Рысь еўрапейская]]
+[[be:Рысь звычайная]]
 [[bg:Рис]]
 [[br:Liñs Eurazia]]
 [[ca:Linx nòrdic]]
