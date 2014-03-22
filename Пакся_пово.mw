@@ -1,8 +1,13 @@
 {{Таксономиясь
 | name              = Пакся паво
 | regnum            = Ракшат
+|superdivisio =
+|divisio =
+|subdivisio = 
+|superclassis =
+|classis = [[Нармунть|нармунь]]
 | image file = Rebhuehner.jpg
-| image descr = 
+| image descr = Пакся паво
 | parent            = Perdix
 | rang              = 
 | latin             = Perdix perdix
@@ -11,18 +16,21 @@
 | typus =
 | children name = 
 | children =
-| range map = Verbreitungskarte Rebhuhn.jpg
+| range map = 
 | range map caption =
 | range map width =
 | range legend =
 | iucnstatus = LC
 | wikispecies = Perdix perdix
 | commons = Category:Perdix perdix
-| iucn = 100600188
-| itis = 175915
-| ncbi = 9052
-| eol = 1049240
+| iucn = 
+| itis = 
+| ncbi = 
+| eol = 
 | grin =
 | ipni =
 }}
-'''Пакся пово''' ({{lang-la|Perdix perdix}})
+'''Пакся пово''' ({{lang-la|Perdix perdix}}) - те нармунь.
+
+[[Категория:Биология]]
+[[Категория:Нармунть|П]]
