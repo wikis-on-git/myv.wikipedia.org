@@ -1,4 +1,4 @@
-{{Карточка программы
+<!--{{Карточка программы
  |name = Instagram
  |logo = Instagram logo.png
  |screenshot = 
@@ -15,6 +15,33 @@
  |status = 
  |license = [[Freeware]]
  |website = http://instagram.com
+}} -->
+{{Infobox website
+| name                 = Instagram
+| logo                 = [[Артовкс:Instagram logo.png]]
+| logocaption          = 
+| screenshot           = 
+| collapsible          = 
+| collapsetext         = 
+| caption              = 
+| url                  = {{URL|www.instagram.com}}
+| slogan               = 
+| commercial           = 
+| type                 = [[Ломаньютконь кортнема тарка|ломаньютко]]
+| registration         = 
+| language             = 
+| num_users            = 
+| content_license      = 
+| programming language = 
+| owner                = 
+| author               = 
+| editor               = 
+| launch_date          = [[Ацамковонь 16 чи]] [[2010 ие]]<!-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -->
+| revenue              = 
+| alexa                = <!-- {{increase}} {{steady]} {{decrease}} [http://www.alexa.com/siteinfo/example.com ##] (US/Global, MM/YYYY) -->
+| ip                   = 
+| current_status       = 
+| footnotes            = 
 }}
 '''Instagrám''' — [[Бесплатное программное обеспечение|бесплатное]] приложение [[Фотохостинг|обмена фотографиями]] и [[Видеохостинг|видеозаписями]] для пользователей от 16 лет, позволяющее им снимать фотографии и видео, применять к ним [[Фотофильтр|фильтры]], а также распространять их через свой сервис и ряд других [[Социальная сеть|социальных сетей]]<ref name=nov2010>{{cite web|last=Frommer|first=Dan|title=Here's How To Use Instagram|url=http://www.businessinsider.com/instagram-2010-11|publisher=Business Insider|accessdate=2011-05-20|date=2010-10-01|archiveurl=http://www.webcitation.org/6AAqsgIzF|archivedate=2012-08-25}}{{ref-en}}</ref>. Instagram делает фотографии квадратной формы — как камеры [[Моментальная фотография|моментальной фотографии]] [[Polaroid]], [[Eastman Kodak|Kodak]] [[Instamatic]] и [[Средний формат|среднеформатные]] камеры 6×6 (большинство же [[Камерфон|мобильных фотоприложений]] использует соотношение сторон 3:2).
 
@@ -93,13 +120,3 @@
 * [http://instagram.com/ instagram.com] {{ref-en}}
 * {{Твиттер|lang=en}}
 * {{Facebook|Instagramru|lang=ru}}
-[[Категория:Хостинг изображений]]
-[[Категория:Социальные сети]]
-[[Категория:Программное обеспечение для iOS]]
-[[Категория:Сайты по алфавиту]]
-[[Категория:Сайты, появившиеся в 2010 году]]
-[[Категория:Программное обеспечение для Android]]
-[[Категория:Приложения, использующие OpenGL]]
-[[Категория:IPhone]]
-[[Категория:Apple iOS]]
-[[Категория:Фотография]]
