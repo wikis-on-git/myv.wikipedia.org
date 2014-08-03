@@ -12,8 +12,8 @@
  |описание флага          = 
  |ширина герба            = 
  |ширина флага            = 
-  |lat_dir = |lat_deg = 54|lat_min = 13|lat_sec = 11
-  |lon_dir = |lon_deg = 52 |lon_min = 02|lon_sec = 50
+ |lat_deg = 54|lat_min = 13|lat_sec = 11
+ |lon_deg = 52 |lon_min = 02|lon_sec = 50
   |CoordAddon             = type:city_region:RU
   |CoordScale             = 
  |размер карты страны     = 
