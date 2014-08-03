@@ -14,7 +14,7 @@
  |ширина флага            = 100
   |lat_dir = |lat_deg = 52|lat_min = 13|lat_sec = 
   |lon_dir = |lon_deg = 21|lon_min = 2|lon_sec = 
-  |CoordAddon             = 
+  |CoordAddon             = type:city(1715517)_region:PL
   |CoordScale             = 
  |размер карты страны     = 
  |размер карты региона    = 
