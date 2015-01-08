@@ -1,0 +1,9 @@
+{{#switch:{{{1}}}
+| name = Красноярскоень край
+| type = custom
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Krasnoyarsk Krai.jpg
+ |#default = Outline Map of Krasnoyarsk Krai.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россия}}
+</noinclude>
