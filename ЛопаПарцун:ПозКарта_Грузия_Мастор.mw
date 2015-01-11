@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name = Грузия Мастор
+|top = 43.7
+|bottom = 40.9
+|left = 39.8
+|right = 46.9
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Georgia.png
+ |#default = Georgia location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Грузия}}
+
+</noinclude>
