@@ -1,0 +1,18 @@
+{{#switch:{{{1}}}
+|name = Псковонь ёнкс
+|top    = 59.1
+|bottom = 55.5
+|left   = 27.0
+|right  = 31.8
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Pskov Oblast.jpg
+ |#default = Outline Map of Pskov Oblast.svg
+}}
+|areas = {{#switch:{{{2|}}}
+ |#default = {{ПозКарта Россия Псковская область/adm}}
+ |physical = default [[:file:Relief Map of Pskov Oblast.jpg|{{PAGENAME}} (Псковонь ёнкс)]]
+desc none
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россия}}
+
+</noinclude>
