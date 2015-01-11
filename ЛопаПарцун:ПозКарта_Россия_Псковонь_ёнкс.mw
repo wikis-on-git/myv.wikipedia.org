@@ -9,7 +9,7 @@
  |#default = Outline Map of Pskov Oblast.svg
 }}
 |areas = {{#switch:{{{2|}}}
- |#default = {{ПозКарта Россия Псковская область/adm}}
+ |#default = {{ПозКарта Россия Псковонь ёнкс/adm}}
  |physical = default [[:file:Relief Map of Pskov Oblast.jpg|{{PAGENAME}} (Псковонь ёнкс)]]
 desc none
 }}
