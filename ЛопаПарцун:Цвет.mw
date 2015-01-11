@@ -1,0 +1,47 @@
+<includeonly>{{#switch: {{{1}}}
+|Австрия = <nowiki>#</nowiki>ff9999
+|Азербайджан = <nowiki>#</nowiki>C6CA2E
+|Албания = <nowiki>#</nowiki>d81126
+|Андорра = <nowiki>#</nowiki>D1BF91
+|Алжир = darksalmon
+|Армения = <nowiki>#</nowiki>ffcfaf
+|Белорузонь Мастор = <nowiki>#</nowiki>cfff9f
+|Бельгия = <nowiki>#</nowiki>C6CEDE
+|Болгария = <nowiki>#</nowiki>ccddff
+|Венгрия = lightcyan
+|Вьетнам = <nowiki>#</nowiki>fbec5d
+|Гагаузия = <nowiki>#</nowiki>f7d900
+|Германия Мастор= <nowiki>#</nowiki>e3e3e3
+|Греция = <nowiki>#</nowiki>7FBFFF
+|Грузия Мастор = <nowiki>#</nowiki>E7E7F1
+|Дания = <nowiki>#</nowiki>eee685
+|Италия = <nowiki>#</nowiki>FFDD88
+|Казахстан Мастор= <nowiki>#</nowiki>ffffca
+|Киргизия = <nowiki>#</nowiki>fe96a3
+|Молдавия = <nowiki>#</nowiki>f7d900
+|Нидерланды = <nowiki>#</nowiki>FFCF6F
+|Польша = <nowiki>#</nowiki>ffcbdb
+|Приднестровская Молдавская Республика = <nowiki>#</nowiki>f7d900
+|Россия = <nowiki>#</nowiki>a3eea3
+|Румыния = <nowiki>#</nowiki>ffd060
+|Сан-Томе и Принсипи = <nowiki>#</nowiki>66ff88
+|СССР = <nowiki>#</nowiki>ffaeb9
+|Союз Советских Социалистических Республик = <nowiki>#</nowiki>ffaeb9
+|Таджикистан = <nowiki>#</nowiki>F37E31
+|Туркмения = <nowiki>#</nowiki>26ffc9
+|Узбекистан = <nowiki>#</nowiki>8defff
+|Украина = <nowiki>#</nowiki>afd6ff
+|Франция = <nowiki>#</nowiki>F48FDC
+|Швейцария = <nowiki>#</nowiki>ff6347
+|Швеция = <nowiki>#</nowiki>c0ff3e
+|Эстония = <nowiki>#</nowiki>6699ff
+|Южная Корея = <nowiki>#</nowiki>fb98da
+<!-- темы -->
+|История = <nowiki>#</nowiki>eed8ae
+|Кино = <nowiki>#</nowiki>e6e6fa
+<!-- по умолчанию -->
+|<nowiki>#</nowiki>ccccff
+}}</includeonly><noinclude>
+{{Doc}}
+[[Category:Шаблонт]]
+</noinclude>
