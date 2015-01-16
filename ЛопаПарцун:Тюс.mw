@@ -1,0 +1,183 @@
+<noinclude><!--
+
+Внимание!
+
+Вы редактируете шаблон, который используется в тысячах страниц. Неосторожные правки могут повлечь за собой неоправданную нагрузку серверов. Пожалуйста, тщательно проверяйте корректность ваших изменений, прежде чем сохранять страницу.
+
+Также учтите, что цвет, выбираемый для темы либо для страны, должен быть как можно более нейтральным и не вызывать ненужных ассоциаций. Если у вас есть хотя бы малейшие сомнения по этому поводу, обсуждайте предлагаемые изменения на странице обсуждения шаблона.
+
+Спасибо.
+
+--></noinclude>
+<includeonly>{{#switch: {{{1}}}
+|Европань мастортнэ =                 lightblue
+|Австрия =                                   <nowiki>#</nowiki>ff9999
+|Азербайджан =                               <nowiki>#</nowiki>c6ca2e
+|Албания =                                   <nowiki>#</nowiki>ff9999
+|Андорра =                                   <nowiki>#</nowiki>d1bf91
+|Алжир =                                     darksalmon
+|Армения =                                   <nowiki>#</nowiki>ffcfaf
+|Белоруссия =                                <nowiki>#</nowiki>cfff9f
+|Беларусь =                                  <nowiki>#</nowiki>cfff9f
+|Бельгия =                                   <nowiki>#</nowiki>c6cede
+|Болгария =                                  <nowiki>#</nowiki>ccddff
+|Великобритания =                            pink
+|Венгрия =                                   lightcyan
+|Вьетнам =                                   <nowiki>#</nowiki>fbec5d
+|Гагаузия =                                  <nowiki>#</nowiki>f7d900
+|Германия Мастор=                                  <nowiki>#</nowiki>e3e3e3
+|Греция =                                    <nowiki>#</nowiki>7fbfff
+|Грузия =                                    <nowiki>#</nowiki>e7e7f1
+|Дания =                                     <nowiki>#</nowiki>eee685
+|Египет =                                    <nowiki>#</nowiki>ffdead
+|Иран =                                      <nowiki>#</nowiki>D0F0C0
+|Испания =                                   <nowiki>#</nowiki>ffee99
+|Италия =                                    <nowiki>#</nowiki>ffdd88
+|Израиль =                                   <nowiki>#</nowiki>ccccff
+|Казахстан =                                 <nowiki>#</nowiki>ffffca
+|Киргизия =                                  <nowiki>#</nowiki>fe96a3
+|Китай=                                      <nowiki>#</nowiki>ffdb58
+|Молдавия =                                  <nowiki>#</nowiki>f7d900
+|Нидерланды =                                <nowiki>#</nowiki>ffcf6f
+|Польша =                                    <nowiki>#</nowiki>ffcbdb
+|Приднестровская Молдавская Республика =     <nowiki>#</nowiki>f7d900
+|Россия =                                    <nowiki>#</nowiki>a3eea3
+|Румыния =                                   <nowiki>#</nowiki>ffd060
+|Сан-Томе и Принсипи =                       <nowiki>#</nowiki>66ff88
+|США =                                       <nowiki>#</nowiki>ace1af
+|Соединённые Штаты Америки =                 <nowiki>#</nowiki>ace1af
+|СССР =                                      <nowiki>#</nowiki>ffaeb9
+|Союз Советских Социалистических Республик = <nowiki>#</nowiki>ffaeb9
+|Таджикистан =                               <nowiki>#</nowiki>ff9966
+|Туркменистан|Туркмения =                    <nowiki>#</nowiki>a6ffeb
+|Турция =                                    <nowiki>#</nowiki>e0b0ff 
+|Узбекистан =                                <nowiki>#</nowiki>8defff
+|Украина =                                   <nowiki>#</nowiki>afd6ff
+|Финляндия =                                 <nowiki>#</nowiki>7dffcd
+|Франция =                                   <nowiki>#</nowiki>f3cc99
+|Швейцария =                                 <nowiki>#</nowiki>ff9999
+|Швеция =                                    <nowiki>#</nowiki>c0ff3e
+|Эстония =                                   <nowiki>#</nowiki>6699ff
+|Южная Корея =                               <nowiki>#</nowiki>fb98da
+|Япония =                                    <nowiki>#</nowiki>ffe5ed
+<!-- темы -->
+|История =                                   <nowiki>#</nowiki>deb887
+|Кино =                                      <nowiki>#</nowiki>e6e6fa
+|Футбол =                                    <nowiki>#</nowiki>bfd7ff
+|Хоккей =                                    <nowiki>#</nowiki>f2ecdf
+<!-- кельть -->
+| Afro-Asiatic     = yellow
+| афразийские      = yellow
+| афразийская      = yellow
+| алтайская        = yellowgreen
+| алтайские        = yellowgreen
+| Altaic           = yellowgreen
+| American           = lightblue
+| америндские        = lightblue
+| индейские          = lightblue
+| на-дене            = lightblue
+| Na-Dené            = lightblue
+| североамериканские = lightblue
+| СА                 = lightblue
+| южноамериканские = deepskyblue
+| ЮА               = deepskyblue
+| австралийская    = <nowiki>#eba9ee</nowiki>
+| австралийские    = <nowiki>#eba9ee</nowiki>
+| Australian       = <nowiki>#eba9ee</nowiki>
+| Austroasiatic    = lightcoral
+| Austro-Asiatic   = lightcoral
+| австроазиатские  = lightcoral
+| АА               = lightcoral
+| австроазиатская  = lightcoral
+| аустроазиатская  = lightcoral
+| аустроазиатские  = lightcoral
+| Austronesian     = pink
+| австронезийские  = pink
+| АН               = pink
+| австронезийская  = pink
+| Caucasian        = lightgreen
+| кавказские       = lightgreen
+| кав              = lightgreen
+| Conlang              = black
+| искусственные        = black
+| иск                  = black
+| conlang              = black
+| constructed          = black
+| constructed language = black
+| Creole           = tan
+| creole           = tan
+| креол            = tan
+| креольские       = tan
+| Pidgin           = tan
+| пиджин           = tan
+| пиджины          = tan
+| Mixed            = tan
+| смешанные        = tan
+| Dravidian        = mediumspringgreen
+| дравидийские     = mediumspringgreen
+| дравидийская     = mediumspringgreen
+| драв             = mediumspringgreen
+| Eskimo-Aleut         = lightcyan
+| эскимосско-алеутские = lightcyan
+| ЭА                   = lightcyan
+| эскимосско-алеутская = lightcyan
+| Hmong-Mien       = <nowiki>#ff0033</nowiki>
+| мяо-яо           = <nowiki>#ff0033</nowiki>
+| МЯ               = <nowiki>#ff0033</nowiki>
+| Indo-European    = <nowiki>#ccff99</nowiki>
+| индоевропейские  = <nowiki>#ccff99</nowiki>
+| индоевропейская  = <nowiki>#ccff99</nowiki>
+| ИЕ               = <nowiki>#ccff99</nowiki>
+| изолят           = <nowiki>#dddddd</nowiki>
+| изолированные    = <nowiki>#dddddd</nowiki>
+| isolate          = <nowiki>#dddddd</nowiki>
+| language isolate = <nowiki>#dddddd</nowiki>
+| Isolate          = <nowiki>#dddddd</nowiki>
+| Khoisan          = goldenrod
+| койсанские       = goldenrod
+| Niger-Congo         = orange
+| НК                  = orange
+| нигеро-конголезские = orange
+| нигеро-конголезская = orange
+| нигеро-кордофанские = orange
+| нигер-конго         = orange
+| НС               = gold
+| Nilo-Saharan     = gold
+| нило-сахарская   = gold
+| нило-сахарские   = gold
+| Palaeosiberian   = darkseagreen
+| Palaeo-Siberian  = darkseagreen
+| ПА               = darkseagreen
+| палеоазиатские   = darkseagreen
+| Paleosiberian    = darkseagreen
+| Paleo-Siberian   = darkseagreen
+| Paleo-siberian   = darkseagreen
+| Papuan           = <nowiki>#fd79da</nowiki>
+| папуасские       = <nowiki>#fd79da</nowiki>
+| Sign             = silver
+| жестовый         = silver
+| жестовые         = silver
+| sign language    = silver
+| Sino-Tibetan     = tomato
+| СТ               = tomato
+| сино-тибетская   = tomato
+| сино-тибетские   = tomato
+| Tai-Kadai        = lavender
+| ТК               = lavender
+| тай-кадайская    = lavender
+| тай-кадайские    = lavender
+| ур               = limegreen
+| уральская        = limegreen
+| уральские        = limegreen
+| Uralic           = limegreen
+| обычный          = white
+|                    white
+
+<!-- по умолчанию -->
+|<nowiki>#</nowiki>ececec
+}}</includeonly>
+
+<noinclude>
+[[Category:Шаблонт]]
+
+</noinclude>
