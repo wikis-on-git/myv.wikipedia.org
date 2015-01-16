@@ -1,6 +1,6 @@
 <includeonly>{| class="infobox vcard" style="padding:0;background:#fafafa;border:1px solid #bbb;width:300px;text-align:center;font-size:11px"
 |{{ucfirst:{{{статус|{{{2|ЭТ}}}}}}}}
-<div style="border:solid #bbb; border-width:1px 0;width:100%;background:{{цвет|{{wikidata|p17|{{{мастор|}}}|plain=true}}}};font-weight:800"><span class="fn org" style="font-size:120%">{{{Эрзянь лем|{{{1}}}}}}</span>{{#if:{{{оригинальное название|{{{3|}}}}}}|<br /><span class="nickname">{{{оригинальное название{{{3|}}}}}}</span>}}</div><!--
+<div style="border:solid #bbb; border-width:1px 0;width:100%;background:{{Тюс|{{wikidata|p17|{{{мастор|}}}|plain=true}}}};font-weight:800"><span class="fn org" style="font-size:120%">{{{Эрзянь лем|{{{1}}}}}}</span>{{#if:{{{оригинальное название|{{{3|}}}}}}|<br /><span class="nickname">{{{оригинальное название{{{3|}}}}}}</span>}}</div><!--
 -->{{#if:{{{изображение|}}}|[[Артовкс:{{{изображение}}}|center|290x435px]]}}
 <!-- герб и флаг -->
 {{#if:{{wikidata|p94|{{{герб|}}}}}{{wikidata|p41|{{{флаг|}}}}}|{{{!}}style="background:inherit;width:100%"
