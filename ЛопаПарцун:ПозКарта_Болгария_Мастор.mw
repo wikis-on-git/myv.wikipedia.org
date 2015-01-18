@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name = Болгария Мастор
+|top = 44.4
+|bottom = 41.1
+|left = 22.1
+|right = 28.9
+| image  = {{#switch:{{{2|}}}
+ |physical = Relief Map of Bulgaria.jpg
+ |#default = Bulgaria location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Болгария}}
+
+</noinclude>
