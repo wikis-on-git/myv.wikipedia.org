@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+|name = Мордовия
+| top    = 55.5
+| bottom = 53.5
+| left   = 42.0
+| right  = 47.0
+|image  = {{#switch:{{{2|}}}
+ |physical = Relief Map of Mordovia.png
+ |#default = Outline Map of Mordovia.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россия}}
+</noinclude>
