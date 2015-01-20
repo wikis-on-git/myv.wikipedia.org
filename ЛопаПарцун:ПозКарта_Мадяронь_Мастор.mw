@@ -1,0 +1,18 @@
+{{#switch:{{{1}}}
+|name   = Венгрия
+|top    = 48.8
+|bottom = 45.5
+|left   = 15.7
+|right  = 23.2
+|image  = {{#switch:{{{2|}}}
+ |physical = Hungary physical map.svg
+ |#default = Hungary location map.svg
+}}
+|areas = {{#switch:{{{2|}}}
+ |#default = {{ПозКарта Венгрия/adm}}
+ |physical = default [[:file:Hungary physical map.svg|{{PAGENAME}} (Венгрия)]]
+desc none
+}}
+}}<noinclude>{{ПозКарта/Инфо|Венгрия}}
+
+</noinclude>
