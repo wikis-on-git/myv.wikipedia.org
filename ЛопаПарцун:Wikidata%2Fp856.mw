@@ -1,0 +1,1 @@
+{{#invoke:Wikidata|formatStatements|property=p856|value={{#if:{{{1|}}}|{{#invoke:URL|formatUrl|{{{1|}}}|{{{text|}}}}}}}|value-module=URL|value-function=formatUrlSingle|text={{{text|}}}|separator=<br />|conjunction=<br />}}<noinclude>{{doc}}</noinclude>
