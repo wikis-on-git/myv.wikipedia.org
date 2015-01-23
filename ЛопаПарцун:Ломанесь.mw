@@ -14,10 +14,9 @@
 |стиль_изображения =
 |caption           = {{{описание изображения|}}}
 |стиль_подписи     =
-|headerstyle     = font-weight:normal;
 |labelstyle       = text-align:right; background:#eee; vertical-align:top;
 |datastyle      =
-|title1        = {{{описание|}}} <!-- не совсем понятно для чего нужен этот параметр -->
+|Заголовок1        = {{{описание|}}} <!-- не совсем понятно для чего нужен этот параметр -->
 |label2  = Чачомань лем:
 |data2  = {{wikidata|p1477|{{{чачомань лем|}}}}}
 |класс2  = nickname
