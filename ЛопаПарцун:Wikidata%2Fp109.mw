@@ -1,0 +1,2 @@
+<includeonly>{{#invoke:Wikidata|formatStatements|value-module=Wikidata/media|value-function=formatImage|property=p109|value={{#if:{{{1|}}}|{{форматирование изображения|{{{1|}}}|{{#if:{{{size|}}}|{{{size}}}|150x150px}}}}}}|plain={{{plain|false}}}|size={{#if:{{{size|}}}|{{{size}}}|150x150px}}|alt={{{alt|}}}|separator=<br />|conjunction=<br />}}{{#ifeq:{{NAMESPACENUMBER}}|12|[[Категория:Википедия:Шаблоны, использующие Викиданные|{{PAGENAME}}]]}}</includeonly><noinclude>{{doc}}
+</noinclude>
