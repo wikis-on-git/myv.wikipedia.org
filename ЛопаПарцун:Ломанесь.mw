@@ -60,11 +60,11 @@
 |label19 = Разное:
 |data19 = {{{разное|}}}
 |стиль_внизу = border-top:1px solid #DDD; background:#eaeaea;
-|внизу       = {{#if:{{{википурнавкс|}}}|'''[[commons:Category:{{{викисклад|}}}|{{#if: {{{имя|}}} | {{{имя}}} | {{Сначала имя|{{PAGENAME}}}} }}]]''' на [[Викисклад]]е|{{wikidata/p373|text_before='''|text={{#if: {{{имя|}}} | {{{имя}}} | {{Сначала имя|{{PAGENAME}}}} }}|text_after=''' [[Википурнавкс]]со}}}}
+|внизу       = {{#if:{{{википурнавкс|}}}|'''[[commons:Category:{{{википурнавкс|}}}|{{#if: {{{лем|}}} | {{{лем}}} | {{Сначала имя|{{PAGENAME}}}} }}]]'''  [[Википурнавкс]]со|{{wikidata/p373|text_before='''|text={{#if: {{{лем|}}} | {{{лем}}} | {{Сначала имя|{{PAGENAME}}}} }}|text_after=''' [[Википурнавкс]]со}}}}
 |внизу2     = {{#if:{{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}<!--
 -->|'''[[Файл:wikisource-logo.svg|15px|Логотип Викитеки|link={{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}]] [[{{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}|Произведения]]''' в [[Викитека|Викитеке]]<!--
 -->|{{#ifeq:{{{викитека|}}}|нельзя|{{Unicode|©}} Произведения этого автора [[Свободный контент|несвободны]]}}<!--
 -->}}
-}}<includeonly>{{#if:{{NAMESPACE}}||{{#if:{{{nocat|}}}||{{#if:{{{викисклад|}}}|[[Категория:Википедия:Ссылка на Викисклад непосредственно в статье]]}}{{#switch:{{wikidata/p18|{{{изображение|}}}|plain=1}}|=[[Категория:Википедия:Персоналии без портретов]]|Replace this image male.svg=[[Категория:Википедия:Персоналии без портретов]]|Replace this image female.svg=[[Категория:Википедия:Персоналии без портретов]]|#default=}}}}}}</includeonly><noinclude>
+}}<includeonly>{{#if:{{NAMESPACE}}||{{#if:{{{nocat|}}}||{{#if:{{{википурнавкс|}}}|[[Категория:Википедия:Ссылка на Викисклад непосредственно в статье]]}}{{#switch:{{wikidata/p18|{{{артовкс|}}}|plain=1}}|=[[Категория:Википедия:Персоналии без портретов]]|Replace this image male.svg=[[Категория:Википедия:Персоналии без портретов]]|Replace this image female.svg=[[Категория:Википедия:Персоналии без портретов]]|#default=}}}}}}</includeonly><noinclude>
 {{doc}}
 </noinclude>
