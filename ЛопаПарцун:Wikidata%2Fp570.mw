@@ -1,0 +1,1 @@
+{{#if:{{{1|}}}|{{#invoke:Infocards|dateOfDeath|{{{2|}}}|{{{1|}}}|nocat={{{nocat|}}}{{NAMESPACE}}}}|{{#invoke:Wikidata|formatStatements|property=p570|claim-module=Wikidata/date|claim-function=formatDateOfDeathClaim|nocat={{{nocat|}}}{{NAMESPACE}}}}}}<noinclude>{{doc}}</noinclude>
