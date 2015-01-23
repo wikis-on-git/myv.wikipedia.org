@@ -14,7 +14,7 @@
 |стиль_изображения =
 |подпись           = {{{описание изображения|}}}
 |стиль_подписи     =
-|стиль_заголовков  = font-weight:normal;
+|headerstyle     = font-weight:normal;
 |labelstyle       = text-align:right; background:#eee; vertical-align:top;
 |datastyle      =
 |заголовок1        = {{{описание|}}} <!-- не совсем понятно для чего нужен этот параметр -->
