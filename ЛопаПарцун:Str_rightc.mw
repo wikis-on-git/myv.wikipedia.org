@@ -1,0 +1,2 @@
+<includeonly>{{Str sub long|nocategory={{{nocategory|}}}|{{{1}}}|{{#expr:{{Str len|nocategory={{{nocategory|}}}|{{{1}}}}}-{{{2}}}}}|{{{2}}}}}</includeonly><noinclude>{{doc}}
+</noinclude>
