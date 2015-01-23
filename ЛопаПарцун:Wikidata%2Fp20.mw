@@ -1,0 +1,2 @@
+<includeonly>{{#invoke:Wikidata|formatStatements|property=p20|claim-module=Wikidata/Places|claim-function=formatPlaceWithQualifiers|value={{{1|}}}|conjunction=&#32;или&#32;|plain={{{plain|false}}}}}{{#ifeq:{{NAMESPACENUMBER}}|12|[[Категория:Википедия:Шаблоны, использующие Викиданные|{{PAGENAME}}]]}}</includeonly><noinclude>{{doc}}
+</noinclude>
