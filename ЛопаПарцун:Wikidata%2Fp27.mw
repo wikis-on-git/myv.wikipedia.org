@@ -1,0 +1,3 @@
+<includeonly>{{#invoke:Wikidata|formatStatements|property=p27|value={{{1|}}}|claim-module=Wikidata/Countries|claim-function=formatCountryClaimWithFlag|separator=<br />|conjunction=<br />}}<!--
+-->{{#ifeq:{{NAMESPACENUMBER}}|12|[[Категория:Википедия:Шаблоны, использующие Викиданные|{{PAGENAME}}]]}}</includeonly><noinclude>{{doc}}
+</noinclude>
