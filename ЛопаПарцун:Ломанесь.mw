@@ -4,7 +4,7 @@
 |bodyclass         = vcard plainlist
 |header            = 
 |headerstyle       = 
-|above             = {{#if: {{{лем|}}} | {{{лем}}} | {{Сначала имя|{{PAGENAME}}}} }}
+|above             = {{#if: {{{лем|}}} | {{{лем}}} | {{Сначала имя|{{PAGENAME}}}} }}<br/>{{{оригиналонь лем|}}}
 |abovestyle        = background:#eee;
 |aboveclass        = fn
 |above2            = {{{оригиналонь лем|}}}
