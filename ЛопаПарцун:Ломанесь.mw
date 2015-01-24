@@ -1,4 +1,4 @@
-<includeonly>{{#if:{{NAMESPACE}}{{{nocat|}}}||[[Категория:Ломантне]]}}</includeonly>
+<includeonly>{{#if:{{NAMESPACE}}{{{nocat|}}}||[[Категория:Ломантне ловнома тешкскерьксэнть коряс]]}}</includeonly>
 {{Infobox
 |bodystyle         = width:23em;
 |bodyclass         = vcard plainlist
