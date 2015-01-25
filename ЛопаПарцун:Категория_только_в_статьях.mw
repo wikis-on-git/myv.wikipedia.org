@@ -1,0 +1,3 @@
+{{#if: {{{nocat|}}}||{{#if:{{NAMESPACE}}||[[Категория:{{{1}}}]]}}}}<noinclude>
+{{doc}}
+</noinclude>
