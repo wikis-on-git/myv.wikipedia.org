@@ -27,13 +27,13 @@
 |data4  = {{wikidata/p569|{{{чачома чись|}}}|{{{кулома чись|}}}}}
 |label5  = Чачома тарка:
 |data5  = {{wikidata/p19|{{{чачома тарка|}}}}}
-|label6  = Гражданство:
-|data6  = {{#if:{{{гражданство|}}}|<span class="country-name">{{{гражданство}}}</span>}}
+|label6  = Гражданчи:
+|data6  = {{#if:{{{гражданчи|}}}|<span class="country-name">{{{гражданчи}}}</span>}}
 |класс6  = adr
-|label7  = Подданство:
-|data7  = {{{подданство|}}}
+|label7  = Кедьалксчи:
+|data7  = {{{кедьалксчи|}}}
 |label8  = Мастор:
-|data8  = {{#if:{{{гражданство|}}}{{{подданство|}}}||{{wikidata/p27}}}}
+|data8  = {{#if:{{{гражданчи|}}}{{{кедьалксчи|}}}||{{wikidata/p27}}}}
 |label9  = Кулома чись:
 |data9  = {{wikidata/p570|{{{кулома чись|}}}|{{{чачома чись|}}}}}
 |label10 = Кулома тарка:
@@ -64,6 +64,6 @@
 -->|'''[[Файл:wikisource-logo.svg|15px|Логотип Викитеки|link={{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}]] [[{{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}|Произведения]]''' в [[Викитека|Викитеке]]<!--
 -->|{{#ifeq:{{{викитека|}}}|нельзя|{{Unicode|©}} Произведения этого автора [[Свободный контент|несвободны]]}}<!--
 -->}}
-}}<includeonly>{{#if:{{NAMESPACE}}||{{#if:{{{nocat|}}}||{{#if:{{{википурнавкс|}}}|}}{{#switch:{{wikidata/p18|{{{артовкс|}}}|plain=1}}|=[[Категория:Википедия:Персоналии без портретов]]|Replace this image male.svg=[[Категория:Википедия:Персоналии без портретов]]|Replace this image female.svg=[[Категория:Википедия:Персоналии без портретов]]|#default=}}}}}}</includeonly><noinclude>
+}}<includeonly>{{#if:{{NAMESPACE}}||{{#if:{{{nocat|}}}||{{#if:{{{википурнавкс|}}}|}}{{#switch:{{wikidata/p18|{{{артовкс|}}}|plain=1}}|=[[Категория:Википедия:Ломантне артовкстомо]]|Replace this image male.svg=[[Категория:Википедия:Ломантне артовкстомо]]|Replace this image female.svg=[[Категория:Википедия:Ломантне артовкстомо]]|#default=}}}}}}</includeonly><noinclude>
 {{doc}}
 </noinclude>
