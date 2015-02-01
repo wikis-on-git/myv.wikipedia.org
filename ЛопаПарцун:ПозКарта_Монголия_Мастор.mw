@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name = Монголия Мастор
+|top    = 53
+|bottom = 41
+|left   = 87
+|right  = 121
+|image = {{#switch:{{{2|}}}
+ |physical = Relief map of Mongolia.png
+ |#default = Mongolia location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Монголия}}
+
+</noinclude>
