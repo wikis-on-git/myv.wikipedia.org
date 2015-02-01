@@ -1,0 +1,510 @@
+{{Documentation subpage}}
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+{{Music infobox header}}
+'''{{Tl|Infobox musical artist}}''' is the standard infobox for [[musician]] articles, and is within the purview of [[Wikipedia:WikiProject Musicians|WikiProject Musicians]].
+
+This template may also be used as a module (or sub-template) of {{Tl|Ломанесь}}.
+
+See also [[Wikipedia:WikiProject Musicians/Infobox]] for more information.
+
+==Usage==
+''One of the following two'' alternatives (one for individuals, one for groups) should be placed in an article at the top of the page, before the introduction.
+
+==For articles about individuals==
+For dancers, use {{Tl|Infobox dancer}} instead.
+
+<pre style="overflow:auto; margin-left:0">
+{{Infobox musical artist
+| name                = 
+| image               = 
+| image_size          = 
+| landscape           = <!-- yes, if wide image, otherwise leave blank -->
+| alt                 = 
+| caption             = 
+| background          = **Mandatory** Use one: solo_singer, non_vocal_instrumentalist, non_performing_personnel, or temporary
+| birth_name          = 
+| native_name         = 
+| native_name_lang    = 
+| alias               = 
+| birth_date          = <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place         = 
+| origin              = 
+| death_date          = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place         = 
+| genre               = 
+| occupation          = 
+| instrument          = 
+| years_active        = <!-- YYYY–YYYY (or –present) -->
+| label               = 
+| associated_acts     = 
+| website             = <!-- {{URL|example.com}} -->
+| notable_instruments = 
+}}
+</pre>
+
+==For articles about musical groups==
+
+Some types of musical groups have their own dedicated infobox, which should be used instead: {{Tl|Infobox choir}}, {{Tl|Infobox orchestra}}, {{Tl|Infobox college marching band}}, {{Tl|Infobox school marching band}}
+
+<pre style="overflow:auto; margin-left:0">
+{{Infobox musical artist
+| name            = 
+| image           = 
+| image_size      = 
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             = 
+| caption         = 
+| background      = **Mandatory** Use one: group_or_band, classical_ensemble, or temporary
+| alias           = 
+| origin          = 
+| genre           = 
+| years_active    = <!-- {{start date|YYYY}}–{{end date|YYYY}} (or –present) -->
+| label           = 
+| associated_acts = 
+| website         = <!-- {{URL|example.com}} -->
+| current_members = 
+| past_members    = 
+}}
+</pre>
+
+==Parameters==
+* Most fields are optional and the row will simply be omitted if no data is supplied.
+* See [[Wikipedia:WikiProject Musicians|WikiProject Musicians]] for more information about this template.
+
+===name===
+The name of the group or artist ("the act") in plain text only. Logos and other graphics are to be avoided in this field in accordance with [[WP:ACCESS]], [[WP:FAIR]], and in particular [[WP:LOGO]]. This field is mandatory.
+
+===image===
+An image of the act, sufficiently clear for display at 220 pixels' width. Set to only the image name, e.g. <code>Example.png</code>, not <code>Image:Example.png</code> or <code><nowiki>[[File:Example.png|200px|abc]]</nowiki></code>.
+
+===image_size===
+The image size should only be specified if the image is smaller than 220 pixels width. Enter the width in pixels without "px", for example <code>150</code>. Size for landscape images should be 250.
+
+===landscape===
+Set to <code>yes</code> when using wide, short images.  The image height (rather than width) will be limited to 200 pixels.
+
+===alt===
+Alt text for the image, for visually impaired and other readers who cannot see the image. See [[WP:ALT]].
+
+===caption===
+Caption for the image to be displayed.
+
+<div id="background_field"><!--for compatibility with legacy anchors--></div>
+<div id="background_values"><!--for compatibility with legacy anchors--></div>
+<div id="Background color"><!--for compatibility with legacy anchors--></div>
+===background===
+The musical artist should be placed into one of seven categories by using one of the codes below in the <code>background</code> field. Each category is color-coded to provide a quick indication of the type of group/performer, e.g. solo artist, orchestra, etc. The color scheme is similar to the one used by [[Wikipedia:WikiProject Albums|WikiProject Albums]] and other projects. Please discuss additional types that need to be accounted for on the template's [[Template talk:Infobox musical artist|talk page]]. '''This field is mandatory'''.
+
+{{Infobox musical artist/doc/type|description=Description}}
+
+'''Other values (e.g. "jazz trumpeter") {{Allcaps|must not}} be used.'''
+
+Pages with invalid value in {{para|background}} can be found in  [[:Category:Infobox musical artist with missing or invalid Background field]].
+
+===birth_name===
+<span style="background:#F0E68C">This field is only relevant for individuals.</span>
+The person's name at birth
+ 
+===native_name===
+<span style="background:#F0E68C">This field is only relevant for individuals.</span>
+The artist's name in their own language
+ 
+===native_name_lang===
+<span style="background:#F0E68C">This field is only relevant for individuals.</span>
+ISO 639-2 code e.g. "fre" or "fra" for French. If more than one, use {{Tl|lang}} for {{Para|native_name}} instead
+
+===alias===
+For listing ''official'' [[stage name]]s for the act or solo artist other than the name in the {{para|name}} parameter. Also for the solo artist's [[legal name]](s), or other officially authorized names  that differ from their birth name. This field is not for nicknames such as "The Godfather of Soul" ([[James Brown]]) or "Nippy" ([[Whitney Houston]]), which are not the artists' ''official'' names.
+
+===birth_date===
+<span style="background:#F0E68C">This field is only relevant for individuals.</span>
+The artist's date of birth; it is preferable to use {{Tl|Birth date and age}} (for example <code><nowiki>{{Birth date and age|1949|12|31}}</nowiki></code>) to display current age. If the artist's age is verified, but the date is not known, then use {{tl|Birth based on age as of date}} (for example <code><nowiki>{{Birth based on age as of date|63|2012|08|30}}</nowiki></code>). For dead people, use {{Tl|Birth date}} (for example <code><nowiki>{{Birth date|1949|12|31}}</nowiki></code>). Also list the place of birth using the birth_place parameter (below).
+<pre>{{Birth date and age|Year|Month|Day}}</pre>
+
+===birth_place===
+<span style="background:#F0E68C">This field is only relevant for individuals.</span>
+The artist's place of birth. Do not add a flag icon. (see field "[[Template:Infobox musical artist/doc#origin|origin]]" below).
+<pre>[[City]], [[State/Province]], [[Country]]</pre>
+
+===origin===
+The town, city etc., from which the group or singer originated (that is, the place where the group was founded, or where individual performer started their career, should it not match the location of their birth). If the place is not known, specify at least the country. Do not add a flag icon. Omit the country if it does not differ from that specified at the field "birth_place".
+<pre>[[City]], [[State/Province]], [[Country]]</pre>
+
+===death_date===
+<span style="background:#F0E68C">This field is only relevant for individuals.</span>
+The artist's date  of death (same format as birth_date; but use {{Tl|Death date and age}}).
+
+===death_place===
+<span style="background:#F0E68C">This field is only relevant for individuals.</span>
+The artist's place of death (same format as birth_place). Do not add a flag icon. Omit the country if it does not differ from that specified at the field "birth_place".
+
+===genre===
+The genre or genres of music performed by the act. Aim for generality (e.g. <code><nowiki>[[Hip hop music|Hip hop]]</nowiki></code> rather than <code><nowiki>[[East Coast hip hop]]</nowiki></code>). Genres should be separated with a comma delimiter. Genres should be wikilinked. Use piped links where needed, for example: <nowiki>[[Pop music|Pop]], [[Rock music|rock]]</nowiki>. Note: most genres are not proper nouns and should not be capitalized. However, the first word in a list of multiple genres should be capitalized.
+
+===occupation===
+<span style="background:#f0e68c">This field is only relevant for individuals.</span>
+Roles the artist has fulfilled (e.g. musician, songwriter, producer). For artists who have participated in forms of entertainment outside of music (such as acting), these occupations can be included if notable.  Please observe sentence case and capitalise only the first letter of the first item (e.g. Musician, actor, singer-songwriter).
+
+===instrument===
+<span style="background:#F0E68C">This field is only relevant for individuals.</span>
+General class(es) of instrument(s) played by the artist, e.g. <code><nowiki>guitar</nowiki></code> or <code><nowiki>violin</nowiki></code>. Include <code><nowiki>singing</nowiki></code>, <code><nowiki>rapping</nowiki></code>, <code><nowiki>beatboxing</nowiki></code> and/or <code><nowiki>scat singing</nowiki></code> if relevant. Separate multiple entries with commas.  Instruments listed in the infobox should be limited to ''only'' those that the artist is primarily known for using. The instruments infobox parameter is '''not''' intended as a [[WP:COATRACK]] for ''every'' instrument the subject has ever used.
+
+===years_active===
+Period(s) during which the act was or has been active. Only calendar year ranges or a single calendar year should be listed; for example, do not distinguish between the period [[Paul McCartney]] was in [[the Beatles]] and his solo career. Use commas to separate non-consecutive periods, and denote ranges with an unspaced [[en dash]] (e.g. {{nowrap|1993–2004, 2005–present}}). See [[WP:DATE#Longer periods]] and [[WP:MOS#En dashes]]. For '''groups only''' use {{Tl|Start date}}.
+
+===label===
+The record label or labels to which the act has been signed, as a comma-separated list. Omit parenthetical dates; save that information for the main article. Drop the word "Records" from the end of any label's name (e.g. use <code><nowiki>[[Universal Records|Universal]]</nowiki></code> rather than <code><nowiki>[[Universal Records]]</nowiki></code>.) Separate multiple entries with commas. Start with the oldest first.
+
+===associated_acts===
+This field is for professional relationships with other musicians or bands that are significant and notable to this artist's career.
+
+This field can include, for example, any of the following:
+* For individuals: groups of which he or she has been a member
+* Other acts with which this act has collaborated on multiple occasions, or on an album, or toured with as a single collaboration act playing together
+* Groups which have spun off from this group
+* A group from which this group has spun off
+
+Separate multiple entries with commas.
+
+The following uses of this field should be avoided:
+* Association of groups with members' solo careers
+* Groups with only one member in common
+* Association of producers, managers, etc. (who are themselves acts) with other acts (unless the act essentially belongs to the producer, as in the case of a studio orchestra formed by and working exclusively with a producer)
+* One-time collaboration for a single, or on a single song
+* Groups that are merely similar
+
+===website===
+The ''single'' web address for the act's primary ''official'' website. Use {{Tl|URL}} as <nowiki>{{URL|example.com}}</nowiki>.
+
+===current_members===
+<span style="background:{{Infobox musical artist/color|group_or_band}}">This field is only relevant for active groups.</span>
+Current members of the group, listed in order of joining with no other notation than names. For multiple members joining concurrently (such as the formation of the band), list them according to alphabetical order. Separate multiple entries using [[Help:list|<nowiki>*</nowiki> list markup]]. For example,
+<pre style="overflow:auto">
+| current_members =
+* Member 1
+* Member 2
+* Member 3
+</pre>
+
+===past_members===
+<span style="background:{{Infobox musical artist/color|group_or_band}}">This field is only relevant for groups.</span>
+Past members of the group, listed in order of joining with no other notation than names. If a group is inactive, all members should be listed here, and none in the "current_members" field. If membership of the group has varied over time, it should not be noted here, but may be discussed in the article body.  Separate multiple entries using [[Help:list|<nowiki>*</nowiki> list markup]]. For example,
+<pre style="overflow:auto">
+| past_members =
+* Member 1
+* Member 2
+* Member 3
+</pre>
+
+===notable_instruments===
+<span style="background:#f0e68c">This field is only relevant for individuals.</span>
+''Particularly'' noteworthy models or custom musical instruments with which the artist is strongly associated (e.g. Jimi Hendrix's [[Fender Stratocaster]] and [[Gibson Flying V]] guitars or Tori Amos's [[Bösendorfer]] piano). Separate multiple entries with commas.
+
+==Examples==
+{|border="0" cellspacing="0" cellpadding="0" align= style="background:transparent;"
+|-
+|-style="vertical-align:top"
+| <span id="mariah"></span>
+{{Infobox musical artist
+| name            = Mariah Carey
+| image           = Mariah Carey13 Edwards  Dec 1998.jpg
+| alt             = Young woman singing into a hand mike with her eyes closed and a big smile
+| caption         = Mariah Carey performing in 1998
+| background      = solo_singer
+| birth_name      = Mariah Carey
+| birth_date      = {{Birth date and age|1970|3|27}}
+| birth_place     = [[Huntington, New York]]
+| origin          = [[New York City]]
+| genre           = [[pop music|Pop]], [[contemporary R&B|R&B]], [[dance-pop]]
+| associated_acts = 
+| occupation      = Singer, songwriter, record producer, music video director, actress
+| years_active    = 1990–present
+| label           = [[Columbia Records|Columbia]], [[Virgin Records|Virgin]], [[MonarC]]/[[Island Records|Island]]
+| website         = {{URL|mariahcarey.com}}
+}}
+| <span id="audioslave"></span>
+{{Infobox musical artist
+| name            = Audioslave
+| image           = Audioslave_2005.jpg
+| image_size      = 250
+| landscape       = yes
+| alt             = Four-man rock group performing on stage, spotlit, with row of darkened fans in the foreground
+| caption         = From left to right: [[Tim Commerford]], [[Chris Cornell]], [[Brad Wilk]] and [[Tom Morello]], performing at the [[Montreux Jazz Festival]], 2005.
+| background      = group_or_band
+| origin          = [[Los Angeles]], California, United States
+| genre           = [[Hard rock]], [[alternative rock]], [[post-grunge]]
+| years_active    = {{Start date|2001}}–2007
+| label           = [[Epic Records|Epic]], [[Interscope Records|Interscope]]
+| associated_acts = [[Soundgarden]], [[Rage Against the Machine]], [[Temple of the Dog]], [[The Nightwatchman]]
+| website         = {{URL|www.audioslave.com}}
+| current_members = 
+| past_members    = 
+* [[Chris Cornell]]
+* [[Tom Morello]]
+* [[Tim Commerford]]
+* [[Brad Wilk]]
+}}
+|}
+
+===For individual musicians===
+:''The following template code produced the infobox [[#mariah|above]].''
+
+<pre style="overflow:auto; margin-left:0">
+{{Infobox musical artist
+| name            = Mariah Carey
+| image           = Mariah Carey13 Edwards  Dec 1998.jpg
+| alt             = Young woman singing into a hand mike with her eyes closed and a big smile
+| caption         = Mariah Carey performing in 1998
+| background      = solo_singer
+| birth_name      = Mariah Carey
+| birth_date      = {{Birth date and age|1970|3|27}}
+| birth_place     = [[Huntington, New York]]
+| origin          = [[New York City]]
+| genre           = [[pop music|Pop]], [[contemporary R&B|R&B]], [[dance-pop]]
+| associated_acts = 
+| occupation      = Singer, songwriter, record producer, music video director, actress
+| years_active    = 1990–present
+| label           = [[Columbia Records|Columbia]], [[Virgin Records|Virgin]], [[MonarC]]/[[Island Records|Island]]
+| website         = {{URL|mariahcarey.com}}
+}}</pre>
+
+===For groups or bands===
+:''The following template code produced the infobox [[#audioslave|above]].''
+<pre style="overflow:auto; margin-left:0">
+{{Infobox musical artist
+| name            = Audioslave
+| image           = Audioslave_2005.jpg
+| landscape       = yes
+| alt             = Four-man rock group performing on stage, spotlit, with row of darkened fans in the foreground
+| caption         = From left to right: [[Tim Commerford]], [[Chris Cornell]], [[Brad Wilk]] and [[Tom Morello]], performing at the [[Montreux Jazz Festival]], 2005.
+| background      = group_or_band
+| origin          = [[Los Angeles]], California, United States
+| genre           = [[Hard rock]], [[alternative rock]], [[post-grunge]]
+| years_active    = {{Start date|2001}}–2007
+| label           = [[Epic Records|Epic]], [[Interscope Records|Interscope]]
+| associated_acts = [[Rage Against the Machine]]
+| website         = {{URL|www.audioslave.com}}
+| current_members = 
+| past_members    = 
+* [[Chris Cornell]]
+* [[Tom Morello]]
+* [[Tim Commerford]]
+* [[Brad Wilk]]
+}}</pre>
+
+Examples of the template in use can be found at:
+* [[Elvis Presley]]
+* [[Madonna (entertainer)|Madonna]]
+* [[Sly and the Family Stone]]
+
+==Microformat==
+{{UF-hcard-person}}
+
+The determination between <code>class="fn"</code> (for individuals) and <code>class="fn org"</code> (for groups) and is made by {{Tl|Infobox musical artist/hCard class}}.
+
+==TemplateData==
+{{TemplateDataHeader}}
+
+<templatedata>
+{
+    "description": "An infobox for musical artists/groups.",
+    "params": {
+        "name": {
+            "label": "Name",
+            "description": "Name of group/artist, plain text only.",
+            "type": "string",
+            "aliases": ["Name"], 
+            "default": "The page name",
+            "required": false
+        },
+        "background": {
+            "label": "Background",
+            "description": "Must be specified, sets to color used. Must be one of 'solo_singer', 'non_vocal_instrumentalist', 'non_performing_personnel', 'group_or_band', 'classical_ensemble', or 'temporary' (for temporary collaborative projects).",
+            "type": "string",
+            "aliases": ["Background"],
+            "required": true
+        },
+        "image": {
+            "label": "Image",
+            "description": "Image to use in infobox Set to only the image name e.g. 'ABBA - TopPop 1974 5.png'.",
+            "type": "string",
+            "aliases": ["Img"],
+            "required": false
+        },
+        "landscape": {
+            "label": "Landscape",
+            "description": "Set to yes when using wide, short images.",
+            "type": "string",
+            "aliases": ["Landscape"],
+            "required": false
+        },
+        "image_size": {
+            "label": "Image size",
+            "description": "Should only be specified if the image is smaller than 220 pixels width. Enter the width in pixels without 'px', for example '150'. Size for landscape images should be 250.",
+            "type": "string",
+            "aliases": ["Img_size"],
+            "required": false
+        },
+        "alt": {
+            "label": "Image alt text",
+            "description": "Alt text for the image, for visually impaired and other readers who cannot see the image.",
+            "type": "string",
+            "aliases": ["Img_alt"],
+            "required": false
+        },
+        "caption": {
+            "label": "Image caption",
+            "description": "Caption for the image.",
+            "type": "string",
+            "aliases": ["Img_capt"],
+            "required": false
+        },
+        "native_name": {
+            "label": "Native name",
+            "description": "The artist's name in their own language.",
+            "type": "string",
+            "required": false
+        },
+        "native_name_lang": {
+            "label": "Native name (language)",
+            "description": "ISO 639-2 code e.g. 'fr' or 'fra' for French. If more than one, use {{lang}} for native_name instead",
+            "type": "string",
+            "required": false
+        },
+        "birth_name": {
+            "label": "Birth name",
+            "description": "The person's name at birth.",
+            "type": "string",
+            "aliases": ["Birth_name"],
+            "required": false
+        },
+        "alias": {
+            "label": "Alias",
+            "description": "Official stage names, legal names, or other officially authorized names. Not for nicknames.",
+            "type": "string",
+            "aliases": ["Alias"],
+            "required": false
+        },
+        "birth_date": {
+            "label": "Birth date",
+            "description": "The artist's date of birth; it is preferable to use {{Birth date and age}} e.g. '{{Birth date and age|1949|12|31}}'.",
+            "type": "string",
+            "required": false
+        },
+        "birth_place": {
+            "label": "Birth place",
+            "description": "The artist's place of birth. e.g. '[[Lubbock, Texas]], U.S.'.",
+            "type": "string",
+            "required": false
+        },
+        "origin": {
+            "label": "Origin",
+            "description": "The city from which the singer or group originated. e.g. '[[Aston]], [[Birmingham]], England'",
+            "type": "string",
+            "aliases": ["Origin"],
+            "required": false
+        },
+        "death_date": {
+            "label": "Death date",
+            "description": "The artist's date of death use {{Death date and age}}",
+            "type": "string",
+            "required": false
+        },
+        "death_place": {
+            "label": "Death place",
+            "description": "Place of death.",
+            "type": "string",
+            "required": false
+        },
+        "genre": {
+            "label": "Genre",
+            "description": "The genre or genres of music performed by the act. Genres should be wikilinked and separated with a comma delimiter. e.g. '[[Pop music|Pop]], [[Rock music|rock]]'.",
+            "type": "string",
+            "aliases": ["Genre"],
+            "required": false
+        },
+        "occupation": {
+            "label": "Occupation",
+            "description": "Roles the artist has fulfilled (e.g. musician, songwriter, producer, etc). For artists who have participated in forms of entertainment outside of music (such as acting), these occupations can be included if notable.",
+            "type": "string",
+            "aliases": ["Occupation"],
+            "required": false
+        },
+        "instrument": {
+            "label": "Instrument",
+            "description": "General classes of instruments played by the artist, e.g. guitar or violin. Include singing, rapping, beatboxing and/or scat singing if relevant. Separate multiple entries with commas. Instruments listed in the infobox should be limited to only those that the artist is primarily known for using.",
+            "type": "string",
+            "aliases": ["Instrument"],
+            "required": false
+        },
+        "years_active": {
+            "label": "Years active",
+            "description": "Years artist/group was active e.g. '1993–2004, 2005–present'.",
+            "type": "string",
+            "aliases": ["Years_active","yearsactive"],
+            "required": false
+        },
+        "label": {
+            "label": "Record label",
+            "description": "The record label or labels to which the act has been signed, as a comma-separated list. Omit dates. e.g. '[[Universal Records|Universal]]'.",
+            "type": "string",
+            "aliases": ["Label"],
+            "required": false
+        },
+        "associated_acts": {
+            "label": "Associated acts",
+            "description": "Professional relationships with other musicians or bands that are significant and notable to this artist's career.",
+            "type": "string",
+            "aliases": ["Associated_acts"],
+            "required": false
+        },
+        "website": {
+            "label": "Website",
+            "description": "The single web address for the act's primary official website. e.g. '{{url|blacksabbath.com}}'.",
+            "type": "string",
+            "aliases": ["URL","url"],
+            "required": false
+        },
+        "current_members": {
+            "label": "Current members",
+            "description": "Name of current members of the group, listed in order of joining. Separate multiple entries using * list markup, one per line.",
+            "type": "string",
+            "aliases": ["Current_members"],
+            "required": false
+        },
+        "past_members": {
+            "label": "Past members",
+            "description": "Past members of the group, listed in order of joining. Separate multiple entries using * list markup, one per line. If a group is inactive, all members should be listed here, and none in the 'current_members' field.",
+            "type": "string",
+            "aliases": ["Past_members"],
+            "required": false
+        },
+        "notable_instruments": {
+            "label": "Notable instruments",
+            "description": "Particularly noteworthy models or custom musical instruments with which the artist is strongly associated. e.g. Jimi Hendrix's Fender Stratocaster and Gibson Flying V.",
+            "type": "string",
+            "aliases": ["Notable_instruments"],
+            "required": false
+        },
+        "embed": {
+            "label": "Embedded",
+            "description": "Set to 'yes' if embedded in another infobox template.",
+            "type": "string",
+            "required": true
+        },
+        "pronunciation": {
+            "label": "Pronunciation",
+            "description": "",
+            "type": "string",
+            "deprecated": "true",
+            "required": false
+        }
+    }
+}
+</templatedata>
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+{{Basepage subpage|
+
+}}
+</includeonly>
