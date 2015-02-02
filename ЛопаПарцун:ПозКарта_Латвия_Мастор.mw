@@ -1,0 +1,15 @@
+{{#switch:{{{1}}}
+|name   = Латвия Мастор
+| top    = 58.5
+| bottom = 55.5
+| left   = 20.5
+| right  = 28.6
+| image  = {{#switch:{{{2|}}}
+ |physical = Relief Map of Latvia.jpg
+ |#default = Latvia location map.svg
+ |hydro = Latvijas upes relief location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Латвия}}
+
+
+</noinclude>
