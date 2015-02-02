@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+|name   = Словения Мастор
+| top    = 47.1
+| bottom = 45.2
+| left   = 13.2
+| right  = 16.8
+| image  = {{#switch:{{{2|}}}
+ |physical = Slovenia relief map.png
+ |#default = Slovenia location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Словения}}
+</noinclude>
