@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+|name   = Франция Мастор
+| top    = 51.6
+| bottom = 41.0
+| left   = -5.3
+| right  = 10.2
+|image = {{#switch:{{{2|}}}
+ |physical = France relief location map.jpg
+ |#default = France location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Франция}}
+</noinclude>
