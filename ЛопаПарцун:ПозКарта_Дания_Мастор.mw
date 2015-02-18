@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name   = Дания Мастор
+| top    = 57.9
+| bottom = 54.3
+| left   = 7.8
+| right  = 15.4
+|image = {{#switch:{{{2|}}}
+ |physical = Denmark physical map.svg
+ |#default = Denmark location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Дания}}
+
+</noinclude>
