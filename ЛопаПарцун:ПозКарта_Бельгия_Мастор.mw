@@ -1,0 +1,17 @@
+{{#switch:{{{1}}}
+|name = Бельгия Мастор
+| top    = 51.8
+| bottom = 49.2
+| left   = 2.2
+| right  = 6.9
+|image={{#switch: {{{2|}}}
+|physical=Belgium relief location map.jpg
+|#default=Belgium location map.svg
+}}
+|areas = {{#switch:{{{2|}}}
+ |physical = {{Шаблон:ПозКарта Бельгия/adm}}
+ |#default = {{Шаблон:ПозКарта Бельгия/adm}}
+}}
+}}<noinclude>{{ПозКарта/Инфо|Бельгия}}
+
+</noinclude>
