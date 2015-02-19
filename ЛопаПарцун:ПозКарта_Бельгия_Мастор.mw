@@ -9,8 +9,8 @@
 |#default=Belgium location map.svg
 }}
 |areas = {{#switch:{{{2|}}}
- |physical = {{ЛопаПарцун:ПозКарта Бельгия Мастор/adm}}
- |#default = {{ЛопаПарцун:ПозКарта Бельгия Мастор/adm}}
+ |physical = {{ПозКарта Бельгия Мастор/adm}}
+ |#default = {{ПозКарта Бельгия Мастор/adm}}
 }}
 }}<noinclude>{{ПозКарта/Инфо|Бельгия}}
 
