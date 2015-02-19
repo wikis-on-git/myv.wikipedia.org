@@ -8,10 +8,10 @@
 |physical=Belgium relief location map.jpg
 |#default=Belgium location map.svg
 }}
+
+}}<noinclude>{{ПозКарта/Инфо|Бельгия Мастор}}
 |areas = {{#switch:{{{2|}}}
  |physical = [[ЛопаПарцун:ПозКарта_Бельгия_Мастор/adm]]
  |#default = [[ЛопаПарцун:ПозКарта_Бельгия_Мастор/adm]]
 }}
-}}<noinclude>{{ПозКарта/Инфо|Бельгия Мастор}}
-
 </noinclude>
