@@ -1,0 +1,17 @@
+{{#switch:{{{1}}}
+|name   = Швейцария Мастор
+|top = 47.9
+|bottom = 45.75
+|left = 5.8
+|right = 10.7
+|image = {{#switch:{{{2|}}}
+ |physical = Switzerland relief location map.jpg
+ |#default = Switzerland location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Швейцария}}
+ 	
+=== Альтернативная карта ===
+<gallery>
+File:Switzerland (no subdivisions) location map.svg|Версия без границ кантонов
+</gallery>
+</noinclude>
