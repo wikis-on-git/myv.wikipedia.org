@@ -1,0 +1,14 @@
+<includeonly><div class="infobox noprint" style="width: 250px;">
+[[{{#ifexist:Media:{{А-)Б|{{{лого|}}}|Wikipedia-logo-v2-{{{1}}}.svg}}|<!--
+ →→ Есть ли эти файлы? Нет → шарик вперёд
+-->File:{{А-)Б|{{{лого|}}}|Wikipedia-logo-v2-{{{1}}}.svg}}|<!--
+ →→ Если есть, то лого вперёд
+-->File:Wikipedia-logo-v2.svg}}|60px|left|Логотип «Википедии»|link=]]
+<p style="text-align: center">
+"Википедиясонть" ули явтпелькс<br />
+'''''[[:{{{1}}}:|{{{3}}} кельсэ {{{4|}}}]]'''''<br />
+'''[[:{{{1}}}:{{{2}}}|«{{{2}}}»]]''' {{{примечание|}}}
+</p>
+</div></includeonly><noinclude>{{doc}}<!--
+Интервики и категории пишите в документацию!
+--></noinclude>
