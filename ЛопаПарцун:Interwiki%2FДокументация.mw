@@ -15,9 +15,9 @@
 # по умолчанию — шар, но если нет для раздела.
 
 == Примеры: ==
-<code><nowiki>{{interwiki|ja|メインページ|японском|}}</nowiki></code>
+<code><nowiki>{{interwiki|ja|メインページ|япононь|}}</nowiki></code>
 даёт:
-{{interwiki|ja|メインページ|японском|}}
+{{interwiki|ja|メインページ|япононь|}}
 <br clear=all/>
 <code><nowiki>{{interwiki|eo|Ĉefpaĝo||эсперанто}}</nowiki></code>
 даёт:
