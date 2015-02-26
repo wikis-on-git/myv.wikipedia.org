@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name   = Чехия Мастор
+| top    = 51.3
+| bottom = 48.3
+| left   = 11.8
+| right  = 19.2
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Czech Republic.png
+ |#default = Czech Republic location map.svg
+}}
+}}<noinclude>
+{{ПозКарта/Инфо|Чехия}}
+</noinclude>
