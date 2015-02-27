@@ -1,0 +1,9 @@
+{{#switch:{{{1}}}
+|name=АВШ
+|type = custom
+|image = {{#switch:{{{2|}}}
+ |physical = Usa_edcp_relief_location_map.png
+ |#default = Usa_edcp_location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо}}
+</noinclude>
