@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name   = Словакия Мастор
+|top    = 49.8
+|bottom = 47.6
+|left   = 16.6
+|right  = 23.0
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Slovakia 2.png
+ |#default = Slovakia location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Словакия}}
+
+</noinclude>
