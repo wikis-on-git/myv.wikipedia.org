@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name   = Сербия Мастор
+|top    = 46.3
+|bottom = 41.7
+|left   = 18.7
+|right  = 23.2
+|image = {{#switch:{{{2|}}}
+ |physical = Relief map of Serbia.png
+ |#default = Serbia location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Сербия}}
+
+</noinclude>
