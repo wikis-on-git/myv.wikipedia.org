@@ -4,7 +4,7 @@
  {{!}} align="center" colspan="2" {{!}}
 {{{!}} border="0" cellpadding="0" cellspacing="0" style="background-color:#f9f9f9;"
  {{!}}-
- {{!}} style="text-align:center; vertical-align:middle; width:150px" {{!}} {{if-wikidata|p41|{{{Коцт|}}}| {{wikidata/image|p41|{{{Коцт|}}}|border=true|size={{{размер флага|135px}}}}} | {{Коцт|{{FULLPAGENAME}}|размер=135px}} }}
+ {{!}} style="text-align:center; vertical-align:middle; width:150px" {{!}} {{if-wikidata|p41|{{{Флаг|}}}| {{wikidata/image|p41|{{{Флаг|}}}|border=true|size={{{размер флага|135px}}}}} | {{Флаг|{{FULLPAGENAME}}|размер=135px}} }}
  {{!}} style="text-align:center; vertical-align:middle; width:150px" {{!}} {{if-wikidata|p94|{{{Герб|}}}| {{wikidata/image|p94|{{{Герб|}}}|size={{{размер герба|100px}}}|alt={{#if: {{{Вместо герба|}}} | {{{Вместо герба}}} {{{Родительный падеж}}} | {{{Родительный падеж}}} герб}}}}|[[File:Sin_escudo.svg|{{{размер герба|100px}}}|{{#if: {{{Вместо герба|}}} | {{{Вместо герба}}} {{{Родительный падеж}}} | {{{Родительный падеж}}} герб}}]]}}
  {{!}}-
  {{!}} align="center" width="150" {{!}} [[{{{Родительный падеж}}} коцтось|Коцт]]
