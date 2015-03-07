@@ -1,0 +1,16 @@
+{{#switch:{{{1}}}
+|name   = Люксембург Мастор
+|top    = 50.25
+|bottom = 49.4
+|left   = 5.65
+|right  = 6.6
+|image={{#switch: {{{2|}}}
+|physical=Luxembourg relief location map.jpg
+|#default=Luxembourg location map.svg
+}}
+|areas = {{#switch:{{{2|}}}
+ |physical = {{ЛопаПарцун:ПозКарта Люксембург Мастор/adm}}
+ |#default = {{ЛопаПарцун:ПозКарта Люксембург Мастор/adm}}
+}}
+}}<noinclude>{{ПозКарта/Инфо|Люксембург}}
+</noinclude>
