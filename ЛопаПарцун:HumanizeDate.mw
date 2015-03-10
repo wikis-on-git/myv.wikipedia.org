@@ -1,0 +1,24 @@
+<includeonly>{{#iferror: {{#ifexpr: {{Str left | {{{date|{{{1}}}}}} | 4 }} > 999 and {{Str left | {{{date|{{{1}}}}}} | 4 }} < 10000 <!-- является ли год четырёхзначным числом -->
+  | {{Str ≠ len | {{{date|{{{1}}}}}} | 7 <!-- проверка, не подходит ли дата под формат ГГГГ-ММ -->
+    | {{Str ≠ len | {{{date|{{{1}}}}}} | 10 <!-- проверка, не подходит ли дата под формат ГГГГ-ММ-ДД -->
+      | {{{date|{{{1}}}}}}
+      | {{#iferror: {{ #expr: {{{ date | {{{1}}} }}} }} {{#time: j | {{{ date | {{{1}}} }}} }} {{#time: m | {{{ date | {{{1}}} }}} }} {{#time: Y | {{{ date | {{{1}}} }}} }}
+        | {{{date|{{{1}}}}}}
+        | {{TranslateDate|{{#time:Y| {{{ date | {{{1}}} }}} }}|{{#time:m| {{{ date | {{{1}}} }}} }}|{{#time:j| {{{ date | {{{1}}} }}} }}| lang = {{{lang|{{{2|}}} }}} }}
+        }}
+      }}
+    | {{#iferror: {{ #expr: {{{ date | {{{1}}} }}} }} {{#time: m | {{{ date | {{{1}}} }}} }} {{#time: Y | {{{ date | {{{1}}} }}} }}
+      | {{{date|{{{1}}}}}}
+      | {{TranslateDate|{{#time: Y | {{{ date | {{{1}}} }}} }}|{{#time: m | {{{ date | {{{1}}} }}} }}| lang = {{{lang|{{{2|}}} }}} }}
+      }}
+    }}
+  | {{{date|{{{1}}}}}}
+  }}
+| {{{date|{{{1}}}}}}
+}}</includeonly><noinclude>
+{{doc}}
+<!--
+Русский: Добавляйте категории и интервики на подстраницу /doc, не сюда!
+English: Please add categories and interwiki links to the /doc subpage, not here!
+-->
+</noinclude>
