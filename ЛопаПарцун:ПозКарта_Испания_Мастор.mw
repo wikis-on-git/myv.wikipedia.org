@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+|name   = Испания Мастор
+| top    = 44.4
+| bottom = 34.7
+| left   = -9.9
+| right  = 4.8
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Spain.png
+ |#default = Spain location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Испания}}
+</noinclude>
