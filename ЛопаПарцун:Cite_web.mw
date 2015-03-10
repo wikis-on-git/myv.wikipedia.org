@@ -1,0 +1,74 @@
+<includeonly><span class="citation" {{#if:{{{ref|}}}|id="{{anchorencode:CITEREF{{{ref}}}}}"}}>{{#if: {{{1|}}}
+  | {{color|red|2=Все параметры шаблона {{tl|cite web}} должны иметь имя.}}&#32;{{Категория только в статьях|Википедия:Страницы с некорректным использованием шаблонов:Cite web}}}}<!--
+-->{{#if: {{{title|}}}
+  || {{color|red|Необходимо задать параметр}} '''title=''' {{color|red|в шаблоне {{tl|cite web}}.}}&#32;{{Категория только в статьях|Википедия:Страницы с некорректным использованием шаблонов:Cite web}}}}<!--
+-->{{#if: {{{url|}}}
+  || {{color|red|Необходимо задать параметр}} '''url=''' {{color|red|в шаблоне {{tl|cite web}}.}}&#32;{{Категория только в статьях|Википедия:Страницы с некорректным использованием шаблонов:Cite web}}}}<!--
+-->{{#if: {{{archiveurl|}}}{{{archivedate|}}}
+  | {{#if: {{#if: {{{archiveurl|}}}| {{#if: {{{archivedate|}}} |1}} }}
+    || {{color|red|Если в шаблоне {{tl|cite web}} задаётся параметр}} '''archiveurl='''{{color|red|, должен задаваться и параметр}} '''archivedate='''{{color|red|, и наоборот.}}&#32;{{Категория только в статьях|Википедия:Страницы с некорректным использованием шаблонов:Cite web}}}}}}{{#if: {{{author|}}}{{{last|}}}
+  | ''
+}}{{#if: {{{author|}}}{{{last|}}}
+  | {{#if: {{{authorlink|}}}
+    | [[{{{authorlink}}}|{{#if: {{{last|}}}
+      | {{{last}}}{{#if: {{{first|}}} | , {{{first}}} }}
+      | {{#if: {{{coauthors|}}}|{{{author}}}|{{#invoke:String|replace|source={{{author}}}|pattern=^(%[*)(.-[^%.%]])(%]*)$|replace=%1%2%3.|plain=false}}}} <!-- добавление точки если её нет с учётом ссылки -->
+    }}]]
+    | {{#if: {{{last|}}}
+      | {{{last}}}{{#if: {{{first|}}} | , {{{first}}} }}
+      | {{#if: {{{coauthors|}}}|{{{author}}}|{{#invoke:String|replace|source={{{author}}}|pattern=^(%[*)(.-[^%.%]])(%]*)$|replace=%1%2%3.|plain=false}}}} <!-- добавление точки если её нет с учётом ссылки -->
+    }}
+  }}
+}}{{#if: {{{author|}}}{{{last|}}}
+  | {{#if: {{{coauthors|}}}| <nowiki>;</nowiki>&#32;{{#invoke:String|replace|source={{{coauthors}}}|pattern=^(.-)%.?$|replace=%1.|plain=false}}}} 
+}}{{#if: {{{author|}}}{{{last|}}}
+  | ''&#32;
+}}{{#if: {{{editor|}}}
+  | {{{editor}}}:&#32;
+}}{{#if: {{{archiveurl|}}}
+  | {{#if: {{{title|}}} | [{{{url}}} {{{title}}}] {{#if:{{{subtitle|}}}|<small>{{{subtitle|}}}</small>}} }}
+  | {{#if: {{{url|}}} | {{#if: {{{title|}}} | [{{{url}}} {{{title}}}] {{#if: {{{subtitle|}}} | <small>{{{subtitle|}}}</small>}} }} }}
+}}{{#if: {{{lang|}}}{{{language|}}}
+  | {{#ifexist: ЛопаПарцун:ref-{{{lang|{{{language}}}}}}
+    | {{ref-{{{lang|{{{language}}}}}} }}
+    | &#32;({{{lang|{{{language}}}}}})
+  }}
+}}{{#if: {{{format|}}}
+  | &#32;({{{format}}})
+}}{{#if: {{{work|}}}
+  | .&#32;''{{{work}}}''
+}}{{#if: {{{pages|}}}
+  | &#32;{{{pages}}}
+}}{{#switch:{{{deadlink|}}}|=|none={{deadlink}}|{{deadlink|url={{{url}}}}}
+}}{{#if: {{{publisher|}}}
+  | .&#32;{{#if: {{{location|}}}
+    | {{{location}}}:&#32;
+  }} {{{publisher}}}
+
+}}{{#if: {{{date|}}}{{{datepublished|}}}
+  | &#32;({{HumanizeDate|{{{date|{{{datepublished|}}}}}}|{{{lang|{{{language}}}}}}}})
+  | {{#if: {{{year|}}}
+	| {{#if: {{{month|}}}
+	  | &#32;({{{month}}} {{{year}}})
+	  | &#32;({{{year}}})
+	}}
+  }}
+}}.{{#if: {{{doi|}}}
+  | &#32;[[Идентификатор цифрового объекта|doi]]:[http://dx.doi.org/{{{doi|{{{doilabel|}}}}}} {{{doi}}}].
+}}{{#if: {{{description|}}}
+  | &nbsp;— {{{description}}}.
+}}{{#if: {{{quote|}}}
+  | &nbsp;— «{{{quote}}}»{{#if: {{{archivedate|}}}{{{accessdate|}}}{{{accessmonthday|}}}{{{accessdaymonth|}}}
+    | &nbsp;
+  }}
+}}{{#if: {{{accessdate|}}}
+  | &#32;<small>Проверено {{#iferror: {{#time: j xg Y | {{{accessdate}}} {{{accessyear|}}} }} | {{{accessdate}}}{{#if: {{{accessyear|}}} | &#32;{{{accessyear}}} }} }}.</small>
+}}{{#if: {{{accessmonthday|}}}
+  | &#32;<small>Проверено {{#iferror: {{#time: j xg Y | {{{accessmonthday}}} {{{accessyear|}}} }} | {{{accessmonthday}}}{{#if: {{{accessyear|}}} | &#32;{{{accessyear}}} }} }}.</small>
+}}{{#if: {{{accessdaymonth|}}}
+  | &#32;<small>Проверено {{#iferror: {{#time: j xg Y | {{{accessdaymonth}}} {{{accessyear|}}} }} | {{{accessdaymonth}}}{{#if: {{{accessyear|}}} | &#32;{{{accessyear}}} }} }}.</small>
+}}{{#if: {{{archivedate|}}}
+  | &#32;<small>[{{{archiveurl}}} Архивировано из первоисточника {{#iferror: {{#time: j xg Y | {{{archivedate}}} }} | {{{archivedate}}} }}].</small>
+}}</span></includeonly><noinclude>
+{{doc}}<!-- категории и интервики должны добавляться на страницу документации -->
+</noinclude>
