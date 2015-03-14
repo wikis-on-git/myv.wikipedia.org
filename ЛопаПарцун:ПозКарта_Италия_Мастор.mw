@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+|name = Италия Мастор
+| top    = 47.3909
+| bottom = 35.2983
+| left   = 6.2127
+| right  = 18.9789
+|image = {{#switch:{{{2|}}}
+ |physical = Italy relief location map.jpg
+ |#default = Italy location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Италия}}
+</noinclude>
