@@ -1,0 +1,11 @@
+{{#switch:{{{1}}}
+|name = Монако Мастор
+| top    = 43.7527
+| bottom = 43.7222
+| left   = 7.4078
+| right  = 7.4407
+| image  = Monaco location map.svg
+}}<noinclude>
+{{ПозКарта/Инфо|Монако}}
+[[Категория:Шаблоны:Позиционные карты:Монако]]
+</noinclude>
