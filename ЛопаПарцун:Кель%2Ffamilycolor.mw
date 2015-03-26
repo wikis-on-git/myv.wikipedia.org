@@ -1,0 +1,110 @@
+<includeonly>{{#switch: {{{1}}}
+| Afro-Asiatic = yellow
+| афразийские
+| афразийская      = yellow
+| ЯР
+| алтайская
+| алтайские
+| Altaic           = yellowgreen
+| American
+| америндские
+| индейские  
+| на-дене
+| Na-Dené
+| североамериканские
+| СА                 = lightblue
+| южноамериканские
+| ЮА               = deepskyblue
+| австралийская
+| австралийские
+| Australian       = <nowiki>#eba9ee</nowiki>
+| Austroasiatic
+| Austro-Asiatic
+| австроазиатские
+| АА
+| австроазиатская
+| аустроазиатская
+| аустроазиатские  = lightcoral
+| Austronesian
+| австронезийские
+| АН
+| австронезийская  = pink
+| Caucasian
+| кавказские
+| кав              = lightgreen
+| Conlang
+| искусственные
+| иск
+| conlang
+| constructed
+| constructed language = black
+| Creole
+| creole
+| креол
+| креольские
+| Pidgin
+| пиджин
+| пиджины
+| Mixed
+| смешанные        = tan
+| Dravidian
+| дравидийские
+| дравидийская
+| драв             = mediumspringgreen
+| Eskimo-Aleut
+| эскимосско-алеутские
+| ЭА
+| эскимосско-алеутская = lightcyan
+| Hmong-Mien
+| мяо-яо
+| МЯ               = <nowiki>#ff0033</nowiki>
+| Indo-European
+| индоевропейские
+| индоевропейская
+| ИЕ               = <nowiki>#ccff99</nowiki>
+| изолят
+| изолированные
+| isolate
+| language isolate
+| Isolate          = <nowiki>#dddddd</nowiki>
+| Khoisan
+| койсанские       = goldenrod
+| Niger-Congo
+| НК
+| нигеро-конголезские
+| нигеро-конголезская
+| нигеро-кордофанские
+| нигер-конго         = orange
+| НС
+| Nilo-Saharan
+| нило-сахарская
+| нило-сахарские   = gold
+| Palaeosiberian
+| Palaeo-Siberian
+| ПА
+| палеоазиатские
+| андаманские
+| Paleosiberian
+| Paleo-Siberian
+| Paleo-siberian   = darkseagreen
+| Papuan
+| папуасские       = <nowiki>#fd79da</nowiki>
+| Sign
+| жестовый
+| жестовые
+| sign language    = silver
+| Sino-Tibetan
+| СТ
+| сино-тибетская
+| сино-тибетские   = tomato
+| Tai-Kadai
+| ТК
+| тай-кадайская
+| тай-кадайские    = lavender
+| ур
+| уральская
+| уральские
+| Uralic           = limegreen
+| обычный          = white
+|                    white
+}}</includeonly>
