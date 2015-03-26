@@ -11,8 +11,8 @@
  |описание флага          = 
  |ширина герба            = 100
  |ширина флага            = 100
-  |lat_dir = |lat_deg = |lat_min = |lat_sec = 0
-  |lon_dir = |lon_deg = |lon_min = |lon_sec = 0
+  |lat_dir = |lat_deg = 47|lat_min = 00|lat_sec = 20
+  |lon_dir = |lon_deg = 28|lon_min = 51|lon_sec = 27
   |CoordAddon             = 
   |CoordScale             = 
  |размер карты страны     = 300
