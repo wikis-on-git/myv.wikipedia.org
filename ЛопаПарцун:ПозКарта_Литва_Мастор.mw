@@ -1,0 +1,17 @@
+{{#switch:{{{1}}}
+|name   = Литва Мастор
+| top    = 56.7
+| bottom = 53.7
+| left   = 20.4
+| right  = 27.2
+| image  = {{#switch:{{{2|}}}
+ |#default = Lithuania location map.svg
+ |physical = Relief Map of Lithuania.jpg
+}}
+| areas = {{#switch:{{{2|}}}
+ |#default = {{Шаблон:ПозКарта Литва/adm}}
+ |physical = default [[:file:Relief Map of Lithuania.jpg|Relief Map of Lithuania.jpg]]
+desc none
+}}
+}}<noinclude>{{ПозКарта/Инфо|Литва}}
+</noinclude>
