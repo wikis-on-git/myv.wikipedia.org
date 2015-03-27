@@ -9,7 +9,7 @@
  |physical = Relief Map of Lithuania.jpg
 }}
 | areas = {{#switch:{{{2|}}}
- |#default = {{Шаблон:ПозКарта Литва/adm}}
+ |#default = {{Шаблон:ПозКарта Литва Мастор/adm}}
  |physical = default [[:file:Relief Map of Lithuania.jpg|Relief Map of Lithuania.jpg]]
 desc none
 }}
