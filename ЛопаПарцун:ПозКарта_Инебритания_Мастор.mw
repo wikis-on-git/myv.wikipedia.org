@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name   = Инебритания Мастор
+| top    = 61
+| bottom = 49
+| left   = -11
+| right  = 2.2
+| image  = {{#switch:{{{2|}}}
+|physical = United Kingdom relief location map.jpg
+|#default = United Kingdom NUTS location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Инебритания}}
+
+
+</noinclude>
