@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+|name = Белорузия Мастор
+| top    = 56.4
+| bottom = 51.1
+| left   = 22.9
+| right  = 33.0
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Belarus.png
+ |#default = Belarus location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Белоруссия}}
+</noinclude>
