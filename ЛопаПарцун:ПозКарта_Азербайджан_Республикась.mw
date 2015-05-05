@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name = Азербайджан Республикась
+|top =  42.0
+|bottom =  38.2
+|left = 44.5
+|right = 51.0
+|image = {{#switch:{{{2|}}}
+ |physical = Azerbaijan relief location map.jpg
+ |#default = Azerbaijan location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Азербайджан}}
+
+
+</noinclude>
