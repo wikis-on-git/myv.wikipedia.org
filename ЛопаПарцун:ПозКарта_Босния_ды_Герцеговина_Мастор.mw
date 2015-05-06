@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+|name   = Босния ды Герцеговина
+|top    = 45.4
+|bottom = 42.4
+|left   = 15.5
+|right  = 19.9
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Bosnia and Herzegovina.svg
+ |#default = Bosnia and Herzegovina location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Босния и Герцеговина}}
+</noinclude>
