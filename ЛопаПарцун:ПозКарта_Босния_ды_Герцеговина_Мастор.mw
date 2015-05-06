@@ -1,5 +1,5 @@
 {{#switch:{{{1}}}
-|name   = Босния ды Герцеговина
+|name   = Босния ды Герцеговина Мастор
 |top    = 45.4
 |bottom = 42.4
 |left   = 15.5
@@ -8,5 +8,5 @@
  |physical = Relief Map of Bosnia and Herzegovina.svg
  |#default = Bosnia and Herzegovina location map.svg
 }}
-}}<noinclude>{{ПозКарта/Инфо|Босния и Герцеговина}}
+}}<noinclude>{{ПозКарта/Инфо|Босния ды Герцеговина Мастор}}
 </noinclude>
