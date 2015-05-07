@@ -1,0 +1,6 @@
+{{#if: {{wikidata/p373|{{{1|}}}|plain=true}} | {{#if:{{{1|}}} | [[Файл:Commons-logo.svg|{{{icon_size|15px}}}|link=commons:Category:{{{1|}}}]] '''[[commons:Category:{{{1|}}}|{{#if:{{{2|}}}|{{{2}}}|{{Сначала имя|{{PAGENAME}}}}}}]]''' [[Википурнавкс]]со | {{wikidata/p373|{{{1|}}}|icon=true|text_before='''|text={{#if:{{{2|}}}|{{{2}}}|{{Сначала имя|{{PAGENAME}}}}}}|text_after=''' [[Википурнавкс]]со|icon_size={{{icon_size|15px}}} }} }} |  }}<!--
+
+-->{{#if: {{{1|}}} | {{категория только в статьях|Википедия:Ссылка на Викисклад непосредственно в статье}} }}<noinclude>
+
+{{doc}}
+</noinclude>
