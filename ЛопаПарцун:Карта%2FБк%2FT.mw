@@ -1,0 +1,97 @@
+{{#switch: {{{2}}}
+ |T-39-I,II,III                = {{Карта/200|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm200/t-39-01_02_03.jpg||1957|0}}
+ |T-39-IV,V,VI                 = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt3940.narod.ru/map2/indext390406.html|м. Баренца|1957|0}}
+
+
+ |T-40-IV,V,VI                 = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt3940.narod.ru/map2/indext400406.html|о. Вильчека|1957|0}}
+
+ |T-40-XXXIV,XXXV,XXXVI        = {{Карта/200|{{{1}}}|{{{2}}}|http://loadmap.net/ru/m413|Южные Крестовые острова|0|0}}
+
+
+<!-- T-41-XXV,XXVI,XXVII Вода-->
+ |T-41-XXVIII,XXIX,XXX         = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4142.narod.ru/map2/indext412830.html|геопункт Шабаш|0|1971}}
+ |T-41-XXXI,XXXII,XXXIII       = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4142.narod.ru/map2/indext413133.html|полярная ст. Русская Гавань|0|1971}}
+ |T-41-XXXIV,XXXV,XXXVI        = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4142.narod.ru/map2/indext413436.html|г. Мака|0|1971}}
+
+
+ |T-42-XXV,XXVI,XXVII|T-42-XXV,XXVI,XXVII,XXVIII|T-42-XXVIII,XXIX,XXX   = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4142.narod.ru/map2/indext422528.html|полярн. ст. Мыс Желания|0|1971}}
+<!-- T-42-XXIX,XXX Вода-->
+ |T-42-XXXI,XXXII,XXXIII,XXXIV = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4142.narod.ru/map2/indext423134.html|м. Константин|0|1971}}
+<!-- T-42-XXXV,XXXVI Вода-->
+
+
+ |T-43-IV,V,VI                 = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4344.narod.ru/map2/indext430406.html|полярн. ст. Визе|1957|0}}
+
+
+ |T-44-XXII,XXIII,XXIV         = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4344.narod.ru/map2/indext442224.html|полярн. ст. Уединения|1957|0}}
+
+
+ |T-45-XXVIII,XXIX,XXX         = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4546.narod.ru/map2/indext452830.html|поляр. ст. Сергея Кирова|1957|0}}
+
+
+ |T-46-I,II,III                = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4546.narod.ru/map2/indext460103.html|Средний|1988|1993}}
+ |T-46-IV,V,VI                 = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4546.narod.ru/map2/indext460406.html|ледн. Альбанова|1984-1988|1992}}
+ |T-46-VII,VIII,IX             = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4546.narod.ru/map2/indext460709.html|о. Самойловича|1988|1993}}
+ |T-46-X,XI,XII                = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4546.narod.ru/map2/indext461012.html|зал. Макарова|1985|1992}}
+<!-- T-46-XIII,XIV,XV Вода ^>v-->
+ |T-46-XVI,XVII,XVIII          = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4546.narod.ru/map2/indext461618.html|о. Воронина|1957|0}}
+ |T-46-XIX,XX,XXI              = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4546.narod.ru/map2/indext461921.html|о. Кирова|1957|0}}
+<!-- T-46-XXII,XXIII,XXIV Вода ^<v-->
+ |T-46-XXV,XXVI,XXVII          = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4546.narod.ru/map2/indext462527.html|о. Северный|1957|0}}
+ |T-46-XXVIII,XXIX,XXX         = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4546.narod.ru/map2/indext462830.html|м. Русский Западный|1988|1993}}
+ |T-46-XXXI,XXXII,XXXIII       = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4546.narod.ru/map2/indext463133.html|о. Продолговатый|1957|0}}
+ |T-46-XXXIV,XXXV,XXXVI        = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4546.narod.ru/map2/indext463436.html|о. Нансена|1960-1973|1987}}
+
+
+ |T-47-I,II,III                = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext470103.html|бух. Сказочная|1984|1992}}
+ |T-47-IV,V,VI                 = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext470406.html|о. Найдёныш|1984|1992}}
+ |T-47-VII,VIII,IX             = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext470709.html|р. Курчавая|1984|1992}}
+ |T-47-X,XI,XII                = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext471012.html|фьорд Марата|1982|1992}}
+ |T-47-XIII,XIV,XV             = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext471315.html|острова Краснофлотские (Северная Земля)|1957|0}}
+ |T-47-XVI,XVII,XVIII          = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext471618.html|р. Быстрица|1981|1988}}
+<!-- T-47-XIX,XX,XXI Вода ^>v-->
+ |T-47-XXII,XXIII,XXIV         = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext472224.html|о-ва Гейберга|1982|1988}}
+ |T-47-XXV,XXVI,XXVII          = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext472527.html|поляр. ст. Остров Русский|1988|1992}}
+ |T-47-XXVIII,XXIX,XXX         = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext472830.html|р. Марга|1960-1976|1986}}
+ |T-47-XXXI,XXXII,XXXIII       = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext473133.html|пролив Торос|1970-1975|1986}}
+ |T-47-XXXIV,XXXV,XXXVI        = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext473436.html|устье р. Ниж. Таймыра|1974-1976|1986}}
+
+
+ |T-48-I,II,III                = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext480103.html|полярная ст. Песчаная|1982|1988}}
+<!-- T-48-IV,V,VI Вода <v-->
+ |T-48-VII,VIII,IX             = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext480709.html|залив Ахматова|1982|1988}}
+ |T-48-X,XI,XII                = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext481012.html|бухта Круглая|1982|1988}}
+ |T-48-XIII,XIV,XV             = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext481315.html|полярная ст. Солнечная|1981|1988}}
+ |T-48-XVI,XVII,XVIII          = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext481618.html|о. Мал. Таймыр|1966-1982|1988}}
+ |T-48-XIX,XX,XXI              = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext481921.html|полярн. ст. Челюскин|1959-1975|1988}}
+ |T-48-XXII,XXIII,XXIV         = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext482224.html|о. Самуила|1981|1987}}
+ |T-48-XXV,XXVI,XXVII          = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext482527.html|плато Лодочникова|1974-1977|1988}}
+ |T-48-XXVIII,XXIX,XXX         = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext482830.html|зал. Симса|1974-1981|1987}}
+ |T-48-XXXI,XXXII,XXXIII       = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext483133.html|устье р. Ленинградская|1974|1987}}
+ |T-48-XXXIV,XXXV,XXXVI        = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4748.narod.ru/map2/indext483436.html|р. Становая|1974-1981|1987}}
+
+
+ |T-49-XXV,XXVI,XXVII          = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4950.narod.ru/map2/indext492527.html|поляр. ст. Андрея|0|1987}}
+ |T-49-XXVIII,XXIX,XXX         = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4950.narod.ru/map2/indext492830.html|о. Кошка|0|1987}}
+ |T-49-XXXI,XXXII,XXXIII       = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4950.narod.ru/map2/indext493133.html|верховья р. Географа|0|1987}}
+ |T-49-XXXIV,XXXV,XXXVI        = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt4950.narod.ru/map2/indext493436.html|устье р. Неизвестная|0|1987}}
+
+
+ |T-53-XXXIV,XXXV,XXXVI        = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt5354.narod.ru/map2/indext533436.html|высота 1|1973|1989}}
+
+
+ |T-54-XXXI,XXXII,XXXIII       = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt5354.narod.ru/map2/indext543133.html|м. Анисий|1952-1973|1989}}
+ |T-54-XXXIV,XXXV,XXXVI        = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt5354.narod.ru/map2/indext543436.html|м. Бережных|1973|1989}}
+
+
+ |T-55-XXVIII,XXIX,XXX         = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt5556.narod.ru/map2/indext562830.html|о. Беннета|1957|0}}
+<!-- T-55-XXXI,XXXII,XXXIII-->
+ |T-55-XXXIV,XXXV,XXXVI        = {{Карта/200|{{{1}}}|{{{2}}}|http://mapt5556.narod.ru/map2/indext563436.html|м. Эммы|1957|0}}
+
+
+ |T-56-XXXI,XXXII,XXXIII       = {{Карта/200|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm200/t-56-31_32_33.jpg||1957|0}}
+
+
+ |T-57-XXV,XXVI,XXVII          = {{Карта/200|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm200/t-57-25_26_27.jpg||1957|0}}
+ |T-57-XXXI,XXXII,XXXIII       = {{Карта/200|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm200/t-57-31_32_33.jpg||1957|0}}
+ |{{Карта/Бк/T/500000|{{{1}}}|{{{2}}}}}}}<noinclude>{{doc|ЛопаПарцун:Карта/Бк/doc}}</noinclude>
