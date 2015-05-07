@@ -1,0 +1,11 @@
+{{#switch:{{{1}}}
+|name = Пелевеёнкс Эйень Иневедь
+|type = custom
+|image={{#switch: {{{2|}}}
+|physical=Arctic Ocean relief location map.png
+|#default=Arctic Ocean location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Пелевеёнкс Эйень Иневедь}}
+[[Категория:Шаблоны:Позиционные карты:Пелевеёнкс Эйень Иневедь]]
+
+</noinclude>
