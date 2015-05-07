@@ -1,0 +1,147 @@
+{{#switch:{{{1|}}}
+<!-- для всех прочих географических объектов-->
+|0   = font-weight:bold; text-align:left;  font-size:100%;
+|0_1 = font-weight:bold; text-align:center; font-size:110%; background:GhostWhite;
+|m0  = Red pog.svg
+
+<!-- для равнин и низменностей -->
+|2   = text-align:right;  font-size:100%; background:#99cc66; border:1px solid #99cc66;
+|2_1 = font-weight:bold; text-align:center; font-size:110%; background:#99cc66; border:1px solid #99cc66;
+|m2  = PlainIcon.gif
+
+<!-- для гор, перевалов и долин -->
+|3   = text-align:right;  font-size:100%; background:#e7dcc3; border:1px solid #999966;
+|3_1 = font-weight:bold; text-align:center; font-size:110%; background:#e7dcc3; border:1px solid #999966;
+|m3_1_1 = Mountain pass 12x12 n.svg
+|m3_1_2 = Mountain pass 12x12 ne.svg
+|m3_1_3 = Mountain pass 12x12 e.svg
+|m3_1_4 = Mountain pass 12x12 se.svg
+|m3_1_0 = Red X.svg
+|m3_2 = Lowland sign.svg
+|m3_3 = Montanya.svg
+
+<!-- для кратеров -->
+|4   = text-align:right;  font-size:100%; background:#FA8072; border:1px solid #A52A2A;
+|4_1 = font-weight:bold; text-align:center; font-size:110%; background:#FA8072; border:1px solid #A52A2A;
+
+<!-- для рек и каналов -->
+|5_1 = font-weight:bold; text-align:center; font-size:110%; background:#AACCFF;
+|m5  = Blue pog.svg
+
+<!-- для пещер -->
+|6   = text-align:right;  font-size:100%; background:#e7dcc3; border:1px solid #999966;
+|6_1 = font-weight:bold; text-align:center; font-size:110%; background:#e7dcc3; border:1px solid #999966;
+|m6  = Gfi-set01-cave red.svg
+
+<!-- для ледников -->
+|7   = text-align:right;  font-size:100%; background:#ABCDEF; border:1px solid #ABCDEF;
+|7_1 = font-weight:bold; text-align:center; font-size:110%; background:#ABCDEF; border:1px solid #ABCDEF;
+|m7  = Blue Fire.svg
+
+<!-- для степей -->
+|8   = text-align:right;  font-size:100%; background:#fff0e8; border:1px solid #fff0e8;
+|8_1 = font-weight:bold; text-align:center; font-size:110%; background:#fff0e8; border:1px solid #fff0e8;
+|m8  = PlainIcon.gif
+
+<!-- для морей, озёр, водохранилищ, заливов, проливов, каналов и водопадов -->
+|9   = text-align:right;  font-size:100%; background:#e0e8ff; border:1px solid #4877c8;
+|9_1 = font-weight:bold; text-align:center; font-size:110%; background:#e0e8ff; border:1px solid #4877c8;
+|m9  = Blue pog.svg
+|m9_1  = Blue 0080ff pog.svg
+|m9_2  = Blue pog.svg
+
+<!-- для парков, лесов и лесничеств -->
+|10   = text-align:right;  font-size:100%; background:#D0F0C0;
+|10_1 = font-weight:bold; text-align:center; font-size:110%; background:#D0F0C0;
+|m10  = Green pog.svg
+
+<!-- для заповедных зон -->
+|11   = font-weight:bold; text-align:right;  font-size:100%; border:1px solid #D3D3D3;
+|11_1 = font-weight:bold; text-align:center; font-size:110%; background:#8FBC8F;
+|11_2 = font-weight:bold; text-align:center; font-size:100%; background:#E7AF97;
+|11_3 = font-weight:bold; text-align:center; font-size:100%; background:#DACAA5;
+|11_4 = font-weight:bold; text-align:center; font-size:100%; background:#CDE5B2;
+|11_5 = font-weight:bold; text-align:center; font-size:100%; background:#BFFFBF;
+|11_6 = font-weight:bold; text-align:center; font-size:100%; background:#B2E5CD;
+|11_7 = font-weight:bold; text-align:center; font-size:100%; background:#A5CADA;
+|11_8 = font-weight:bold; text-align:center; font-size:100%; background:#A8BDEC;
+|m11  = Green pog.svg
+
+<!-- для островов, архипелагов, мысов и полуостровов -->
+|1   |12   = text-align:right;  font-size:100%; background:#ffeecc; border:1px solid #aaaaaa;
+|1_1 |12_1 = font-weight:bold; text-align:center; font-size:110%; background:#ffeecc; border:1px solid #aaaaaa;
+|m12  = Brown 804000 pog.svg
+
+<!-- для болот -->
+|13   = text-align:right;  font-size:100%; background:#8FBC8F; border:1px solid #2F4F4F;
+|13_1 = font-weight:bold; text-align:center; font-size:110%; background:#8FBC8F; border:1px solid #2F4F4F;
+|m13  = Dark Green 004040 pog.svg
+
+<!-- для водных источников -->
+|14   = text-align:right;  font-size:100%; background:lightsteelblue;
+|14_1 = font-weight:bold; text-align:center; font-size:110%; background:lightsteelblue;
+|m14  = Blue pog.svg
+
+<!-- для месторождений золота -->
+|15   = text-align:left; font-size:100%; background:#FFD700; border:1px solid #aaaaaa;
+|15_1 = font-weight:bold; text-align:center; font-size:110%; background:#FFD700; border:1px solid #aaaaaa;
+|15_2 = background:#6495ED; border:1px solid #aaaaaa;
+|m15  = Gold pog.svg
+
+<!-- для месторождений нефти -->
+|16   = text-align:left; font-size:100%; background:#DCDCDC; border:1px solid #aaaaaa;
+|16_1 = font-weight:bold; text-align:center; font-size:110%; background:#DCDCDC; border:1px solid #aaaaaa;
+|16_2 = background:#6495ED; border:1px solid #aaaaaa;
+|m16  = Black pog.svg
+
+<!-- для месторождений угля -->
+|17   = text-align:left; font-size:100%; background:#909090; border:1px solid #aaaaaa;
+|17_1 = font-weight:bold; text-align:center; font-size:110%; background:#909090; border:1px solid #aaaaaa;
+|17_2 = background:#909090; border:1px solid #aaaaaa;
+|m17  = Black pog.svg
+
+<!-- для месторождений газа -->
+|18   = text-align:left; font-size:100%; background:#F0F8FF; border:1px solid #aaaaaa;
+|18_1 = font-weight:bold; text-align:center; font-size:110%; background:#F0F8FF; border:1px solid #aaaaaa;
+|m18  = Black pog.svg
+
+<!-- для районов, улиц и объектов Нью-Йорка -->
+|19    = font-weight:bold; text-align:right; font-size:100%; background:{{цвет/США}}; border:1px solid #aaaaaa;
+|19_1  = font-weight:bold; text-align:center; font-size:110%; background:{{цвет/США}}; border:1px solid #aaaaaa;
+|19_2  = text-align:center; background:#E2E8DE; border:1px solid #aaaaaa;
+|m19   = City locator 10.svg
+|m19_1 = Round cross.svg
+|m19_2 = Japanese Map symbol (Museum).svg
+|m19_3 = Noun project 921.svg
+|m19_4 = Bridge 12x12 e.svg
+|m19_5 = City locator 4.svg
+|m19_6 = Monument icon for maps.svg
+|m19_7 = RWB Stadion.svg
+|m19_8 = City locator 10 green.svg
+|m19_9 = Sym ptu.svg
+
+<!-- для подводных форм рельефа -->
+|20   = text-align:right;  font-size:100%; background:#B0E0E6; border:1px solid #5F9EA0;
+|20_1 = font-weight:bold; text-align:center;  font-size:110%; background:#B0E0E6; border:1px solid #5F9EA0;
+|m20  = Blue pog.svg
+
+<!-- для материков -->
+|21   = font-weight:bold; text-align:right;  font-size:100%; background:#c0daff;
+|21_1 = font-weight:bold; text-align:center; font-size:110%; background:#c0daff;
+
+<!-- для побережий и пляжей -->
+|22   = font-weight:bold; text-align:right;  font-size:100%; background:#FFFACD;
+|22_1 = font-weight:bold; text-align:center; font-size:110%; background:#FFFACD;
+|m22  = Yellow pog.svg
+
+<!-- для экорегионов -->
+|23   = font-weight:bold; text-align:right;  font-size:100%; background:#cde5b2;
+|23_1 = font-weight:bold; text-align:center; font-size:110%; background:#cde5b2;
+|m23  = Green pog.svg
+
+<!-- для мостов и тоннелей -->
+|24   = text-align:right;  font-size:100%; background:LightGrey;
+|24_1 = font-weight:bold; text-align:center; font-size:110%; background:Silver;
+|m24  = Bridge 12x12 e.svg
+
+}}<noinclude>[[Категория:Шаблоны:Блоки Геокара]]</noinclude>
