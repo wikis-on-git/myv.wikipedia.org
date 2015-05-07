@@ -1,0 +1,1 @@
+<includeonly>{{#if:{{{3|}}}|<tr><td style="min-width: 90px; {{Геокар/Стили|{{{Стиль|}}}}}">{{{2|}}}</td><td>{{#ifeq:{{{1|}}}|1|[[{{{3|}}}|{{#invoke:wikitext|nodis|{{{3|}}}}}]]|{{#iferror:{{#expr:{{{3|}}}}}|{{{3|}}}|{{Formatnum:{{{3|}}}}}}}}} {{{4|}}}</td></tr>|</tt>}}</includeonly><noinclude>[[Категория:Шаблоны:Блоки Геокара|Единичный]]</noinclude>
