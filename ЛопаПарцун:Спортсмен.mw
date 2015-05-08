@@ -1,0 +1,73 @@
+{| class="infobox" style="width: 25em; text-align: left; font-size: 85%;"
+|-
+|colspan="2"|
+{| style="width: 25em; text-align: left;"
+|-
+| colspan="2" style="text-align:center; font-size: large;" | '''{{{лем}}}'''
+|-
+| colspan="2" style="text-align:center;" | {{#if:{{{портрет|<noinclude>-</noinclude>}}}
+| [[Image:{{{портрет}}}|{{#if:{{{покшолма|<noinclude>-</noinclude>}}}|
+{{{покшолма}}}|255px}}]]
+<small>{{{подпись|<noinclude>{{{подпись}}}</noinclude>}}}</small>}}
+|-
+{{#if:{{{пешксе лем|<noinclude>-</noinclude>}}}|
+{{!}}style="background: #B0C4DE;" colspan="2" align=center{{!}}'''Эсензэ информациязо'''
+{{!}}-
+}}
+{{#if:{{{пешксе лем|<noinclude>-</noinclude>}}}|
+{{!}}'''Пешксе лем:'''{{!}}{{!}}{{{пешксе лем}}}
+{{!}}-
+}}
+{{#if:{{{ушонь лемть|<noinclude>-</noinclude>}}}|
+{{!}}'''Ушонь лем(-ть):'''{{!}}{{!}}{{{ушонь лемть}}}
+{{!}}-
+}}
+{{#if:{{{раське|<noinclude>-</noinclude>}}}|
+{{!}}'''Раське:'''{{!}}{{!}}{{{раське}}}
+{{!}}-
+}}
+{{#if:{{{клуб|<noinclude>-</noinclude>}}}|
+{{!}}'''Клуб:'''{{!}}{{!}}{{{Клуб}}}
+{{!}}-
+}}
+{{#if:{{{чачома чись|<noinclude>-</noinclude>}}}|
+{{!}}'''Чачома чись:'''{{!}}{{!}}{{{чачома чись}}}
+{{!}}-
+}}
+{{#if:{{{чачома тарка|<noinclude>-</noinclude>}}}|
+{{!}}'''Чачома тарка:'''{{!}}{{!}}{{{чачома тарка}}}
+{{!}}-
+}}
+{{#if:{{{кулома чись|<noinclude>-</noinclude>}}}|
+{{!}}'''Кулома чись:'''{{!}}{{!}}{{{кулома чись}}}
+{{!}}-
+}}
+{{#if:{{{кулома тарка|<noinclude>-</noinclude>}}}|
+{{!}}'''Кулома тарка:'''{{!}}{{!}}{{{кулома тарка}}}
+{{!}}-
+}}
+{{#if:{{{сэрь|<noinclude>-</noinclude>}}}|
+{{!}}'''Сэрь:'''{{!}}{{!}}{{{сэрь}}}
+{{!}}-
+}}
+{{#if:{{{сталмо|<noinclude>-</noinclude>}}}|
+{{!}}'''Сталмо:'''{{!}}{{!}}{{{сталмо}}}
+{{!}}-
+}}
+|}
+{{#if:{{{медальть|<noinclude>-</noinclude>}}}|
+{{!}}-
+{{!}}colspan="2"{{!}}
+{{{!}} class="collapsible collapsed" style="width: 25em; text-align: left;"
+{{!}}-
+!colspan="3" style="text-align:center; background-color:#B0C4DE"{{!}} Казнеть ды медальть
+{{!}}-
+{{#if:{{{1| }}}|{{!}}colspan="3" style="text-align:center; background-color:#FFFFFF'" {{!}} [[Image:{{{1}}}|{{{2|100px}}}|{{{3|{{PAGENAME}}}}}]]<br /><small>{{{3|{{PAGENAME}}}}}
+{{!}}- }}
+{{{медальть}}}
+{{!}}}
+}}
+|}<noinclude>
+
+[[Category:Шаблонт]]
+</noinclude>
