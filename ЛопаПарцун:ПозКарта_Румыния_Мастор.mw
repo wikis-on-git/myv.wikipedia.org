@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+|name = Румыния Мастор
+| top    = 48.5
+| bottom = 43.4
+| left   = 20.0
+| right  = 30.0
+| image  = {{#switch:{{{2|}}}
+ |physical = Relief Map of Romania.png
+ |#default = Romania location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Румыния Мастор}}
+</noinclude>
