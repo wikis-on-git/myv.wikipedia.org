@@ -1,0 +1,9 @@
+{{#switch:{{{1}}}
+|name = Япония Мастор
+|type = custom
+|image = {{#switch:{{{2|}}}
+ |physical = Japan natural location map with side map of the Ryukyu Islands.jpg
+ |#default = Japan location map with side map of the Ryukyu Islands.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Япония Мастор}}
+</noinclude>
