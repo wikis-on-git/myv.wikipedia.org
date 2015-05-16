@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name   = Норвегия Мастор
+|top    = 71.5
+|bottom = 57.6
+|left   = 4.1
+|right  = 31.6
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Norway.png
+ |#default = Norway location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Норвегия Мастор}}
+
+</noinclude>
