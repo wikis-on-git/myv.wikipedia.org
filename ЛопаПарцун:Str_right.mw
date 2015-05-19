@@ -1,0 +1,4 @@
+<includeonly>{{Str sub|{{{1}}}|{{{2}}}|{{#expr:{{Str len|{{{1}}}}}-{{{2}}}}}}}</includeonly><noinclude>
+{{doc}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
