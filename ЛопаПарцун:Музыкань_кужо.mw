@@ -1,4 +1,4 @@
-{{Карточка
+{{Infobox
 |класс_тела        = vcard
 |стиль_тела        = width:22em;
 |стиль_вверху      = background:{{#switch:{{{Фон|}}}|group_or_band=&#35;b0c4de|classical_ensemble=&#35;b0e0e6|cover_band=&#35;d8bfd8|temporary=&#35;d3d3d3|&#35;b0c4de}};
