@@ -1,0 +1,28 @@
+{{ {{{1<noinclude>|Масторкоцт/коцт</noinclude>}}}
+| alias = Инебритания Мастор
+| flag alias = Flag of the United Kingdom.svg
+| flag alias-1707 = Union flag 1606 (Kings Colors).svg
+| flag alias-1658 = Flag of the Commonwealth (1658-1660).svg
+| flag alias-1651 = Flag of The Commonwealth.svg
+| flag alias-1649 = Flag of the Commonwealth (1649-1651).svg
+| flag alias-1606 = Union flag 1606 (Kings Colors).svg
+| flag alias-ВМС  = Naval Ensign of the United Kingdom.svg
+| flag alias-торговый = Civil Ensign of the United Kingdom.svg
+| flag alias-ВВС = Ensign of the Royal Air Force.svg
+| flag alias-дипломатический = Government Ensign of the United Kingdom.svg
+| flag alias-армия = Flag of the British Army.svg
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1707
+| var2 = 1658
+| var3 = 1651
+| var4 = 1649
+| var5 = 1606
+| var6 = ВМС
+| var7 = торговый
+| var8 = ВВС
+| var9 = дипломатический
+| var10 = армия 
+</noinclude>
+| размер = {{{размер|}}}
+}}
