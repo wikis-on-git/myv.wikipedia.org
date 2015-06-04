@@ -1,0 +1,6 @@
+{{#switch: {{{2}}}
+ |L-10 = {{Карта/1000|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm1000/l-10.jpg|Сиэтл|0|0}}
+ |L-11 = {{Карта/1000|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm1000/l-11.jpg|Спокан|1949|0}}
+
+
+|{{#if:{{{1|}}}|{{Карта/50|{{{1}}}|{{{2}}}}}}}}}<noinclude>{{doc|ЛопаПарцун:Карта/Бк/doc}}</noinclude>
