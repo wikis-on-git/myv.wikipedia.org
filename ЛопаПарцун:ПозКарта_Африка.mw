@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+| name   = Африка
+| type=custom
+|image = {{#switch:{{{2|}}}
+ |physical = Africa relief location map.jpg
+ |#default = Africa location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Африка}}
+[[Категория:Шаблоны:Позиционные карты:Африка| ]]
+
+== Альтернативная карта ==
+[[File:Africa land cover location map.jpg|thumb|left|Africa land cover location map.jpg]]
+</noinclude>
