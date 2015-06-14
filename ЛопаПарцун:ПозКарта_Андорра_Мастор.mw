@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+| name   = Андорра Мастор
+| top    =42.675
+| bottom = 42.4
+| left   = 1.3875
+| right  = 1.8125
+|image = {{#switch:{{{2|}}}
+ |physical = Andorra relief location map.jpg
+ |#default = Andorra location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Андорра Мастор}}
+[[Категория:Шаблоны:Позиционные карты:Андорра]]
+
+</noinclude>
