@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+|name = Пенза ёнкс
+| top    = 54.09
+| bottom = 52.23
+| left   = 42.00
+| right  = 47.05
+| image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Penzenskaya Oblast.png
+ |#default = Outline Map of Penza Oblast.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россия}}
+</noinclude>
