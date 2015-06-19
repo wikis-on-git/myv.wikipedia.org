@@ -8,7 +8,7 @@
 |image             = {{#if: {{wikidata|p94|{{{Герб|}}}|plain=true}}{{wikidata|p41|{{{Коцт|}}}|plain=true}} | <nowiki></nowiki>
 {{{!}} style="width:100%; background:transparent;"
 {{#if: {{wikidata|p94|{{{Герб|}}}|plain=true}} |{{!}} style="width:50%" {{!}} {{#if:{{{Описание герба|}}} | [[{{{Описание герба|}}}|Герб]] | {{#if:{{wikidata|p237|plain=true}} | {{wikidata|p237|text=Герб}} | Герб}} }}<br />{{wikidata/p94|{{{Герб|}}}|size={{#if:{{{Ширина герба|}}}|{{{Ширина герба|}}}|100}}px}} }}
-{{#if: {{wikidata|p41|{{{Флаг|}}}|plain=true}} |{{!}} style="width:50%" {{!}} {{#if:{{{Описание флага|}}} | [[{{{Описание флага|}}}|Коцт]] | {{#if:{{wikidata|p163|plain=true}} | {{wikidata|p163|text=Коцт}} | Флаг}} }}<br />{{wikidata/p41|{{{Коцт|}}}|size={{#if:{{{Ширина флага|}}}|{{{Ширина флага|}}}|150}}px}} }}
+{{#if: {{wikidata|p41|{{{Коцт|}}}|plain=true}} |{{!}} style="width:50%" {{!}} {{#if:{{{Описание флага|}}} | [[{{{Описание флага|}}}|Коцт]] | {{#if:{{wikidata|p163|plain=true}} | {{wikidata|p163|text=Коцт}} | Коцт}} }}<br />{{wikidata/p41|{{{Коцт|}}}|size={{#if:{{{Ширина флага|}}}|{{{Ширина флага|}}}|150}}px}} }}
 {{!}}}
 }}
 |imagestyle        = font-size:smaller; font-weight:bold; border:solid darkgray; border-width:1px 0px; text-align:center;
@@ -54,7 +54,7 @@
 |label10    = Дата упразднения
 |data10    = {{{Упразднение|}}}
 
-|label11    = {{#if:{{{Название главы|}}}|{{{Название главы}}}|Глава}}
+|label11    = {{#if:{{{Название главы|}}}|{{{Название главы}}}|Прявт}}
 |data11    = {{wikidata|p6[!p582]|{{{Глава|}}}}}
 
 |label12    = {{{Название главы2|Глава}}}
