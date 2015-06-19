@@ -1,10 +1,8 @@
 <includeonly>{{Infobox
 |имя               = 
 |стиль_тела        = 
-|header            = {{{Эрзянь лем}}}{{#if: {{{Эсьлем|}}} | <br />{{{Эсьлем}}} }}
-|headerstyle       = font-size:larger; font-weight:bold;
-|above             = 
-|abovestyle        = 
+|above             = {{{Эрзянь лем}}}{{#if: {{{Эсьлем|}}} | <br />{{{Эсьлем}}} }}
+|abovestyle        = font-size:larger; font-weight:bold;
 |above2            = 
 |abovestyle2       = 
 |image             = {{#if: {{wikidata|p94|{{{Герб|}}}|plain=true}}{{wikidata|p41|{{{Коцт|}}}|plain=true}} | <nowiki></nowiki>
