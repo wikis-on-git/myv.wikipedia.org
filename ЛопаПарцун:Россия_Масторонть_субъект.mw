@@ -16,7 +16,7 @@
 | align="center" width=175 | {{#if:{{{CoALnk|}}}|[[{{{CoALnk}}}]]|}}
 |}
 |-
-| <!--align=center colspan=2 style="border-bottom: 1px #aaa solid; border-top: 1px #aaa solid;" | {{#if:{{{FSMapName|}}}|[[Image:{{{FSMapName}}}2007-07.png|{{{Лем}}} картасонть Россиянь Масторонть]]|{{{FSMap}}} }} -->
+<!--align=center colspan=2 style="border-bottom: 1px #aaa solid; border-top: 1px #aaa solid;" | {{#if:{{{FSMapName|}}}|[[Image:{{{FSMapName}}}2007-07.png|{{{Лем}}} картасонть Россиянь Масторонть]]|{{{FSMap}}} }} -->
 
 {{#if:{{wikidata|p242|plain=true}}|<!--Субъектесь Россиянь Масторсонть картанть ланксо -->
 {{!}} align="center" colspan="2" style="border-bottom:1px #aaa solid; border-top:1px #aaa solid" {{!}}
