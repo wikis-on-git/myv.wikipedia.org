@@ -20,7 +20,7 @@
 
 {{#if:{{wikidata|p242|plain=true}}|<!--Субъектесь Россиянь Масторсонть картанть ланксо -->
 {{!}} align="center" colspan="2" style="border-bottom:1px #aaa solid; border-top:1px #aaa solid" {{!}}
-{{wikidata/p242|alt={{#if:{{{Лем|}}}|{{{Лем}}}|{{PAGENAME}}}} картасонть Россиянь Масторонть]}}
+{{wikidata/p242|alt={{#if:{{{Лем|}}}|{{{Лем}}}|{{PAGENAME}}}} картасонть Россиянь Масторонть}}
 {{!-}}
 }}
 |- 
