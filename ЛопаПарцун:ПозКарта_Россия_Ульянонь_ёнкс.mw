@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+|name = Ульянонь ёнкс
+| top    = 54.92
+| bottom = 52.50
+| left   = 45.78
+| right  = 50.28
+| image = {{#switch:{{{2|}}}
+ | physical = Relief Map Ulyanovsk Oblast.png
+ | #default = Outline Map Ulyanovsk Oblast.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россия}}
+</noinclude>
