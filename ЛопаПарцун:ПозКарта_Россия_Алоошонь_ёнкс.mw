@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+|name = Алоошонь ёнкс
+|top = 58.15
+|bottom = 54.426
+|left = 41.7
+|right = 47.839
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Nizhny Novgorod Oblast.png
+ |#default = Map of Nizhny Novgorod Region (PosMap).svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россия}}
+</noinclude>
