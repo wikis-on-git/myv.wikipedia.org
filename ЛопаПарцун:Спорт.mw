@@ -1,5 +1,6 @@
 {{Infobox
-|Лем               = 
+|bodystyle         = width:23em;
+|bodyclass         = vcard plainlist
 |above             = {{{Лем}}}
 |abovestyle        = background: #ddd;
 |image             = {{#if:{{{Артовкс|}}}|[[File:{{{Артовкс}}}|
