@@ -3,6 +3,7 @@
 |bodyclass         = vcard plainlist
 |above             = {{{Лем}}}
 |abovestyle        = background: #ddd;
+|aboveclass        = fn
 |image             = {{#if:{{{Артовкс|}}}|[[File:{{{Артовкс}}}|
  {{#if:{{{артовксонть покшолмазо|}}}|{{{артовксонть покшолмазо}}}|230px}}|
  {{#if:{{{артовксонть эйсте|}}}|{{{артовксонть эйсте}}}|Артовкс}}]]}}
@@ -67,7 +68,7 @@
 
 |label23 = {{{Связанные_проекты|}}}
 
-|above = {{#if:{{{Категория_статей|}}} | [[:Категория:{{{Категория_статей}}}]]}} {{#if:{{{Портал|}}} | <div style="margin-top: 2px; background: #eee; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 1px 0 1px 0;">[[Портал:{{{Портал}}}]]</div> }} {{#if:{{{Связанные_проекты|}}} |  <br />{{{Связанные_проекты}}}}}
+|внизу = {{#if:{{{Категория_статей|}}} | [[:Категория:{{{Категория_статей}}}]]}} {{#if:{{{Портал|}}} | <div style="margin-top: 2px; background: #eee; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 1px 0 1px 0;">[[Портал:{{{Портал}}}]]</div> }} {{#if:{{{Связанные_проекты|}}} |  <br />{{{Связанные_проекты}}}}}
 
 }}<noinclude>
 {{doc}}
