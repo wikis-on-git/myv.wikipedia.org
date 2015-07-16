@@ -61,7 +61,7 @@
 |стиль_внизу = border-top:1px solid #DDD; background:#eaeaea;
 |внизу       = {{#if:{{{википурнавкс|}}}|'''[[commons:Category:{{{википурнавкс|}}}|{{#if: {{{лем|}}} | {{{лем}}} | {{Васня лем|{{PAGENAME}}}} }}]]'''  [[Википурнавкс]]со|{{wikidata/p373|text_before='''|text={{#if: {{{лем|}}} | {{{лем}}} | {{Васня лем|{{PAGENAME}}}} }}|text_after=''' [[Википурнавкс]]со}}}}
 |внизу2     = {{#if:{{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}<!--
--->|'''[[Файл:wikisource-logo.svg|15px|Логотип Викитеки|link={{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}]] [[{{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}|Произведения]]''' в [[Викитека|Викитеке]]<!--
+-->|'''[[Артовкс:wikisource-logo.svg|15px|Логотип Викитеки|link={{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}]] [[{{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}|Произведения]]''' в [[Викитека|Викитеке]]<!--
 -->|{{#ifeq:{{{викитека|}}}|нельзя|{{Unicode|©}} Произведения этого автора [[Свободный контент|несвободны]]}}<!--
 -->}}
 }}<includeonly>{{#if:{{NAMESPACE}}||{{#if:{{{nocat|}}}||{{#if:{{{википурнавкс|}}}|}}{{#switch:{{wikidata/p18|{{{артовкс|}}}|plain=1}}|=[[Категория:Википедия:Ломантне артовкстомо]]|Replace this image male.svg=[[Категория:Википедия:Ломантне артовкстомо]]|Replace this image female.svg=[[Категория:Википедия:Ломантне артовкстомо]]|#default=}}}}}}</includeonly><noinclude>
