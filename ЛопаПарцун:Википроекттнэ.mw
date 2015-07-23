@@ -56,12 +56,12 @@
 {{!}} <span class="wiki-meta-ref">[[m:{{{Метавики}}}|{{{Тема|{{{Метавики}}}}}}]]</span> в Мета-вики{{?|Википедия:Мета-вики}}}}
 |-
 {{#if: {{wikidata-link|ruwikinews|{{{Викиновости|}}}}} | {{#if:{{NAMESPACE}}||[[Категория:Статьи со ссылками на Викиновости]]}}
-! [[Артовкс:Wikinews-logo.svg|link=n:{{wikidata-link|ruwikinews|{{{Викигид|}}}}}|30px|alt=n:]]
-{{!}} <span class="wikinews-ref">[[n:{{wikidata-link|ruwikinews|{{{Викиновости|}}}}}|{{{Тема|{{PAGENAME}}}}}]]</span> в Викиновостях{{?|Викиновости}}}}
+! [[Артовкс:Wikinews-logo.svg|link=n:{{wikidata-link|myvwikinews|{{{Викигид|}}}}}|30px|alt=n:]]
+{{!}} <span class="wikinews-ref">[[n:{{wikidata-link|myvwikinews|{{{Викиновости|}}}}}|{{{Тема|{{PAGENAME}}}}}]]</span> в Викиновостях{{?|Викиновости}}}}
 |-
 {{#if: {{wikidata-link|ruwikivoyage|{{{Викигид|}}}}} | {{#if:{{NAMESPACE}}||[[Категория:Статьи со ссылками на Викигид]]}}
-! [[Артовкс:Wikivoyage-Logo-v3-icon.svg|link=voy:{{wikidata-link|ruwikivoyage|{{{Викигид|}}}}}|30px|alt=voy:]]
-{{!}} <span class="wikivoyage-ref">[[voy:{{wikidata-link|ruwikivoyage|{{{Викигид|}}}}}|{{{Тема|{{PAGENAME}}}}}]]</span> в Викигиде{{?|Викигид}}}}
+! [[Артовкс:Wikivoyage-Logo-v3-icon.svg|link=voy:{{wikidata-link|myvwikivoyage|{{{Викигид|}}}}}|30px|alt=voy:]]
+{{!}} <span class="wikivoyage-ref">[[voy:{{wikidata-link|myvwikivoyage|{{{Викигид|}}}}}|{{{Тема|{{PAGENAME}}}}}]]</span> в Викигиде{{?|Викигид}}}}
 |-
 {{#if: {{{Проект|}}} |
 ! {{РисПроекта|{{{Проект}}}|size=30}}
