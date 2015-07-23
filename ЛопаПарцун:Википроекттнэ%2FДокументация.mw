@@ -47,13 +47,13 @@
    "type": "string",
    "required": false
   },
-  "Викивиды": {
-   "label": "Викивиды",
+  "Викилувтнэ": {
+   "label": "Викилувтнэ",
    "type": "string",
    "required": false
   },
-  "Викисклад": {
-   "label": "Викисклад",
+  "Википурнавкс": {
+   "label": "Википурнавкс",
    "type": "string",
    "required": false
   },
