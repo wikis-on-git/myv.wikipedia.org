@@ -45,7 +45,7 @@
 |-
 {{#if: {{{Википурнавкс|}}} | 
 ! [[Артовкс:Commons-logo.svg|link=commons:{{{Википурнавкс|}}}|30px|alt=commons:]]
-{{!}} <span class="wikicommons-ref">[{{localurl:Commons:{{{Википурнавкс|}}}}}?uselang=myv {{{Тема|{{PAGENAME}}}}}]</span> на Википурнавкссо{{?|Википурнавкс}}|
+{{!}} <span class="wikicommons-ref">[{{localurl:Commons:{{{Википурнавкс|}}}}}?uselang=myv {{{Тема|{{PAGENAME}}}}}]</span> Википурнавкссо{{?|Википурнавкс}}|
 {{#if: {{wikidata|p373|plain=true}} | 
 ! [[Артовкс:Commons-logo.svg|link=commons:Category:{{wikidata|p373|plain=true}}|30px|alt=commons:]]
 {{!}} <span class="wikicommons-ref">[{{localurl:Commons:Category:{{wikidata|p373|plain=true}}}}?uselang=myv {{{Тема|{{PAGENAME}}}}}]</span> Википурнавкссо{{?|Википурнавкс}}}}
