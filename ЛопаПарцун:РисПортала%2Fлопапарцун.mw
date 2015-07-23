@@ -1,0 +1,1 @@
+<includeonly>[[Артовкс:{{{image}}}|link={{{link|}}}|{{#if:{{{width|}}}|{{{width}}}|{{#if:{{{size|}}}|{{{size}}}|50}}}}x{{#if:{{{height|}}}|{{{height}}}|{{#if:{{{size|}}}|{{{size}}}|50}}}}px|alt=П:]]{{#ifeq:{{NAMESPACE}}{{BASEPAGENAME}}|{{ns:10}}:РисПортала|[[Категория:Шаблоны:Иконки проектов|{{SUBPAGENAME}}]]}}</includeonly><noinclude>{{doc}}</noinclude>
