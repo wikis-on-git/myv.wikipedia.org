@@ -1,0 +1,7 @@
+<includeonly>{{#if:{{{2|}}}|{{{2}}}|{{#switch:{{{1|}}}<!--
+-->|wikisource={{#invoke:Wikidata/Interproject|getWikisourceLink}}<!--
+-->|wikiquote={{#invoke:Wikidata/Interproject|getWikiquoteLink}}<!--
+-->|{{#invoke:Wikibase|iwikiall|{{{1|}}}}}<!--
+-->}}}}</includeonly><noinclude>{{doc}}
+[[Категория:Шаблоны:Викимедиа|{{PAGENAME}}]]
+</noinclude>
