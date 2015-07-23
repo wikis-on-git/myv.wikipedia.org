@@ -39,16 +39,16 @@
 {{!}} <span class="wikisource-ref">[[{{wikidata-link|wikisource}}|{{{Тема|{{PAGENAME}}}}}]]</span> в Викитеке{{?|Викитека}}}}<!--
 -->}}
 |-
-{{#if: {{{Викивиды|}}} | {{#if:{{NAMESPACE}}||[[Категория:Статьи со ссылками на Викивиды]]}}
-! [[Артовкс:Wikispecies-logo.svg|link=wikispecies:{{{Викивиды}}}|30px|alt=wikispecies:]]
-{{!}} <span class="wikispice-ref">[[wikispecies:{{{Викивиды}}}|{{{Тема|{{{Викивиды}}}}}}]]</span> в Викивидах{{?|Викивиды}}}}
+{{#if: {{{Викилувтнэ|}}} | {{#if:{{NAMESPACE}}||[[Категория:Статьи со ссылками на Викивиды]]}}
+! [[Артовкс:Wikispecies-logo.svg|link=wikispecies:{{{Викилувтнэ}}}|30px|alt=wikispecies:]]
+{{!}} <span class="wikispice-ref">[[wikispecies:{{{Викилувтнэ}}}|{{{Тема|{{{Викилувтнэ}}}}}}]]</span> Викилувтнэсэ{{?|Викилувтнэ}}}}
 |-
 {{#if: {{{Википурнавкс|}}} | 
 ! [[Артовкс:Commons-logo.svg|link=commons:{{{Википурнавкс|}}}|30px|alt=commons:]]
-{{!}} <span class="wikicommons-ref">[{{localurl:Commons:{{{Викисклад|}}}}}?uselang=ru {{{Тема|{{PAGENAME}}}}}]</span> на Викискладе{{?|Викисклад}}|
+{{!}} <span class="wikicommons-ref">[{{localurl:Commons:{{{Википурнавкс|}}}}}?uselang=myv {{{Тема|{{PAGENAME}}}}}]</span> на Википурнавкссо{{?|Википурнавкс}}|
 {{#if: {{wikidata|p373|plain=true}} | 
 ! [[Артовкс:Commons-logo.svg|link=commons:Category:{{wikidata|p373|plain=true}}|30px|alt=commons:]]
-{{!}} <span class="wikicommons-ref">[{{localurl:Commons:Category:{{wikidata|p373|plain=true}}}}?uselang=myv {{{Тема|{{PAGENAME}}}}}]</span> на Викискладе{{?|Викисклад}}}}
+{{!}} <span class="wikicommons-ref">[{{localurl:Commons:Category:{{wikidata|p373|plain=true}}}}?uselang=myv {{{Тема|{{PAGENAME}}}}}]</span> Википурнавкссо{{?|Википурнавкс}}}}
 }}
 |-
 {{#if: {{{Метавики|}}} |
