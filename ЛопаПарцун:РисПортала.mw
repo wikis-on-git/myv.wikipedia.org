@@ -1,0 +1,9 @@
+<includeonly>{{#switch: {{ #if: {{{size|}}} | 1 }}{{ #if: {{{width|}}} | 2 }}{{ #if: {{{height|}}} | 3 }}
+| 1 = {{#ifexist: ЛопаПарцун:РисПортала/{{{1|{{PAGENAME}}}}} | {{ЛопаПарцун:РисПортала/{{{1|{{PAGENAME}}}}} | size={{{size}}} }} | {{ЛопаПарцун:РисПортала/Default|Портал={{{1|{{PAGENAME}}}}} | size={{{size}}} }} }}
+| 2 = {{#ifexist: ЛопаПарцун:РисПортала/{{{1|{{PAGENAME}}}}} | {{ЛопаПарцун:РисПортала/{{{1|{{PAGENAME}}}}} | width={{{width}}} | height=10000 }} | {{ЛопаПарцун:РисПортала/Default|Портал={{{1|{{PAGENAME}}}}} | width={{{width}}} | height=10000 }} }}
+| 23 = {{#ifexist: ЛопаПарцун:РисПортала/{{{1|{{PAGENAME}}}}} | {{ЛопаПарцун:РисПортала/{{{1|{{PAGENAME}}}}} | width={{{width}}} | height={{{height}}} }} | {{ЛопаПарцун:РисПортала/Default|Портал={{{1|{{PAGENAME}}}}} | width={{{width}}} | height={{{height}}} }} }}
+| 3 = {{#ifexist: ЛопаПарцун:РисПортала/{{{1|{{PAGENAME}}}}} | {{ЛопаПарцун:РисПортала/{{{1|{{PAGENAME}}}}} | width=1000 | height={{{height}}} }} | {{ЛопаПарцун:РисПортала/Default|Портал={{{1|{{PAGENAME}}}}} | width=1000 | height={{{height}}} }} }}
+| {{#ifexist: ЛопаПарцун:РисПортала/{{{1|{{PAGENAME}}}}} | {{ЛопаПарцун:РисПортала/{{{1|{{PAGENAME}}}}} | size=40 }} | {{ЛопаПарцун:РисПортала/Default|Портал={{{1|{{PAGENAME}}}}} | size=40 }} }}
+}}</includeonly><noinclude>{{doc}}
+[[Категория:ЛопаПарцун:Иконки порталов|*1]]
+</noinclude>
