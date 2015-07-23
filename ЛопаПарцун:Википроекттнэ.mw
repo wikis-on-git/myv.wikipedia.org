@@ -1,0 +1,70 @@
+{| class="metadata plainlinks navigation-box ruwikiWikimediaNavigation" style="margin:0 0 1em 1em; clear:right; border:solid #aaa 1px; background:#f9f9f9; padding:1ex; font-size:90%; float:right; {{#if:{{{width|}}}|width: {{{width}}};}}"
+|-
+{{#if: {{{Портал|}}} |
+! {{РисПортала|{{{Портал}}}|size=30}}
+{{!}} <span class="portal-box">Портал '''«[[Портал:{{{Портал}}}|{{{Портал}}}]]»'''</span>}}
+|-
+{{#if: {{{Портал2|}}} |
+! {{РисПортала|{{{Портал2}}}|size=30}}
+{{!}} <span class="portal-box">Портал '''«[[Портал:{{{Портал2}}}|{{{Портал2}}}]]»'''</span>}}
+|-
+{{#if: {{{Викивалкс|}}} | {{#if:{{NAMESPACE}}||[[Категория:Лопат ванмотнень Викивалксс марто]]}}
+! [[Артовкс:Wiktionary-logo-ru.png|link=wikt:{{{Викивалкс}}}|30px|alt=wikt:]]
+{{!}} <span class="wikidict-ref">[[wikt:{{{Викивалкс}}}|{{{Тема|{{{Викивалкс}}}}}}]]</span> Викивалкссо{{?|Викивалкс}}}}
+|-
+{{#if: {{{Викиучебник|}}} | {{#if:{{NAMESPACE}}||[[Категория:Статьи со ссылками на Викиучебник]]}}
+! [[Артовкс:Wikibooks-logo.svg|link=b:{{{Викиучебник}}}|30px|alt=b:]]
+{{!}} <span class="wikibooks-ref">[[b:{{{Викиучебник}}}|{{{Тема|{{{Викиучебник}}}}}}]]</span> в Викиучебнике{{?|Викиучебник}}}}
+|-
+{{#if: {{{Викиверситет|}}} | {{#if:{{NAMESPACE}}||[[Категория:Статьи со ссылками на Викиверситет]]}}
+! [[Артовкс:Wikiversity-logo.svg|link=v:{{{Викиверситет}}}|30px|alt=v:]]
+{{!}} <span class="wikiversity-ref">[[v:{{{Викиверситет}}}|{{{Тема|{{{Викиверситет}}}}}}]]</span> в Викиверситете{{?|Викиверситет}}}}
+|-
+{{#if: {{{Викицитатник|}}} | {{#if:{{NAMESPACE}}||[[Категория:Статьи со ссылками на Викицитатник]]}}
+! [[Артовкс:Wikiquote-logo.svg|link=q:{{{Викицитатник}}}|30px|alt=q:]]
+{{!}} <span class="wikiquote-ref">[[q:{{{Викицитатник}}}|{{{Тема|{{{Викицитатник}}}}}}]]</span> в Викицитатнике{{?|Викицитатник}}
+| {{#if:{{wikidata-link|wikiquote}}|
+! [[Артовкс:Wikiquote-logo.svg|link={{wikidata-link|wikiquote}}|30px|alt=q:]]
+{{!}} <span class="wikiquote-ref">[[{{wikidata-link|wikiquote}}|{{{Тема|{{PAGENAME}}}}}]]</span> в Викицитатнике{{?|Викицитатник}}}}
+}}
+|-
+{{#if: {{{Викитека|}}}<!--
+   Если задана ссылка через аргумент "Викитека"
+-->|{{#if:{{NAMESPACE}}||[[Категория:Статьи со ссылками на Викитеку]]}}
+! [[Артовкс:Wikisource-logo.svg|link=s:{{{Викитека}}}|30px|alt=s:]]
+{{!}} <span class="wikisource-ref">[[s:{{{Викитека}}}|{{{Тема|{{{Викитека}}}}}}]]</span> в Викитеке{{?|Викитека}}<!--
+   Если есть ссылка в Викиданных
+-->| {{#if:{{wikidata-link|wikisource}}|
+! [[Артовкс:Wikisource-logo.svg|link={{wikidata-link|wikisource}}|30px|alt=s:]]
+{{!}} <span class="wikisource-ref">[[{{wikidata-link|wikisource}}|{{{Тема|{{PAGENAME}}}}}]]</span> в Викитеке{{?|Викитека}}}}<!--
+-->}}
+|-
+{{#if: {{{Викивиды|}}} | {{#if:{{NAMESPACE}}||[[Категория:Статьи со ссылками на Викивиды]]}}
+! [[Артовкс:Wikispecies-logo.svg|link=wikispecies:{{{Викивиды}}}|30px|alt=wikispecies:]]
+{{!}} <span class="wikispice-ref">[[wikispecies:{{{Викивиды}}}|{{{Тема|{{{Викивиды}}}}}}]]</span> в Викивидах{{?|Викивиды}}}}
+|-
+{{#if: {{{Википурнавкс|}}} | 
+! [[Артовкс:Commons-logo.svg|link=commons:{{{Википурнавкс|}}}|30px|alt=commons:]]
+{{!}} <span class="wikicommons-ref">[{{localurl:Commons:{{{Викисклад|}}}}}?uselang=ru {{{Тема|{{PAGENAME}}}}}]</span> на Викискладе{{?|Викисклад}}|
+{{#if: {{wikidata|p373|plain=true}} | 
+! [[Артовкс:Commons-logo.svg|link=commons:Category:{{wikidata|p373|plain=true}}|30px|alt=commons:]]
+{{!}} <span class="wikicommons-ref">[{{localurl:Commons:Category:{{wikidata|p373|plain=true}}}}?uselang=myv {{{Тема|{{PAGENAME}}}}}]</span> на Викискладе{{?|Викисклад}}}}
+}}
+|-
+{{#if: {{{Метавики|}}} |
+! [[Артовкс:Wikimedia-logo.svg|link=m:{{{Метавики}}}|30px|alt=m:]]
+{{!}} <span class="wiki-meta-ref">[[m:{{{Метавики}}}|{{{Тема|{{{Метавики}}}}}}]]</span> в Мета-вики{{?|Википедия:Мета-вики}}}}
+|-
+{{#if: {{wikidata-link|ruwikinews|{{{Викиновости|}}}}} | {{#if:{{NAMESPACE}}||[[Категория:Статьи со ссылками на Викиновости]]}}
+! [[Артовкс:Wikinews-logo.svg|link=n:{{wikidata-link|ruwikinews|{{{Викигид|}}}}}|30px|alt=n:]]
+{{!}} <span class="wikinews-ref">[[n:{{wikidata-link|ruwikinews|{{{Викиновости|}}}}}|{{{Тема|{{PAGENAME}}}}}]]</span> в Викиновостях{{?|Викиновости}}}}
+|-
+{{#if: {{wikidata-link|ruwikivoyage|{{{Викигид|}}}}} | {{#if:{{NAMESPACE}}||[[Категория:Статьи со ссылками на Викигид]]}}
+! [[Артовкс:Wikivoyage-Logo-v3-icon.svg|link=voy:{{wikidata-link|ruwikivoyage|{{{Викигид|}}}}}|30px|alt=voy:]]
+{{!}} <span class="wikivoyage-ref">[[voy:{{wikidata-link|ruwikivoyage|{{{Викигид|}}}}}|{{{Тема|{{PAGENAME}}}}}]]</span> в Викигиде{{?|Викигид}}}}
+|-
+{{#if: {{{Проект|}}} |
+! {{РисПроекта|{{{Проект}}}|size=30}}
+{{!}} <span class="portal-box">Проект '''«[[Проект:{{{Проект}}}|{{{Проект}}}]]»'''</span>}}
+|}
+{{#if:{{{Википурнавкс|}}}|{{#ifeq:{{PAGENAME}}|{{FULLPAGENAME}}|[[Категория:Википедия:Ванмось Википурнавксс лопатсо]]}}}}<noinclude>{{doc}}</noinclude>
