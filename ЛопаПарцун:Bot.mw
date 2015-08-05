@@ -1,0 +1,10 @@
+{| class="messagebox plainlinks"
+|align="center"|[[Артовкс:Crystal Clear action run.png|50px]]
+|align="left" width="100%"|'''This user account is a [[Википедиясь:Bot policy|bot]] operated by [[:{{{site|myv}}}:User:{{{1}}}|{{{1}}}]] ([[:{{{site|myv}}}:User talk:{{{1}}}|talk]]).'''
+It is not a [[Википедиясь:Sock puppetry|sock puppet]], but rather an automated or semi-automated account for making repetitive edits that would be extremely tedious to do manually.
+<br />
+<small>''Administrators: if this bot is malfunctioning or causing harm, please [{{fullurl:Special:Blockip|wpBlockAddress={{PAGENAMEE}}&wpBlockExpiry=indefinite&wpAnonOnly=0&wpEnableAutoblock=0&wpCreateAccount=0&wpBlockReason=Bot%20malfunctioning:%20}} block it].''</small>
+|}{{{category|
+[[Категория:Wikipedia bots|<includeonly>{{PAGENAME}}</includeonly>]]
+}}}<noinclude>{{Documentation}}
+</noinclude>
