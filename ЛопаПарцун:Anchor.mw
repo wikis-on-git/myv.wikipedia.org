@@ -1,0 +1,10 @@
+<includeonly>{{#if:{{{11|}}}|<span style="background:#FFDD80;padding:0.2em 0.5em"> [[Template:anchor]]: задано более 10 идентификаторов </span>|<span id="{{anchorencode:{{{1}}}}}" />{{#if:{{{2|}}}|<span id="{{anchorencode:{{{2}}}}}" />}}{{#if:{{{3|}}}|<span id="{{anchorencode:{{{3}}}}}" />}}
+{{#if:{{{4|}}}|<span id="{{anchorencode:{{{4}}}}}" />}}{{#if:{{{5|}}}|<span id="{{anchorencode:{{{5}}}}}" />}}{{#if:{{{6|}}}|<span id="{{anchorencode:{{{6}}}}}" />}}{{#if:{{{7|}}}|<span id="{{anchorencode:{{{7}}}}}" />}}{{#if:{{{8|}}}|<span id="{{anchorencode:{{{8}}}}}" />}}{{#if:{{{9|}}}|<span id="{{anchorencode:{{{9}}}}}" />}}
+{{#if:{{{10|}}}|<span id="{{anchorencode:{{{10}}}}}" />}}}}</includeonly><noinclude>[[Category:Шаблонт]]
+[[en:Template:Anchor/doc]]
+[[eo:Ŝablono:Anchor]]
+[[ja:Template:Anchor]]
+[[simple:Template:Anchor/doc]]
+[[vi:Tiêu bản:Anchor/doc]]
+{{DISPLAYTITLE:Шаблон:anchor}}
+</noinclude>
