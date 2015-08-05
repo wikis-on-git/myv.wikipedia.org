@@ -1,0 +1,25 @@
+<includeonly>
+{| class="toccolours" style="float:{{{float|right}}};clear:right; margin-left: 1em; text-align:center;"
+|- style="background:{{{color}}};"
+|colspan="7"|[[{{ #time: F | {{{date}}} - 1 month}}|&larr;]] '''[[{{ #time: F | {{{date}}}}}]]''' [[{{ #time: F | {{{date}}} + 1 month}}|&rarr;]]
+|- style="background:{{{color2}}};"
+|width="14%"|[[{{ #time: l | Monday}}|{{ #time: D | Monday}}]]
+|width="14%"|[[{{ #time: l| Tuesday}}|{{ #time: D | Tuesday}}]]
+|width="14%"|[[{{ #time: l| Wednesday}}|{{ #time: D | Wednesday}}]]
+|width="14%"|[[{{ #time: l| Thursday}}|{{ #time: D | Thursday}}]]
+|width="14%"|[[{{ #time: l| Friday}}|{{ #time: D | Friday}}]]
+|width="14%"|[[{{ #time: l| Saturday}}|{{ #time: D | Saturday}}]]
+|width="14%"|[[{{ #time: l| Sunday}}|{{ #time: D | Sunday}}]]
+|-
+{{MonthCalendar/Week|day={{#expr: 2-{{#time:N|{{{date|{{#time:Y-m-01}}}}}}}}}|monthdays={{#time:t|{{{date|}}}}}|date={{#time:Y-m-01|{{{date|}}}}}}}
+{{MonthCalendar/Week|day={{#expr: 9-{{#time:N|{{{date|{{#time:Y-m-01}}}}}}}}}|monthdays={{#time:t|{{{date|}}}}}|date={{#time:Y-m-01|{{{date|}}}}}}}
+{{MonthCalendar/Week|day={{#expr:16-{{#time:N|{{{date|{{#time:Y-m-01}}}}}}}}}|monthdays={{#time:t|{{{date|}}}}}|date={{#time:Y-m-01|{{{date|}}}}}}}
+{{MonthCalendar/Week|day={{#expr:23-{{#time:N|{{{date|{{#time:Y-m-01}}}}}}}}}|monthdays={{#time:t|{{{date|}}}}}|date={{#time:Y-m-01|{{{date|}}}}}}}
+{{MonthCalendar/Week|day={{#expr:30-{{#time:N|{{{date|{{#time:Y-m-01}}}}}}}}}|monthdays={{#time:t|{{{date|}}}}}|date={{#time:Y-m-01|{{{date|}}}}}}}
+{{MonthCalendar/Week|day={{#expr:37-{{#time:N|{{{date|{{#time:Y-m-01}}}}}}}}}|monthdays={{#time:t|{{{date|}}}}}|date={{#time:Y-m-01|{{{date|}}}}}}}
+|- style="background:{{{color2}}};"
+{{#if:{{{EndNote|}}}|{{!}}colspan="7"{{!}} {{{EndNote}}}|}}
+|}
+</includeonly><noinclude>{{doc}}
+[[Категория:Википедиясь:Шаблонт:Чить]]
+</noinclude>
