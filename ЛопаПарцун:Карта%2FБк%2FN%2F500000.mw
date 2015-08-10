@@ -1,0 +1,33 @@
+{{#switch: {{{2}}}
+|N-48        = {{Карта/1000|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm1000/n-48.jpg||0|1987}}
+|N-53        = {{Карта/1000|{{{1}}}|{{{2}}}|http://mapn53.narod.ru/indexn53.html|Шантарские острова|0|1990}}
+
+
+|N-34-А      = {{Карта/500|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm500/n-34-1.jpg|Калининград|0|1988}}
+|N-34-Б      = {{Карта/500|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm500/n-34-2.jpg|Каунас|0|1988}}
+|N-34-В      = {{Карта/500|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm500/n-34-3.jpg|Быдгощ|0|1988}}
+|N-34-Г      = {{Карта/500|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm500/n-34-4.jpg|Варшава|0|1989}}
+
+
+|N-48-Г      = {{Карта/500|{{{1}}}|{{{2}}}|http://mapn48.narod.ru/map5/indexg.html|Качуг|1980|1980}}
+
+
+<!-- |N-58-Б      = {{Карта/500|{{{1}}}|{{{2}}}|http://poehali.org/maps/500k--n58-2.html||0|1990}} -->
+
+
+<!-------------------------------- Южное полушарие -------------------------->
+|N-18-А (Ю. П.) = {{Карта/500|{{{1}}}|{{{2}}}|ftp://rusyag.webhop.org/maps/GenShtab/xn/xn18/500k/500k--xn18-1.gif|м. Бригсток|0|1965}}
+|N-18-Б (Ю. П.) = {{Карта/500|{{{1}}}|{{{2}}}|ftp://rusyag.webhop.org/maps/GenShtab/xn/xn18/500k/500k--xn18-2.gif|о. Санта-Инес|0|1965}}
+
+|N-18-Г (Ю. П.) = {{Карта/500|{{{1}}}|{{{2}}}|ftp://rusyag.webhop.org/maps/GenShtab/xn/xn18/500k/500k--xn18-4.gif|о. Гуардиан-Брито|0|1965}}
+
+
+|N-19-А (Ю. П.) = {{Карта/500|{{{1}}}|{{{2}}}|ftp://rusyag.webhop.org/maps/GenShtab/xn/xn19/500k/500k--xn19-1.gif|Пунта-Аренас|0|1965}}
+|N-19-Б (Ю. П.) = {{Карта/500|{{{1}}}|{{{2}}}|ftp://rusyag.webhop.org/maps/GenShtab/xn/xn19/500k/500k--xn19-2.gif||0|1965}}
+|N-19-В (Ю. П.) = {{Карта/500|{{{1}}}|{{{2}}}|ftp://rusyag.webhop.org/maps/GenShtab/xn/xn19/500k/500k--xn19-3.gif||0|1965}}
+|N-19-Г (Ю. П.) = {{Карта/500|{{{1}}}|{{{2}}}|ftp://rusyag.webhop.org/maps/GenShtab/xn/xn19/500k/500k--xn19-4.gif||0|1965}}
+
+
+|N-20-Б (Ю. П.) = {{Карта/500|{{{1}}}|{{{2}}}|ftp://rusyag.webhop.org/maps/GenShtab/xn/xn20/500k/500k--xn20-2.gif|Порт-Стивенс|0|1985}}
+|N-20-В (Ю. П.) = {{Карта/500|{{{1}}}|{{{2}}}|ftp://rusyag.webhop.org/maps/GenShtab/xn/xn20/500k/500k--xn20-3.gif|Поликарпо|0|1965}}
+|{{Карта/Бк/N/50000|{{{1}}}|{{{2}}}}}}}<noinclude>{{doc|Шаблон:Карта/Бк/doc}}</noinclude>
