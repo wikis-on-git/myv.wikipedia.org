@@ -1,0 +1,16 @@
+{{#switch: {{{2}}}
+<!-- |O-29-Д = {{Карта/500|{{{1}}}|{{{2}}}|http://poehali.org/maps/500k--o29-4.html|||}} -->
+
+
+<!-- |O-32-А = {{Карта/500|{{{1}}}|{{{2}}}|http://poehali.org/maps/500k--o32-1.html|||}} -->
+
+
+|O-36-А = {{Карта/500|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm500/o-36-1.jpg|Ленинград|0|1988}}
+|O-36-Б = {{Карта/500|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm500/o-36-2.jpg|Тихвин|0|1988}}
+|O-36-В = {{Карта/500|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm500/o-36-3.jpg|Великие Луки|0|1979}}
+|O-36-Г = {{Карта/500|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm500/o-36-4.jpg|Калинин|0|1988}}
+
+
+|O-54-Г = {{Карта/500|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm500/o-54-4.jpg||0|1989}}
+|{{Карта/Бк/O/1000000|{{{1}}}|{{{2}}}}}
+}}<noinclude>{{doc|Шаблон:Карта/Бк/doc}}</noinclude>
