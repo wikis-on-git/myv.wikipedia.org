@@ -1,0 +1,9 @@
+{{#switch: {{{2}}}
+
+
+|N-34-56-А_И = {{Карта/50|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/rkka50/n-34-056-1-n.jpg|Норкиттен|1924-1928|1941}}
+
+|N-34-70-A   = {{Карта/50|{{{1}}}|{{{2}}}|http://download.maps.vlasenko.net/smtm50/n-34-070-1.jpg|Filipow|1980|1982}}
+
+
+|{{#if:{{{1|}}}|{{Карта/50|{{{1}}}|{{{2}}}}}}}}}<noinclude>{{doc|Шаблон:Карта/Бк/doc}}</noinclude>
