@@ -2,7 +2,7 @@
 |лем               = 
 |bodyclass         = 
 |bodyclass         = width:25em;
-|название          = {{{эрзянь_лем|{{PAGENAME}}}}}
+|header            = {{{эрзянь_лем|{{PAGENAME}}}}}
 |стиль_названия    = 
 |above             = 
 |aboveclass        = 
