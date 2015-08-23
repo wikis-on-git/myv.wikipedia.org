@@ -1,0 +1,5 @@
+<div class="NavFrame {{#if:{{{hidden|{{{hide|}}}}}}|collapsed}}" style="{{{frame-style|}}}">
+<div class="NavHead" style="{{{title-style|}}}">{{{title|}}}&nbsp;&nbsp;</div>
+<div class="NavContent" style="{{#if:{{{content-style|}}}|{{{content-style}}}|text-align:left}}">
+{{{content}}}
+</div>{{#if: {{{footer|}}}|<div style="{{{footer-style|{{{title-style|}}}}}}">{{{footer}}}</div>}}</div><noinclude>{{doc}}</noinclude>
