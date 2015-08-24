@@ -1,0 +1,20 @@
+{{ {{{1<noinclude>|масторкоцт/коцт</noinclude>}}}
+| размер = {{{размер|}}}
+| alias = Швеция
+| border-1520 =frameless
+| border-1650 =frameless
+| border-1815 =frameless
+| border-ВМС =frameless
+| flag alias = Flag of Sweden.svg
+| flag alias-1520 = Sweden-Flag-1562.svg
+| flag alias-1650 = Naval Ensign of Sweden.svg
+| flag alias-1815 = Swedish and Norwegian naval ensign 1815–1844.svg
+| flag alias-1844 = Swedish civil ensign (1844–1905).svg
+| flag alias-ВМС = Naval Ensign of Sweden.svg
+| variant = {{{variant|}}}
+| var1 = 1520
+| var2 = 1650
+| var3 = 1815
+| var4 = 1844
+| var5 = ВМС
+}}
