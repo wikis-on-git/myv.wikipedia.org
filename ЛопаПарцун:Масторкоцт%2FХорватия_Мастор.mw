@@ -1,0 +1,26 @@
+{{ {{{1<noinclude>|Масторкоцт/коцт</noinclude>}}}
+| размер = {{{размер|}}}
+| alias = Хорватия Мастор
+| flag alias = Flag of Croatia.svg
+| flag alias-ВМС = Naval Ensign of Croatia.svg
+| flag alias-1848 = Flag of the Kingdom of Croatia.svg
+| flag alias-1868 = Flag of the of Kingdom of Dalmatia, Slavonia and Croatia (1868-1918).svg
+| flag alias-1941 = Flag of Croatia Ustasa.svg
+| flag alias-1947 = Flag of SR Croatia.svg
+| flag alias-1990 = Flag of Croatia (1990).svg
+| flag alias-торговый = Civil Ensign of Croatia.svg
+| flag alias-ВМС-1941 = Naval Ensign of the Independent State of Croatia.svg
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = ВМС
+| var2 = 1848
+| var3 = 1868
+| var4 = 1941
+| var5 = 1947
+| var6 = 1990
+| var7 = торговый
+| var8 = ВМС-1941
+</noinclude>
+}}<noinclude>
+[[bg:Шаблон:Флагификация/Хърватия]]
+</noinclude>
