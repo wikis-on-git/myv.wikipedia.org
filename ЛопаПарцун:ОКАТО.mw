@@ -1,0 +1,3 @@
+{{#if: {{{1|}}} |[http://classif.spb.ru/classificators/view/okt.php?st=A&kr=1&kod={{{1}}} {{formatnum:{{{1}}}}}]}}<!--
+
+--><noinclude>{{doc}}</noinclude>
