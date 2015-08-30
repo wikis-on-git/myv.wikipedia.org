@@ -58,9 +58,9 @@
 |data18 = {{wikidata/p856|{{{вальма|}}}}}
 |label19 = Разное:
 |data19 = {{{разное|}}}
-|стиль_внизу = border-top:1px solid #DDD; background:#eaeaea;
-|внизу       = {{#if:{{{википурнавкс|}}}|'''[[commons:Category:{{{википурнавкс|}}}|{{#if: {{{лем|}}} | {{{лем}}} | {{Васня лем|{{PAGENAME}}}} }}]]'''  [[Википурнавкс]]со|{{wikidata/p373|text_before='''|text={{#if: {{{лем|}}} | {{{лем}}} | {{Васня лем|{{PAGENAME}}}} }}|text_after=''' [[Википурнавкс]]со}}}}
-|внизу2     = {{#if:{{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}<!--
+|belowstyle = border-top:1px solid #DDD; background:#eaeaea;
+|below       = {{#if:{{{википурнавкс|}}}|'''[[commons:Category:{{{википурнавкс|}}}|{{#if: {{{лем|}}} | {{{лем}}} | {{Васня лем|{{PAGENAME}}}} }}]]'''  [[Википурнавкс]]со|{{wikidata/p373|text_before='''|text={{#if: {{{лем|}}} | {{{лем}}} | {{Васня лем|{{PAGENAME}}}} }}|text_after=''' [[Википурнавкс]]со}}}}
+|below2     = {{#if:{{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}<!--
 -->|'''[[Артовкс:wikisource-logo.svg|15px|Логотип Викитеки|link={{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}]] [[{{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}|Произведения]]''' в [[Викитека|Викитеке]]<!--
 -->|{{#ifeq:{{{викитека|}}}|нельзя|{{Unicode|©}} Произведения этого автора [[Свободный контент|несвободны]]}}<!--
 -->}}
