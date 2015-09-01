@@ -12,8 +12,8 @@
  |описание флага          = 
  |ширина герба            = 
  |ширина флага            = 
-  |lat_dir = |lat_deg = 35|lat_min = 41|lat_sec = 
-  |lon_dir = |lon_deg = 139|lon_min = 36|lon_sec = 
+  |lat_dir = |lat_deg = 35|lat_min = 41|lat_sec = 00
+  |lon_dir = |lon_deg = 139|lon_min = 36|lon_sec = 00
   |CoordAddon             = 
   |CoordScale             = 
  |размер карты страны     = 
@@ -30,7 +30,7 @@
  |община в таблице        = 
  |внутреннее деление      = 
  |вид главы               = Губернатор
- |глава                   = [[:en:Naoki Inose|Иносе Наоки]]
+ |глава                   = [[:en:Naoki Inose|Наоки Иносе]]
  |дата основания          = 
  |первое упоминание       = 
  |прежние имена           = Эдо
