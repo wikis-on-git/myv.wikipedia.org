@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name   = Самарань ёнкс
+|top    = 54.8
+|bottom = 51.6
+|left   = 47.8
+|right  = 52.6
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Samara Oblast.png
+ |#default = Outline Map of Samara Oblast.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россия}}
+
+</noinclude>
