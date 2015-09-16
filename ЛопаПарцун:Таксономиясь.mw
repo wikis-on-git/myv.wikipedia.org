@@ -1,0 +1,175 @@
+<includeonly>
+{{Taxobox begin | {{{name}}} | {{Taxobox color|regnum={{{regnum}}}}}}}<!--
+
+-->{{#if: {{{image file|}}}|{{Taxobox image|[[Image:{{{image file}}}|275px|{{{image title|{{{image descr|{{PAGENAME}} }}} }}}]]|{{{image descr|}}} }}| {{#if: {{{images_set|}}}| {{{images_set|}}} }} }}<!--
+
+--> </td>
+    </tr>
+    <tr>
+      <th style="background: {{Taxobox color|regnum={{{regnum}}}}};">[[Биологиянь систематикась|Наукань классификациязо]]</th>
+    </tr>
+    <tr>
+      <td align="center">
+{|
+|-valign=top
+{{#if:{{{superregnum|}}}|
+{{!}} Царстванть ланксось:
+{{!}} {{{superregnum}}}}}
+|-valign=top
+| Кирдемазо-кандомазо:
+| {{#if:{{Якстере налтке|{{{regnum}}}}}|{{Taxobox conversion}}|[[{{{regnum}}}]]}}
+|-valign=top
+{{#if:{{{subregnum|}}}|
+{{!}} Царстванть алксось:
+{{!}} {{{subregnum}}}}}
+|-valign=top
+{{#if:{{{раздел|}}}|
+{{!}} Раздел:
+{{!}} {{{раздел}}}}}
+|-valign=top
+{{#if:{{{подраздел|}}}|
+{{!}} Подраздел:
+{{!}} {{{подраздел}}}}}
+|-valign=top
+{{#if:{{{superphylum|}}}|
+{{!}} Типэнть верькс:
+{{!}} {{{superphylum}}}}}
+|-valign=top
+{{#if:{{{phylum|}}}|
+{{!}} Типезэ:
+{{!}} {{{phylum}}}}}
+|-valign=top
+{{#if:{{{subphylum|}}}|
+{{!}} Тип алксозо:
+{{!}} {{{subphylum}}}}}
+|-valign=top
+{{#if:{{{superdivisio|}}}|
+{{!}} Отделэнть верьксэсь:
+{{!}} {{{superdivisio}}}}}
+|-valign=top
+{{#if:{{{divisio|}}}|
+{{!}} Отделэсь:
+{{!}} {{{divisio}}}}}
+|-valign=top
+{{#if:{{{subdivisio|}}}|
+{{!}} Отделэнь алксось:
+{{!}} {{{subdivisio}}}}}
+|-valign=top
+{{#if:{{{superclassis|}}}|
+{{!}} Класс верьксэзэ:
+{{!}} {{{superclassis}}}}}
+|-valign=top
+{{#if:{{{classis|}}}|
+{{!}} Классозо:
+{{!}} {{{classis}}}}}
+|-valign=top
+{{#if:{{{subclassis|}}}|
+{{!}} Класс алксозо:
+{{!}} {{{subclassis}}}}}
+|-valign=top
+{{#if:{{{infraclassis|}}}|
+{{!}} Инфраклассозо:
+{{!}} {{{infraclassis}}}}}
+|-valign=top
+{{#if:{{{superordo|}}}|
+{{!}} {{Taxobox superordo|{{{regnum}}}}}:
+{{!}} {{{superordo}}}}}
+|-valign=top
+{{#if:{{{ordo|}}}|
+{{!}} {{Taxobox ordo|{{{regnum}}}}}:
+{{!}} {{{ordo}}}}}
+|-valign=top
+{{#if:{{{subordo|}}}|
+{{!}} {{Taxobox subordo|{{{regnum}}}}}:
+{{!}} {{{subordo}}}}}
+|-valign=top
+{{#if:{{{infraordo|}}}|
+{{!}} {{Taxobox infraordo|{{{regnum}}}}}:
+{{!}} {{{infraordo}}}}}
+|-valign=top
+{{#if:{{{superfamilia|}}}|
+{{!}} Семея верьксэзэ:
+{{!}} {{{superfamilia}}}}}
+|-valign=top
+{{#if:{{{familia|}}}|
+{{!}} Буезэ:
+{{!}} {{{familia}}}}}
+|-valign=top
+{{#if:{{{subfamilia|}}}|
+{{!}} Семея алксозо:
+{{!}} {{{subfamilia}}}}}
+|-valign=top
+{{#if:{{{tribus|}}}|
+{{!}} Трибась:
+{{!}} {{{tribus}}}}}
+|-valign=top
+{{#if:{{{genus|}}}|
+{{!}} Канозо:
+{{!}} {{{genus}}}}}
+|-valign=top
+{{#if:{{{subgenus|}}}|
+{{!}} Буе алксозо:
+{{!}} {{{subgenus}}}}}
+|-valign=top
+{{#if:{{{species|}}}|
+{{!}} Чачозо:
+{{!}} {{{species}}}}}
+|-valign=top
+{{#if:{{{subspecies|}}}|
+{{!}} Вид алксозо:
+{{!}} {{{subspecies}}}}}
+|-valign=top
+{{#if:{{{unranked|}}}|
+{{!}} Рангоньвтомо:
+{{!}} {{{unranked}}}}}
+|}<!--
+
+-->{{#if: {{{latin|}}}|{{Taxobox section | Латинэнь лем|{{Taxobox color|regnum={{{regnum}}}}}}}{{{latin}}}| {{#if: {{{regnum|}}}|{{Taxobox section | Латинэнь лем|{{Taxobox color|regnum=error}}}}<small>Апак невте омбомасторонь лемезе<br />Тынь лездатад проектэньте,<br /> кодак путсынк  '''latin=лемензэ'''<br /> шаблононть потсо taxobox сёрмадовксонть потсо </small>}} }}<!--
+
+-->{{#if: {{{section text|}}}|{{Taxobox section | {{{section name}}}|{{Taxobox color|regnum={{{regnum}}}}}}}<div align=left>
+{{{section text}}}
+</div>}}<!--
+
+ ***********************
+ * Раздел "Эрямо тарказо"
+-->{{#if: {{{range map|}}}|{{Taxobox section| {{{range map caption|Эрямо тарказо}}}|{{Taxobox color|regnum={{{regnum}}}}}}}{{Taxobox image| [[Image:{{{range map}}}|{{{range map width|250px}}}]]|}}<!--
+
+-->{{#if: {{{range legend|}}}|</td></tr><tr><td align="left">{{{range legend}}}}}<!--
+
+-->}}<!-- 
+ * Конец Раздела "Эрямо тарказо"
+ ***********************
+
+--><tr style="{{#if:{{{wikispecies|}}}{{{commons|}}}{{{itis|}}}{{{ncbi|}}}||display:none}}" class="plainlinksneverexpand">
+<td style="padding:0px;font-size:80%;">
+<table width=100% cellspacing=0 cellpadding=0><tr>
+<th style="{{#if:{{{wikispecies|}}}||display:none;}}background:{{Taxobox color|regnum={{{regnum}}}}};">
+[[Image:Wikispecies-logo.svg|17px]]<br>[{{fullurl:wikispecies:{{{wikispecies}}}|uselang=ru}} Систематикась<br> Викилувтнесэ]
+</th><th style="{{#if:{{{commons|}}}||display:none;}}background:{{Taxobox color|regnum={{{regnum}}}}};">
+[[Image:Commons-logo.svg|15px]]<br>[{{fullurl:commons:{{{commons}}}|uselang=ru}} Артовкст<br>Википурнавкссо]
+{{#if: {{{image file |}}}|{{#if: {{{commons|}}}||{{категория только в статьях|Статьи об организмах без иллюстраций на Викискладе}}}}|{{категория только в статьях|Статьи об организмах без иллюстраций}}}}
+</th><th style="{{#if: {{{itis|}}}{{{ncbi|}}}||display:none}};background:{{Taxobox color|regnum={{{regnum}}}}}"><table width=100% cellspacing=0 cellpadding=0 style="background:{{Taxobox color|regnum={{{regnum}}}}}">
+{{#if:{{{itis|}}}|{{Taxobox itis|1{{=}}{{{itis}}} }} }}
+{{#if:{{{ncbi|}}}|{{Taxobox ncbi|1{{=}}{{{ncbi}}} }} }}
+</table></th></tr></table></td></tr><!-- 
+
+ Проверки на некорректные параметры:
+-->{{#if: {{{subdivision|}}}| {{Taxobox conversion|subdivision}} }}<!--
+-->{{#if: {{{sectio|}}}| {{Taxobox conversion|sectio}} }}<!--
+-->{{#if: {{{subsectio|}}}| {{Taxobox conversion|subsectio}} }}<!--
+-->{{#if: {{{subtribus|}}}| {{Taxobox conversion|subtribus}} }}<!--
+-->{{#if: {{{supersectio|}}}| {{Taxobox conversion|supersectio}} }}<!--
+-->{{#if: {{{supertribus|}}}| {{Taxobox conversion|supertribus}} }}<!--
+-->{{#if: {{{color|}}}| {{Taxobox conversion|color}} }}<!--
+-->{{#if: {{{latin|}}}||{{Taxobox conversion|latin}} }}<!--
+
+-->{{Taxobox_end}}<!--
+
+--></includeonly>
+<noinclude>
+
+{{doc}}
+[[Category:Таксономиянь шаблонт]]
+
+
+</noinclude>
