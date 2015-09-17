@@ -1,0 +1,4 @@
+<span class="wp-templatelink">&#123;{</span>{{#if: {{{1|}}} | {{#ifeq: ЛопаПарцун:{{ucfirst:{{{1|}}}}}|{{#titleparts:{{FULLPAGENAME}}|1}}|{{{1}}}|[[ЛопаПарцун:{{{1}}}|{{{1}}}]]}} | {{lcfirst:{{#titleparts:{{PAGENAME}}|1}}}} }}<span class="wp-templatelink">}}</span><noinclude>{{doc}}
+
+[[Категори:ЛопаПарцун:ЛопаПарцун|{{PAGENAME}}]]
+</noinclude>
