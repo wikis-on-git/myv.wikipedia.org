@@ -1,0 +1,6 @@
+{{lang|1=grc|2=<span style="font-family: palatino linotype, new athena unicode, athena, gentium, code2000, serif; font-size: 105%;">{{{1}}}</span>}}<!--
+-->{{#if: {{{2|}}}|, {{lang|grc-Latn|{{{2}}}}}}}<!--
+-->{{#if:{{{3|}}}|&nbsp;— {{{3}}}}}<!--
+--><noinclude>{{doc}}
+[[Категория:Келень шаблонт|grc2]]
+</noinclude>
