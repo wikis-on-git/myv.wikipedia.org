@@ -1,0 +1,30 @@
+{{ {{{1<noinclude>|масторкоцт/коцт</noinclude>}}}
+| alias = Болгария Мастор
+| flag alias = Flag of Bulgaria.svg
+| flag alias-оф = Flag of the Bulgarian Homeland Front.svg
+| flag alias-1946 = Flag of Bulgaria (1946-1967).svg
+| flag alias-1948 = Flag of Bulgaria (1948-1967).svg
+| flag alias-1967 = Flag of Bulgaria (1967-1971).svg
+| flag alias-1971 = Flag of Bulgaria (1971-1990).svg
+| flag alias-ВМС = Naval Ensign of Bulgaria.svg
+| flag alias-ВМС-1955 = Naval Ensign of Bulgaria (1955-1990).svg
+| flag alias-ВМС-1949 = Naval Ensign of Bulgaria (1949-1955).svg
+| flag alias-ВМС-1878 = Naval Ensign of Bulgaria (1878-1944).svg
+| flag alias-самарское знамя = Samara flag.png
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1946
+| var2 = 1948
+| var3 = 1967
+| var4 = 1971
+| var5 = оф
+| var6 = ВМС
+| var7 = ВМС-1955
+| var8 = ВМС-1949
+| var9 = ВМС-1878
+| var10 = самарское знамя
+</noinclude>
+| размер = {{{размер|}}}
+}}<noinclude>
+[[bg:Шаблон:Флагификация/България]]
+</noinclude>
