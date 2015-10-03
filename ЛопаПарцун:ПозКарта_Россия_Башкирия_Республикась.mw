@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name = Башкория Республикась
+| top    = 56.6
+| bottom = 51.5
+| left   = 53.0
+| right  = 60.2
+| image  = {{#switch:{{{2|}}}
+ |physical = Relief Map of Bashkortostan.jpg
+ |#default = Outline Map of Bashkortostan 2.svg
+}}
+}}<noinclude>
+{{ПозКарта/Инфо|Россия}}
+</noinclude>
