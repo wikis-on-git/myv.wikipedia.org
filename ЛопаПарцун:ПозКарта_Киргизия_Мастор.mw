@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name    = Киргизия Мастор
+| top    = 43.5
+| bottom = 39.0
+| left   = 69.0
+| right  = 80.6
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Kyrgyzstan.png
+ |#default = Kyrgyzstan location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Киргизия Мастор}}
+
+</noinclude>
