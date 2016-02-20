@@ -1,0 +1,17 @@
+{{#switch:{{{1}}}
+|name = Германия Мастор
+| top = 55.1
+| bottom = 47.2
+| left = 5.5
+| right = 15.5
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Germany.png
+ |#default = Germany location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Германия}}
+
+
+[[be-x-old:Шаблён:Лякалізацыйная мапа Нямеччыны]]
+[[ml:ഫലകം:Location map Germany]]
+[[th:แม่แบบ:Location map Germany]]
+</noinclude>
