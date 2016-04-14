@@ -1,0 +1,8 @@
+<noinclude>{{docpage}}</noinclude>
+Этот служебный шаблон предоставляет навигацию для документации шаблона при использовании {{tl|doc}}. Его вставляют на подстраницу <code style="white-space:nowrap"><span style="opacity:0.5">название страницы</span>/doc</code> в виде
+ <nowiki><noinclude>{{docpage}}</noinclude></nowiki>
+
+Увидеть, как он выглядит, можно при просмотре [[ЛопаПарцун:Docpage/Документация|документации этого шаблон]]а.
+<includeonly>
+[[Категория:Шаблонт]]
+</includeonly>
