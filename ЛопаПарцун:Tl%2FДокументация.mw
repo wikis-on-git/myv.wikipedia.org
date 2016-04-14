@@ -1,0 +1,15 @@
+<noinclude>{{docpage}}</noinclude>
+
+Шаблон предназначен для ссылок на шаблоны из текста обсуждений или справки.
+
+== Использование ==
+<pre>{{tl|wikify}}</pre>
+
+Выглядит вот так: {{tl|wikify}}
+
+== См. также ==
+* {{tl|TRef}}
+
+<includeonly>
+[[Category:Шаблонт]]
+</includeonly>
