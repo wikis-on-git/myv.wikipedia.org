@@ -6,7 +6,7 @@
 |right  = 6.6
 |image={{#switch: {{{2|}}}
 |physical=Luxembourg relief location map.jpg
-|#default=Luxembourg location map.svg
+|#default=Luxembourg location map - cantons.svg
 }}
 |areas = {{#switch:{{{2|}}}
  |physical = {{ЛопаПарцун:ПозКарта Люксембург Мастор/adm}}
