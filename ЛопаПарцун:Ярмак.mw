@@ -28,7 +28,7 @@
 
 <!----- Коды и символы ----->
 |-
-{{#if: {{{ISO|}}}{{{Символ|}}}{{{Аббревиатура|}}} |
+{{#if: {{{ISO|}}}{{{Ярмаконь тешкс|}}}{{{Аббревиатура|}}} |
 {{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Коды и символы'''
 }}
 |-
@@ -37,9 +37,9 @@
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{ISO}}} {{#if: {{{ISO цифровой|}}}|({{{ISO цифровой}}})}}
 }}
 |-
-{{#if: {{{Символ|}}} |
-{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Знаки валют|Символы]]</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Символ}}}
+{{#if: {{{Ярмаконь тешкс|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Ярмаконь тешкст|Ярмаконь тешкст]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Ярмаконь тешкс}}}
 }}
 |-
 {{#if: {{{Аббревиатура|}}} |
@@ -211,7 +211,7 @@
 |-
 {{#if: {{{Дата|}}} |
 {{!}}-
-{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Курсы на {{#if: {{{Дата|}}}|{{{Дата}}}|{{Валютный курс|{{{ISO|}}}|Дата}} }} года'''
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Курсы на {{#if: {{{Дата|}}}|{{{Дата}}}|{{Ярмаконь курс|{{{ISO|}}}|Дата}} }} года'''
 {{!}}-
 {{#if: {{{Курс1|}}}|
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} {{#if: {{{Валюта1|}}}|{{{Валюта1}}}|1 [[Российский рубль|RUB]] }}
@@ -242,24 +242,24 @@
 
 <!----- Курс (для автоматического заполнения полей) ----->
 {{#if: {{{Курс1|}}}{{{Курс2|}}}{{{Курс3|}}}{{{Курс4|}}}{{{Курс5|}}} | |
-{{#if: {{Валютный курс|{{{ISO|}}}|{{{ISO|}}}}}{{Валютный курс|{{{Обозначение|}}}|{{{Обозначение|}}}}} |
+{{#if: {{Ярмаконь курс|{{{ISO|}}}|{{{ISO|}}}}}{{Ярмаконь курс|{{{Обозначение|}}}|{{{Обозначение|}}}}} |
 {{!}}-
-{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Курсы на {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|Дата}}|{{Валютный курс|{{{ISO|}}}|Дата}} }} года'''
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Курсы на {{#if: {{{Обозначение|}}}|{{Ярмаконь курс|{{{Обозначение|}}}|Дата}}|{{Ярмаконь курс|{{{ISO|}}}|Дата}} }} года'''
 {{!}}-
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Российский рубль|RUB]]
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|RUB}} {{{Обозначение}}}|{{Валютный курс|{{{ISO|}}}|RUB}} {{{ISO|{{PAGENAME}}}}} }}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Ярмаконь курс|{{{Обозначение|}}}|RUB}} {{{Обозначение}}}|{{Ярмаконь курс|{{{ISO|}}}|RUB}} {{{ISO|{{PAGENAME}}}}} }}
 {{!}}-
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Доллар США|USD]]
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|USD}} {{{Обозначение}}}|{{Валютный курс|{{{ISO|}}}|USD}} {{{ISO|{{PAGENAME}}}}} }}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Ярмаконь курс|{{{Обозначение|}}}|USD}} {{{Обозначение}}}|{{Ярмаконь курс|{{{ISO|}}}|USD}} {{{ISO|{{PAGENAME}}}}} }}
 {{!}}-
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Евро|EUR]]
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|EUR}} {{{Обозначение}}}|{{Валютный курс|{{{ISO|}}}|EUR}} {{{ISO|{{PAGENAME}}}}} }}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Ярмаконь курс|{{{Обозначение|}}}|EUR}} {{{Обозначение}}}|{{Ярмаконь курс|{{{ISO|}}}|EUR}} {{{ISO|{{PAGENAME}}}}} }}
 {{!}}-
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Фунт стерлингов|GBP]]
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|GBP}} {{{Обозначение}}}|{{Валютный курс|{{{ISO|}}}|GBP}} {{{ISO|{{PAGENAME}}}}} }}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Ярмаконь курс|{{{Обозначение|}}}|GBP}} {{{Обозначение}}}|{{Ярмаконь курс|{{{ISO|}}}|GBP}} {{{ISO|{{PAGENAME}}}}} }}
 {{!}}-
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Японская иена|JPY]]
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|JPY}} {{{Обозначение}}}|{{Валютный курс|{{{ISO|}}}|JPY}} {{{ISO|{{PAGENAME}}}}} }}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Ярмаконь курс|{{{Обозначение|}}}|JPY}} {{{Обозначение}}}|{{Ярмаконь курс|{{{ISO|}}}|JPY}} {{{ISO|{{PAGENAME}}}}} }}
 }}}}
 
 <!----- Курс для любой «Валюты 6» (можно по аналогии добавлять до бесконечности) ----->
@@ -272,7 +272,7 @@
 <!----- Вывод примечания об автоматическом обновлении курса ----->
 |-
 {{#if: {{{ISO|}}} |
-{{!}} colspan="2" style="background-color: #ffffff; text-align: left; vertical-align:top;" {{!}} <small>Курсы [[Шаблон:Валютный курс|обновляются ботом]] на основе данных [[Международный валютный фонд|МВФ]], [[Европейский центральный банк|ЕЦБ]] и [[Центральный банк Российской Федерации|ЦБ РФ]]. Подробнее см. в разделе «[[{{PAGENAME}}#Режим валютного курса|Режим валютного курса]]».</small>
+{{!}} colspan="2" style="background-color: #ffffff; text-align: left; vertical-align:top;" {{!}} <small>Курсы [[Шаблон:Ярмаконь курс|обновляются ботом]] на основе данных [[Международный валютный фонд|МВФ]], [[Европейский центральный банк|ЕЦБ]] и [[Центральный банк Российской Федерации|ЦБ РФ]]. Подробнее см. в разделе «[[{{PAGENAME}}#Режим валютного курса|Режим валютного курса]]».</small>
 }}
 
 <!----- Инфляция ----->
