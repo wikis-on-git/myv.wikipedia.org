@@ -1,0 +1,304 @@
+{| class="infobox geography" style="width: {{#if: {{{Ширина|}}}|{{{Ширина}}}px|350px }};"
+
+<!-- Название на русском языке -->
+! colspan="2" align="center" style="background-color: #CCCC66; font-size: 120%; color: #fff;" | {{#if: {{{Название|}}}|{{{Название|}}}|{{{ОКВ-ru|}}} <small>''{{ref-info|рус.|на русском языке в Общероссийском или Общесоюзном классификаторе валют}}''</small> }}
+
+<!-- Названия на языке эмитента и официальных языках стандарта ISO 4217 -->
+|-
+{{#if: {{{Оригинальное название|}}}{{{ISO-en|}}}{{{ISO-fr|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; font-size: 100%; color: #fff; text-align: center;" {{!}} 
+{{#if: {{{Оригинальное название|}}} | '''''{{{Оригинальное название|}}} {{#if: {{{Код языка|}}}|{{ref-{{{Код языка}}}}} }}''''' {{#if: {{{ISO-en|}}} | <br /> '''''{{{ISO-en}}} {{ref-info|англ.|на английском языке в стандарте ISO 4217}}''''' }} {{#if: {{{ISO-fr|}}} | <br /> '''''{{{ISO-fr}}} {{ref-info|фр.|на французском языке в стандарте ISO 4217}}''''' }} {{#if: {{{Название|}}}|{{#if: {{{ОКВ-ru|}}}| <br />'''''{{{ОКВ-ru|}}} {{ref-info|рус.|на русском языке в Общероссийском или Общесоюзном классификаторе валют}}'''''| }}| }} | {{#if: {{{ISO-en|}}} | '''''{{{ISO-en}}} {{ref-info|англ.|на английском языке в стандарте ISO 4217}}''''' }} {{#if: {{{ISO-fr|}}} | <br /> '''''{{{ISO-fr}}} {{ref-info|фр.|на французском языке в стандарте ISO 4217}}''''' }} {{#if: {{{Название|}}}|{{#if: {{{ОКВ-ru|}}} | <br />'''''{{{ОКВ-ru|}}} {{ref-info|рус.|на русском языке в Общероссийском или Общесоюзном классификаторе валют}}''''' | }}| }}
+}}}}
+
+<!-- Изображения и подписи к ним -->
+|-
+{{#if: {{{Изображение|}}}{{{Изображение2|}}} |
+{{!-}}
+{{!}} colspan="2" style="background-color:#ffffff; text-align: center;" {{!}}
+    {{{!}} width="100%" style="margin: 0 auto; text-align: center;"
+    {{!}} style="vertical-align: middle; text-align: center; {{#if: {{{Фон_изображения|}}} | background: {{{Фон_изображения}}}; }}" {{!}} [[Файл:{{{Изображение}}}|{{#if: {{{Ширина изображения|}}}|{{{Ширина изображения}}}px|{{#if: {{{Изображение2|}}}|150px|300px }} }}|{{{Подпись|}}}]]
+    {{#if: {{{Изображение2|}}} | {{!}} style="vertical-align: middle; text-align: center; {{#if: {{{Фон_изображения2|}}}|background: {{{Фон_изображения2}}}; }}" {{!}} [[Файл:{{{Изображение2}}}|{{#if: {{{Ширина изображения2|}}}|{{{Ширина изображения2}}}px|150px }}|{{{Подпись2|}}}]] }}
+    {{!-}} style="font-size: 90%;"
+    {{#if: {{{Общая подпись|}}} | {{!}}colspan="2" style="background-color:#ffffff; text-align: center;"{{!}} {{{Общая подпись}}}|
+    {{#if: {{{Подпись|}}} | {{!}} {{{Подпись|}}} }}
+    {{#if: {{{Подпись2|}}} | {{!}} {{{Подпись2|}}} }}
+    }}
+    {{!}}}
+}}
+
+<!----- Коды и символы ----->
+|-
+{{#if: {{{ISO|}}}{{{Символ|}}}{{{Аббревиатура|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Коды и символы'''
+}}
+|-
+{{#if: {{{ISO|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>Коды [[ISO 4217]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{ISO}}} {{#if: {{{ISO цифровой|}}}|({{{ISO цифровой}}})}}
+}}
+|-
+{{#if: {{{Символ|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Знаки валют|Символы]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Символ}}}
+}}
+|-
+{{#if: {{{Аббревиатура|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Знаки валют|Аббревиатуры]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Аббревиатура}}}
+}}
+
+<!----- Территория обращения ----->
+|-
+{{#if: {{{Эмитент|}}}{{{Оф_пользователи|}}}{{{Неоф_пользователи|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Территория обращения'''
+}}
+|-
+{{#if: {{{Эмитент|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>[[Эмиссия денег|Эмитент]]</small>
+{{!}} style="background-color: #FFFF99;text-align: left;" {{!}} {{{Эмитент}}}
+}}
+|-
+{{#if: {{{Оф_пользователи|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>Официально</small>
+{{!}} style="background-color: #FFFF99;text-align: left;" {{!}} {{{Оф_пользователи}}}
+}}
+<!--|-
+{{#if: {{{Неоф_пользователи|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>Неофициально</small>
+{{!}} style="background-color: #FFFF99;text-align: left;" {{!}} {{{Неоф_пользователи}}}
+}}-->
+
+<!----- Дробные, кратные и параллельные единицы ----->
+|-
+{{#if: {{{Состоит1|}}}{{{Кратная1|}}}{{{Параллельная1|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Производные и параллельные единицы'''
+}}
+|-
+{{#if: {{{Состоит1|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Существующие разменные денежные единицы|Дробные]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Состоит1}}} {{#if: {{{Соотношение1|}}}| ({{дробь|{{{Соотношение1}}}}}) }} 
+}}
+|-
+{{#if: {{{Состоит2|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Состоит2}}} {{#if: {{{Соотношение2|}}}| ({{дробь|{{{Соотношение2}}}}}) }} 
+}}
+|-
+{{#if: {{{Состоит3|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Состоит3}}} {{#if: {{{Соотношение3|}}}| ({{дробь|{{{Соотношение3}}}}}) }} 
+}}
+|-
+{{#if: {{{Состоит4|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Состоит4}}} {{#if: {{{Соотношение7|}}}| ({{дробь|{{{Соотношение7}}}}}) }} 
+}}
+|-
+{{#if: {{{Кратная1|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>Кратные</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Кратная1}}} {{#if: {{{Соотношение4|}}}| ({{{Соотношение4}}}) }} 
+}}
+|-
+{{#if: {{{Кратная2|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Кратная2}}} {{#if: {{{Соотношение5|}}}| ({{{Соотношение5}}}) }} 
+}}
+|-
+{{#if: {{{Кратная3|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Кратная3}}} {{#if: {{{Соотношение6|}}}| ({{{Соотношение6}}}) }} 
+}}
+|-
+{{#if: {{{Параллельная1|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Параллельная валюта|Параллельные]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Параллельная1}}} 
+}}
+|-
+{{#if: {{{Параллельная2|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Параллельная2}}} 
+}}
+|-
+{{#if: {{{Параллельная3|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Параллельная3}}} 
+}}
+
+<!----- Монеты и банкноты в обращении ----->
+|-
+{{#if: {{{Монеты|}}}{{{Банкноты|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Монеты и банкноты в обращении'''
+}}
+|-
+{{#if: {{{Монеты|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Монета|Монеты]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Монеты}}}
+}}
+|-
+{{#if: {{{Банкноты|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Банкнота|Банкноты]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Банкноты}}}
+}}
+
+<!----- История ----->
+|-
+{{#if: {{{Введена|}}}{{{Введена-конец|}}}{{{Заменила|}}}{{{Хроника|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''История валюты'''
+}}
+|-
+{{#if: {{{Введена|}}}{{{Введена-конец|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>{{#if: {{{Введена-конец|}}}|{{#if: {{{Введена|}}}|Период введения|Объявлена [[Законное средство платежа|ЕЗСП]]}}|Введена}}</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{#if: {{{Введена-конец|}}}|{{#if: {{{Введена|}}}|{{{Введена}}}—{{{Введена-конец}}}|{{{Введена-конец}}} }}|{{{Введена}}} }}
+}}
+|-
+{{#if: {{{Заменила|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>{{nobr|Валюта-предшественник}}</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Заменила}}}
+}}
+|-
+{{#if: {{{Хроника|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>Хроника</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Хроника}}}
+}}
+
+<!----- Производство монет и банкнот ----->
+|-
+{{#if: {{{Центробанк|}}}{{{Печатает|}}}{{{Монетный_двор|}}}{{{Монетный_двор2|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Производство монет и банкнот'''
+}}
+|-
+{{#if: {{{Центробанк|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[{{{Центробанк заглавие|Эмиссионный центр}}}]]}}</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Центробанк}}}
+}}
+|-
+{{#if: {{{Центробанк_сайт|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Центробанк_сайт}}} {{{Центробанк_сайт}}}]
+}}
+|-
+{{#if: {{{Печатает|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[Банкнота|Производитель банкнот]]}}</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Печатает}}}
+}}
+|-
+{{#if: {{{Печатает_сайт|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Печатает_сайт}}} {{{Печатает_сайт}}}]
+}}
+|-
+{{#if: {{{Монетный_двор|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[Монетный двор]]}}</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Монетный_двор}}}
+}}
+|-
+{{#if: {{{Монетный_двор_сайт|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Монетный_двор_сайт}}} {{{Монетный_двор_сайт}}}]
+}}
+|-
+{{#if: {{{Монетный_двор2|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Монетный_двор2}}}
+}}
+|-
+{{#if: {{{Монетный_двор_сайт2|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Монетный_двор_сайт2}}} {{{Монетный_двор_сайт2}}}]
+}}
+
+<!----- Курс для ручного ввода по пяти заданным валютам ----->
+|-
+{{#if: {{{Дата|}}} |
+{{!}}-
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Курсы на {{#if: {{{Дата|}}}|{{{Дата}}}|{{Валютный курс|{{{ISO|}}}|Дата}} }} года'''
+{{!}}-
+{{#if: {{{Курс1|}}}|
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} {{#if: {{{Валюта1|}}}|{{{Валюта1}}}|1 [[Российский рубль|RUB]] }}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{{Курс1}}} {{{Обозначение}}}|{{{Курс1}}} {{{ISO|{{PAGENAME}}}}} }}
+}}
+{{!}}-
+{{#if: {{{Курс2|}}}|
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} {{#if: {{{Валюта2|}}}|{{{Валюта2}}}|1 [[Доллар США|USD]] }}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{{Курс2}}} {{{Обозначение}}}|{{{Курс2}}} {{{ISO|{{PAGENAME}}}}} }}
+}}
+{{!}}-
+{{#if: {{{Курс3|}}}|
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} {{#if: {{{Валюта3|}}}|{{{Валюта3}}}|1 [[Евро|EUR]] }}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{{Курс3}}} {{{Обозначение}}}|{{{Курс3}}} {{{ISO|{{PAGENAME}}}}} }}
+}}
+{{!}}-
+{{#if: {{{Курс4|}}}|
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} {{#if: {{{Валюта4|}}}|{{{Валюта4}}}|1 [[Фунт стерлингов|GBP]] }}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{{Курс4}}} {{{Обозначение}}}|{{{Курс4}}} {{{ISO|{{PAGENAME}}}}} }}
+}}
+{{!}}-
+{{#if: {{{Курс5|}}}|
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} {{#if: {{{Валюта5|}}}|{{{Валюта5}}}|1 [[Японская иена|JPY]] }}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{{Курс5}}} {{{Обозначение}}}|{{{Курс5}}} {{{ISO|{{PAGENAME}}}}} }}
+}}
+{{!}}-
+}}
+
+<!----- Курс (для автоматического заполнения полей) ----->
+{{#if: {{{Курс1|}}}{{{Курс2|}}}{{{Курс3|}}}{{{Курс4|}}}{{{Курс5|}}} | |
+{{#if: {{Валютный курс|{{{ISO|}}}|{{{ISO|}}}}}{{Валютный курс|{{{Обозначение|}}}|{{{Обозначение|}}}}} |
+{{!}}-
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Курсы на {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|Дата}}|{{Валютный курс|{{{ISO|}}}|Дата}} }} года'''
+{{!}}-
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Российский рубль|RUB]]
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|RUB}} {{{Обозначение}}}|{{Валютный курс|{{{ISO|}}}|RUB}} {{{ISO|{{PAGENAME}}}}} }}
+{{!}}-
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Доллар США|USD]]
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|USD}} {{{Обозначение}}}|{{Валютный курс|{{{ISO|}}}|USD}} {{{ISO|{{PAGENAME}}}}} }}
+{{!}}-
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Евро|EUR]]
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|EUR}} {{{Обозначение}}}|{{Валютный курс|{{{ISO|}}}|EUR}} {{{ISO|{{PAGENAME}}}}} }}
+{{!}}-
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Фунт стерлингов|GBP]]
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|GBP}} {{{Обозначение}}}|{{Валютный курс|{{{ISO|}}}|GBP}} {{{ISO|{{PAGENAME}}}}} }}
+{{!}}-
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Японская иена|JPY]]
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Валютный курс|{{{Обозначение|}}}|JPY}} {{{Обозначение}}}|{{Валютный курс|{{{ISO|}}}|JPY}} {{{ISO|{{PAGENAME}}}}} }}
+}}}}
+
+<!----- Курс для любой «Валюты 6» (можно по аналогии добавлять до бесконечности) ----->
+|-
+{{#if: {{{Курс6|}}}|
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} {{#if: {{{Валюта6|}}}|{{{Валюта6}}}|Введите название валюты }}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{{Курс6}}} {{{Обозначение}}}|{{{Курс6}}} {{{ISO|{{PAGENAME}}}}} }}
+}}
+
+<!----- Вывод примечания об автоматическом обновлении курса ----->
+|-
+{{#if: {{{ISO|}}} |
+{{!}} colspan="2" style="background-color: #ffffff; text-align: left; vertical-align:top;" {{!}} <small>Курсы [[Шаблон:Валютный курс|обновляются ботом]] на основе данных [[Международный валютный фонд|МВФ]], [[Европейский центральный банк|ЕЦБ]] и [[Центральный банк Российской Федерации|ЦБ РФ]]. Подробнее см. в разделе «[[{{PAGENAME}}#Режим валютного курса|Режим валютного курса]]».</small>
+}}
+
+<!----- Инфляция ----->
+|-
+{{#if: {{{Инфляция|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Инфляция в {{{Год|}}} году'''
+}}
+|-
+{{#if: {{{Инфляция|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>[[Инфляция]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Инфляция}}}
+}}
+
+<!----- Сноски ----->
+|-
+{{#if: {{{ГруппаСносок|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}}
+{{!}}-
+{{!}} colspan="2" style="background-color: #ffffff; text-align: left; vertical-align:top;" {{!}} {{примечания|group={{{ГруппаСносок}}}}}
+}}
+
+<!-- Викисклад -->
+|-
+{{#if: {{{Викисклад|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}}[[File:Commons logo optimized.svg|14px]] '''[[commons:{{{Викисклад}}}|{{#if: {{{ОКВ-ru|}}}|{{{ОКВ-ru}}}|{{{Название|{{{Викисклад|}}}}}} }}]] на [[Викисклад]]е''' |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}}
+}}
+
+|}{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Категория:Деньги, находящиеся в обращении]]}}<noinclude>{{Doc}}</noinclude>
