@@ -214,12 +214,12 @@
 {{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Курсы на {{#if: {{{Дата|}}}|{{{Дата}}}|{{Ярмаконь курс|{{{ISO|}}}|Дата}} }} года'''
 {{!}}-
 {{#if: {{{Курс1|}}}|
-{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} {{#if: {{{Валюта1|}}}|{{{Валюта1}}}|1 [[Российский рубль|RUB]] }}
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} {{#if: {{{Валюта1|}}}|{{{Валюта1}}}|1 [[Россиянь целковой|RUB]] }}
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{{Курс1}}} {{{Обозначение}}}|{{{Курс1}}} {{{ISO|{{PAGENAME}}}}} }}
 }}
 {{!}}-
 {{#if: {{{Курс2|}}}|
-{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} {{#if: {{{Валюта2|}}}|{{{Валюта2}}}|1 [[Доллар США|USD]] }}
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} {{#if: {{{Валюта2|}}}|{{{Валюта2}}}|1 [[АВШ-нь доллар|USD]] }}
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{{Курс2}}} {{{Обозначение}}}|{{{Курс2}}} {{{ISO|{{PAGENAME}}}}} }}
 }}
 {{!}}-
