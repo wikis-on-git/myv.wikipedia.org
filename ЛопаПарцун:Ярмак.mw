@@ -76,22 +76,22 @@
 |-
 {{#if: {{{Состоит1|}}} |
 {{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Существующие разменные денежные единицы|Дробные]]</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Состоит1}}} {{#if: {{{Соотношение1|}}}| ({{дробь|{{{Соотношение1}}}}}) }} 
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Состоит1}}} {{#if: {{{Соотношение1|}}}| ({{Явовкс|{{{Соотношение1}}}}}) }} 
 }}
 |-
 {{#if: {{{Состоит2|}}} |
 {{!}} style="background-color: #ffffff; text-align: right;" {{!}}
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Состоит2}}} {{#if: {{{Соотношение2|}}}| ({{дробь|{{{Соотношение2}}}}}) }} 
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Состоит2}}} {{#if: {{{Соотношение2|}}}| ({{Явовкс|{{{Соотношение2}}}}}) }} 
 }}
 |-
 {{#if: {{{Состоит3|}}} |
 {{!}} style="background-color: #ffffff; text-align: right;" {{!}}
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Состоит3}}} {{#if: {{{Соотношение3|}}}| ({{дробь|{{{Соотношение3}}}}}) }} 
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Состоит3}}} {{#if: {{{Соотношение3|}}}| ({{Явовкс|{{{Соотношение3}}}}}) }} 
 }}
 |-
 {{#if: {{{Состоит4|}}} |
 {{!}} style="background-color: #ffffff; text-align: right;" {{!}}
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Состоит4}}} {{#if: {{{Соотношение7|}}}| ({{дробь|{{{Соотношение7}}}}}) }} 
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Состоит4}}} {{#if: {{{Соотношение7|}}}| ({{Явовкс|{{{Соотношение7}}}}}) }} 
 }}
 |-
 {{#if: {{{Кратная1|}}} |
