@@ -1,4 +1,4 @@
-{| class="infobox geography" style="width: {{#if: {{{Ширина|}}}|{{{Ширина}}}px|350px }};"
+{| class="infobox geography" style="width: {{#if: {{{ЛопПарцун покшолмазо|}}}|{{{ЛопПарцун покшолмазо}}}px|350px }};"
 
 <!-- Лемесь эрзянь кельсэ -->
 ! colspan="2" align="center" style="background-color: #CCCC66; font-size: 120%; color: #fff;" | {{#if: {{{Лем|}}}|{{{Лем|}}}|{{{ОКВ-ru|}}} <small>''{{ref-info|рус.|на русском языке в Общероссийском или Общесоюзном классификаторе валют}}''</small> }}
@@ -301,4 +301,4 @@
 {{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}}
 }}
 
-|}{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Категория:Деньги, находящиеся в обращении]]}}<noinclude>{{Doc}}</noinclude>
+|}{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Категория:Неень шкань ярмакт]]}}<noinclude>{{Doc}}</noinclude>
