@@ -246,7 +246,7 @@
 {{!}}-
 {{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Курсы на {{#if: {{{Обозначение|}}}|{{Ярмаконь курс|{{{Обозначение|}}}|Дата}}|{{Ярмаконь курс|{{{ISO|}}}|Дата}} }} года'''
 {{!}}-
-{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Российский рубль|RUB]]
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Россиянь целковой|RUB]]
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} = {{#if: {{{Обозначение|}}}|{{Ярмаконь курс|{{{Обозначение|}}}|RUB}} {{{Обозначение}}}|{{Ярмаконь курс|{{{ISO|}}}|RUB}} {{{ISO|{{PAGENAME}}}}} }}
 {{!}}-
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} 1 [[Доллар США|USD]]
