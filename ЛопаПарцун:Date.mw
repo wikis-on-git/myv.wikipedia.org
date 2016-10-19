@@ -1,0 +1,6 @@
+<includeonly>{{ #ifeq: {{{4|0}}}|0|[[{{realmonth|{{{2|{{CURRENTMONTH}}}}}}}онь {{ #expr: {{{1|{{CURRENTDAY}}}}} }} чи|{{{1|{{CURRENTDAY}}}}}.{{{2|{{CURRENTMONTH}}}}}]].[[{{{3|{{CURRENTYEAR}}}}} ие|{{{3|{{CURRENTYEAR}}}}}]]|
+[[{{realmonth|{{{2|{{CURRENTMONTH}}}}}}}онь {{ #expr: {{{1|{{CURRENTDAY}}}}} }} чи]] [[{{{3|{{CURRENTYEAR}}}}} ие|{{{3|{{CURRENTYEAR}}}}}]]}}</includeonly><noinclude>
+{{doc}}
+[[Category:Шкань шаблонт]]
+
+</noinclude>
