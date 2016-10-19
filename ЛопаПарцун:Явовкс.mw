@@ -1,0 +1,26 @@
+<includeonly><span style="white-space:nowrap"><!--
+-->{{#if:{{{3|}}}<!-- если есть третий параметр
+
+  то: вывод в форме «целое ^числитель/_знаменатель»:
+  -->|{{formatnum:{{{1}}}}}<s style="display:none">+</s><span class="template-дробь style="font-size:0.8em"><sup>{{formatnum:{{{2}}}}}</sup><big>⁄</big><sub>{{formatnum:{{{3}}}}}</sub></span><!--
+
+  иначе:
+  -->|{{#if:{{{2|}}}<!-- если задан второй параметр
+
+    то: вывод в форме ^числитель/_знаменатель
+    -->|<span class="template-дробь" style="font-size:0.8em"><sup>{{formatnum:{{{1}}}}}</sup><big>⁄</big><sub>{{formatnum:{{{2}}}}}</sub></span><!--
+
+    иначе: вывод в форме ^1/_знаменатель
+    -->|<span class="template-дробь" style="font-size:0.8em"><sup>1</sup><big>⁄</big><sub>{{formatnum:{{{1}}}}}</sub></span><!--
+
+  -->}}<!-- end if:{{{2}}}
+
+-->}}<!-- end if:{{{3}}}
+
+единица измерения:
+-->{{#if:{{{u|{{{ед|}}}}}}<!-- если задан хоть один из параметров для ед. измерения
+  -->|&nbsp;{{{u|{{{ед|}}}}}}<!-- то: выводим неразрывный пробел и единицу измерения
+-->}}<!-- end if{{{u|{{{ед|}}}}}}
+--></span><!-- end span nowrap
+
+--></includeonly><noinclude>{{doc}}</noinclude>
