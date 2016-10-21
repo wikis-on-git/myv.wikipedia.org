@@ -1,0 +1,3 @@
+<includeonly>{{#ifexist:ЛопаПарцун:Ярмаконь тешкс/{{{1}}}|{{Ярмаконь тешкс/{{{1|}}}|{{{2|}}}|sep={{{sep|}}}}}|<div style="color:red; font-weight:bold;">Ярмаконь тешкс [[ЛопаПарцун:Ярмаконь тешкс/{{{1}}}|{{{1}}}]] эзь муе</div>}}</includeonly><noinclude>
+{{doc}}
+</noinclude>
