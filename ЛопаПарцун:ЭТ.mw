@@ -115,7 +115,7 @@
 
 {{#if:{{{lat_deg|}}}{{wikidata|p625|plain=true}}|{{#ifeq: {{{карта страны|}}}{{{карта региона|}}}{{{карта района|}}}| 000 || {{#ifexpr: {{REVISIONSIZE}} < 10240 | <div class="mw-customtoggle-maps1" style="background: {{цвет|{{wikidata|p17|{{{мастор|}}}|plain=true}}}}; padding: 1px 0; min-width: 332px; width: 100%; margin:0px 1px 1px 1px;">Показать/скрыть карты</div>
 <div class="mw-collapsible {{#if:{{{развернуть карты|}}}||mw-collapsed}}" id="mw-customcollapsible-maps1">
-<div class="mw-collapsible-content">}}}}{{wikidata-coords|НП/ПозКарта
+<div class="mw-collapsible-content">}}}}{{wikidata-coords|ЭТ/ПозКарта
 |Эрзянь лем = {{{Эрзянь лем|{{{1}}}}}}
 |lat_deg = {{{lat_deg|}}}
 |lat_min = {{{lat_min|}}}
