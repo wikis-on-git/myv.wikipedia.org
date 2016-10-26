@@ -1,3 +1,4 @@
+<!--
 {{#if:{{{lat_deg|}}}|{{#ifeq:{{{карта страны|}}}|0||
 {{{!}}align="center" style="background-color:inherit;width:310px"
 {{!}}{{ПозКарта
@@ -37,6 +38,48 @@
 |alt={{{карта района|}}}
 |markalt={{{Эрзянь лем|}}}
 }}
-{{!}}} }}}}}}}}<noinclude>
+{{!}}} }}}}}}}}
+-->
+{{#if:{{{lat_deg|}}}|{{#ifeq:{{{размер карты страны|}}}|0||
+{{{!}}align="center" style="background-color:inherit;width:{{#if:{{{размер карты страны|}}}|{{{размер карты страны|}}}|250}}px"
+{{!}}{{ПозКарта
+|{{#ifexist:ЛопаПарцун:ПозКарта_{{#if:{{wikidata|p17|{{{мастор|}}}}}|{{wikidata|p17|{{{мастор|}}}|plain=true}}|Ä§1Ъ}}|{{wikidata|p17|{{{мастор|}}}|plain=true}}|Земля}}
+|border=none|label=
+|width={{#if:{{{размер карты страны|}}}|{{{размер карты страны|}}}|250}}
+|lat_deg={{{lat_deg}}}|lat_min={{#if:{{{lat_min|}}}|{{{lat_min}}}|0}}|lat_sec={{#if:{{{lat_sec|}}}|{{{lat_sec}}}|0}}|lat_dir={{#if:{{{lat_dir|}}}|{{{lat_dir}}}|N}}
+|lon_deg={{#if:{{{lon_deg|}}}|{{{lon_deg}}}|0}}|lon_min={{#if:{{{lon_min|}}}|{{{lon_min}}}|0}}|lon_sec={{#if:{{{lon_sec|}}}|{{{lon_sec}}}|0}}|lon_dir={{#if:{{{lon_dir|}}}|{{{lon_dir}}}|0}}
+|float=center
+|caption=
+|alt = {{#if:{{{карта страны|}}}|{{{карта страны}}}}}
+|markalt = {{{Эрзянь лем|{{{1}}}}}}
+}}
+{{!}}} }}{{#ifeq:{{{размер карты региона|}}}|0||{{#ifexist:ЛопаПарцун:ПозКарта_{{#if:{{wikidata|p17|{{{мастор|}}}}}|{{wikidata|p17|{{{мастор|}}}|plain=true}}|Ä§1Ъ}}_{{#if:{{{регион|}}}|{{{регион}}}|Ä§1Ъ}}|{{#if:{{wikidata|p17|{{{мастор|}}}}}{{{регион|}}}|
+{{{!}}align="center" style="background-color:inherit;width:{{#if:{{{размер карты региона|}}}|{{{размер карты региона|}}}|250}}px"
+{{!}}{{ПозКарта
+|{{wikidata|p17|{{{мастор|}}}|plain=true}}_{{{регион}}}
+|border=none|label=
+|width={{#if:{{{размер карты региона|}}}|{{{размер карты региона|}}}|250}}
+|lat_deg={{{lat_deg}}}|lat_min={{#if:{{{lat_min|}}}|{{{lat_min}}}|0}}|lat_sec={{#if:{{{lat_sec|}}}|{{{lat_sec}}}|0}}|lat_dir={{#if:{{{lat_dir|}}}|{{{lat_dir}}}|N}}
+|lon_deg={{#if:{{{lon_deg|}}}|{{{lon_deg}}}|0}}|lon_min={{#if:{{{lon_min|}}}|{{{lon_min}}}|0}}|lon_sec={{#if:{{{lon_sec|}}}|{{{lon_sec}}}|0}}|lon_dir={{#if:{{{lon_dir|}}}|{{{lon_dir}}}|0}}
+|float=center
+|caption=
+|alt = {{#if:{{{карта региона|}}}|{{{карта региона}}}}}
+|markalt = {{{Эрзянь лем|{{{1}}}}}}
+}}
+{{!}}} }}}}}}{{#ifeq:{{{размер карты района|}}}|0||{{#ifexist:ЛопаПарцун:ПозКарта_{{#if:{{wikidata|p17|{{{мастор|}}}}}|{{wikidata|p17|{{{мастор|}}}|plain=true}}|Ä§1Ъ}}_{{#if:{{{регион|}}}|{{{регион}}}|Ä§1Ъ}}_{{#if:{{{район|}}}|{{{район}}}|Ä§1Ъ}}|{{#if:{{wikidata|p17|{{{мастор|}}}}}{{{регион|}}}{{{район|}}}|
+{{{!}}align="center" style="background-color:inherit;width:{{#if:{{{размер карты района|}}}|{{{размер карты района|}}}|250}}px" 
+{{!}}{{ПозКарта
+|{{wikidata|p17|{{{мастор|}}}|plain=true}}_{{{регион}}}_{{{район}}}
+|border=none|label=
+|width={{#if:{{{размер карты района|}}}|{{{размер карты района|}}}|250}}
+|lat_deg={{{lat_deg}}}|lat_min={{#if:{{{lat_min|}}}|{{{lat_min}}}|0}}|lat_sec={{#if:{{{lat_sec|}}}|{{{lat_sec}}}|0}}|lat_dir={{#if:{{{lat_dir|}}}|{{{lat_dir}}}|N}}
+|lon_deg={{#if:{{{lon_deg|}}}|{{{lon_deg}}}|0}}|lon_min={{#if:{{{lon_min|}}}|{{{lon_min}}}|0}}|lon_sec={{#if:{{{lon_sec|}}}|{{{lon_sec}}}|0}}|lon_dir={{#if:{{{lon_dir|}}}|{{{lon_dir}}}|0}}
+|float=center
+|caption=
+|alt = {{#if:{{{карта района|}}}|{{{карта района}}}}}
+|markalt = {{{Эрзянь лем|{{{1}}}}}}
+}}
+{{!}}} }}}}}}}}
+<noinclude>
 {{doc}}
 </noinclude>
