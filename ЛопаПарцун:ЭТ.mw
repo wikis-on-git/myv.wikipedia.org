@@ -70,6 +70,8 @@
 {{ЭТ/|{{{Вставка|}}}|{{{Вставка|}}}}}
 <!-- {{ЭТ/|{{{занулятор|}}}|что слева|что справа|{{{мастор|}}}}} -->
 |}<!-- карты -->
+
+<!--
 {{#if:{{{lat_deg|}}}|{{#ifeq:{{{размер карты страны|}}}|0||
 {{{!}}align="center" style="background-color:inherit;width:{{#if:{{{размер карты страны|}}}|{{{размер карты страны|}}}|250}}px"
 {{!}}{{ПозКарта
@@ -109,6 +111,28 @@
 |alt = {{#if:{{{карта района|}}}|{{{карта района}}}}}
 |markalt = {{{Эрзянь лем|{{{1}}}}}}
 }}
+-->
+
+{{#if:{{{lat_deg|}}}{{wikidata|p625|plain=true}}|{{#ifeq: {{{карта страны|}}}{{{карта региона|}}}{{{карта района|}}}| 000 || {{#ifexpr: {{REVISIONSIZE}} < 10240 | <div class="mw-customtoggle-maps1" style="background: {{цвет|{{wikidata|p17|{{{мастор|}}}|plain=true}}}}; padding: 1px 0; min-width: 332px; width: 100%; margin:0px 1px 1px 1px;">Показать/скрыть карты</div>
+<div class="mw-collapsible {{#if:{{{развернуть карты|}}}||mw-collapsed}}" id="mw-customcollapsible-maps1">
+<div class="mw-collapsible-content">}}}}{{wikidata-coords|НП/ПозКарта
+|Эрзянь лем = {{{Эрзянь лем|{{{1}}}}}}
+|lat_deg = {{{lat_deg|}}}
+|lat_min = {{{lat_min|}}}
+|lat_sec = {{{lat_sec|}}}
+|lat_dir = {{{lat_dir|}}}
+|lon_deg = {{{lon_deg|}}}
+|lon_min = {{{lon_min|}}}
+|lon_sec = {{{lon_sec|}}}
+|lon_dir = {{{lon_dir|}}}
+|страна = {{wikidata|p17|{{{мастор|}}}|plain=true}}
+|карта страны = {{{карта страны|}}}
+|регион = {{{регион|}}}
+|карта региона = {{{карта региона|}}}
+|район = {{{район|}}}
+|карта района = {{{карта района|}}}
+}}{{#ifeq: {{{карта страны|}}}{{{карта региона|}}}{{{карта района|}}}| 000 || {{#ifexpr: {{REVISIONSIZE}} < 10240 | </div></div> }}}}}}
+
 {{!}}} }}}}}}}}{{#if:{{wikidata|p373|{{{категория в Commons|}}}|plain=true}}|<div class="plainlinks metadata" style="border:solid #ddd;border-width:1px 0px 0px 0px;width:100%;background:#F0F0F0">{{#if:{{{категория в Commons|}}}|'''[{{localurl:commons:Category:{{{категория в Commons|}}}}}?uselang=myv {{{Эрзянь лем|{{{1}}}}}}]''' [[Википурнавкс]]со|{{wikidata/p373|text_before='''|text={{{Эрзянь лем|{{{1|}}}}}}|text_after=''' [[Википурнавкс]]со}}}}</div>}}
 |}{{#if:{{NAMESPACE}}{{{nocat|}}}||<!--<!--
 -->[[Категория:Велетне-сядтнэ ловнома тешкскерьксэнть коряс]]<!--
