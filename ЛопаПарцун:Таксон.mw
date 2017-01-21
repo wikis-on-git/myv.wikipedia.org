@@ -53,7 +53,7 @@
 | {{Слабо|неверное значение параметра <br />''Baltimore group''}}
 }}|}}
 |заголовок17 = {{#if:{{{Возник|}}}{{{Кулозь|}}}|{{Таксон/Геохронология|Возник={{{Возник|}}}|Кулозь={{{Кулозь|}}}|rang={{{rang|}}} }}|}}
-|стиль_внизу = background:{{Таксон/Цвет|regnum={{{regnum}}} }};font-size:80%;line-height:140%;
+|стиль_внизу = background:{{Таксон/Тюс|regnum={{{regnum}}} }};font-size:80%;line-height:140%;
 |внизу = <table width=100% class="plainlinksneverexpand" cellspacing=0 cellpadding=4><tr><!-- 
 
 Отрисовка ссылок Wikispecies 
