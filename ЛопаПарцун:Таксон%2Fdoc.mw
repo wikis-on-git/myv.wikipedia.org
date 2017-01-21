@@ -217,7 +217,7 @@
 {{Таксон
  |image file        = 
  |image descr       = 
- |regnum            = Животные
+ |regnum            = Ракшат
  |parent            = 
  |rang              = Вид
  |latin             = 
@@ -237,7 +237,7 @@
 {{Таксон
  |image file        = 
  |image descr       = 
- |regnum            = Животные
+ |regnum            = Ракшат
  |rang              = 
  |latin             = 
  |author            = 
@@ -255,7 +255,7 @@
 {{Таксон
  |image file    = 
  |image descr   = 
- |regnum        = Животные
+ |regnum        = Ракшат
  |parent        = 
  |rang          = 
  |latin         = 
@@ -269,6 +269,7 @@
  |wikispecies   = 
 }}</pre>
 |}
+
 ==== Грибы, микроорганизмы и вирусы ====
 {|
 |-
