@@ -37,7 +37,7 @@
 |текст10      = {{#if: {{{children|}}}|<div align=left>
 {{{children|}}}</div>|}} <!-- Ареал -->
 |заголовок11  = {{#if: {{{range map|}}}{{{range legend|}}}|{{#if: {{{range map caption}}}|{{{range map caption|Ареал}}}|[[Ареал]]}}|}}
-|текст12     = {{#if: {{{range map|}}}|[[Артовкс:{{{range map}}}{{!}}{{#if: {{{range map width}}}|{{{range map width|250px}}}|250px}}{{!}}изображение]]|}}{{#if: {{{range legend|}}}|<div align="left">
+|текст12     = {{#if: {{{range map|}}}|[[File:{{{range map}}}{{!}}{{#if: {{{range map width}}}|{{{range map width|250px}}}|250px}}{{!}}изображение]]|}}{{#if: {{{range legend|}}}|<div align="left">
 {{{range legend}}}</div>|}}
 |заголовок13 = {{#if: {{{iucnstatus|}}}|[[Охранный статус]]|}}
 |текст14     = {{#if: {{{iucnstatus|}}}|<div align=center>{{Таксон/IUCN|{{{iucnstatus|}}}|{{#iferror:{{#invoke:Wikibase|struc|claims|P141|1|references|1|snaks|P627|1|datavalue|value}}|{{{iucn|}}}|{{#invoke:Wikibase|struc|claims|P141|1|references|1|snaks|P627|1|datavalue|value}} }} }}</div>|}}
