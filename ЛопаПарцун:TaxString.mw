@@ -1,0 +1,10 @@
+<includeonly>{{#ifeq: {{{latin|}}} |Null||
+<div class={{#switch: {{Rang| {{{rang|}}} }}
+| ? = "NavContent"
+| 1 = ""
+| пусто = ""
+| "NavContent"
+}}> <table width=100% cellpadding=0 cellspacing=0><tr><td width=40% align=right valign=top>{{Rang/color|{{{rang|}}}}}:&nbsp;</td><td width=60% align=left>{{#if: {{{Вымер|}}}|†&nbsp;}}{{#if: {{{monoaut|}}}|{{#if: {{{name|}}}|'''{{{name|}}}''' ({{btname|{{{latin|}}}|{{#ifeq:{{{monoaut|}}}|1||{{{monoaut|}}}}}}})|{{btname|'''{{{latin|}}}'''|{{#ifeq:{{{monoaut|}}}|1||{{{monoaut|}}}}}}}}}|{{#if: {{{name|}}}|[[{{{latin|}}}|{{{name|}}}]]|''[[{{{latin|}}}]]''}} }}{{#if: {{{ref|}}}|{{#tag:ref|{{{ref|}}} }} }}</td></tr></table> </div>}}</includeonly><noinclude>''Это служебный шаблон используемый шаблоном {{tl|Таксон}}.''
+{{doc}}
+[[Категорият:ЛопаПарцун:Шаблоны для шаблона Таксон|{{PAGENAME}}]]
+</noinclude>
