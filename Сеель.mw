@@ -1,3 +1,4 @@
+<!--
 {{Таксономиясь
 | name = Обран
 | image file =Igel.JPG
@@ -11,9 +12,32 @@
 | species = Сеель
 | latin = {{Btname|Erinaceidae G. Fischer, 1814}}
 }}
+-->
+{{Таксон
+ |image file        = Igel.JPG
+ |image descr       = 
+ |regnum            = Ракшат
+ |parent            = 
+ |rang              = Вид
+ |latin             = Erinaceus europaeus
+ |author            = 
+ |syn               = 
+ |children name     = 
+ |children          = 
+ |range map         = 
+ |range map caption = 
+ |range map width   = 
+ |range legend      = 
+ |iucnstatus        = 
+ |iucn              = 
+ |wikispecies       = 
+}}
 '''Се́ель''' ({{Lang-la|Erinaceus europaeus}}) — те ракша.
 
 == Содамоёвкст ==
 * Салмуксов кире<br />Вирьга кевери.
+
+== Лисьм. ==
+<references />
 
 [[Категория:Ракшат|С]]
