@@ -1,37 +1,28 @@
-<!--
-{{Таксономиясь
-| name = Обран
-| image file =Igel.JPG
-| regnum = Ракшат
-| phylum = [[Хордовоень]]
-| subphylum = [[Позвоночные]]
-| classis = [[Ловсотрицят]]
-| infraclassis = [[Плацентарные]]
-| familia = ''Обранонь''
-| genus = ''Сеель''
-| species = Сеель
-| latin = {{Btname|Erinaceidae G. Fischer, 1814}}
-}}
--->
 {{Таксон
- |image file        = Igel.JPG
- |image descr       = 
- |regnum            = Ракшат
- |parent            = 
- |rang              = Вид
- |latin             = Erinaceidae
- |author            = 
- |syn               = 
- |children name     = 
- |children          = 
- |range map         = 
- |range map caption = 
- |range map width   = 
- |range legend      = 
- |iucnstatus        = 
- |iucn              = 
- |wikispecies       = 
+| name              = Сеель
+| regnum            = Ракшат
+| image file        = [[File:Erinaceus europaeus LC0119.jpg|200px]]
+| image title       = Сеель
+| image descr       = 
+| parent            = Erinaceus
+| rang              = Вид
+| latin             = Erinaceus europaeus
+| author            = [[Linnaeus]], [[1758]]
+| syn               = 
+| typus             = 
+| children          = 
+| range map         = 
+| range map caption = 
+| range map width   = 
+| range legend      = 
+| iucnstatus        = LC
+| wikispecies       = Erinaceus europaeus
+| commons           = Erinaceus europaeus
+| iucn              = 29650
 }}
+
+
+
 '''Се́ель''' ({{Lang-la|Erinaceidae}}) — те ракша.
 
 == Содамоёвкст ==
