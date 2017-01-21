@@ -84,9 +84,9 @@
 Категории для статей 
 
 -->{{#if: {{{regnum|}}}|{{#if:{{{nocat|}}}||{{#if:{{NAMESPACE}}||[[Категория:{{{regnum}}} по алфавиту]]}}}}}}<!--
--->{{#if: {{wikidata|P18|{{{image file|}}}}}||{{#if: {{{images_set|}}}||{{Нет изображения}}}}}}<!--
--->{{#ifeq:{{{image file}}}|no image available.svg|{{Нет изображения}}|}}<!--
--->{{#ifeq:{{{image file}}}|No-image-available-rectangle.svg|{{Нет изображения}}|}}<!--
+-->{{#if: {{wikidata|P18|{{{image file|}}}}}||{{#if: {{{images_set|}}}||{{Артовкстомо}}}}}}<!--
+-->{{#ifeq:{{{image file}}}|no image available.svg|{{Артовкстомо}}|}}<!--
+-->{{#ifeq:{{{image file}}}|No-image-available-rectangle.svg|{{Артовкстомо}}|}}<!--
 -->{{#if:{{wikidata|p373|{{wikidata|p935|{{{commons|}}}}}}}||{{категория только в статьях|Википедия:Статьи об организмах без иллюстраций на Викискладе}}}}<!--
 -->{{#if:{{{wikispecies|}}}||{{категория только в статьях|Статьи без ссылки на Викивиды}}}}<!--
 -->{{if-wikidata|p815|{{{itis|}}}||{{категория только в статьях|Биологические статьи без ITIS}}}}<!--
