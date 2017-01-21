@@ -1,0 +1,26 @@
+<includeonly><!-- 
+-->{{TaxSubRecursion| {{{1}}} | 21}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 20}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 19}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 18}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 17}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 16}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 15}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 14}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 13}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 12}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 11}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 10}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 9}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 8}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 7}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 6}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 5}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 4}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 3}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 2}}<!-- 
+-->{{TaxSubRecursion| {{{1}}} | 1}}<!-- 
+-->{{#if: {{{nolast|}}}|{{LastRang|parent= {{ {{{1}}} |1}}|latin= {{ {{{1}}} |2}}|name = {{ {{{1}}} |3}}|rang = {{ {{{1}}} |4}}|Вымер = {{ {{{1}}} |6}} }} |{{TaxString|latin = {{ {{{1}}} |2}}|name = {{ {{{1}}} |3}}|rang = {{ {{{1}}} |4}}|monoaut = {{ {{{1}}} |5}}|Вымер = {{ {{{1}}} |6}}|ref  = {{ {{{1}}} |7}} }} }}</includeonly><!-- 
+--><noinclude>Это служебный шаблон, используемый шаблоном {{tl|Таксон}}.
+{{doc}}
+[[Категорият:ЛопаПарцун:Шаблоны для шаблона Таксон|{{PAGENAME}}]]</noinclude>
