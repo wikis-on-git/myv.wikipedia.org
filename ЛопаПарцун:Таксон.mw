@@ -11,7 +11,7 @@
 |стиль_изображения = 
 |подпись           = {{{image descr|}}}
 |стиль_подписи     = 
-|стиль_заголовков  = background:{{Таксон/Цвет|regnum={{{regnum}}} }};font-size:110%;
+|стиль_заголовков  = background:{{Таксон/Тюс|regnum={{{regnum}}} }};font-size:110%;
 |стиль_текста      = font-size:110%;
 |заголовок1  = [[Биологическая систематика|Научная классификация]]{{#if: {{{ref|}}}|{{#tag:ref|{{{ref|}}} }} }}
 |latin       = {{wikidata|p225|{{{latin|}}}|plain=true}}
@@ -66,7 +66,7 @@
 
 Отрисовка ссылок ITIS, NCBI, EOL, GRIN, IPNI, TPL и MB (MycoBank) 
 
---><td><table width="100%" cellspacing="0" cellpadding="0" style="background:{{Таксон/Цвет|regnum={{{regnum}}}}};">
+--><td><table width="100%" cellspacing="0" cellpadding="0" style="background:{{Таксон/Тюс|regnum={{{regnum}}}}};">
 {{if-wikidata|p815|{{{itis|}}}|<tr><td align{{eq}}"right" width{{eq}}"40%">[[Объединённая таксономическая информационная служба{{!}}ITIS]]&nbsp;&nbsp;</td><td class{{eq}}"plainlinksneverexpand" align{{eq}}"left">{{wikidata|p815|{{{itis|}}}}}</td></tr>|}}<!--
 -->{{if-wikidata|p685|{{{ncbi|}}}|<tr><td align{{eq}}"right" width{{eq}}"40%">[[Национальный центр биотехнологической информации{{!}}NCBI]]&nbsp;&nbsp;</td><td class{{eq}}"plainlinksneverexpand" align{{eq}}"left">{{wikidata|p685|{{{ncbi|}}}}}</td></tr>|}}<!--
 -->{{if-wikidata|p830|{{{eol|}}}|<tr><td align{{eq}}"right" width{{eq}}"40%">[[Энциклопедия жизни{{!}}EOL]]&nbsp;&nbsp;</td><td class{{eq}}"plainlinksneverexpand" align{{eq}}"left">{{wikidata|p830|{{{eol|}}}}}</td></tr>|}}<!--
@@ -83,10 +83,10 @@
 
 Категории для статей 
 
--->{{#if: {{{regnum|}}}|{{#if:{{{nocat|}}}||{{#if:{{NAMESPACE}}||[[Категория:{{{regnum}}} по алфавиту]]}}}}}}<!--
--->{{#if: {{wikidata|P18|{{{image file|}}}}}||{{#if: {{{images_set|}}}||{{Нет изображения}}}}}}<!--
--->{{#ifeq:{{{image file}}}|no image available.svg|{{Нет изображения}}|}}<!--
--->{{#ifeq:{{{image file}}}|No-image-available-rectangle.svg|{{Нет изображения}}|}}<!--
+-->{{#if: {{{regnum|}}}|{{#if:{{{nocat|}}}||{{#if:{{NAMESPACE}}||[[Категория:{{{regnum}}} тешкскерьксэнть коряс]]}}}}}}<!--
+-->{{#if: {{wikidata|P18|{{{image file|}}}}}||{{#if: {{{images_set|}}}||{{Артовкстомо}}}}}}<!--
+-->{{#ifeq:{{{image file}}}|no image available.svg|{{Артовкстомо}}|}}<!--
+-->{{#ifeq:{{{image file}}}|No-image-available-rectangle.svg|{{Артовкстомо}}|}}<!--
 -->{{#if:{{wikidata|p373|{{wikidata|p935|{{{commons|}}}}}}}||{{категория только в статьях|Википедия:Статьи об организмах без иллюстраций на Викискладе}}}}<!--
 -->{{#if:{{{wikispecies|}}}||{{категория только в статьях|Статьи без ссылки на Викивиды}}}}<!--
 -->{{if-wikidata|p815|{{{itis|}}}||{{категория только в статьях|Биологические статьи без ITIS}}}}<!--
@@ -95,7 +95,7 @@
 -->{{#ifeq:{{{regnum}}}|Растения|{{#switch: {{{rang|{{{{wikidata|p225|{{{latin|}}}|plain=true}}|4}}}}}|Семейство|Род|Вид = {{#if:{{{grin|}}}||{{категория только в статьях|Статьи о растениях без GRIN}}}}}}|}}<!--
 -->{{#ifeq:{{{regnum}}}|Растения|{{#switch: {{{rang|{{{{wikidata|p225|{{{latin|}}}|plain=true}}|4}}}}}|Род|Вид = {{if-wikidata|p961|{{{ipni|}}}||{{категория только в статьях|Статьи о растениях без IPNI}}}}}}|}}<!--
 -->{{#ifeq:{{{regnum}}}|Растения|{{#switch: {{{rang}}}|Вид = {{if-wikidata|p1070|{{{tpl|}}}||{{категория только в статьях|Статьи о растениях без TPL}}}}}}|}}<!--
--->{{#ifeq:{{{regnum}}}|Грибы|{{if-wikidata|p962|{{{mycobank|}}}||{{категория только в статьях|Статьи о грибах без MycoBank}}}}|}}<!--  
+-->{{#ifeq:{{{regnum}}}|Пангт|{{if-wikidata|p962|{{{mycobank|}}}||{{категория только в статьях|Статьи о грибах без MycoBank}}}}|}}<!--  
 -->{{#if:{{{nofw|}}}||{{#if:{{{Кулозь|}}}|{{if-wikidata|p842|{{{fw|}}}||{{категория только в статьях|Статьи о вымерших таксонах без Fossilworks}} }} }} }}<!-- 
 заголовок курсивом если название статьи равно латинскому названию данного таксона 
 -->{{#switch:{{{rang}}}|Сорт|Штамм =|{{#switch:{{PAGENAME}}|{{wikidata|p225|{{{latin|}}}|plain=true}}|{{{wikispecies|}}}|{{{commons|}}} = {{DISPLAYTITLE:{{#invoke:Taxonomy/latin|latin|{{{latin}}}}}}}|}}}}<!--
