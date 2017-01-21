@@ -2,9 +2,9 @@
 |лем               = 
 |стиль_тела        = width:275px;
 |название          = 
-|стиль_названия    = background:{{Таксон/Цвет|regnum={{{regnum}}} }};font-size:130%;
+|стиль_названия    = background:{{Таксон/Тюс|regnum={{{regnum}}} }};font-size:130%;
 |вверху            = {{#if: {{{Кулозь|}}}|{{Кулозь}}&nbsp;|}}{{#if: {{{name|}}}|{{{name}}}|{{#ifeq: {{PAGENAME}}|{{wikidata|p225|{{{latin|{{{commons|{{{wikispecies|}}}}}}}}}|plain=true}}|{{#invoke:Taxonomy/latin|latin|{{{latin}}}}}|{{PAGENAME}} }} }}
-|стиль_вверху      = background:{{Таксон/Цвет|regnum={{{regnum}}} }};font-size:130%;
+|стиль_вверху      = background:{{Таксон/Тюс|regnum={{{regnum}}} }};font-size:130%;
 |вверху2           = 
 |стиль_вверху2     = 
 |изображение       = {{#if:{{{images_set|}}} | {{{images_set}}} | {{wikidata|p18[1]|{{{image file|}}}|size={{#if:{{{image width|}}}|{{{image width|}}}|265}}px|{{{image title|}}}}} }}
