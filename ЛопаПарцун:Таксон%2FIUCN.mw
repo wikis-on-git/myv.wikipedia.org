@@ -1,0 +1,101 @@
+<includeonly>{{#switch: {{{1}}}
+| LC = <imagemap>
+File:Status iucn3.1 LC ru.svg
+circle 215 43 10 [[Виды под наименьшей угрозой]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Виды под наименьшей угрозой|Вызывающие наименьшие опасения]]<br /><small>[[Международный союз охраны природы|IUCN]] 3.1 ''Least Concern'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| lc = <imagemap>
+File:Status iucn2.3 LC ru.svg
+circle 221 43 10 [[Виды под наименьшей угрозой]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Виды под наименьшей угрозой|Вызывающие наименьшие опасения]]<br /><small>[[Международный союз охраны природы|IUCN]] 2.3 ''Least Concern'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| NT = <imagemap>
+File:Status iucn3.1 NT ru.svg
+circle 181 43 10 [[Виды, близкие к уязвимому положению]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Виды, близкие к уязвимому положению|Близки к уязвимому положению]]<br /><small>[[Международный союз охраны природы|IUCN]] 3.1 ''Near Threatened'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| nt = <imagemap>
+File:Status iucn2.3 NT ru.svg
+circle 194 43 10 [[Виды, близкие к уязвимому положению]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Виды, близкие к уязвимому положению|Близки к уязвимому положению]]<br /><small>[[Международный союз охраны природы|IUCN]] 2.3 ''Near Threatened'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| CD|cd = <imagemap>
+File:Status iucn2.3 CD ru.svg
+circle 165 43 10 [[Виды, зависимые от усилий по сохранению]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Виды, зависимые от усилий по сохранению|Зависимы от усилий по сохранению]]<br /><small>[[Международный союз охраны природы|IUCN]] 2.3 ''Conservation Dependent'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| VU = <imagemap>
+File:Status iucn3.1 VU ru.svg
+circle 150 43 10 [[Уязвимые виды]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Уязвимые виды]]<br /><small>[[Международный союз охраны природы|IUCN]] 3.1 ''Vulnerable'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| vu = <imagemap>
+File:Status iucn2.3 VU ru.svg
+circle 135 43 10 [[Уязвимые виды]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Уязвимые виды]]<br /><small>[[Международный союз охраны природы|IUCN]] 2.3 ''Vulnerable'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| EN = <imagemap>
+File:Status iucn3.1 EN ru.svg
+circle 118 43 10 [[Вымирающие виды]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Вымирающие виды]]<br /><small>[[Международный союз охраны природы|IUCN]] 3.1 ''Endangered'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| en = <imagemap>
+File:Status iucn2.3 EN ru.svg
+circle 107 43 10 [[Вымирающие виды]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Вымирающие виды]]<br /><small>[[Международный союз охраны природы|IUCN]] 2.3 ''Endangered'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| CR = <imagemap>
+File:Status iucn3.1 CR ru.svg
+circle 86 43 10 [[Виды на грани исчезновения]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Виды на грани исчезновения]]<br /><small>[[Международный союз охраны природы|IUCN]] 3.1 ''Critically Endangered'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| cr = <imagemap>
+File:Status iucn2.3 CR ru.svg
+circle 78 43 10 [[Виды на грани исчезновения]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Виды на грани исчезновения]]<br /><small>[[Международный союз охраны природы|IUCN]] 2.3 ''Critically Endangered'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| EW = <imagemap>
+File:Status iucn3.1 EW ru.svg
+circle 54 43 10 [[Исчезнувшие в дикой природе]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Исчезнувшие в дикой природе]]<br /><small>[[Международный союз охраны природы|IUCN]] 3.1 ''Extinct in the Wild'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| ew = <imagemap>
+File:Status iucn2.3 EW ru.svg
+circle 49 43 10 [[Исчезнувшие в дикой природе]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Исчезнувшие в дикой природе]]<br /><small>[[Международный союз охраны природы|IUCN]] 2.3 ''Extinct in the Wild'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| EX = <imagemap>
+File:Status iucn3.1 EX ru.svg
+circle 22 43 10 [[Исчезнувшие виды (охранный статус)|Исчезнувшие виды]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Исчезнувшие виды (охранный статус)|Исчезнувшие виды]]<br /><small>[[Международный союз охраны природы|IUCN]] 3.1 ''Extinct'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| ex = <imagemap>
+File:Status iucn2.3 EX ru.svg
+circle 19 43 10 [[Исчезнувшие виды (охранный статус)|Исчезнувшие виды]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>[[Исчезнувшие виды (охранный статус)|Исчезнувшие виды]]<br /><small>[[Международный союз охраны природы|IUCN]] 2.3 ''Extinct'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/search ???]}}</small>
+| DD|dd = <imagemap>
+File:Status none DD.svg
+circle 120 16 10 [[:en:Data Deficient]]
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>Недостаточно данных<br /><small>[[Международный союз охраны природы|IUCN]] ''Data Deficient'':&nbsp;{{#if: {{{2|}}}|[http://www.iucnredlist.org/details/{{{2|}}} {{{2|}}}]|[http://www.iucnredlist.org/apps/redlist/search ???]}}</small>
+|<imagemap>
+File:Status iucn3.1 blank.svg
+default [[Красная книга#Красный список угрожаемых видов]]
+desc none</imagemap>{{comment|Статус не указан|необходимо установить первый неименованный параметр равным одному из значений:LC, lc, NT, nt, CD или cd, VU, vu, EN, en, CR, cr, EW, ew, EX, ex, DD или dd в соответствии со статусом таксона в Международной Красной книге}}<br /><small>Поиск на сайте [[Международный союз охраны природы|IUCN]]:&nbsp;[http://www.iucnredlist.org/search ???]</small>
+}}<!-- 
+
+Категории
+
+-->{{#if: {{{3|}}} {{NAMESPACE}}||{{#switch: {{{1}}}
+|LC|lc|NT|nt|CD|cd = [[Категория:Виды вне опасности]]
+|VU|vu = [[Категория:Уязвимые виды]]
+|EN|en = [[Категория:Находящиеся в опасности виды]]
+|CR|cr = [[Категория:Исчезающие виды]]
+|EW|ew = [[Категория:Исчезнувшие в дикой природе виды]]
+|EX|ex = [[Категория:Исчезнувшие виды]]
+|DD|dd = [[Категория:Виды с неясным статусом]]
+| [[Категория:Международная Красная книга]]
+}}}}</includeonly><noinclude>
+{{doc}}
+</noinclude>
