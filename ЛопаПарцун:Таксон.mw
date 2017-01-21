@@ -1,0 +1,103 @@
+<includeonly>{{Таксо-карточка
+|лем               = 
+|стиль_тела        = width:275px;
+|название          = 
+|стиль_названия    = background:{{Таксон/Цвет|regnum={{{regnum}}} }};font-size:130%;
+|вверху            = {{#if: {{{Вымер|}}}|{{Вымер}}&nbsp;|}}{{#if: {{{name|}}}|{{{name}}}|{{#ifeq: {{PAGENAME}}|{{wikidata|p225|{{{latin|{{{commons|{{{wikispecies|}}}}}}}}}|plain=true}}|{{#invoke:Taxonomy/latin|latin|{{{latin}}}}}|{{PAGENAME}} }} }}
+|стиль_вверху      = background:{{Таксон/Цвет|regnum={{{regnum}}} }};font-size:130%;
+|вверху2           = 
+|стиль_вверху2     = 
+|изображение       = {{#if:{{{images_set|}}} | {{{images_set}}} | {{wikidata|p18[1]|{{{image file|}}}|size={{#if:{{{image width|}}}|{{{image width|}}}|265}}px|{{{image title|}}}}} }}
+|стиль_изображения = 
+|подпись           = {{{image descr|}}}
+|стиль_подписи     = 
+|стиль_заголовков  = background:{{Таксон/Цвет|regnum={{{regnum}}} }};font-size:110%;
+|стиль_текста      = font-size:110%;
+|заголовок1  = [[Биологическая систематика|Научная классификация]]{{#if: {{{ref|}}}|{{#tag:ref|{{{ref|}}} }} }}
+|latin       = {{wikidata|p225|{{{latin|}}}|plain=true}}
+|parent      = {{{parent|}}}
+|name        = {{#if: {{{name|}}}|{{{name|}}}|{{#switch:{{PAGENAME}}|{{wikidata|p225|{{{latin|}}}|plain=true}}|{{{wikispecies|}}}|{{{commons|}}} = {{#invoke:Taxonomy/latin|latin|{{{latin}}}}}|{{PAGENAME}}}} }}
+|rang        = {{{rang|}}}
+|Вымер       = {{{Вымер|}}}
+|заголовок3  = Международное научное название
+|текст4      = {{#if:{{{latin|}}}|{{#invoke:Taxonomy/latin|latin|{{{latin}}}}}{{bt-aut|{{#invoke:Taxonomy/latin|author|{{{author|}}}}}}}|{{if-wikidata|p225||{{wikidata/p225}}|<div style{{eq}}"background-color:Gainsboro;font-size:85%;color:Dimgray">СООБЩЕНИЕ ОБ ОШИБКЕ<br />Не заполнен параметр '''<big>latin</big>'''</div>}}}}
+|заголовок5  = {{#if: {{{syn|}}}|[[Синоним (таксономия)|Синонимы]]|}}
+|текст6      = {{#if: {{{syn|}}}|<div align=left>
+{{{syn|}}}</div>|}} <!-- 
+ Типовой представитель -->
+|заголовок7  = {{#if: {{{typus|}}}|{{#switch: {{{rang|{{{{wikidata|p225|{{{latin|}}}|plain=true}}|4}}}}}
+|Надсемейство|Семейство|Подсемейство|Триба|Подтриба = [[Типовой род]]
+|Род|Подрод|Секция = [[Типовой вид]]
+|[[Номенклатурный тип]]
+}}|}}
+|текст8      = {{#if: {{{typus|}}}|<div align=center>{{{typus|}}}</div>|}} <!-- 
+
+Подтаксоны -->
+|заголовок9  = {{#if: {{{children|}}}|{{#if: {{{children name|}}}|{{{children name|}}}|Дочерние таксоны}}|}}
+|текст10      = {{#if: {{{children|}}}|<div align=left>
+{{{children|}}}</div>|}} <!-- Ареал -->
+|заголовок11  = {{#if: {{{range map|}}}{{{range legend|}}}|{{#if: {{{range map caption}}}|{{{range map caption|Ареал}}}|[[Ареал]]}}|}}
+|текст12     = {{#if: {{{range map|}}}|[[Артовкс:{{{range map}}}{{!}}{{#if: {{{range map width}}}|{{{range map width|250px}}}|250px}}{{!}}изображение]]|}}{{#if: {{{range legend|}}}|<div align="left">
+{{{range legend}}}</div>|}}
+|заголовок13 = {{#if: {{{iucnstatus|}}}|[[Охранный статус]]|}}
+|текст14     = {{#if: {{{iucnstatus|}}}|<div align=center>{{Таксон/IUCN|{{{iucnstatus|}}}|{{#iferror:{{#invoke:Wikibase|struc|claims|P141|1|references|1|snaks|P627|1|datavalue|value}}|{{{iucn|}}}|{{#invoke:Wikibase|struc|claims|P141|1|references|1|snaks|P627|1|datavalue|value}} }} }}</div>|}}
+|заголовок15 = {{#if: {{{Baltimore group|}}}|[[Классификация вирусов по Балтимору|Группа по Балтимору]]|}}
+|текст16     = {{#if: {{{Baltimore group|}}}|{{#switch: {{{Baltimore group|}}}
+| 1 | I   = '''I: [[Вирусы, содержащие двуцепочечную ДНК|дцДНК-вирусы]]'''
+| 2 | II  = '''II: [[Вирусы, содержащие одноцепочечную ДНК|оцДНК-вирусы]]'''
+| 3 | III = '''III: [[Вирусы, содержащие двуцепочечную РНК|дцРНК-вирусы]]'''
+| 4 | IV  = '''IV: [[Вирусы, содержащие одноцепочечную (+)РНК|(+)оцРНК-вирусы]]'''
+| 5 | V   = '''V: [[Вирусы, содержащие одноцепочечную (-)РНК|(-)оцРНК-вирусы]]'''
+| 6 | VI  = '''VI: [[Вирусы, содержащие одноцепочечную (+)РНК, реплицирующиеся через стадию ДНК|оцРНК-ОТ-вирусы]]'''
+| 7 | VII = '''VII: [[Вирусы, содержащие двуцепочечную ДНК, реплицирующиеся через стадию одноцепочечной РНК|дцДНК-ОТ-вирусы]]'''
+| {{Слабо|неверное значение параметра <br />''Baltimore group''}}
+}}|}}
+|заголовок17 = {{#if:{{{Возник|}}}{{{Вымер|}}}|{{Таксон/Геохронология|Возник={{{Возник|}}}|Вымер={{{Вымер|}}}|rang={{{rang|}}} }}|}}
+|стиль_внизу = background:{{Таксон/Цвет|regnum={{{regnum}}} }};font-size:80%;line-height:140%;
+|внизу = <table width=100% class="plainlinksneverexpand" cellspacing=0 cellpadding=4><tr><!-- 
+
+Отрисовка ссылок Wikispecies 
+
+--><td style="vertical-align:middle">{{#if: {{{wikispecies|}}}|[[Артовкс:Wikispecies-logo.svg|17px|link={{fullurl:wikispecies:{{{wikispecies|}}}|uselang=ru}}]]<br />[{{fullurl:wikispecies:{{{wikispecies}}}|uselang=ru}} Систематика<br />на Викивидах]|}}</td><!-- 
+
+Отрисовка ссылок Commons 
+
+--><td style="vertical-align:middle">[[Артовкс:Commons-logo.svg|15px|link={{fullurl:commons:{{#if:{{{commons|}}}|{{{commons}}}|{{#if:{{wikidata|p935}}|{{wikidata|p935|plain=true}}|{{#if:{{wikidata|p373}}|Category:{{wikidata|p373|plain=true}}|Special:Search/{{wikidata|p225|{{{latin|}}}|plain=true}}}}}}|uselang=ru}}}}]]<br />[{{fullurl:commons:{{#if:{{{commons|}}}|{{{commons}}}|{{#if:{{wikidata|p935}}|{{wikidata|p935|plain=true}}|{{#if:{{wikidata|p373}}|Category:{{wikidata|p373|plain=true}}|Special:Search/{{wikidata|p225|{{{latin|}}}|plain=true}}}}}}|uselang=ru}}}} {{#if:{{wikidata|p373|{{wikidata|p935|{{{commons|}}}}}}}|Изображения|Поиск изображений}}<br />на Викискладе]</td><!-- 
+
+Отрисовка ссылок ITIS, NCBI, EOL, GRIN, IPNI, TPL и MB (MycoBank) 
+
+--><td><table width="100%" cellspacing="0" cellpadding="0" style="background:{{Таксон/Цвет|regnum={{{regnum}}}}};">
+{{if-wikidata|p815|{{{itis|}}}|<tr><td align{{eq}}"right" width{{eq}}"40%">[[Объединённая таксономическая информационная служба{{!}}ITIS]]&nbsp;&nbsp;</td><td class{{eq}}"plainlinksneverexpand" align{{eq}}"left">{{wikidata|p815|{{{itis|}}}}}</td></tr>|}}<!--
+-->{{if-wikidata|p685|{{{ncbi|}}}|<tr><td align{{eq}}"right" width{{eq}}"40%">[[Национальный центр биотехнологической информации{{!}}NCBI]]&nbsp;&nbsp;</td><td class{{eq}}"plainlinksneverexpand" align{{eq}}"left">{{wikidata|p685|{{{ncbi|}}}}}</td></tr>|}}<!--
+-->{{if-wikidata|p830|{{{eol|}}}|<tr><td align{{eq}}"right" width{{eq}}"40%">[[Энциклопедия жизни{{!}}EOL]]&nbsp;&nbsp;</td><td class{{eq}}"plainlinksneverexpand" align{{eq}}"left">{{wikidata|p830|{{{eol|}}}}}</td></tr>|}}<!--
+
+-->{{#ifeq:{{{regnum}}}|Растения|<!-- ссылки для растений GRIN, IPNI, TPL
+-->{{#if:{{{grin|}}}|<tr><td align="right" width="40%">[[Germplasm Resources Information Network|GRIN]]&nbsp;</td><td class="plainlinksneverexpand" align="left">&nbsp;[https://npgsweb.ars-grin.gov/gringlobal/taxonomy{{#switch:{{{rang|{{{{wikidata|p225|{{{latin|}}}|plain=true}}|4}}}}}|Подрод|Секция|Подсекция|Род=genus|Семейство|Подсемейство|Триба|Подтриба=family|detail}}.aspx?id{{eq}}{{{grin|}}} {{#switch:{{{rang|{{{{wikidata|p225|{{{latin|}}}|plain=true}}|4}}}}}|Род|Подрод|Секция|Подсекция=g:|Семейство|Подсемейство|Триба|Подтриба=f:|t:}}{{{grin|}}}]</td></tr>|}}<!--
+-->{{if-wikidata|p961|{{{ipni|}}}|<tr><td align{{eq}}"right" width{{eq}}"40%">[[International Plant Names Index{{!}}IPNI]]&nbsp;</td><td class{{eq}}"plainlinksneverexpand" align{{eq}}"left">&nbsp;{{wikidata|p961|{{{ipni|}}}}}</td>|{{#if: {{{noipni|}}}{{{Вымер|}}}||{{IPNI+|rang={{{rang|{{#if:{{wikidata|p225|{{{latin|}}}|plain=true}}|{{{{wikidata|p225|{{{latin|}}}|plain=true}}|4}}}}}}}|latin={{wikidata|p225|{{{latin|}}}|plain=true}} }} }}</tr>}}<!--
+-->{{if-wikidata|p1070|{{{tpl|}}}|<tr><td align{{eq}}"right" width{{eq}}"40%">[[The Plant List{{!}}TPL]]&nbsp;</td><td class{{eq}}"plainlinksneverexpand" align{{eq}}"left">&nbsp;{{wikidata|p1070|{{{tpl|}}}}}</td></tr>|{{#if: {{{notpl|}}}||{{#ifeq:{{{rang}}}|Вид|<tr><td align="right" width="40%">[[The Plant List|TPL]]&nbsp;</td><td class="plainlinksneverexpand" align="left">&nbsp;[http://www.theplantlist.org/tpl1.1/search?q={{urlencode:{{wikidata|p225|{{{latin|}}}|plain=true}} }} ???]</td></tr> }} }} }}<!--
+-->|}}<!-- для грибов
+-->{{if-wikidata|p962|{{{mycobank|}}}|<tr><td align{{eq}}"right" width{{eq}}"40%">[[MycoBank{{!}}MB]]&nbsp;&nbsp;</td><td class{{eq}}"plainlinksneverexpand" align{{eq}}"left">{{wikidata|p962|{{{mycobank|}}}|}}</td></tr>|<!--
+-->}}<!-- последняя для ископаемых 
+-->{{if-wikidata|p842|{{{fw|}}}|<tr><td align{{eq}}"right" width{{eq}}"40%">[[Fossilworks{{!}}FW]]&nbsp;&nbsp;</td><td class{{eq}}"plainlinksneverexpand" align{{eq}}"left">{{wikidata|p842|{{{fw|}}}}}</td></tr>|{{#if: {{{nofw|}}}||{{#if: {{{Вымер|}}}|<tr><td align{{eq}}"right" width{{eq}}"40%">[[Fossilworks{{!}}FW]]&nbsp;&nbsp;</td><td class{{eq}}"plainlinksneverexpand" align{{eq}}"left"> [http://fossilworks.org/bridge.pl?action=taxonInfo&taxon_no= ???]</td></tr>}}}}}}</table></td></tr></table>}}<!--
+</table></td></tr></table>}}<!-- 
+
+Категории для статей 
+
+-->{{#if: {{{regnum|}}}|{{#if:{{{nocat|}}}||{{#if:{{NAMESPACE}}||[[Категория:{{{regnum}}} по алфавиту]]}}}}}}<!--
+-->{{#if: {{wikidata|P18|{{{image file|}}}}}||{{#if: {{{images_set|}}}||{{Нет изображения}}}}}}<!--
+-->{{#ifeq:{{{image file}}}|no image available.svg|{{Нет изображения}}|}}<!--
+-->{{#ifeq:{{{image file}}}|No-image-available-rectangle.svg|{{Нет изображения}}|}}<!--
+-->{{#if:{{wikidata|p373|{{wikidata|p935|{{{commons|}}}}}}}||{{категория только в статьях|Википедия:Статьи об организмах без иллюстраций на Викискладе}}}}<!--
+-->{{#if:{{{wikispecies|}}}||{{категория только в статьях|Статьи без ссылки на Викивиды}}}}<!--
+-->{{if-wikidata|p815|{{{itis|}}}||{{категория только в статьях|Биологические статьи без ITIS}}}}<!--
+-->{{if-wikidata|p685|{{{ncbi|}}}||{{категория только в статьях|Биологические статьи без NCBI}}}}<!--
+-->{{if-wikidata|p830|{{{eol|}}}||{{категория только в статьях|Биологические статьи без EOL}}}}<!--
+-->{{#ifeq:{{{regnum}}}|Растения|{{#switch: {{{rang|{{{{wikidata|p225|{{{latin|}}}|plain=true}}|4}}}}}|Семейство|Род|Вид = {{#if:{{{grin|}}}||{{категория только в статьях|Статьи о растениях без GRIN}}}}}}|}}<!--
+-->{{#ifeq:{{{regnum}}}|Растения|{{#switch: {{{rang|{{{{wikidata|p225|{{{latin|}}}|plain=true}}|4}}}}}|Род|Вид = {{if-wikidata|p961|{{{ipni|}}}||{{категория только в статьях|Статьи о растениях без IPNI}}}}}}|}}<!--
+-->{{#ifeq:{{{regnum}}}|Растения|{{#switch: {{{rang}}}|Вид = {{if-wikidata|p1070|{{{tpl|}}}||{{категория только в статьях|Статьи о растениях без TPL}}}}}}|}}<!--
+-->{{#ifeq:{{{regnum}}}|Грибы|{{if-wikidata|p962|{{{mycobank|}}}||{{категория только в статьях|Статьи о грибах без MycoBank}}}}|}}<!--  
+-->{{#if:{{{nofw|}}}||{{#if:{{{Вымер|}}}|{{if-wikidata|p842|{{{fw|}}}||{{категория только в статьях|Статьи о вымерших таксонах без Fossilworks}} }} }} }}<!-- 
+заголовок курсивом если название статьи равно латинскому названию данного таксона 
+-->{{#switch:{{{rang}}}|Сорт|Штамм =|{{#switch:{{PAGENAME}}|{{wikidata|p225|{{{latin|}}}|plain=true}}|{{{wikispecies|}}}|{{{commons|}}} = {{DISPLAYTITLE:{{#invoke:Taxonomy/latin|latin|{{{latin}}}}}}}|}}}}<!--
+нет перенаправления с латинского названия
+-->{{#ifexist:{{wikidata|p225|{{{latin|}}}|plain=true}}||{{#if:{{NAMESPACE}}||[[Категория:Биологические статьи, где отсутствует перенаправление с латинского названия таксона]]}}}}</includeonly><noinclude>{{doc}}</noinclude>
