@@ -1,0 +1,30 @@
+<includeonly>{{#switch:{{{regnum}}}|Растения=lightgreen|Ракшат=#FFC0CB|Протисты=khaki|Пангт=lightblue|Бактерии=#D3D3D3|Археи=#F3E0E0|Вирусы=#EE82EE|Хромисты=#ADFF2F|Простейшие=#FFC8A0|Организмы = #FAF0E6|error=red|white}}</includeonly><noinclude>
+{{doc-inline}}
+''Данный шаблон является частью шаблона {{tl|Таксон}}.
+{| class="wikitable"
+|-
+! style="background:white" | Царство || style="background:white" | Цвет
+|-
+! style="background:#FFC0CB" | [[Ракшат]] || #FFC0CB
+|-
+! style="background:#90EE90" | [[Растения]] || #90EE90
+|-
+! style="background:#ADD8E6" | [[Пангт]] || #ADD8E6
+|-
+! style="background:#F0E68C" | [[Протисты]] || #F0E68C
+|-
+! style="background:#D3D3D3" | [[Бактерии]] || #D3D3D3
+|-
+! style="background:#F3E0E0" | [[Археи]] || #F3E0E0
+|-
+! style="background:#EE82EE" | [[Вирусы]] || #EE82EE
+|-
+! style="background:#ADFF2F" | [[Хромисты]] || #ADFF2F
+|-
+! style="background:#FFC8A0" | [[Простейшие]] || #FFC8A0
+|-
+! style="background:#FAF0E6" | [[Организмы]] || #FAF0E6
+|}
+
+[[Категория:Шаблоны:Шаблоны для шаблона Таксон|{{PAGENAME}}]]
+</noinclude>
