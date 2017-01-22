@@ -130,7 +130,7 @@
 
 === Шаблоны для копирования ===
 <big>Специально подготовленные пустые шаблоны для разных случаев использования.</big>
-==== Растения ====
+==== Касыкст ====
 {|
 |-
 !style="text-align:center;"|вид
@@ -142,9 +142,9 @@
 {{Таксон
  |image file        = 
  |image descr       = 
- |regnum            = Растения
+ |regnum            = Касыкст
  |parent            = 
- |rang              = Вид
+ |rang              = Чачо
  |latin             = 
  |author            = 
  |syn               = 
@@ -161,7 +161,7 @@
 {{Таксон
  |image file        = 
  |image descr       = 
- |regnum            = Растения
+ |regnum            = Касыкст
  |rang              = 
  |latin             = 
  |author            = 
@@ -180,7 +180,7 @@
 {{Таксон
  |image file    = 
  |image descr   = 
- |regnum        = Растения
+ |regnum        = Касыкст
  |rang          = 
  |latin         = 
  |author        = 
@@ -194,14 +194,14 @@
 {{Таксон
  |image file  = 
  |image descr = 
- |regnum      = Растения
+ |regnum      = Касыкст
  |parent      = 
- |rang        = Вид
+ |rang        = Чачо
  |latin       = 
  |author      = 
  |syn         = 
  |Возник      = 
- |Вымер       = Да
+ |Кулозь      = Истя
  |wikispecies = 
 }}</pre>
 |}
@@ -219,7 +219,7 @@
  |image descr       = 
  |regnum            = Ракшат
  |parent            = 
- |rang              = Вид
+ |rang              = Чачо
  |latin             = 
  |author            = 
  |syn               = 
@@ -265,7 +265,7 @@
  |children name = 
  |children      = 
  |Возник        = 
- |Вымер         = Да
+ |Кулозь        = Истя
  |wikispecies   = 
 }}</pre>
 |}
@@ -320,7 +320,7 @@
  |image descr       = 
  |regnum            = Ракшат
  |parent            = Camelus
- |rang              = Вид
+ |rang              = Чачо
  |latin             = Camelus bactrianus
  |author            = [[Linnaeus]], 1758
  |syn               = {{bt|Camelus ferus|[[Przewalski]], 1878}}
@@ -347,7 +347,7 @@
  |image descr       = 
  |regnum            = Ракшат
  |parent            = Camelus
- |rang              = Вид
+ |rang              = Чачо
  |latin             = Camelus bactrianus
  |author            = [[Linnaeus]], 1758
  |syn               = {{bt|Camelus ferus|[[Przewalski]], 1878}}
@@ -371,11 +371,10 @@
 === [[Аир обыкновенный]] ===
 {{Таксон
  |name              = Аир обыкновенный
- |regnum            = Растения
- |image file        = AcorusCalamus.jpg
+ |regnum            = Касыкст
  |image title       = Аир обыкновенный
  |parent            = Acorus
- |rang              = Вид
+ |rang              = Чачо
  |latin             = Acorus calamus
  |author            = [[L.]], 1753
  |syn               = {{bt-latrus|s=0|Calamus aromaticus|aut=[[Garsault]], 1764}}
@@ -392,7 +391,7 @@
 <pre style="overflow:auto">
 {{Таксон
  |name              = Аир обыкновенный
- |regnum            = Растения
+ |regnum            = Касыкст
  |image file        = AcorusCalamus.jpg
  |image title       = Аир обыкновенный
  |parent            = Acorus
