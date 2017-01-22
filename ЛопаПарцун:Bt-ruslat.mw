@@ -1,0 +1,14 @@
+<includeonly><!--
+
+-->{{#if: {{{1|}}}<!--
+
+-- если есть русское название 
+-->|[[{{{1}}}]]{{#if: {{{2|}}}|&#032;(''{{lang|la|{{#ifexist:{{{2}}}|{{{2}}}|[[{{{2}}}]]}}}}''{{#if: {{{3|}}}|&#032;<span style{{Eq}}"font-variant: small-caps; font-style: normal;">{{lang|la|{{#invoke:Taxonomy/latin|author|{{{3|}}}}}}}</span>|}})}}<!--
+
+-- если русское название пропущено
+-->|{{#if: {{{2|}}}|''{{lang|la|[[{{{2}}}]]}}''{{#if: {{{3|}}}|&#032;<span style{{Eq}}"font-variant: small-caps; font-style: normal;">{{lang|la|{{#invoke:Taxonomy/latin|author|{{{3|}}}}}}}</span>|}}}}<!--
+
+-->}}</includeonly><noinclude>
+{{doc}}
+[[Категорият:ЛопаПарцун:Биология|{{PAGENAME}}]]
+</noinclude>
