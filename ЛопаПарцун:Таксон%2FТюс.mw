@@ -1,4 +1,4 @@
-<includeonly>{{#switch:{{{regnum}}}|Растения=lightgreen|Ракшат=#FFC0CB|Протисты=khaki|Пангт=lightblue|Бактерии=#D3D3D3|Археи=#F3E0E0|Вирусы=#EE82EE|Хромисты=#ADFF2F|Простейшие=#FFC8A0|Организмы = #FAF0E6|error=red|white}}</includeonly><noinclude>
+<includeonly>{{#switch:{{{regnum}}}|Касыкст=lightgreen|Ракшат=#FFC0CB|Протисты=khaki|Пангт=lightblue|Бактерии=#D3D3D3|Археи=#F3E0E0|Вирусы=#EE82EE|Хромисты=#ADFF2F|Простейшие=#FFC8A0|Организмы = #FAF0E6|error=red|white}}</includeonly><noinclude>
 {{doc-inline}}
 ''Данный шаблон является частью шаблона {{tl|Таксон}}.
 {| class="wikitable"
