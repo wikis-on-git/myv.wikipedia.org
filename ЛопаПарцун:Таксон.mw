@@ -62,7 +62,7 @@
 
 Отрисовка ссылок Commons 
 
---><td style="vertical-align:middle">[[Артовкс:Commons-logo.svg|15px|link={{fullurl:commons:{{#if:{{{commons|}}}|{{{commons}}}|{{#if:{{wikidata|p935}}|{{wikidata|p935|plain=true}}|{{#if:{{wikidata|p373}}|Category:{{wikidata|p373|plain=true}}|Special:Search/{{wikidata|p225|{{{latin|}}}|plain=true}}}}}}|uselang=ru}}}}]]<br />[{{fullurl:commons:{{#if:{{{commons|}}}|{{{commons}}}|{{#if:{{wikidata|p935}}|{{wikidata|p935|plain=true}}|{{#if:{{wikidata|p373}}|Category:{{wikidata|p373|plain=true}}|Special:Search/{{wikidata|p225|{{{latin|}}}|plain=true}}}}}}|uselang=ru}}}} {{#if:{{wikidata|p373|{{wikidata|p935|{{{commons|}}}}}}}|Артовкст|Поиск изображений}}<br /> Викиутомсо]</td><!-- 
+--><td style="vertical-align:middle">[[Артовкс:Commons-logo.svg|15px|link={{fullurl:commons:{{#if:{{{commons|}}}|{{{commons}}}|{{#if:{{wikidata|p935}}|{{wikidata|p935|plain=true}}|{{#if:{{wikidata|p373}}|Category:{{wikidata|p373|plain=true}}|Special:Search/{{wikidata|p225|{{{latin|}}}|plain=true}}}}}}|uselang=ru}}}}]]<br />[{{fullurl:commons:{{#if:{{{commons|}}}|{{{commons}}}|{{#if:{{wikidata|p935}}|{{wikidata|p935|plain=true}}|{{#if:{{wikidata|p373}}|Category:{{wikidata|p373|plain=true}}|Special:Search/{{wikidata|p225|{{{latin|}}}|plain=true}}}}}}|uselang=myv}}}} {{#if:{{wikidata|p373|{{wikidata|p935|{{{commons|}}}}}}}|Артовкст|Поиск изображений}}<br /> Викиутомсо]</td><!-- 
 
 Отрисовка ссылок ITIS, NCBI, EOL, GRIN, IPNI, TPL и MB (MycoBank) 
 
