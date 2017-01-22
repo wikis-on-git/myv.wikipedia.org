@@ -13,13 +13,13 @@
 |стиль_подписи     = 
 |стиль_заголовков  = background:{{Таксон/Тюс|regnum={{{regnum}}} }};font-size:110%;
 |стиль_текста      = font-size:110%;
-|заголовок1  = [[Биологическая систематика|Научная классификация]]{{#if: {{{ref|}}}|{{#tag:ref|{{{ref|}}} }} }}
+|заголовок1  = [[Омбомасторонь наукань лем]]{{#if: {{{ref|}}}|{{#tag:ref|{{{ref|}}} }} }}
 |latin       = {{wikidata|p225|{{{latin|}}}|plain=true}}
 |parent      = {{{parent|}}}
 |name        = {{#if: {{{name|}}}|{{{name|}}}|{{#switch:{{PAGENAME}}|{{wikidata|p225|{{{latin|}}}|plain=true}}|{{{wikispecies|}}}|{{{commons|}}} = {{#invoke:Taxonomy/latin|latin|{{{latin}}}}}|{{PAGENAME}}}} }}
 |rang        = {{{rang|}}}
 |Кулозь       = {{{Кулозь|}}}
-|заголовок3  = Международное научное название
+|заголовок3  = Омбомасторонь наукань лем
 |текст4      = {{#if:{{{latin|}}}|{{#invoke:Taxonomy/latin|latin|{{{latin}}}}}{{bt-aut|{{#invoke:Taxonomy/latin|author|{{{author|}}}}}}}|{{if-wikidata|p225||{{wikidata/p225}}|<div style{{eq}}"background-color:Gainsboro;font-size:85%;color:Dimgray">СООБЩЕНИЕ ОБ ОШИБКЕ<br />Не заполнен параметр '''<big>latin</big>'''</div>}}}}
 |заголовок5  = {{#if: {{{syn|}}}|[[Синоним (таксономия)|Синонимы]]|}}
 |текст6      = {{#if: {{{syn|}}}|<div align=left>
@@ -39,7 +39,7 @@
 |заголовок11  = {{#if: {{{range map|}}}{{{range legend|}}}|{{#if: {{{range map caption}}}|{{{range map caption|Ареал}}}|[[Ареал]]}}|}}
 |текст12     = {{#if: {{{range map|}}}|[[File:{{{range map}}}{{!}}{{#if: {{{range map width}}}|{{{range map width|250px}}}|250px}}{{!}}изображение]]|}}{{#if: {{{range legend|}}}|<div align="left">
 {{{range legend}}}</div>|}}
-|заголовок13 = {{#if: {{{iucnstatus|}}}|[[Охранный статус]]|}}
+|заголовок13 = {{#if: {{{iucnstatus|}}}|[[Кородомань статус ]]|}}
 |текст14     = {{#if: {{{iucnstatus|}}}|<div align=center>{{Таксон/IUCN|{{{iucnstatus|}}}|{{#iferror:{{#invoke:Wikibase|struc|claims|P141|1|references|1|snaks|P627|1|datavalue|value}}|{{{iucn|}}}|{{#invoke:Wikibase|struc|claims|P141|1|references|1|snaks|P627|1|datavalue|value}} }} }}</div>|}}
 |заголовок15 = {{#if: {{{Baltimore group|}}}|[[Классификация вирусов по Балтимору|Группа по Балтимору]]|}}
 |текст16     = {{#if: {{{Baltimore group|}}}|{{#switch: {{{Baltimore group|}}}
@@ -62,7 +62,7 @@
 
 Отрисовка ссылок Commons 
 
---><td style="vertical-align:middle">[[Артовкс:Commons-logo.svg|15px|link={{fullurl:commons:{{#if:{{{commons|}}}|{{{commons}}}|{{#if:{{wikidata|p935}}|{{wikidata|p935|plain=true}}|{{#if:{{wikidata|p373}}|Category:{{wikidata|p373|plain=true}}|Special:Search/{{wikidata|p225|{{{latin|}}}|plain=true}}}}}}|uselang=ru}}}}]]<br />[{{fullurl:commons:{{#if:{{{commons|}}}|{{{commons}}}|{{#if:{{wikidata|p935}}|{{wikidata|p935|plain=true}}|{{#if:{{wikidata|p373}}|Category:{{wikidata|p373|plain=true}}|Special:Search/{{wikidata|p225|{{{latin|}}}|plain=true}}}}}}|uselang=ru}}}} {{#if:{{wikidata|p373|{{wikidata|p935|{{{commons|}}}}}}}|Изображения|Поиск изображений}}<br />на Викискладе]</td><!-- 
+--><td style="vertical-align:middle">[[Артовкс:Commons-logo.svg|15px|link={{fullurl:commons:{{#if:{{{commons|}}}|{{{commons}}}|{{#if:{{wikidata|p935}}|{{wikidata|p935|plain=true}}|{{#if:{{wikidata|p373}}|Category:{{wikidata|p373|plain=true}}|Special:Search/{{wikidata|p225|{{{latin|}}}|plain=true}}}}}}|uselang=ru}}}}]]<br />[{{fullurl:commons:{{#if:{{{commons|}}}|{{{commons}}}|{{#if:{{wikidata|p935}}|{{wikidata|p935|plain=true}}|{{#if:{{wikidata|p373}}|Category:{{wikidata|p373|plain=true}}|Special:Search/{{wikidata|p225|{{{latin|}}}|plain=true}}}}}}|uselang=ru}}}} {{#if:{{wikidata|p373|{{wikidata|p935|{{{commons|}}}}}}}|Артовкст|Поиск изображений}}<br /> Викиутомсо]</td><!-- 
 
 Отрисовка ссылок ITIS, NCBI, EOL, GRIN, IPNI, TPL и MB (MycoBank) 
 
