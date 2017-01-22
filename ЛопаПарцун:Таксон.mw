@@ -13,7 +13,7 @@
 |стиль_подписи     = 
 |стиль_заголовков  = background:{{Таксон/Тюс|regnum={{{regnum}}} }};font-size:110%;
 |стиль_текста      = font-size:110%;
-|заголовок1  = [[Омбомасторонь наукань лем]]{{#if: {{{ref|}}}|{{#tag:ref|{{{ref|}}} }} }}
+|заголовок1  = Наукань лем{{#if: {{{ref|}}}|{{#tag:ref|{{{ref|}}} }} }}
 |latin       = {{wikidata|p225|{{{latin|}}}|plain=true}}
 |parent      = {{{parent|}}}
 |name        = {{#if: {{{name|}}}|{{{name|}}}|{{#switch:{{PAGENAME}}|{{wikidata|p225|{{{latin|}}}|plain=true}}|{{{wikispecies|}}}|{{{commons|}}} = {{#invoke:Taxonomy/latin|latin|{{{latin}}}}}|{{PAGENAME}}}} }}
