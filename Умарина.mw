@@ -1,39 +1,26 @@
-{{Таксономиясь
-|name = Умарина
-|latin = Malus
-|image file = appletree_bloom_l.jpg
-|image descr = Умарина
-|superregnum =
-|subregnum = 
-|раздел =
-|superphylum =
-|phylum = 
-|subphylum =
-|superdivisio =
-|divisio =
-|subdivisio = 
-|superclassis =
-|classis = 
-|subclassis =
-|infraclassis =
-|superordo =
-|ordo = 
-|subordo =
-|infraordo =
-|superfamilia =
-|familia = 
-|subfamilia =
-|tribus =
-|genus = Умарина
-|subgenus =
-|species =
-|subspecies =
-|unranked =
-|range map =
+{{Таксон
+| name              = Умарина
+| image file        = [[File:appletree_bloom_l.jpg|200px]]
+| image title       = Умарина
+| image descr       = Умарина
+| regnum            = Касыкст
+| parent            = Rosaceae
+| rang              = Чачо
+| latin             = Malus
+| author            = [[P. Mill.]], 1754
+| syn               = 
+| typus             = 
+| children name     = [[Биологический вид|Виды]]
+| children          = [[#Виды|См. текст]]
+| range map         = 
+| range map caption = 
+| range map width   = 
+| range legend      = 
+| iucnstatus        = 
 | wikispecies       = Malus
 | commons           = Category:Malus
-| itis              = 
-| ncbi              = 
+| iucn              = 
+| grin             = 7215
 }}
 
 {{Лия смустьтне|Умарина (смустьтне)}}
