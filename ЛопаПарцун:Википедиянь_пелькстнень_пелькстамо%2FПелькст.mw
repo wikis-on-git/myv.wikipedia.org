@@ -1,0 +1,15 @@
+{{#ifexpr: {{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|vi}} | vi}}
+{{#ifexpr: ({{NUMBEROF|ARTICLES|vi}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|pl}}) | pl}}
+{{#ifexpr: ({{NUMBEROF|ARTICLES|pl}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|es}}) | es }}
+{{#ifexpr: ({{NUMBEROF|ARTICLES|es}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|it}}) | it }}
+{{#ifexpr: ({{NUMBEROF|ARTICLES|it}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|war}}) | war }}
+{{#ifexpr: ({{NUMBEROF|ARTICLES|war}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|fr}}) | fr }}
+{{#ifexpr: ({{NUMBEROF|ARTICLES|fr}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|ceb}}) | ceb }}
+{{#ifexpr: ({{NUMBEROF|ARTICLES|ceb}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|nl}}) | nl }}
+{{#ifexpr: ({{NUMBEROF|ARTICLES|nl}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|de}}) | de }}
+{{#ifexpr: ({{NUMBEROF|ARTICLES|de}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|sv}}) | sv }}
+{{#ifexpr: ({{NUMBEROF|ARTICLES|sv}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|en}}) | en }}
+{{#ifexpr: {{NUMBEROF|ARTICLES|myv}} > {{NUMBEROF|ARTICLES|en}} | myv }}
+<noinclude>
+[[Категория:Википедия:Подстраницы шаблонов|Соревнование разделов]]
+</noinclude>
