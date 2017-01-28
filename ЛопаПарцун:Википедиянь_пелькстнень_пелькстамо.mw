@@ -5,28 +5,28 @@
 ! style="background:#cedff2; text-align:center; width:100%" colspan="11" |<div style="float:center;"> 
 
 {{#switch: {{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}}
-| pl = '''Догоним и перегоним [[:pl:|Польшу]]!'''
-| vi = '''Догоним и перегоним [[:vi:|Вьетнам]]!'''
-| war = '''Догоним и перегоним [[:war:|Филиппины (Варайский язык)]]!'''
-| es = '''Догоним и перегоним [[:es:|Испанию]]!'''
-| it = '''Догоним и перегоним [[:it:|Италию]]!'''
-| ceb = '''Догоним и перегоним [[:ceb:|Филиппины (Себуанский язык)]]!'''
-| fr = '''Догоним и перегоним [[:fr:|Францию]]!'''
-| de = '''Догоним и перегоним [[:de:|Германию]]!'''
-| nl = '''Догоним и перегоним [[:nl:|Голландию]]!'''
-| sv = '''Догоним и перегоним [[:sv:|Швецию]]!'''
-| en = '''Догоним и перегоним [[:en:|Америку]]!'''
+| pl = '''Сасамс ды икельдямс [[:pl:|Польшу]]!'''
+| koi = '''Сасамс ды икельдямс [[:koi:|коми-пермень вики]]!'''
+| war = '''Сасамс ды икельдямс [[:war:|Филиппины (Варайский язык)]]!'''
+| es = '''Сасамс ды икельдямс [[:es:|Испанию]]!'''
+| it = '''Сасамс ды икельдямс [[:it:|Италию]]!'''
+| ceb = '''Сасамс ды икельдямс [[:ceb:|Филиппины (Себуанский язык)]]!'''
+| fr = '''Сасамс ды икельдямс [[:fr:|Францию]]!'''
+| de = '''Сасамс ды икельдямс [[:de:|Германию]]!'''
+| nl = '''Сасамс ды икельдямс [[:nl:|Голландию]]!'''
+| sv = '''Сасамс ды икельдямс [[:sv:|Швецию]]!'''
+| en = '''Сасамс ды икельдямс [[:en:|Америку]]!'''
 | ru = '''We are the Champions!'''
 | Википедиянь пелькстнень пелькстамо
 }}
 |-
-| valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | {{#ifeq: ({{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}} | myv | Мы в отрыве на | Эряви }}
+| valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | {{#ifeq: ({{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}} | myv | Минь молдянок икелев | Кадовсь од тееме }}
 | valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | {{#expr: ({{NUMBEROF|ARTICLES|myv}}-({{NUMBEROF|ARTICLES|myv}} mod 10000))+10000}} лопат малас
 |-
 | valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" |
-{{#expr: ({{NUMBEROF|ARTICLES|{{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}}}}-{{NUMBEROF|ARTICLES|myv}})}} лопань
+{{#expr: ({{NUMBEROF|ARTICLES|{{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}}}}-{{NUMBEROF|ARTICLES|myv}})}} лопатнень
 | valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | 
-{{#expr: ({{NUMBEROF|ARTICLES|myv}}-({{NUMBEROF|ARTICLES|myv}} mod 10000))+10000-{{NUMBEROF|ARTICLES|myv}}|}} лопань
+{{#expr: ({{NUMBEROF|ARTICLES|myv}}-({{NUMBEROF|ARTICLES|myv}} mod 10000))+10000-{{NUMBEROF|ARTICLES|myv}}|}} лопатнень
 |}
 |}<noinclude>
 [[Категория:Шаблонт:Викимедиа]]
