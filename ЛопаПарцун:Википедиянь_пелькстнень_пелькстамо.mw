@@ -1,4 +1,4 @@
-<noinclude>{{Эзотерика}}{{doc}}</noinclude>
+<noinclude>{{doc}}</noinclude>
 {| style="width:100%; border-spacing:8px; margin:0 −8px" align="center"
 |class="MainPageBG" style="width:60%; border:1px solid #cedff2; background-color:#fff; vertical-align:top; -moz-border-radius:6px; border-radius:6px; -webkit-border-radius:6px" |
 {| border="0" cellpadding="5" cellspacing="5" style="width:100%" align="center"
@@ -17,16 +17,16 @@
 | sv = '''Догоним и перегоним [[:sv:|Швецию]]!'''
 | en = '''Догоним и перегоним [[:en:|Америку]]!'''
 | ru = '''We are the Champions!'''
-| Соревнование разделов
+| Википедиянь пелькстнень пелькстамо
 }}
 |-
-| valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | {{#ifeq: ({{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}} | myv | Мы в отрыве на | Осталось }}
-| valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | До {{#expr: ({{NUMBEROF|ARTICLES|myv}}-({{NUMBEROF|ARTICLES|myv}} mod 100000))+100000}} осталось
+| valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | {{#ifeq: ({{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}} | myv | Мы в отрыве на | Эряви }}
+| valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | {{#expr: ({{NUMBEROF|ARTICLES|myv}}-({{NUMBEROF|ARTICLES|myv}} mod 10000))+10000}} лопат малас
 |-
 | valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" |
-({{NUMBEROF|ARTICLES|{{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}}}}-{{NUMBEROF|ARTICLES|ru}}) статья
+{{#expr: ({{NUMBEROF|ARTICLES|{{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}}}}-{{NUMBEROF|ARTICLES|myv}})}} лопань
 | valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | 
-({{NUMBEROF|ARTICLES|ru}}-({{NUMBEROF|ARTICLES|ru}} mod 100000))+100000-{{NUMBEROF|ARTICLES|ru}} статья
+{{#expr: ({{NUMBEROF|ARTICLES|myv}}-({{NUMBEROF|ARTICLES|myv}} mod 10000))+10000-{{NUMBEROF|ARTICLES|myv}}|}} лопань
 |}
 |}<noinclude>
 [[Категория:Шаблонт:Викимедиа]]
