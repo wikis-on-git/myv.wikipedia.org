@@ -1,0 +1,33 @@
+<noinclude>{{Эзотерика}}{{doc}}</noinclude>
+{| style="width:100%; border-spacing:8px; margin:0 −8px" align="center"
+|class="MainPageBG" style="width:60%; border:1px solid #cedff2; background-color:#fff; vertical-align:top; -moz-border-radius:6px; border-radius:6px; -webkit-border-radius:6px" |
+{| border="0" cellpadding="5" cellspacing="5" style="width:100%" align="center"
+! style="background:#cedff2; text-align:center; width:100%" colspan="11" |<div style="float:center;"> 
+
+{{#switch: {{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}}
+| pl = '''Догоним и перегоним [[:pl:|Польшу]]!'''
+| vi = '''Догоним и перегоним [[:vi:|Вьетнам]]!'''
+| war = '''Догоним и перегоним [[:war:|Филиппины (Варайский язык)]]!'''
+| es = '''Догоним и перегоним [[:es:|Испанию]]!'''
+| it = '''Догоним и перегоним [[:it:|Италию]]!'''
+| ceb = '''Догоним и перегоним [[:ceb:|Филиппины (Себуанский язык)]]!'''
+| fr = '''Догоним и перегоним [[:fr:|Францию]]!'''
+| de = '''Догоним и перегоним [[:de:|Германию]]!'''
+| nl = '''Догоним и перегоним [[:nl:|Голландию]]!'''
+| sv = '''Догоним и перегоним [[:sv:|Швецию]]!'''
+| en = '''Догоним и перегоним [[:en:|Америку]]!'''
+| ru = '''We are the Champions!'''
+| Соревнование разделов
+}}
+|-
+| valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | {{#ifeq: ({{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}} | myv | Мы в отрыве на | Осталось }}
+| valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | До {{#expr: ({{NUMBEROF|ARTICLES|ru}}-({{NUMBEROF|ARTICLES|myv}} mod 100000))+100000}} осталось
+|-
+| valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" |
+{{Склонять|({{NUMBEROF|ARTICLES|{{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}}}}-{{NUMBEROF|ARTICLES|ru}})|статья}}
+| valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | 
+{{Склонять|({{NUMBEROF|ARTICLES|ru}}-({{NUMBEROF|ARTICLES|ru}} mod 100000))+100000-{{NUMBEROF|ARTICLES|ru}}|статья}}
+|}
+|}<noinclude>
+[[Категория:Шаблонт:Викимедиа]]
+</noinclude>
