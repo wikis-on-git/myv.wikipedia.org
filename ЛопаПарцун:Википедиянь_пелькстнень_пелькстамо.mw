@@ -21,12 +21,12 @@
 }}
 |-
 | valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | {{#ifeq: ({{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}} | myv | Мы в отрыве на | Осталось }}
-| valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | До {{#expr: ({{NUMBEROF|ARTICLES|ru}}-({{NUMBEROF|ARTICLES|myv}} mod 100000))+100000}} осталось
+| valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | До {{#expr: ({{NUMBEROF|ARTICLES|myv}}-({{NUMBEROF|ARTICLES|myv}} mod 100000))+100000}} осталось
 |-
 | valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" |
-{{Склонять|({{NUMBEROF|ARTICLES|{{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}}}}-{{NUMBEROF|ARTICLES|ru}})|статья}}
+({{NUMBEROF|ARTICLES|{{ЛопаПарцун:Википедиянь пелькстнень пелькстамо/Пелькст}}}}-{{NUMBEROF|ARTICLES|ru}}) статья
 | valign="top" style="background:#eee8aa; text-align:center; font-size:larger; font-weight:bold" | 
-{{Склонять|({{NUMBEROF|ARTICLES|ru}}-({{NUMBEROF|ARTICLES|ru}} mod 100000))+100000-{{NUMBEROF|ARTICLES|ru}}|статья}}
+({{NUMBEROF|ARTICLES|ru}}-({{NUMBEROF|ARTICLES|ru}} mod 100000))+100000-{{NUMBEROF|ARTICLES|ru}} статья
 |}
 |}<noinclude>
 [[Категория:Шаблонт:Викимедиа]]
