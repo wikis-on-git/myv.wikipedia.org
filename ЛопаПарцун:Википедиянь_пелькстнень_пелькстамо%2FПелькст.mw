@@ -1,4 +1,4 @@
-{{#ifexpr: {{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|vi}} | vi}}
+{{#ifexpr: {{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|koi}} | koi}}
 {{#ifexpr: ({{NUMBEROF|ARTICLES|vi}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|pl}}) | pl}}
 {{#ifexpr: ({{NUMBEROF|ARTICLES|pl}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|es}}) | es }}
 {{#ifexpr: ({{NUMBEROF|ARTICLES|es}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|it}}) | it }}
