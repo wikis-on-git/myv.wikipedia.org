@@ -1,4 +1,4 @@
-{{Таксономиясь
+<!-- {{Таксономиясь
 | name = Тюжа ривезь
 | image file = Vulpes vulpes sitting.jpg
 | regnum = Ракшат
@@ -16,6 +16,26 @@
 | wikispecies = Vulpes vulpes
 | commons = Category:Vulpes vulpes
 }}
+-->
+{{Таксон
+| name = Тюжа ривезь
+| image file = [[File:Vulpes_vulpes_sitting.jpg|200 px]]
+| regnum            = Ракшат
+| parent            = Vulpes
+| ref               = 
+| comment           = 
+| rang              = Чачо
+| latin = Vulpes vulpes
+| author = [[Linnaeus]], [[1758]]
+| commons = Category:Vulpes vulpes
+| wikispecies = Vulpes vulpes
+| itis = 180604
+| ncbi = 9627
+| range map = Distribution of Vulpes Vulpes.png
+| iucnstatus= LC
+| iucn =23062
+}}
+
 '''Тюжа ривезь''' ({{lang-la|Vulpes vulpes}}, {{lang-ru|''обыкнове́нная'' эли ''ры́жая лиси́ца''}})  — те сывельде ярсыця ракша кискань семиястонть (Canidae), конатнень эйстэ сехте сравтозесь видэсь [[ривезь|ривезень]] буесь (Vulpes).
 
 Рунгонть кувалмозо 60 - 90 см, пулонть — 40 - 60 см, сталмозо — 6 -10 кг.
