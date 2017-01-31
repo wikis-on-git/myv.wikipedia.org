@@ -1,4 +1,4 @@
-{{Таксономиясь
+<!-- {{Таксономиясь
 | name = Кедьнимилявть
 | image file = Big-eared-townsend-fledermaus.jpg
 | image descr = ''Corynorhinus townsendii''
@@ -10,6 +10,48 @@
 | ordo = [[Рукокрылые]]
 | subordo = '''Кедьнимилявть'''
 | latin = ''Microchiroptera''
+}}
+-->
+{{Таксон
+| regnum  = Ракшат
+| image file = [[File:Big-eared-townsend-fledermaus.jpg|200 px ]]
+| image title = Corynorhinus townsendii
+| image descr = [[Ушан Таунсенда]] (''Corynorhinus townsendii'')
+| parent  = 
+| rang    = Отряд
+| latin   = Chiroptera
+| author  = [[Блуменбах, Иоганн Фридрих|Blumenbach]], [[1779]]
+| syn     = 
+| typus =
+| children name = Подотряды и семейства
+| children =
+<!--
+'''[[Крыланы]]'''
+* ''[[Pteropodidae]]''
+'''[[Летучие мыши]]'''
+* [[Футлярохвостые]]
+* [[Мышехвосты]]
+* [[Свиноносые]]
+* [[Подковоносые]]
+* [[Щелемордые]]
+* [[Копьеносые]]
+* [[Гладконосые летучие мыши]]
+* [[Бульдоговые летучие мыши]]
+* ''[[Antrozoidae]]''
+* [[Клейконогие]]
+* [[Розетконогие]]
+* [[Присосконогие]]
+* [[Дымчатые летучие мыши]]
+* [[Рыбоядные летучие мыши]]
+* [[Футлярокрылые]]
+* [[Подбородколистые]]
+* [[Листоносые]]
+-->
+| range map = World Bat Distribution 01.png
+| range map caption = 
+| range legend =
+| wikispecies = Chiroptera
+| commons = Category:Chiroptera
 }}
 
 '''Кедьнимилявть''' ({{Lang-la|Chiroptera<ref name="Спиридонов С. Н"/>}}, {{Lang-ru|Рукокры́лые<ref name="Спиридонов С. Н">Спиридонов С. Н., Лысенков Е. В., Кузнецов В. А., Водясова Л. П., Макушкина Л. И., Рузанкин Н. И., Лапшин А. С., Гришуткин Г. Ф., Ручин А. Б., Артаев О. Н. Мордовские названия птиц и млекопитающих Республики Мордовия // Труды Мордовского государственного природного заповедника им. П.Г. Смидовича. 2011. №9 С.201-218. {{ref-myv}}, {{ref-mdf}}, {{ref-ru}}</ref>}}) — те идем [[ракшат]].
