@@ -1,3 +1,4 @@
+<!-- 
 {{Таксономиясь
 |name = ''Ожопулоньсэть''
 |latin = ''Oriolus chinensis''
@@ -33,6 +34,30 @@
 |range map = 
 | wikispecies = Category:Alaudidae
 | commons = Category:Alaudidae
+}}
+-->
+{{Таксон
+| name = '''Ожопулоньсэть'''
+| regnum = Ракшат
+| image file = Black-naped Oriole.jpg
+| image title =
+| image descr = '''[[Китаень раужо пря ожопуло]]<ref name="Спиридонов С. Н"/>'''
+| parent = 
+| rang  = Буе
+| latin = Oriolidae
+| author = ([[Vigors]], [[1825]])
+| syn = 
+| typus =
+| children name = Канот
+| children =
+* {{bt-ruslat|Ожопулот|Oriolus}}
+* {{bt-ruslat|Фигань ожопулот|Sphecotheres}}
+| range map =
+| range map caption = 
+| range map width =
+| range legend =
+| wikispecies = Category:Oriolidae
+| commons = Category:Oriolidae
 }}
 '''Ожопулоньсэть''' ({{Lang-la|Oriolidae}}, {{Lang-ru|И́волговые}})  — те вирень [[нармунть]].
 
