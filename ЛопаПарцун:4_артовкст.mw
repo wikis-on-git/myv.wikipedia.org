@@ -1,4 +1,4 @@
-<table width="100%" class="wikitable" style="margin:0.1em 0.1em 0.1em 0.1em; font-size: 80%;text-align:center;" ><tr><td width="50%">[[Файл:{{{im1|}}}|{{{s|120}}}px]]<br/>[[{{{cap1|}}}]]</td><td width="50%">[[File:{{{im2|}}}|{{{s|120}}}px]]<br/>[[{{{cap2|}}}]]</td></tr><tr><td width="50%">[[File:{{{im3|}}}|{{{s|120}}}px]]<br/>[[{{{cap3|}}}]]</td><td width="50%">[[Файл:{{{im4|}}}|{{{s|120}}}px]]<br/>[[{{{cap4|}}}]]</td></tr></table><noinclude>
+<table width="100%" class="wikitable" style="margin:0.1em 0.1em 0.1em 0.1em; font-size: 80%;text-align:center;" ><tr><td width="50%">[[File:{{{im1|}}}|{{{s|120}}}px]]<br/>[[{{{cap1|}}}]]</td><td width="50%">[[File:{{{im2|}}}|{{{s|120}}}px]]<br/>[[{{{cap2|}}}]]</td></tr><tr><td width="50%">[[File:{{{im3|}}}|{{{s|120}}}px]]<br/>[[{{{cap3|}}}]]</td><td width="50%">[[File:{{{im4|}}}|{{{s|120}}}px]]<br/>[[{{{cap4|}}}]]</td></tr></table><noinclude>
 Шаблон:поддерживает 8 обязательных параметров:
 * ''im1'' — первое изображение,
 * ''cap1'' — ссылка под первым изображением,
