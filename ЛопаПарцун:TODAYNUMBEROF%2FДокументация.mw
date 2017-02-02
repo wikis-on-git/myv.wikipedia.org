@@ -1,0 +1,11 @@
+<noinclude>{{docpage}}</noinclude>
+Шаблон показывает те же данные, что и {{tl|NUMBEROF}}, но по состоянию на полночь московского времени.
+
+== Примеры использования ==
+{{TodayStatistics}}
+
+<center><big>Сегодня {{plural:{{#expr: {{NUMBEROFARTICLES:R}}-{{TODAYNUMBEROF|ARTICLES|ru}}}}|создана|создано|создано}} уже '''{{#expr: {{NUMBEROFARTICLES:R}}-{{TODAYNUMBEROF|ARTICLES|ru}}}}''' {{plural:{{#expr: {{NUMBEROFARTICLES:R}}-{{TODAYNUMBEROF|ARTICLES|ru}}}}|статья|статьи|статей}}</big></center>
+
+<includeonly>
+[[Категория:Шаблоны:Форматирование]]
+</includeonly>
