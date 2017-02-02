@@ -1,0 +1,1 @@
+{{#invoke:NumberOf|Today|param={{{variable|{{{param|{{{1|}}}}}}}}}|wiki={{{lang|{{{wiki|{{{2|}}}}}}}}}|fmt={{{format|{{{fmt|{{{3|}}}}}}}}}}}<noinclude>{{doc}}</noinclude>
