@@ -1,4 +1,4 @@
-{{Таксономиясь
+<!-- {{Таксономиясь
 |name =Пурьгинепалакс
 |latin =Carduus
 |image file =Carduus nutans-5665.jpg
@@ -38,6 +38,25 @@
 | eol               = 
 | grin             = 11452
 | ipni              = 
+}}
+-->
+{{Таксон
+ |image file        = [[File:Carduus nutans-5665.jpg|240 px]]
+ |image descr       = 
+ |regnum            = Касыкст
+ |rang              = Кано
+ |latin             = Carduus
+ |author            = [[L.]], 1753
+ |syn               = 
+ |typus             = {{bt-ruslat|Нувара пурьгинепалакс|Carduus nutans}}
+ |children name     = 
+ |children          = 
+ |range map         = 
+ |range map caption = 
+ |range map width   = 
+ |range legend      = 
+ |wikispecies       = Carduus
+ |grin              = 
 }}
 '''Пурьгинепалакс<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7.,{{ref-ru}},{{ref-myv}}</ref>''' ({{lang-la|Cárduus}}, {{lang-ru| ''Чертополо́х''}}) — буень [[тикше]]нь касовкс Астрань семиястонть (Asteráceae). 
 
