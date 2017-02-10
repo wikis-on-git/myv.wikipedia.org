@@ -1,48 +1,25 @@
-{{Таксономиясь
-|name =Крён
-|latin = Armoracia rusticana
-|image file =Armoracia rusticana.jpg
-|image descr = Крён (''Armoracia rusticana'')
-|superregnum =
-|subregnum = 
-|раздел =
-|superphylum =
-|phylum = 
-|subphylum =
-|superdivisio =
-|divisio =
-|subdivisio = 
-|superclassis =
-|classis = 
-|subclassis =
-|infraclassis =
-|superordo =
-|ordo = 
-|subordo =
-|infraordo =
-|superfamilia =
-|familia = 
-|subfamilia =
-|tribus =
-|genus =
-|subgenus =
-|species =
-|subspecies =
-|unranked =
-|range map =
-| wikispecies       = Armoracia rusticana
-| commons           =Category:Armoracia rusticana
-| iucn              = 
-| itis              = 
-| ncbi              = 
-| eol               = 
-| grin             = 4234
-| ipni              = 
-}}
+{{Таксон
+ |image file        = [[File:Armoracia rusticana.jpg|240 px]]
+ |image descr       = 
+ |regnum            = Касыкст
+ |rang              = Кано
+ |latin             = Armoracia rusticana
+ |author            = [[L.]], 1753
+ |syn               = 
+ |typus             = {{bt-ruslat|Крён|''Armoracia rusticana''}}
+ |children name     = 
+ |children          = 
+ |range map         = 
+ |range map caption = 
+ |range map width   = 
+ |range legend      = 
+| wikispecies = Armoracia rusticana
+| commons = Category:Armoracia rusticana
+ |grin              = 4234
+}} 
+'''Крён<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7., {{ref-ru}}, {{ref-myv}}</ref>''' ({{lang-la|Armorácia rusticána}}, {{lang-ru|Хрен обыкнове́нный, эли Хрен дереве́нский}}) — ламоиень [[тикше]]нь касовкс Крёнонь буень (''Armoracia'') [[капстансетнень раськесь|Капстансетнень раськенть]] (''Brassicaceae''). 
 
-'''Крён<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7., {{ref-ru}}, {{ref-myv}}</ref>''' ({{lang-la|Armorácia rusticána}}, {{lang-ru|Хрен обыкнове́нный, эли Хрен дереве́нский}}) — ламоиень тикшень касовкс Крёнонь буень (''Armoracia'') Капстань семиястонть (''Brassicaceae''). 
-
-Касы — Европава, Сибирьга ды Кавказга. Неень шкасто ульнесь ускозь ды касы Азиява да Америкасо. Касы [[лей|леень]] чирева, летьке таркава.
+Касы — [[Европань Мастор|Европава]], Сибирьга ды Кавказга. Неень шкасто ульнесь ускозь ды касы Азиява да Америкасо. Касы [[лей|леень]] чирева, летьке таркава.
 
 Ундоксонзо эчкеть, сывелев. Нетьксэзэ видстэ, тарадов, 50—150 см сэрьсэ. Ундокс вакссо лопатне пек покшт, кувалгавтозь. 
 Крёнонть ломанесь озавты кода [[ярсамопель]]: сон моли салтомо [[куяр]]т, помидорт, [[капста]]нь, эйстэнзэ теить {{lang-ru|«хренодёр»}}. Касы эрьва кодамо [[мода]]ва, ды куроксто тееви [[пакся тикше]]кс.
@@ -64,8 +41,8 @@ Image:Armoracia rusticana 002.JPG|цецянзо
 
 
 
-[[Категория:Ормадо лезэвть|К]]
-[[Категория:Пакся тикшеть‎|К]]
-[[Категория:Ярсамо тикшеть|К]]
-[[Категория:Биология|К]]
-[[Категория:Тикшеть|К]]
+[[Category:Ормадо лезэвть|К]]
+[[Category:Пакся тикшеть‎|К]]
+[[Category:Ярсамо тикшеть|К]]
+[[Category:Биология|К]]
+[[Category:Тикшеть|К]]
