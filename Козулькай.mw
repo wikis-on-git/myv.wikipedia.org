@@ -1,54 +1,35 @@
-{{Таксономиясь
-|name = Козулькай
-|latin = Bidens
-|image file = Bidens tripartita 003.jpg
-|image descr = Нилевявозь козулькай (''Bidens tripartita'')
-|superregnum =
-|subregnum = 
-|regnum =
-|раздел =
-|superphylum =
-|phylum = 
-|subphylum =
-|superdivisio =
-|divisio =
-|subdivisio = 
-|superclassis =
-|classis = 
-|subclassis =
-|infraclassis =
-|superordo =
-|ordo = 
-|subordo =
-|infraordo =
-|superfamilia =
-|familia = 
-|subfamilia =
-|tribus =
-|genus =
-|subgenus =
-|species =
-|subspecies =
-|unranked =
-|range map =
-| wikispecies       =Bidens
-| commons           = Category:Bidens
-| iucn              = 
-| itis              = 
-| ncbi              = 
-| eol               = 
-| grin             = 
-| ipni              = 
-}}
-'''Козулькай<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7.,{{ref-ru}},{{ref-myv}}</ref>''' ({{Lang-lat|''Bidens''}}, {{lang-ru| ''Череда'', или ''биденс''}})  —  [[тикше]]нь касовкс Астрань семиястонть (''Asteraceae''). 
+{{Таксон
+ |image file        = [[File:Bidens tripartita 003.jpg|240 px]]
+ |image descr       = Нилевявозь козулькай (''Bidens tripartita'')
+ |regnum            = Касыкст
+ |rang              = Кано
+ |latin             = Orobanche
+ |author            = [[L.]], 1753
+ |syn               = 
+* {{btname|Campylotheca|[[Cass.]]}}
+* {{btname|Forbicina|[[Ség.]]}}
+ |children name     = 
+ |children          =  {{bt-ruslat|Bidens tripartita|aut|}} '''Педитикше'''
+ |typus             = 
+ |range map         = 
+ |range map caption = 
+ |range map width   = 
+ |range legend      = 
+| wikispecies = Bidens
+| commons = Category:Bidens
+| iucn              =
+ |grin              = 1444
+ |ipni              = 
+}} 
+'''Козулькай<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7., {{ref-ru}}, {{ref-myv}}</ref>''', лиякс: '''ватракшонь чиньчарамо'''<ref name="Агафонова Н">Агафонова Н. А., Алёшкина Р. А., Гребнева А. М., Имайкина М. Д., Мосин М. В., Рузанкин Н. И., Тихонова Т. М., Цыганкин Д. В., Харитонова А. М., Цыпайкина В. П.; Гаврилова Т. Г. (отв. секретарь). Вейсэ, башка, тешкс вельде (Слитно, раздельно, через дефис). Словарь трудностей эрзянского языка. Саранск, 2001. - 172с. {{ref-ru}}, {{ref-myv}}</ref>, [[ватракшонь чипаня]]<ref name="Агафонова Н"/>, [[педягай тикше]]<ref name="Агафонова Н"/> ({{Lang-lat|''Bidens''}}, {{lang-ru| ''Череда'', или ''биденс''}})  —  [[тикше]]нь касовкс Астрань семиястонть (''Asteraceae''). 
 
 == Чачозо-покшолмазо ==
 Вейкеиень тикшень касовкс. Нетьксэзэ видэ, тарад марто, сэрьсэ 80 см-нь видс.
 == Тикшень лемтне ==
-* ({{Lang-lat|Bidens сёгпиа L.}}, {{lang-ru| ''Череда поникшая''}})  - '''''нувара козулькай'''''<ref name="Русско-эрзянский ботанический"/>. 
-* ({{Lang-lat|Bidens frondosa L.}}, {{lang-ru| ''Череда олиственная''}})  - '''лопав козулькай'''''<ref name="Русско-эрзянский ботанический"/>. 
-* ({{Lang-lat|Bidens radiata Thuill.}}, {{lang-ru| ''Череда лучистая''}})  - '''золотушной козулькай'''''<ref name="Русско-эрзянский ботанический"/>. 
-* ({{Lang-lat|Bidem tripartita L.}}, {{lang-ru| ''Череда трехраздельная''}})  - '''[[колмов явозь козулькай]]'''''<ref name="Русско-эрзянский ботанический"/>. 
+* [[Вармань чиньжарамо]], лиякс: [[колмов явозь козулькай]]<ref name="Русско-эрзянский ботанический"/>, [[золотушной тикше]]<ref name="Агафонова Н"/>, [[педитикше]]<ref name="Агафонова Н"/>, [[раужо педягай]]<ref name="Агафонова Н"/> — ({{Lang-lat|''Bídens tripartíta''}}, {{lang-ru| ''Череда́ трёхразде́льная''}}) 
+* [[Золотушной козулькай]]<ref name="Русско-эрзянский ботанический"/> — ({{Lang-lat|Bidens radiata Thuill.}}, {{lang-ru| ''Череда лучистая''}})
+* [[Лопав козулькай]]<ref name="Русско-эрзянский ботанический"/> — ({{Lang-lat|Bidens frondosa L.}}, {{lang-ru| ''Череда олиственная''}})
+* [[Нувара козулькай]]<ref name="Русско-эрзянский ботанический"/> — ({{Lang-lat|Bidens cernua L.}}, {{lang-ru| ''Череда поникшая''}})
 
 == Содамоёвкст ==
 
