@@ -1,50 +1,31 @@
-{{Таксономиясь
-|name =Мятань кондямо тикше
-|latin = Marrubium
-|image file =Marrubium vulgare 1.jpg
-|image descr = Мятань кондямо тикше
-|superregnum =
-|subregnum = 
-|раздел =
-|superphylum =
-|phylum = 
-|subphylum =
-|superdivisio =
-|divisio =
-|subdivisio = 
-|superclassis =
-|classis = 
-|subclassis =
-|infraclassis =
-|superordo =
-|ordo = 
-|subordo =
-|infraordo =
-|superfamilia =
-|familia = 
-|subfamilia =
-|tribus =
-|genus =
-|subgenus =
-|species =
-|subspecies =
-|unranked =
-|range map =
-| wikispecies       =Marrubium
-| commons           =Category:Marrubium
-| iucn              = 
-| itis              = 
-| ncbi              = 
-| eol               = 
-| grin             = 
-| ipni              = 
-}}
-'''Мятань кондямо тикше<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7.,{{ref-ru}},{{ref-myv}}</ref>''' ({{lang-la|Marrúbium}}, {{lang-ru| ''Шандра''}}) — ламоиень [[тикше]] Ясноткань семиястонть (Lamiaceae).
+{{Таксон
+ |image file        = [[File:Marrubium vulgare 1.jpg|240 px]]
+ |image descr       = Мятань кондямо тикше
+ |regnum            = Касыкст
+ |rang              = Кано
+ |latin             = Marrubium
+ |author            = [[L.]], 1753
+ |syn               = 
+* {{bt|Atirbesia|[[Raf.]]}}
+* {{bt|Lagopsis|([[Bunge (ботаник)|Bunge]] ex [[Benth.]]) [[Bunge (ботаник)|Bunge]]}}
+ |typus             = {{bt-ruslat|Marrubium vulgare}}  
+ |children name     = 
+ |children          = 
+ |range map         = 
+ |range map caption = 
+ |range map width   = 
+ |range legend      = 
+| wikispecies =Marrubium
+| commons = Category:Marrubium
+ |grin              = 7293
+}} 
+'''Мятань кондямо тикше<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7.,{{ref-ru}},{{ref-myv}}</ref>''' ({{lang-la|Marrúbium}}, {{lang-ru| ''Шандра''}}) — ламоиень [[тикше]]. [[сэнь тюсонь цецянсетнень раськесь|Cэнь тюсонь цецянсетнень]] (''Lamiaceae'').
 
 == Тикшень лемтне ==
 == Содамоёвкст ==
-== Сёрм.: ==
+== Лисьм.: ==
 <references />
+{{stub}}
 
 [[Категория:Биология|М]]
 [[Категория:Тикшеть|М]]
