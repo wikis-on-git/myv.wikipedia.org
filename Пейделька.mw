@@ -1,53 +1,36 @@
-{{Таксономиясь
-|name =Пейделька
-|latin = Matricaria
-|image file =Chamomile flowers.jpg
-|image descr = Пейделька (''Matricaria chamomilla'')
-|superregnum =
-|subregnum = 
-|раздел =
-|superphylum =
-|phylum = 
-|subphylum =
-|superdivisio =
-|divisio =
-|subdivisio = 
-|superclassis =
-|classis = 
-|subclassis =
-|infraclassis =
-|superordo =
-|ordo = 
-|subordo =
-|infraordo =
-|superfamilia =
-|familia = 
-|subfamilia =
-|tribus =
-|genus =
-|subgenus =
-|species =
-|subspecies =
-|unranked =
-|range map =
-| wikispecies       = Matricaria
-| commons           =Category:Matricaria
-| iucn              = 
-| itis              = 
-| ncbi              = 
-| eol               = 
-| grin             = 
-| ipni              = 
+{{Таксон
+ |image file        = [[File:Chamomile flowers.jpg|240 px]]
+ |image descr       = [[Ормаменьксэнь тюжа пейделька]]<br /> (''Matricaria chamomilla'')
+ |regnum            = Касыкст
+ |parent            = 
+ |rang              = Кано
+ |latin             = Matricaria
+ |author            = [[L.]], 1753
+ |syn               =  {{btname|Chamomilla|[[Грей, Сэмюэл Фредерик|Gray]]}}
+ |typus             ={{bt-latrus|Matricaria recutita|aut=[[L.]] (1753)|}}<ref name="ING">Сведения о роде Matricaria в базе данных Index Nominum Genericorum Международной ассоциации по таксономии растений (IAPT).{{ref-en}}</ref>=<br />{{bt-latrus|Matricaria chamomilla|aut=[[L.]] (1753)|}}<ref>Matricaria recutita: сведения о названии таксона на сайте The Plant List (version 1.1, 2013). {{ref-en}}</ref>'''
+ |range map         = 
+ |range map caption = 
+ |range map width   = 
+ |range legend      = 
+ |iucnstatus        = 
+ |iucn              = 
+ |wikispecies = Matricaria
+ |wikispecies       = Matricaria
+ |grin              = 7328
 }}
-'''Пейделька<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7.,{{ref-ru}},{{ref-myv}}</ref>''' ({{lang-la|Matricaria}}, {{lang-ru| ''Рома́шка''}}) —  вейкеиень [[тикше]]нь касовкс пееделькань буень (''Matricaria'') Астрань семиястонть (''Asteráceae'').
+'''Пейделька'''<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7., {{ref-ru}}, {{ref-myv}}</ref>, лиякс: '''ашопря'''<ref name="Агафонова Н">Агафонова Н. А., Алёшкина Р. А., Гребнева А. М., Имайкина М. Д., Мосин М. В., Рузанкин Н. И., Тихонова Т. М., Цыганкин Д. В., Харитонова А. М., Цыпайкина В. П.; Гаврилова Т. Г. (отв. секретарь). Вейсэ, башка, тешкс вельде (Слитно, раздельно, через дефис). Словарь трудностей эрзянского языка. Саранск, 2001. - 172с. {{ref-ru}}, {{ref-myv}}</ref>, '''ашопря цеця'''<ref name="Агафонова Н"/>, '''ашо цеця'''<ref name="Агафонова Н"/>, '''галацеця'''<ref name="Агафонова Н"/> ({{lang-la|Matricaria}}, {{lang-ru| ''Рома́шка''}}) — вейкеиень [[тикше]]нь касовкс пееделькань буень (''Matricaria''). [[Вейсэндявозь цецянсетнень раськесь]] (''Asteráceae'').
+
+Вейс пурны малав комсь видт<ref name="Виды рода Matricaria">[http://www.theplantlist.org/1.1/browse/A/Compositae/Matricaria/ Виды рода Matricaria:] информация в базе данных The Plant  {{ref-en}}</ref> аволь серейть качадыцявт тикшеть<ref name="Ботаника">Matricaria // Ботаника. Энциклопедия «Все растения мира»: Пер. с англ. = Botanica / ред. Д. Григорьев и др. — М.: Könemann, 2006. — С. 565—566. — 1020 с. — ISBN 3-8331-1621-8. {{ref-ru}}</ref>, конат цецить васенце эрямо иенть. Сех содавиксэв видэсь —  [[Ормаменьксэнь тюжа пейделька]] (Matricaria chamomilla, syn. Matricaria recutita), сон ормадо ды косметикань лезэв.
 
 == Тикшень лемтне ==
-* ({{Lang-lat|Trdpa ndtans L. s: l.}}, {{lang-ru| ''Ромашка ободранная, или лекарственная''}})  - '''''ормаменъксэнъ тюжа пейделька'''''<ref name="Русско-эрзянский ботанический"/>. 
-* ({{Lang-lat|Trdpa ndtans L. s: l.}}, {{lang-ru| ''Ромашка пахучая''}})  - '''''галань цеця'''''<ref name="Русско-эрзянский ботанический"/>. 
+* [[Алань цеця]]<ref name="Русско-эрзянский ботанический"/>, лиякс: '''тантей чине галань цеця'''<ref name="Агафонова Н"/> — ({{Lang-lat|Trdpa ndtans L. s: l.}}, {{lang-ru| ''Ромашка пахучая''}})
+* [[Ормаменьксэнь тюжа пейделька]]<ref name="Русско-эрзянский ботанический"/>, лиякс: '''тюжа глазка''' — ({{Lang-lat|Matricāria chamomīlla}}, {{lang-ru|Рома́шка апте́чная<ref name="Иллюстрированный определитель">Иллюстрированный определитель растений Ленинградской области / Под ред. А. Л. Буданцева и Г. П. Яковлева. — М.: Т-во науч. изданий КМК, 2006. — С. 559. — ISBN 5-87317-260-9. — УДК 373 372.8 378 58.{{ref-ru}}</ref>, или Ромашка лека́рственная<ref name="Флора европейской">[https://ru.wikipedia.org/wiki/Ромашка_аптечная#CITEREF.D0.A4.D0.BB.D0.BE.D1.80.D0.B0_.D0.B5.D0.B2.D1.80.D0.BE.D0.BF.D0.B5.D0.B9.D1.81.D0.BA.D0.BE.D0.B9_.D1.87.D0.B0.D1.81.D1.82.D0.B8_.D0.A1.D0.A1.D0.A1.D0.A01994 Флора европейской части СССР, 1994,] с. 129. {{ref-ru}}</ref>, или Ромашка обо́дранная<ref name="Губанов И. А., Фоменко К. П. ">Губанов И. А., Фоменко К. П. Ромашка аптечная // Биологическая флора Московской области : Вып. четвёртый / Под ред. проф. Т. А. Работнова; ред. выпуска И. А. Губанов и М. Г. Вахрамеева. — М.: Изд-во Моск. ун-та, 1978. — С. 198—205. — 232 с. — 1500 экз.{{ref-ru}}</ref>}})
+
 
 == Содамоёвкст ==
 == Лисьм.: ==
 <references />
 
-[[Категория:Биология|П]]
-[[Категория:Тикшеть|П]]
+[[Category:Биология|П]]
+[[Category:Тикшеть|П]]
+[[Category:Ормадо лезэвть|П]]
