@@ -1,56 +1,56 @@
-{{Таксономиясь
-|name = Товзюро
-|latin = Tríticum
-|image file = Weizenähren.jpg
-|image descr = Товзюро
-|superregnum =
-|subregnum = 
-|раздел =
-|superphylum =
-|phylum = 
-|subphylum =
-|superdivisio =
-|divisio =
-|subdivisio = 
-|superclassis =
-|classis = 
-|subclassis =
-|infraclassis =
-|superordo =
-|ordo = 
-|subordo =
-|infraordo =
-|superfamilia =
-|familia = 
-|subfamilia =
-|tribus =
-|genus =
-|subgenus =
-|species =
-|subspecies =
-|unranked =
-|range map =
-| wikispecies       = Tríticum
-| commons           = Category:Tríticum
-| iucn              = 
-| itis              = 
-| ncbi              = 
-| eol               = 
-| grin             = 
-| ipni              = 
-}}
-''Товзюро'' ({{Lang-lat| ''Tríticum''}}) — вейке эли кавтоиень буестэ сюронь [[тикше]]. Сонзе озавтыть [[ярсамопель|ярсамонть]] коряс ломанть.
+{{Таксон
+ | name              = Товзюро
+ | regnum            = Касыкст
+ | image file        =[[File: Weizenähren.jpg|240 px]]
+ | image title       = 
+ | image descr       = {{bt-ruslat|Чевте товзюро|Triticum aestivum}}
+ | parent            = 
+ | rang              = Чачо
+ | latin             =  Triticum
+ | author            = [[L.]], 1753
+|syn               = 
+* {{bt|Bromus|[[Scop.]], [[nom. inval.]]}}
+* {{bt|Crithodium|[[Линк, Генрих Фридрих|Link]]}}
+* {{bt|Deina|[[Alef.]]}}
+* {{bt|Frumentum|[[E.H.L.Krause]]}}
+* {{bt|Gigachilon|[[Seidl]]}}
+* {{bt|Nivieria|[[Серенж, Николя Шарль|Ser.]]}}
+* {{bt|Spelta|[[Вольф, Натанаель Маттеус фон|Wolf]]}}
+* {{bt|Zeia|[[Lunell]]}}<ref name="Watson">{{cite web|url=http://delta-intkey.com/grass/www/triticum.htm|title=Triticum L.|author=Watson L., Dallwitz M. J.|date=2010-04-23|work=The grass genera of the world: descriptions, illustrations, identification, and information retrieval; including synonyms, morphology, anatomy, physiology, phytochemistry, cytology, classification, pathogens, world and local distribution, and references|publisher=Institute of Botany, Chinese Academy of Sciences|accessdate=2011-12-14|lang=en|archiveurl=http://www.webcitation.org/65BHwfhlm|archivedate=2012-02-03}}</ref>
+ |typus             = {{bt|[[Triticum aestivum]]|[[L.]]}}<ref name="NCU-3e">[http://www.bgbm.org/scripts/asp/IAPT/ncugentry.asp?name=Triticum NCU-3e. Names in current use for extant plant genera. Electronic version 1.0. Entry for Triticum L.]{{ref-en}}</ref>
+ |children          = 
+* {{bt|Monococcon|[[Dum.]]}}
+* {{bt|Dicoccoides|[[Flaksb.]]}}
+* {{bt|Triticum|}}
+* {{bt|Timopheevii|[[A.Filat.]] & [[Dorof.]]}}
+* {{bt|Compositum|[[N.Gontsch.]]}}{{sfn|Гончаров|2008|}}
+ | range map         = Cultivo trigo.jpg
+ | range map caption = 
+ | range map width   = 
+ | range legend      = 
+ | wikispecies       =  Triticum
+ | commons           = Category: Triticum
+ |grin              =  12442
+ |ipni              = 
+ }}
+'''Товзюро'''<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7., {{ref-ru}}, {{ref-myv}}</ref><ref name="ЭРВ">Эрзянь-рузонь валкс — Русско-эрзянский словарь / Рецензентнэ: Р. Н. Бузакова, Т. М. Тихонова. — Саранск: Мордовский книжной издательствась, 1992. — 400 с. — Эрзя и рус. яз. ISBN 5-7595-0483-5 {{ref-ru}}, {{ref-myv}}</ref>, '''товсюро'''<ref name="Агафонова Н">Агафонова Н. А., Алёшкина Р. А., Гребнева А. М., Имайкина М. Д., Мосин М. В., Рузанкин Н. И., Тихонова Т. М., Цыганкин Д. В., Харитонова А. М., Цыпайкина В. П.; Гаврилова Т. Г. (отв. секретарь). Вейсэ, башка, тешкс вельде (Слитно, раздельно, через дефис). Словарь трудностей эрзянского языка. Саранск, 2001. - 172с{{ref-ru}}, {{ref-myv}}</ref> ({{Lang-lat|Tríticum}}, {{lang-ru|Пшени́ца}})— вейке эли кавтоиень буестэ сюронь [[тикше]]. Сонзе озавтыть [[ярсамопель|ярсамонть]] коряс ломанть.
 
 Валонть смустезе кавто валсо: [[тов]] ды [[сюро]].
 
 Сех паро се товзюрось, конасо седе ламо ули белок, ды кона касы степень коське климатсонть, раужо [[мода]]со. Товзюрось эрси ярвоень ды озимень. Озим товзюронть виднесызь [[сёксь|сёксня]], омбоце [[ие]]стэ озимэсь касы трубкакс, каи пря ды кенери. Ярвой товзюронть виднесызь [[тундо|тунда]], [[кизэ]]нь ютамс зёрназо сонзэ кенери. 
+
+== Тикшень лемтне ==
+* [[Калгодо товзюро]]<ref name="Русско-эрзянский ботанический"/> — ({{Lang-lat|Trīticum dūrum}}, {{lang-ru|Пшени́ца твёрдая}})
+* [[Чевте  товзюро]]<ref name="Русско-эрзянский ботанический"/> — ({{Lang-lat|Tríticum aestívum}}, {{lang-ru|Пшени́ца мя́гкая, или Пшеница летняя}})
 
 == Содамоёвкст ==
 
 == Сёрм.: ==
 * Ботаника: средней школасо тонавтнема книга: 5-6 иеть. Омбоце нолдавкс, витнезь. Сёрмадызеть Б. В. Всесвятский. Эрзякс сёрмадызе Т.И. Данилов цы лият. РСФСР-энь Наркомпроссо кемекставт тонавтнема книганть эрзякс сёрмадовксозо кемекстазь Мокш-эрзянь Облоносо. Педагогикань ды тонавтома книгань государствань издательствась. Москов. 1934 
 
-
+== Лисьм.: ==
+<references />
+{{stub}}
 [[Категория:Биология|Т]]
 [[Категория:Ярсамопель|Т]]
 [[Категория:Сюрот|Т]]
