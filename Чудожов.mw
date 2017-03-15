@@ -1,45 +1,24 @@
-{{Таксономиясь
-|name =Чудожов
-|latin =Cirsium
-|image file =Cirsium heterophyllum 06.JPG
-|image descr =Эрьва кодамо лопань чудожов чудожов (''Cirsium heterophyllum'')
-|superregnum =
-|subregnum = 
-|раздел =
-|superphylum =
-|phylum = 
-|subphylum =
-|superdivisio =
-|divisio =
-|subdivisio = 
-|superclassis =
-|classis = 
-|subclassis =
-|infraclassis =
-|superordo =
-|ordo = 
-|subordo =
-|infraordo =
-|superfamilia =
-|familia = 
-|subfamilia =
-|tribus =
-|genus =
-|subgenus =
-|species =
-|subspecies =
-|unranked =
-|range map =
-| wikispecies       =Cirsium
-| commons           =Category:Cirsium
+{{Таксон
+ |image file        = [[File:Cirsium heterophyllum 06.JPG|240 px]]
+ |image descr       = Эрьва кодамо лопань чудожов чудожов (''Cirsium heterophyllum'')
+ |regnum            = Касыкст
+ |rang              = Кано
+ |latin             = Cirsium
+ |author            =[[Mill.]], 1754
+ |syn               = 
+ |typus             =
+ |children name     = 
+ |children          = 
+ |range map         = 
+ |range map caption = 
+ |range map width   = 
+ |range legend      = 
+| wikispecies = Cirsium
+| commons = Category:Cirsium
 | iucn              = 
-| itis              = 
-| ncbi              = 
-| eol               = 
-| grin             = 2626
-| ipni              = 
-}}
-'''Чудожов<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7.,{{ref-ru}},{{ref-myv}}</ref>''' ({{lang-la|Círsium}}, {{lang-ru| ''Бодя́к''}}) — ламоиень эли кавтоиень [[тикше]]нь касовкс Астрань семиястонть (''Asteraceae''). [[Паксянь чудожов]] — виев [[паксянь тикше]]. 
+ |grin              =2626
+}} 
+'''Чудожов'''<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7.,{{ref-ru}},{{ref-myv}}</ref> ({{lang-la|Círsium}}, {{lang-ru| ''Бодя́к''}}) — ламоиень эли кавтоиень [[тикше]]нь касовкс, [[Вейсэндявозь цецянсетнень раськесь]] (''Asteraceae'', эли ''Compositae''). [[Паксянь чудожов]] — виев [[паксянь тикше]]. 
 
 == Тикшень лемтне ==
 * [[Паксянь чудожов]]<ref name="Русско-эрзянский ботанический"/> — ({{Lang-lat|Cirsium arvense (L.) Scop.}}, {{lang-ru| ''Бодяк полевой ''}}).
@@ -60,6 +39,6 @@ Image:Cirsium arvense - põldohakas.jpg|250px|center|(''Cirsium arvense'')
 ==  Лисьмапря ==
 <references />
 
-[[Категория:Биология|Ч]]
-[[Категория:Пакся тикшеть‎|Ч]]
-[[Категория:Тикшеть|Ч]]
+[[Category:Биология|Ч]]
+[[Category:Пакся тикшеть‎|Ч]]
+[[Category:Тикшеть|Ч]]
