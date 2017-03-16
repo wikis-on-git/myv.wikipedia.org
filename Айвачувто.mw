@@ -1,41 +1,24 @@
-{{Таксономиясь
-|name = Айвачувто
-|latin = Cītrus sinēnsis
-|image file = Cydonia oblonga flourished.JPG
-|image descr =  Айвачувтось цецямсто
-|superregnum =
-|subregnum = 
-|раздел =
-|superphylum =
-|phylum = 
-|subphylum =
-|superdivisio =
-|divisio =
-|subdivisio = 
-|superclassis =
-|classis = 
-|subclassis =
-|infraclassis =
-|superordo =
-|ordo = 
-|subordo =
-|infraordo =
-|superfamilia =
-|familia = 
-|subfamilia =
-|tribus =
-|genus = 
-|subgenus =
-|species =
-|subspecies =
-|unranked =
-|range map =
-| wikispecies       = Cydonia oblonga
-| commons           = Category:Cydonia oblonga
-| itis              = 
-| ncbi              = 
-}}
-
+{{Таксон
+ |image file        = [[File:Cydonia oblonga flourished.JPG|240 px]]
+ |image descr       = Айвачувтось цецямсто
+ |regnum            = Касыкст
+ |rang              = Кано
+ |latin             =Cydonia oblonga
+ |author            =  [[Mill.]]
+ |syn               = 
+* {{bt|Cydonia vulgaris|[[Pers.]]}}
+* {{bt|Pyrus cydonia|[[L.]]}}
+ |typus             = 
+ |children name     = 
+ |children          = <center>'''{{bt|Cydonia oblonga|[[Mill.]]}} <br />— Айвачувто'''</center>
+ |range map         = 
+ |range map caption = 
+ |range map width   = 
+ |range legend      = 
+| wikispecies = Cydonia oblonga
+| commons = Category:Cydonia oblonga
+ |grin              =12779
+}} 
 '''Айвачувто<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7.,{{ref-ru}},{{ref-myv}}</ref>''' ({{Lang-lat|Cydonia oblōnga}}, {{lang-ru|Айва́, или Айва обыкнове́нная, или Айва продолгова́тая}}) — [[чувтт|чувтонь]] касовкс, розацецянь канстонть (''Rosaceae'').
 
 
@@ -57,10 +40,8 @@ Image:Cydonia oblonga Fruit 1.jpg|250px|center|айвамаресь керязь
 ==  Лисьмапрят ==
 <references />
 
-
 {{stub}}
 
-
-[[Категория:Лопав чувтт|А]]
-[[Категория:Эмежев чувтт|А]]
-[[Категория:Чувтт|А]]
+[[Category:Лопав чувтт|А]]
+[[Category:Эмежев чувтт|А]]
+[[Category:Чувтт|А]]
