@@ -1,0 +1,26 @@
+<div class="references-small <!--
+ -->{{#if: {{{colwidth|}}}
+    | columns
+    | {{#if: {{{1|}}}
+      | {{#ifeq: {{{1}}} | 1 || columns }}
+      | 
+      }}
+    }}" <!--
+ -->style="<!--
+ -->{{#if: {{{colwidth|}}}
+    | column-width:{{{colwidth}}};<!--
+   -->-moz-column-width:{{{colwidth}}};<!--
+   -->-webkit-column-width:{{{colwidth}}};
+    | {{#if: {{{1|}}}
+      | {{#iferror: {{#ifexpr: {{{1}}} > 1 }}
+        | column-width:{{{1}}};<!--
+       -->-moz-column-width:{{{1}}};<!--
+       -->-webkit-column-width:{{{1}}};
+        | column-count:{{{1}}};<!--
+       -->-moz-column-count:{{{1}}};<!--
+       -->-webkit-column-count:{{{1}}};
+        }}
+      }}
+    }}">
+{{#tag:references|{{{refs|}}}|group={{{group|{{{группа|}}}}}}}}
+</div><noinclude>{{doc}}</noinclude>
