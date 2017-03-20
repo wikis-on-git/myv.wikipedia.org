@@ -1,0 +1,19 @@
+<includeonly>{{ {{{|safesubst:}}}ifsubst|{{subst:Unsubst|Warheroes| star|{{{star|¬}}} | id|{{{id|¬}}} |author|{{{author|¬}}}| name|{{{name|¬}}}| accessdate |{{{accessdate |{{{{{|subst:}}}#time: Y-m-d}}}}} }}|{{#switch: {{{star|}}}
+ | нет | none | blank | empty | None  = 
+ | USSR  = [[Артовкс:Hero of the Soviet Union medal.png|15px]]
+ | СССР  = [[Артовкс:Hero of the Soviet Union medal.png|15px]]
+ | Labor = [[Артовкс:Hero of Socialist Labor medal.png|15px]]
+ | Rus   = [[Артовкс:Hero of the Russian Federation medal.png|15px]]
+ | Rlabor = [[Артовкс:Hero of Labour Russia medal.png|15px]]
+ | Слава = [[Артовкс:OrderOfGlory1stClass.png|15px]]
+ | Glory = [[Артовкс:OrderOfGlory1stClass.png|15px]]
+ | Lglory = [[Артовкс:Order of Labour Glory 1st.jpg|15px]]
+ | None  = 
+ | [[Артовкс:Hero of the Soviet Union medal.png|15px]]
+}}&nbsp;{{cite web
+ | author = {{{author|}}}
+ | url = http://www.warheroes.ru/hero/hero.asp?Hero_id={{{id|{{#property:p2943}}}}}
+ | title = {{{name|{{PAGENAME}}}}}
+ | publisher = Сайт «[[Герои страны]]»
+ | accessdate = {{{accessdate|}}}
+}}}}</includeonly><noinclude>{{doc}}</noinclude>
