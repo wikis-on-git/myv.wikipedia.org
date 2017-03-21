@@ -163,7 +163,7 @@
 
 <!-----  Ярмаконь ды конёвярмаконь теемась----->
 |-
-{{#if: {{{Куншкабанк|}}}{{{Печаты|}}}{{{Ярмаконь_кудо|}}}{{{Ярмаконь_кудо2|}}} |
+{{#if: {{{Куншкабанк|}}}{{{Печаты|}}}{{{Ярмаконь кудо|}}}{{{Ярмаконь кудо2|}}} |
 {{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Ярмаконь ды конёвярмаконь теемась'''
 }}
 |-
@@ -187,9 +187,9 @@
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Печаты_вальма}}} {{Печаты_вальма}}}]
 }}
 |-
-{{#if: {{{Ярмаконь_кудо|}}} |
-{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[Ярмаконь_кудо]]}}</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Ярмаконь_кудо}}}
+{{#if: {{{Ярмаконь кудо|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[Ярмаконь кудо]]}}</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Ярмаконь кудо}}}
 }}
 |-
 {{#if: {{{Ярмаконь_кудо_вальма|}}} |
@@ -197,9 +197,9 @@
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Ярмаконь_кудо_вальма}}} {{{Ярмаконь_кудо_вальма}}}]
 }}
 |-
-{{#if: {{{Ярмаконь_кудо_2|}}} |
+{{#if: {{{Ярмаконь кудо_2|}}} |
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Ярмаконь_кудо2}}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Ярмаконь кудо2}}}
 }}
 |-
 {{#if: {{{Ярмаконь_кудо_вальма2|}}} |
