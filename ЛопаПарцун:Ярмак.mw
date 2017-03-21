@@ -126,13 +126,13 @@
 
 <!----- Ярмакт ды конёвярмакт якамосо ----->
 |-
-{{#if: {{{Ярмакт|}}}{{{Конёвярмакт|}}} |
-{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Ярмакт ды конёвярмакт якамосо'''
+{{#if: {{{Пижеярмакт|}}}{{{Конёвярмакт|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Пижеярмакт ды конёвярмакт якамосо'''
 }}
 |-
-{{#if: {{{Ярмакт|}}} |
-{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Ярмак|Ярмакт]]</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Ярмакт}}}
+{{#if: {{{Пижеярмакт|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Пижеярмак|Пижеярмакт]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Пижеярмакт}}}
 }}
 |-
 {{#if: {{{Конёвярмакт|}}} |
