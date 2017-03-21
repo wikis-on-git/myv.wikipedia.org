@@ -174,7 +174,7 @@
 |-
 {{#if: {{{Куншкабанк_вальма|}}} |
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Центробанк_сайт}}} {{{Центробанк_сайт}}}]
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Куншкабанк_вальма}}} {{{Куншкабанк_вальма}}}]
 }}
 |-
 {{#if: {{{Печаты|}}} |
