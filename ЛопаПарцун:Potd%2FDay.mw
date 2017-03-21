@@ -1,0 +1,9 @@
+== {{{day}}} ==
+{| style="background:none;"
+|- style="vertical-align:top;"
+|[[File:{{Potd/{{{month}}}-{{{day}}}}}|thumb|none|{{{width}}}px|{{Potd/{{{month}}}-{{{day}}} (myv)}}]]<br />
+[{{SERVER}}{{localurl:Template:Potd/{{{month}}}-{{{day}}}|action=edit}} Витнемс-петнемс Фото] — [{{SERVER}}{{localurl:Template:Potd/{{{month}}}-{{{day}}} (myv)|action=edit}} Витнемс-петнемс (myv)] <br />
+----
+
+<small>''Image description'' / Oписание изображения<br/>''[[Commons:Template:Potd/{{{month}}}-{{{day}}} (en)|in English]]'' /  [[:ru:Template:Potd/{{{month}}}-{{{day}}} (ru)|на русском]].</small>
+|}
