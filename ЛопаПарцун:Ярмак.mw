@@ -29,11 +29,11 @@
 <!----- Коды и символы ----->
 |-
 {{#if: {{{ISO|}}}{{{Ярмаконь тешкс|}}}{{{Аббревиатура|}}} |
-{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Коды и символы'''
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Кодт ды символт'''
 }}
 |-
 {{#if: {{{ISO|}}} |
-{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>Коды [[ISO 4217]]</small>
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[ISO 4217]]-нь кодт</small>
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{ISO}}} {{#if: {{{ISO цифровой|}}}|({{{ISO цифровой}}})}}
 }}
 |-
@@ -42,15 +42,15 @@
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Ярмаконь тешкс}}}
 }}
 |-
-{{#if: {{{Аббревиатура|}}} |
-{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Знаки валют|Аббревиатуры]]</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Аббревиатура}}}
+{{#if: {{{Киртязь валось|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Валютань тешкс|Киртязь валтне]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Киртязь валось}}}
 }}
 
-<!----- Территория обращения ----->
+<!----- Таркань-модань якамось ----->
 |-
 {{#if: {{{Эмитент|}}}{{{Оф_пользователи|}}}{{{Неоф_пользователи|}}} |
-{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Территория обращения'''
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Таркань-модань якамось'''
 }}
 |-
 {{#if: {{{Эмитент|}}} |
@@ -68,14 +68,14 @@
 {{!}} style="background-color: #FFFF99;text-align: left;" {{!}} {{{Неоф_пользователи}}}
 }}-->
 
-<!----- Дробные, кратные и параллельные единицы ----->
+<!----- Явшезь, кавкстькиртязь ды параллельнойть единицат ----->
 |-
 {{#if: {{{Состоит1|}}}{{{Кратная1|}}}{{{Параллельная1|}}} |
-{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Производные и параллельные единицы'''
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Производнойть ды параллельнойть единицат '''
 }}
 |-
 {{#if: {{{Состоит1|}}} |
-{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Существующие разменные денежные единицы|Дробные]]</small>
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Существующие разменные денежные единицы|Явшезь]]</small>
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Состоит1}}} {{#if: {{{Соотношение1|}}}| ({{Явовкс|{{{Соотношение1}}}}}) }} 
 }}
 |-
@@ -124,26 +124,26 @@
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Параллельная3}}} 
 }}
 
-<!----- Монеты и банкноты в обращении ----->
+<!----- Ярмакт ды конёвярмакт якамосо ----->
 |-
-{{#if: {{{Монеты|}}}{{{Банкноты|}}} |
-{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Монеты и банкноты в обращении'''
+{{#if: {{{Ярмакт|}}}{{{Конёвярмакт|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Ярмакт ды конёвярмакт якамосо'''
 }}
 |-
-{{#if: {{{Монеты|}}} |
-{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Монета|Монеты]]</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Монеты}}}
+{{#if: {{{Ярмакт|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Ярмак|Ярмакт]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Ярмакт}}}
 }}
 |-
-{{#if: {{{Банкноты|}}} |
-{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Банкнота|Банкноты]]</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Банкноты}}}
+{{#if: {{{Конёвярмакт|}}} |
+{{!}} style="background-color: #ffffff; text-align: right;" {{!}} <small>[[Конёвярмак|Конёвярмакт]]</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Конёвярмакт}}}
 }}
 
-<!----- История ----->
+<!----- Историясь ----->
 |-
 {{#if: {{{Введена|}}}{{{Введена-конец|}}}{{{Заменила|}}}{{{Хроника|}}} |
-{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''История валюты'''
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Валютань историясь'''
 }}
 |-
 {{#if: {{{Введена|}}}{{{Введена-конец|}}} |
@@ -161,50 +161,50 @@
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Хроника}}}
 }}
 
-<!----- Производство монет и банкнот ----->
+<!-----  Ярмаконь ды конёвярмаконь теемась----->
 |-
-{{#if: {{{Центробанк|}}}{{{Печатает|}}}{{{Монетный_двор|}}}{{{Монетный_двор2|}}} |
-{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Производство монет и банкнот'''
+{{#if: {{{Куншкабанк|}}}{{{Печаты|}}}{{{Ярмаконь_кудо|}}}{{{Ярмаконь_кудо2|}}} |
+{{!}} colspan="2" style="background-color: #CCCC66; color: #fff; text-align: center;" {{!}} '''Ярмаконь ды конёвярмаконь теемась'''
 }}
 |-
-{{#if: {{{Центробанк|}}} |
-{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[{{{Центробанк заглавие|Эмиссионный центр}}}]]}}</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Центробанк}}}
+{{#if: {{{Куншкабанк|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[{{{Центробанк заглавие|Эмиссионной куншкатарка}}}]]}}</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Куншкабанк}}}
 }}
 |-
-{{#if: {{{Центробанк_сайт|}}} |
+{{#if: {{{Куншкабанк_вальма|}}} |
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
 {{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Центробанк_сайт}}} {{{Центробанк_сайт}}}]
 }}
 |-
-{{#if: {{{Печатает|}}} |
-{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[Банкнота|Производитель банкнот]]}}</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Печатает}}}
+{{#if: {{{Печаты|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[Конёвярмак|Конёвярмаконь теицясь]]}}</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Печаты}}}
 }}
 |-
-{{#if: {{{Печатает_сайт|}}} |
+{{#if: {{{Печаты_вальма|}}} |
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Печатает_сайт}}} {{{Печатает_сайт}}}]
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Печаты_вальма}}} {{Печаты_вальма}}}]
 }}
 |-
-{{#if: {{{Монетный_двор|}}} |
-{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[Монетный двор]]}}</small>
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Монетный_двор}}}
+{{#if: {{{Ярмаконь_кудо|}}} |
+{{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}} <small>{{nobr|[[Ярмаконь_кудо]]}}</small>
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Ярмаконь_кудо}}}
 }}
 |-
-{{#if: {{{Монетный_двор_сайт|}}} |
+{{#if: {{{Ярмаконь_кудо_вальма|}}} |
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Монетный_двор_сайт}}} {{{Монетный_двор_сайт}}}]
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Ярмаконь_кудо_вальма}}} {{{Ярмаконь_кудо_вальма}}}]
 }}
 |-
-{{#if: {{{Монетный_двор2|}}} |
+{{#if: {{{Ярмаконь_кудо_2|}}} |
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Монетный_двор2}}}
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} {{{Ярмаконь_кудо2}}}
 }}
 |-
-{{#if: {{{Монетный_двор_сайт2|}}} |
+{{#if: {{{Ярмаконь_кудо_вальма2|}}} |
 {{!}} style="background-color: #ffffff; text-align: right; vertical-align:top;" {{!}}
-{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Монетный_двор_сайт2}}} {{{Монетный_двор_сайт2}}}]
+{{!}} style="background-color: #FFFF99; text-align: left;" {{!}} [http://{{{Ярмаконь_кудо_вальма2}}} {{{Ярмаконь_кудо_вальма2}}}]
 }}
 
 <!----- Курс для ручного ввода по пяти заданным валютам ----->
