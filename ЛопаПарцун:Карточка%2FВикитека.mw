@@ -1,0 +1,7 @@
+{{#if:{{#invoke:Wikidata/Interproject|getWikisourceLink|p103}}<!--
+-->|'''[[Файл:wikisource-logo.svg|15px|Логотип Викитеки|link={{#invoke:Wikidata/Interproject|getWikisourceLink|p103}}]] [[{{#invoke:Wikidata/Interproject|getWikisourceLink|p103}}|{{#if:{{{2|}}}|{{{2}}}|{{Васня лем|{{PAGENAME}}}}}}]]''' в [[Викитека|Викитеке]]<!--
+-->|{{#ifeq:{{{1|}}}|нельзя|{{Unicode|©}} Произведения этого автора [[Свободный контент|несвободны]]}}<!--
+-->}}<!--
+-->{{#if:{{{nocat|}}}{{NAMESPACE}}||{{#if:{{{1|}}}|{{#ifeq:{{{1|}}}|нельзя||[[Категория:Википедия:Ссылка на Викитеку непосредственно в статье]]}}}}}}<noinclude>
+{{doc}}
+</noinclude>
