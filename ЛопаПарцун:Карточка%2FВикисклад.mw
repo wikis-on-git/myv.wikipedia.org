@@ -1,0 +1,6 @@
+{{#if:{{{1|}}} | [[Артовкс:Commons-logo.svg|{{{icon_size|15px}}}|link=commons:Category:{{str rep|{{str rep|{{{1}}}|Category:|}}|category:|}}|alt=Логотип Викисклада]] '''[[commons:Category:{{str rep|{{str rep|{{{1}}}|Category:|}}|category:|}}|{{#if:{{{2|}}}|{{{2}}}|{{Васня лем|{{PAGENAME}}}}}}]]''' [[Википурнавкс]]со | {{wikidata/p373||text={{#if:{{{2|}}}|{{{2}}}|{{Васня лем|{{PAGENAME}}}}}}|icon_size={{{icon_size|}}} }} }}<!--
+
+-->{{#if: {{{1|}}} | {{#if:{{{nocat|}}}{{NAMESPACE}}||[[Категория:Википедия:Ссылка на Викисклад непосредственно в статье]]}} }}<noinclude>
+
+{{doc}}
+</noinclude>
