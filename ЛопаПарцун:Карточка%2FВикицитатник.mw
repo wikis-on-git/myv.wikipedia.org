@@ -1,0 +1,6 @@
+{{#if:{{#invoke:Wikidata/Interproject|getWikiquoteLink|p103}}<!--
+-->|'''[[Артовкс:wikiquote-logo.svg|15px|Логотип Викицитатника|link={{#invoke:Wikidata/Interproject|getWikiquoteLink|p103}}]] [[{{#invoke:Wikidata/Interproject|getWikiquoteLink|p103}}|{{#if:{{{2|}}}|{{{2}}}|{{Васня лем|{{PAGENAME}}}}}}]]''' в [[Викицитатник]]е<!--
+-->}}<!--
+-->{{#if:{{{nocat|}}}{{NAMESPACE}}||{{#if:{{{1|}}}|[[Категория:Википедия:Ссылка на Викитеку непосредственно в статье]]}}}}<noinclude>
+{{doc}}
+</noinclude>
