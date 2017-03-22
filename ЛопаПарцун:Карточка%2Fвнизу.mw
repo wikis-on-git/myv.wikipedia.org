@@ -1,0 +1,3 @@
+<includeonly>{{#if:{{{внизу|}}}|<tr><td colspan="2" class="{{{класс_внизу|}}}" style="text-align:center;{{{стиль_внизу_общий|}}};{{{стиль_внизу|}}}">{{{внизу|}}}</td></tr>}}</includeonly><noinclude>
+{{doc}}
+</noinclude>
