@@ -39,5 +39,5 @@
 класс_внизу=|
 внизу=}}<!--
  Tnavbar
--->{{#if:{{{имя|}}}|<tr><td style="text-align:right;" colspan="2">{{Tnavbar|{{{имя}}}}}</td></tr>}}
+-->{{#if:{{{лем|}}}|<tr><td style="text-align:right;" colspan="2">{{Tnavbar|{{{лем}}}}}</td></tr>}}
 </table><noinclude>{{doc}}</noinclude>
