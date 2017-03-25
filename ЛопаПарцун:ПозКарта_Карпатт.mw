@@ -1,0 +1,11 @@
+{{#switch:{{{1}}}
+|name   = Карпатт
+|top    = 50
+|bottom = 44.25
+|left   = 16
+|right  = 27.5
+|image  = Carpathians relief location map.jpg
+}}<noinclude>{{ПозКарта/Инфо|Европа}}
+
+[[Категория:Шаблоны:Позиционные карты:Европа|Карпаты]]
+</noinclude>
