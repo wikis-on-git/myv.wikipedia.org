@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name   = Хорватия Мастор
+| top    = 46.8
+| bottom = 42.1
+| left   = 13.1
+| right  = 19.9
+|image = {{#switch:{{{2|}}}
+ |physical = Croatia relief map.png
+ |#default = Croatia location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Хорватия}}
+[[Категория:Шаблоны:Позиционные карты:Хорватия]]
+
+</noinclude>
