@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name = Албания
+|top = 42.9
+|bottom = 39.3
+|left = 18.3
+|right = 21.5
+|image = {{#switch:{{{2|}}}
+ |physical = Albania relief location map.jpg
+ |#default = Albania location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Албания}}
+[[Категория:ЛопаПарцунт:Позиционные карты:Албания|Албания]]
+
+</noinclude>
