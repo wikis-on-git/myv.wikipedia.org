@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name   = Греция
+|top    = 42.0
+|bottom = 34.6
+|left   = 19.1
+|right  = 29.9
+|image = {{#switch:{{{2|}}}
+ |physical = Greece relief location map.jpg
+ |#default = Greece location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Греция}}
+
+
+</noinclude>
