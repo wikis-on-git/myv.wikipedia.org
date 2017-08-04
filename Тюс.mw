@@ -1566,7 +1566,7 @@
 ! colspan="3" style="border-left-width:15%" | [[HSV (тюсонь модель)|HSV]]
 |-
 ! style="text-align:left;"          | Pale Blue
-| style="text-align:left;"          |[[Ашназа-сэнь]]
+| style="text-align:left;"          |[[Ловтаня-сэнь]]
 | style="text-align:left;"          | [[:ru:бледно-синий цвет|Бледно-синий]]
 | style="background-color:#AFEEEE;" |
 | style="font-family:monospace;"    | #AFEEEE
@@ -1575,7 +1575,7 @@
 | style="border-left-width:thin;"   | 180 || 26 || 93
 |-
 ! style="text-align:left;"          | Pale brown
-| style="text-align:left;"          | [[Тюжа]]
+| style="text-align:left;"          | [[Ловтаня-тюжа]]
 | style="text-align:left;"          | [[:ru:коричневый цвет|Бледно-коричневый]]
 | style="background-color:#987654;" |
 | style="font-family:monospace;"    | #987654
@@ -1584,7 +1584,7 @@
 | style="border-left-width:thin;"   | 30 || 45 ||  60
 |-
 ! style="text-align:left;"          | Pale carmine
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Ловтаня-карминной]]
 | style="text-align:left;"          | [[:ru:Бледно-карминный цвет|Бледно-карминный]], ср. [[:ru:Кармин]]
 | style="background-color:#AF4035;" |
 | style="font-family:monospace;"    | #AF4035
@@ -1593,7 +1593,7 @@
 | style="border-left-width:thin;"   | 5 || 69 || 68
 |-
 ! style="text-align:left;"          | Pale chestnut
-| style="text-align:left;"          |[[Ашназа-каштанонь тюс]]
+| style="text-align:left;"          |[[Ловтаня-каштанонь]]
 | style="text-align:left;"          | [[:ru:Бледно-каштановый цвет|Бледно-каштановый]]
 | style="background-color:#DDADAF;" |
 | style="font-family:monospace;"    | #DDADAF
@@ -1602,7 +1602,7 @@
 | style="border-left-width:thin;"   | 358 || 22 ||  87
 |-
 ! style="text-align:left;"          | Pale cornflower blue
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Ловтаня-розьцецянь]]
 | style="text-align:left;"          | [[:ru:Бледно-васильковый цвет|Бледно-васильковый]]
 | style="background-color:#ABCDEF;" |
 | style="font-family:monospace;"    | #ABCDEF
@@ -1611,7 +1611,7 @@
 | style="border-left-width:thin;"   | 210 || 28 || 94
 |-
 ! style="text-align:left;"          | Pale magenta
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Ловтаня-пурпурной]]
 | style="text-align:left;"          | [[:ru:Бледно-пурпурный цвет|Бледно-пурпурный]]
 | style="background-color:#F984E5;" |
 | style="font-family:monospace;"    | #F984E5
@@ -1620,7 +1620,7 @@
 | style="border-left-width:thin;"   | 310 ||  47 ||  98
 |-
 ! style="text-align:left;"          | Pale mauve
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Ловтаня-лиловой]]
 | style="text-align:left;"          | [[:ru:Бледный розовато-лиловый цвет|Бледный розовато-лиловый]]
 | style="background-color:#996666;" |
 | style="font-family:monospace;"    | #996666
@@ -1629,7 +1629,7 @@
 | style="border-left-width:thin;"   | 0 ||  33 ||  60
 |-
 ! style="text-align:left;"          | Pale pink
-| style="text-align:left;"          |[[Ашназа-розань тюс]]
+| style="text-align:left;"          |[[Ловтаня-розань ]]
 | style="text-align:left;"          | [[:ru:Бледно-розовый цвет|Бледно-розовый]]
 | style="background-color:#FADADD;" |
 | style="font-family:monospace;"    | #FADADD
@@ -1638,7 +1638,7 @@
 | style="border-left-width:thin;"   | 354 ||  13 ||  98
 |-
 ! style="text-align:left;"          | Pale red-violet
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Ловтаня-фиалетовой]]
 | style="text-align:left;"          | [[:ru:Лиловый цвет|Лиловый]]
 | style="background-color:#DB7093;" |
 | style="font-family:monospace;"    | #DB7093
@@ -1647,7 +1647,7 @@
 | style="border-left-width:thin;"   | 340 ||  49 ||  86
 |-
 ! style="text-align:left;"          | Pale Sandy Brown
-| style="text-align:left;"          |[[Ашназа-чуваронь тюс]]
+| style="text-align:left;"          |[[Ловтаня-човаронь ]]
 | style="text-align:left;"          | [[:ru:Бледно-песочный цвет]]
 | style="background-color:#DABDAB;" |
 | style="font-family:monospace;"    | #DABDAB
@@ -1656,7 +1656,7 @@
 | style="border-left-width:thin;"   | 23 ||  22 ||  85
 |-
 ! style="text-align:left;"          | Pale yellow
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Ловтаня]]
 | style="text-align:left;"          | [[:ru:Палевый цвет|Палевый]]
 | style="background-color:#F0DC82;" |
 | style="font-family:monospace;"    | #F0DC82
@@ -1683,7 +1683,7 @@
 | style="border-left-width:thin;"   | 37 ||  16 || 100
 |-
 ! style="text-align:left;"          | Pastel green
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Пастельной пиже]]
 | style="text-align:left;"          | [[:ru:Пастельно-зелёный цвет|Пастельно-зелёный]]
 | style="background-color:#77DD77;" |
 | style="font-family:monospace;"    | #77DD77
@@ -1692,7 +1692,7 @@
 | style="border-left-width:thin;"   | 120 ||  46 ||  87
 |-
 ! style="text-align:left;"          | Pastel pink
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Пастельной розовой]]
 | style="text-align:left;"          | [[:ru:Пастельно-розовый цвет|Пастельно-розовый]]
 | style="background-color:#FFD1DC;" |
 | style="font-family:monospace;"    | #FFD1DC
@@ -1701,7 +1701,7 @@
 | style="border-left-width:thin;"   | 346 ||  18 || 100
 |-
 ! style="text-align:left;"          | Peach
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Персикень]]
 | style="text-align:left;"          | [[:ru:Персиковый цвет|Персиковый]]
 | style="background-color:#FFE5B4;" |
 | style="font-family:monospace;"    | #FFE5B4
@@ -1710,7 +1710,7 @@
 | style="border-left-width:thin;"   | 39 ||  29 || 100
 |-
 ! style="text-align:left;"          | Peach-orange
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Оранжевой-персикень]]
 | style="text-align:left;"          | [[:ru:Оранжево-персиковый цвет|Оранжево-персиковый]]
 | style="background-color:#FFCC99;" |
 | style="font-family:monospace;"    | #FFCC99
@@ -1719,7 +1719,7 @@
 | style="border-left-width:thin;"   | 30 ||  40 || 100
 |-
 ! style="text-align:left;"          | Peach-yellow
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Ожо-персикень]]
 | style="text-align:left;"          | [[:ru:Жёлто-персиковый цвет|Жёлто-персиковый]]
 | style="background-color:#FADFAD;" |
 | style="font-family:monospace;"    | #FADFAD
@@ -1737,7 +1737,7 @@
 | style="border-left-width:thin;"   | 65 || 78 || 88
 |-
 ! style="text-align:left;"          | Periwinkle
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Барвиноконь]]
 | style="text-align:left;"          | [[:ru:Барвинок (цвет)|Барвинок]]
 | style="background-color:#CCCCFF;" |
 | style="font-family:monospace;"    | #CCCCFF
@@ -1746,7 +1746,7 @@
 | style="border-left-width:thin;"   | 240 ||  20 || 100
 |-
 ! style="text-align:left;"          | Persian blue
-| style="text-align:left;"          |[[Персидэнь сэнь (тюс)|Персидэнь сэнь]]
+| style="text-align:left;"          |[[Персиянь сэнесь (тюс)|Персиянь сэнесь]]
 | style="text-align:left;"          | [[:ru:Персидский синий (цвет)|Персидский синий]]
 | style="background-color:#6600FF;" |
 | style="font-family:monospace;"    | #6600FF
@@ -1764,7 +1764,7 @@
 | style="border-left-width:thin;"   | 175 ||  99 ||  47
 |-
 ! style="text-align:left;"          | Pink
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Розовой]]
 | style="text-align:left;"          | [[:ru:Розовый цвет|Розовый]]
 | style="background-color:#FFC0CB;" |
 | style="font-family:monospace;"    | #FFC0CB
@@ -1773,7 +1773,7 @@
 | style="border-left-width:thin;"   | 350 ||  25 || 100
 |-
 ! style="text-align:left;"          | Pink-orange
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Розовой-оранжевой]]
 | style="text-align:left;"          | [[:ru:Оранжево-розовый цвет|Оранжево-розовый]]
 | style="background-color:#FF9966;" |
 | style="font-family:monospace;"    | #FF9966
@@ -1782,7 +1782,7 @@
 | style="border-left-width:thin;"   | 20 ||  60 || 100
 |-
 ! style="text-align:left;"          | Plum
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Сливань]]
 | style="text-align:left;"          | [[:ru:Сливовый цвет|Сливовый]]
 | style="background-color:#660066;" |
 | style="font-family:monospace;"    | #660066
@@ -1791,7 +1791,7 @@
 | style="border-left-width:thin;"   | 300 || 100 ||  40
 |-
 ! style="text-align:left;"          | Powder blue
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Порохонь сэньчи]]
 | style="text-align:left;"          | [[:ru:Пороховая синь (цвет)|Пороховая синь]]
 | style="background-color:#003399;" |
 | style="font-family:monospace;"    | #003399
@@ -1800,7 +1800,7 @@
 | style="border-left-width:thin;"   | 220 || 100 ||  60
 |-
 ! style="text-align:left;"          | Puce
-| style="text-align:left;"          |[[Якстердь-тюжа тюс|Якстердь-тюжа]]
+| style="text-align:left;"          |[[Якстерть-тюжа тюс|Якстерть-тюжа]]
 | style="text-align:left;"          | [[:ru:Красновато-коричневый цвет|Красновато-коричневый]], [[пюсовый]] (устар.), тёмно-коричневый, блошиный
 | style="background-color:#CC8899;" |
 | style="font-family:monospace;"    | #CC8899
@@ -1809,7 +1809,7 @@
 | style="border-left-width:thin;"   | 345 ||  33 ||  80
 |-
 ! style="text-align:left;"          | Prussian blue
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Пруссиянь сенесь]]
 | style="text-align:left;"          | [[:ru:Берлинская лазурь]]
 | style="background-color:#003153;" |
 | style="font-family:monospace;"    | #003153
@@ -1827,7 +1827,7 @@
 | style="border-left-width:thin;"   | 24 || 90 || 100
 |-
 ! style="text-align:left;"          | [[:en:Purple|Purple]]
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Пурпурной]]
 | style="text-align:left;"          | [[:ru:Фиолетовый]] (оттенок)
 | style="background-color:#800080;" |
 | style="font-family:monospace;"    | #800080
