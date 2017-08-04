@@ -716,7 +716,7 @@
 ! colspan="3" style="border-left-width:15%" | [[HSV (тюсонь модель)|HSV]]
 |-
 ! style="text-align:left;"          | Dark blue
-| style="text-align:left;"          |[[Чопуда-сэнь]]
+| style="text-align:left;"          |[[Чопода-сэнь]]
 | style="text-align:left;"          | Тёмно-синий цвет
 | style="background-color:#00008B;" |
 | style="font-family:monospace;"    | #00008B
@@ -725,7 +725,7 @@
 | style="border-left-width:thin;"   | 240 || 100 || 55
 |-
 ! style="text-align:left;"          | Dark brown
-| style="text-align:left;"          |[[Чопуда-тюжа]]
+| style="text-align:left;"          |[[Чопода-тюжа]]
 | style="text-align:left;"          | [[:ru:Тёмно-коричневый цвет|Тёмно-коричневый]]
 | style="background-color:#654321;" |
 | style="font-family:monospace;"    | #654321
@@ -734,7 +734,7 @@
 | style="border-left-width:thin;"   | 30 || 67 ||  40
 |-
 ! style="text-align:left;"          | Dark cerulean
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Чопода-лазурной]]
 | style="text-align:left;"          | [[:ru:Тёмно-лазурный цвет|Тёмно-лазурный]]
 | style="background-color:#08457E;" |
 | style="font-family:monospace;"    | #08457E
@@ -743,7 +743,7 @@
 | style="border-left-width:thin;"   | 209 || 94 ||  49
 |-
 ! style="text-align:left;"          | Dark chestnut
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Чопода-каштанонь]]
 | style="text-align:left;"          | [[:ru:Тёмно-каштановый цвет|Тёмно-каштановый]]
 | style="background-color:#986960;" |
 | style="font-family:monospace;"    | #986960
@@ -752,7 +752,7 @@
 | style="border-left-width:thin;"   | 10 || 37 ||  60
 |-
 ! style="text-align:left;"          | Dark coral
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Чопода-караллонь]]
 | style="text-align:left;"          | [[:ru:Тёмно-коралловый цвет|Тёмно-коралловый]]
 | style="background-color:#CD5B45;" |
 | style="font-family:monospace;"    | #CD5B45
@@ -761,7 +761,7 @@
 | style="border-left-width:thin;"   | 10 || 66 || 80
 |-
 ! style="text-align:left;"          | Dark goldenrod
-| style="text-align:left;"          | [[Чопуда-сырнень]]
+| style="text-align:left;"          | [[Чопода-сырнень]]
 | style="text-align:left;"          | [[:ru:Тёмно-золотой цвет|Тёмно-золотой]]
 | style="background-color:#B8860B;" |
 | style="font-family:monospace;"    | #B8860B
@@ -770,7 +770,7 @@
 | style="border-left-width:thin;"   | 43 ||  94 ||  72
 |-
 ! style="text-align:left;"          | Dark green
-| style="text-align:left;"          | [[Чопуда-пиже]]
+| style="text-align:left;"          | [[Чопода-пиже]]
 | style="text-align:left;"          | [[:ru:Тёмно-зелёный цвет|Тёмно-зелёный]]
 | style="background-color:#013220;" |
 | style="font-family:monospace;"    | #013220<ref name="morethanone" />
@@ -779,7 +779,7 @@
 | style="border-left-width:thin;"   | 158 || 98 ||  20
 |-
 ! style="text-align:left;"          | Dark Indigo
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода-индиго]]
 | style="text-align:left;"          | [[:ru:Тёмный индиго (цвет)|Тёмный индиго]], [[Индиго (цвет)|индиго]]
 | style="background-color:#310062;" |
 | style="font-family:monospace;"    | #310062
@@ -788,7 +788,7 @@
 | style="border-left-width:thin;"   | 270 || 100 ||  38
 |-
 ! style="text-align:left;"          | Dark Khaki
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода Хаки]]
 | style="text-align:left;"          | [[:ru:Тёмный хаки (цвет)|Тёмный хаки]], [[Хаки (цвет)|хаки]]
 | style="background-color:#BDB76B;" |
 | style="font-family:monospace;"    | #BDB76B
@@ -797,7 +797,7 @@
 | style="border-left-width:thin;"   | 56 ||  43 ||  74
 |-
 ! style="text-align:left;"          | Dark Olive
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода- оливкань]]
 | style="text-align:left;"          | [[:ru:Тёмно-оливковый цвет|Тёмно-оливковый]]
 | style="background-color:#556832;" |
 | style="font-family:monospace;"    | #556832<ref name="morethanone" />
@@ -806,7 +806,7 @@
 | style="border-left-width:thin;"   | 81 || 52 ||  41
 |-
 ! style="text-align:left;"          | Dark pastel green
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода пастелень-пиже]]
 | style="text-align:left;"          | [[:ru:Тёмный пастельно-зелёный цвет|Тёмный пастельно-зелёный]]
 | style="background-color:#03C03C;" |
 | style="font-family:monospace;"    | #03C03C
@@ -815,7 +815,7 @@
 | style="border-left-width:thin;"   | 138 || 98 ||  75
 |-
 ! style="text-align:left;"          | Dark Peach
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода персикень]]
 | style="text-align:left;"          | [[:ru:Тёмно-персиковый цвет|Тёмно-персиковый]]
 | style="background-color:#FFDAB9;" |
 | style="font-family:monospace;"    | #FFDAB9
@@ -824,7 +824,7 @@
 | style="border-left-width:thin;"   | 28 ||  27 || 100
 |-
 ! style="text-align:left;"          | Dark pink
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода розовой]]
 | style="text-align:left;"          | [[:ru:Тёмно-розовый цвет|Тёмно-розовый]]
 | style="background-color:#E75480;" |
 | style="font-family:monospace;"    | #E75480
@@ -833,7 +833,7 @@
 | style="border-left-width:thin;"   | 342 || 64 ||  91
 |-
 ! style="text-align:left;"          | Dark salmon
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода лососень ]]
 | style="text-align:left;"          | [[:ru:Тёмная лососина (цвет)|Тёмная лососина]]
 | style="background-color:#E9967A;" |
 | style="font-family:monospace;"    | #E9967A
@@ -842,7 +842,7 @@
 | style="border-left-width:thin;"   | 15 ||  48 ||  91
 |-
 ! style="text-align:left;"          | Dark Scarlet
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода якстере]]
 | style="text-align:left;"          | [[Тёмно-алый цвет|Тёмно-алый]]
 | style="background-color:#560319;" |
 | style="font-family:monospace;"    | #560319
@@ -851,7 +851,7 @@
 | style="border-left-width:thin;"   | 344 ||  97 ||  34
 |-
 ! style="text-align:left;"          | Dark slate gray
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода-аспидэнь макшас]]
 | style="text-align:left;"          | [[:ru:Тёмно-аспидный серый цвет|Тёмно-аспидный серый]], [[:ru:аспидно-серый]]
 | style="background-color:#2F4F4F;" |
 | style="font-family:monospace;"    | #2F4F4F
@@ -860,7 +860,7 @@
 | style="border-left-width:thin;"   | 180 ||  41 ||  31
 |-
 ! style="text-align:left;"          | Dark spring green
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода тундонь-пиже]]
 | style="text-align:left;"          | [[:ru:Тёмный весенне-зелёный цвет|Тёмный весенне-зелёный]]
 | style="background-color:#177245;" |
 | style="font-family:monospace;"    | #177245
@@ -869,7 +869,7 @@
 | style="border-left-width:thin;"   | 150 ||  80 || 45
 |-
 ! style="text-align:left;"          | Dark tan
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода ожо-тюжа]]
 | style="text-align:left;"          | [[:ru:Тёмный жёлто-коричневый цвет|Тёмный жёлто-коричневый]]
 | style="background-color:#918151;" |
 | style="font-family:monospace;"    | #918151
@@ -878,7 +878,7 @@
 | style="border-left-width:thin;"   | 45 ||  44 || 57
 |-
 ! style="text-align:left;"          | Dark tangerine
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода мандаринэнь]]
 | style="text-align:left;"          | [[:ru:Тёмно-мандариновый цвет|Тёмно-мандариновый]]
 | style="background-color:#FFA812;" |
 | style="font-family:monospace;"    | #FFA812
@@ -887,7 +887,7 @@
 | style="border-left-width:thin;"   | 38 || 93 || 100
 |-
 ! style="text-align:left;"          | Dark Tea Green
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода пиже чей]]
 | style="text-align:left;"          | [[:ru:Тёмный зелёный чай (цвет)|Тёмный зелёный чай]]
 | style="background-color:#BADBAD;" |
 | style="font-family:monospace;"    | #BADBAD
@@ -896,7 +896,7 @@
 | style="border-left-width:thin;"   | 103 || 21 ||  86
 |-
 ! style="text-align:left;"          | Dark turquoise
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода бирюзовой]]
 | style="text-align:left;"          | [[:ru:Тёмно-бирюзовый цвет|Тёмно-бирюзовый]]
 | style="background-color:#116062;" |
 | style="font-family:monospace;"    | #116062
@@ -905,7 +905,7 @@
 | style="border-left-width:thin;"   | 181 || 83 ||  38
 |-
 ! style="text-align:left;"          | Dark violet
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Чопода фиолетовой]]
 | style="text-align:left;"          | Глубокий [[:ru:фиолетовый цвет]]
 | style="background-color:#423189;" |
 | style="font-family:monospace;"    | #423189
@@ -914,7 +914,7 @@
 | style="border-left-width:thin;"   | 252 || 64 ||  54
 |-
 ! style="text-align:left;"          | Deep pink
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Домка розовой]]
 | style="text-align:left;"          | Глубокий розовый цвет
 | style="background-color:#FF1493;" |
 | style="font-family:monospace;"    | #FF1493
@@ -923,7 +923,7 @@
 | style="border-left-width:thin;"   | 328 || 92 || 100
 |-
 ! style="text-align:left;"          | Deep sky blue
-| style="text-align:left;"          | 
+| style="text-align:left;"          | [[Менель потманть сэнесь]]
 | style="text-align:left;"          | [[:ru:Голубой цвет]]
 | style="background-color:#00BFFF;" |
 | style="font-family:monospace;"    | #00BFFF
@@ -941,7 +941,7 @@
 | style="border-left-width:thin;"   | 213 ||  89 ||  74
 |-
 ! style="text-align:left;"          | Dodger blue
-| style="text-align:left;"          |
+| style="text-align:left;"          |[[Ванстомань сэнь]]
 | style="text-align:left;"          | [[:ru:Защитно-синий цвет|Защитно-синий]]
 | style="background-color:#1e90ff;" |
 | style="font-family:monospace;"    | #1E90FF
