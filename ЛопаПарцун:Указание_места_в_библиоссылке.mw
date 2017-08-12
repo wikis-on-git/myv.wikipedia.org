@@ -1,0 +1,6 @@
+<includeonly>{{#if: {{{1|}}}
+ | {{#switch: {{{1|}}}
+    |Б.|Б. м.|Белг.|Влдв.|Влдк.|Волг.|Гр.|Душ.|Екд.|Ер.|Иер.|К.|Каз.|Киш.|Л.|Льв.|М.|Мгн.|Мн.|Мх.|Н. Н.|Н. Новгород|Н.-Й.|Нч.|Од.|Орб.|П.|Пг.|Пт.|Р. н/Д.|Ростов н/Д|СПб.|Сф.|Т.|Таш.|Тб.|Тф.|Х.|Яр.|Amst.|An.|B.|Bd.|Bdpst.|Bom.|Brem.|Bris.|Brux.|Bs. As.|Calc.|Camb.|Cambr.|Chi.|Cinc.|Darm.|Düss.|Edin.|Fr./M.|Gött.|Hamb.|Hdlb.|İs.|L.|L. A.|Lpz.|Melb.|Méx.|Mil.|Münch.|N. Y.|Nel.|Nürnb.|Oxf.|P.|Phil.|S. a.|S. l.|Stc.|Stras.|Stuttg.|Teh.|W.|Warsz.|Z. = {{ {{{1}}} }}
+    | {{{1|}}}{{{2|}}}
+   }}
+}}</includeonly><noinclude>{{doc}}</noinclude>
