@@ -1,0 +1,12 @@
+<includeonly>{{Box-header
+|title={{{title|}}}
+|action={{{action|edit}}}
+|editpage={{{editpage|}}}
+|border={{{border|#699}}}
+|titleforeground={{{titleforeground|black}}}
+|titlebackground={{{titlebackground|#ecf3f3}}}
+|background={{{background|white}}}
+|foreground={{{foreground|black}}}
+|intro=1
+}}</includeonly><noinclude>
+{{box-footer}}{{doc}}</noinclude>
