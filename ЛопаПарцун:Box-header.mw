@@ -1,0 +1,9 @@
+<div style="clear:both"></div> 
+<div style="border:{{{borderwidth|1}}}px solid {{{border|#699}}}; background:{{{titlebackground|#ecf3f3}}}; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none;{{#if:{{{intro|}}}|border-top:none;}}"><!--
+-->{{#if: {{{editpage|}}}|<span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%;">[{{fullurl:{{{editpage}}}|action={{{action|edit}}}}} <span style="color:{{{titleforeground|black}}}; <!-- цвет подчеркивания -->text-decoration: inherit; -moz-text-decoration-color: {{{titleforeground|black}}}; text-decoration-color: {{{titleforeground|black}}};">править</span>]&nbsp;</span>}}<!--
+-->{{#if: {{{title|<noinclude>Заголовок</noinclude>}}}|<h2 style="margin:0; padding:0; color:{{{titleforeground|black}}}; font-size:100%; font-weight:bold; border:0; font-family:sans-serif;">{{{title|<noinclude>Заголовок</noinclude>}}}</h2>}}<!--
+--></div>
+<div style="display:block; border:{{{borderwidth|1}}}px solid {{{border|#699}}}; vertical-align:top; background:{{{background|white}}}; color:{{{foreground|black}}}; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0"><noinclude>
+{{box-footer}}
+{{doc}}
+</noinclude>
