@@ -1,0 +1,15 @@
+<span style="position: relative; left: 0; top: -0.5ex; font-size: 1.5ex; line-height: 0;"><sup>{{{1}}}</sup><sub style="position: absolute; left: 0; top: 2.1ex;">{{{2}}}</sub></span><noinclude>
+{{doc-inline}}
+
+== Использование ==
+{{tc|sup sub|''текст вверху''|''текст внизу''}}
+
+Для того, чтобы получить D{{sup sub|2|g}}, пишите {{tc|sup sub|2|g|_prefix=D}}
+
+== См. также ==
+* {{tl|sub sup}}
+
+{{doc-end}}
+[[Категория:Математические шаблоны]] 
+[[Категория:Шаблоны:Типографика]]
+</noinclude>
