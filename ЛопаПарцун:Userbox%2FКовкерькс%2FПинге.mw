@@ -1,7 +1,7 @@
 {| border=0 align=left
 |-
 | <div width=220px style="border:1px solid #ccc; background:#FFFAFA; border-right:5px solid #ccc; border-bottom:4px solid #ccc; text-align: center; padding:12px; float:right; font-size: smaller; line-height: 1.3; margin-right: 4px;">
-<div style="background: Black; color: Yellow;">'''Сегодня''' </div>
+<div style="background: Black; color: Yellow;">'''Течи''' </div>
 <div style="width:100%;color: #000080;">''[[{{CURRENTDAYNAME}}]]''</div>
 <div style="font-size: x-large; width: 100%; color: Green;">'''{{CURRENTDAY}}'''</div>
 <div style="width: 100%;color: #000080;"> '''[[{{CURRENTMONTHNAME}}|{{CURRENTMONTHNAMEGEN}}]]'''</div>
