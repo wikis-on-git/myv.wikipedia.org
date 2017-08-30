@@ -1,0 +1,12 @@
+<includeonly><div class="columns" style="{{{style|}}};<!--
+-->{{#if: {{без цифр| {{{1|{{{шир|{{{colwidth|}}}}}}}}} }}
+    | {{column-width|{{{1|{{{шир|{{{colwidth|}}}}}}}}}}}<!--
+   -->{{#if: {{{maxcount|}}}
+       | {{column-count|{{{maxcount|}}}}}<!--
+   -->}}
+    | {{column-count|{{{1|2}}}}}<!--
+   -->{{#if: {{{minwidth|}}}
+       | {{column-width|{{{minwidth|}}}}}<!--
+   -->}}<!--
+-->}}<!--
+-->{{#if: {{{мал|}}}{{{small|}}} | font-size: 90%; }}"></includeonly><noinclude>{{doc}}</noinclude>
