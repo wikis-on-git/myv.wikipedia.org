@@ -1,0 +1,26 @@
+== Использование ==
+ <nowiki>{{</nowiki>FIS|S=|ID=|name=}}
+
+с дополнительной опцией:
+
+ <nowiki>{{</nowiki>FIS|S=sector|ID=competitorid|name=''competitor name''|note=''note''}} 
+
+'''Sector:'''
+* AL = Alpine
+* CC = Cross Country
+* JP = Jumping
+* NK = Nordic
+* FS = Freestyle
+* SB = Snowboard
+* SS = Speed Skiing
+* GS = Grass
+* TM = Telemark
+
+'''Competitorid:'''
+* См. пример ниже.
+
+'''Name:'''
+* Какая форма имени будет отображаться на ссылке.
+
+'''Note:'''
+* Комментарий, например, о неверно указанной дате рождения.
