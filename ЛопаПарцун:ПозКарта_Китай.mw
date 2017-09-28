@@ -1,0 +1,9 @@
+{{#switch:{{{1}}}
+|name = Китаень Раськень Республикась
+|image = {{#switch:{{{2|}}}
+ |physical = China edcp relief location map.jpg
+ |#default = China edcp location map.svg
+}}
+|type=custom
+}}<noinclude>{{ПозКарта/Инфо|Китай}}
+[[Категория:Шаблоны:Позиционные карты:Китай| ]]
