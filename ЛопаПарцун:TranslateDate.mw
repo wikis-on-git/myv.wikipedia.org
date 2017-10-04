@@ -1,0 +1,18 @@
+<includeonly>{{ TranslateDate/{{#switch:{{{lang|ru}}}
+|en=en
+|el=el
+|es=es
+|de=de
+|fi=fi
+|fr=fr
+|it=it
+|is=is
+|ru=ru
+|myv=myv
+|#default=myv}}|{{{1|{{CURRENTYEAR}}}}}|{{{2|}}}|{{{3|}}}}}</includeonly><noinclude>
+{{doc}}
+<!--
+Русский: Добавляйте категории и интервики на подстраницу /doc, не сюда!
+English: Please add categories and interwiki links to the /doc subpage, not here!
+-->
+</noinclude>
