@@ -1,0 +1,32 @@
+{{ {{{1<noinclude>|масторкоцт/коцт</noinclude>}}}
+| размер = {{{размер|}}}
+| alias = Индия Мастор
+| flag alias-империя= Flag_of_Imperial_India.svg
+| flag alias = Flag of India.svg
+| flag alias-1880 = British Raj Red Ensign.svg
+| flag alias-1674 = Flag of the Maratha Empire.svg
+| flag alias-1526 = Flag of the Mughal Empire.svg
+| flag alias-ВМС = Naval Ensign of India.svg
+| flag alias-ВВС = Ensign of the Indian Air Force.svg
+| flag alias-военный = Flag of Indian Army.png
+| flag alias-пограничный = In~cg.gif
+| flag alias-торговый = Civil Ensign of India.svg
+| flag alias-1931 = 1931 Flag of India.svg
+| flag alias-азадхинд = AzadHindFlag.png
+| flag alias-армия = Flag of Indian Army.png
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = империя
+| var2 = 1880
+| var3 = 1674
+| var4 = 1526
+| var5 = ВМС
+| var6 = ВВС
+| var7 = военный
+| var8 = пограничный
+| var9 = торговый
+| var10 = 1931
+| var11 = азадхинд
+| var12 = армия 
+</noinclude>
+}}
