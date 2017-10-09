@@ -1,0 +1,1 @@
+<includeonly>{{#iferror:{{ #time: U | {{{3}}}-{{{2}}}-{{{1}}} }}|0|{{#expr:((( {{ #time: U}} - {{ #time: U | {{{3}}}-{{{2}}}-{{{1}}} }} )/86400 - 0.5 round 0) * ( (( {{ #time: U}} - {{ #time: U | {{{3}}}-{{{2}}}-{{{1}}} }} )/86400 - 0.5 round 0) > 0) ) round 0}}}}</includeonly><noinclude>{{doc}}</noinclude>
