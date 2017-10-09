@@ -1221,13 +1221,13 @@
 |}
 {{ПозКарта+|Россия Башкортостан|label={{Эрицятне|Башкортостан|ф}} чел.|width=1000|float=center|caption='''Населенные пункты Башкортостана'''
 |places=
-{{ПозКарта~|Россия Башкортостан|lat_deg=52.6|lon_deg=54.3|mark=green pog.svg|marksize=1|label_size=150|position=bottom|label='''[[Оренбургская область]]'''}}
-{{ПозКарта~|Россия Башкортостан|lat_deg=54.87|lon_deg=58.3|mark=green pog.svg|marksize=1|label_size=150|position=bottom|label='''[[Челябинская область]]'''}}
-{{ПозКарта~|Россия Башкортостан|lat_deg=55.65|lon_deg=53.5|mark=green pog.svg|marksize=1|label_size=150|position=bottom|label='''[[Татарстан]]'''}}
+{{ПозКарта~|Россия Башкортостан|lat_deg=52.6|lon_deg=54.3|mark=green pog.svg|marksize=1|label_size=150|position=bottom|label='''[[Оренбургонь ёнкс]]'''}}
+{{ПозКарта~|Россия Башкортостан|lat_deg=54.87|lon_deg=58.3|mark=green pog.svg|marksize=1|label_size=150|position=bottom|label='''[[Челябань ёнкс]]'''}}
+{{ПозКарта~|Россия Башкортостан|lat_deg=55.65|lon_deg=53.5|mark=green pog.svg|marksize=1|label_size=150|position=bottom|label='''[[Татаронь Республикась|Татарстан]]'''}}
 {{ПозКарта~|Россия Башкортостан|lat_deg=56.4|lon_deg=53.9|mark=green pog.svg|marksize=1|label_size=150|position=bottom|label='''[[Удмуртонь Республикась|Удмуртия]]'''}}
 {{ПозКарта~|Россия Башкортостан|lat_deg=56.6|lon_deg=56|mark=green pog.svg|marksize=1|label_size=150|position=bottom|label='''[[Пермень край]]'''}}
 {{ПозКарта~|Россия Башкортостан|lat_deg=56.45|lon_deg=58.3|mark=green pog.svg|marksize=1|label_size=150|position=bottom|label='''[[Свердловонь ёнкс]]'''}}
-{{ПозКарта~|Россия Башкортостан|lat=54.733333|lon=55.966667|background=|mark=Green pog.svg|marksize=23|label_size=140|link=Уфа{{!}}{{ Эрицятне |Уфа| ф }}|label=[[Уфа]]|position=right}}
+{{ПозКарта~|Россия Башкортостан|lat=54.733333|lon=55.966667|background=|mark=Green pog.svg|marksize=23|label_size=140|link=Уфа{{!}}{{ Эрицятне |Уфа| ф }}|label=[[Уфа ош|Уфа]]|position=right}}
 {{ПозКарта~|Россия Башкортостан|lat=53.633333|lon=55.95|background=|mark=Lightgreen pog.svg|marksize=15|link=Стерлитамак{{!}}{{ Эрицятне |Стерлитамак| ф }}|label=[[Стерлитамак]]|position=right}}
 {{ПозКарта~|Россия Башкортостан|lat=53.366667|lon=55.933333|background=|mark=Lightgreen pog.svg|marksize=15|link=Салават{{!}}{{ Эрицятне |Салават| ф }}|label=[[Салават]]|position=right}}
 {{ПозКарта~|Россия Башкортостан|lat=56.083333|lon=54.25|background=|mark=Lightgreen pog.svg|marksize=15|link=Нефтекамск{{!}}{{ Эрицятне |Нефтекамск| ф }}|label=[[Нефтекамск]]|position=right}}
