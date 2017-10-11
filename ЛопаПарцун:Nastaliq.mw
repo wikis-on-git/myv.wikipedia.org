@@ -1,2 +1,2 @@
-<span lang="{{#if: {{{2|}}}|{{{1}}}|und-Arab}}" xml:lang="{{#if: {{{2|}}}|{{{1}}}|und-Arab}}" title="Nasta'liq" style="font-size:125%; font-family:'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Jameel Noori Nastaleeq','IranNastaliq', 'Pak Nastaleeq', 'PDMS_Jauhar';">{{{2|{{{1}}}}}}</span><noinclude>
+<span lang="{{#if: {{{2|}}}|{{{1}}}|und-Arab}}" dir="rtl" title="Nasta'liq" style="font-size:125%; font-family: 'Noto Nastaliq Urdu', 'Noto Nastaliq Urdu Draft', 'Awami Nastaliq', 'Awami Nastaliq Beta3', 'Awami Nastaliq Beta2', 'Awami Nastaliq Beta1', 'Urdu Typesetting', 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Jameel Noori Nastaleeq','IranNastaliq', 'Pak Nastaleeq', 'PDMS_Jauhar';">{{{2|{{{1}}}}}}</span>&lrm;<noinclude>
 </noinclude>
