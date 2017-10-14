@@ -1,0 +1,11 @@
+<includeonly>{{center|{{#invoke:Wikidata|formatStatements
+ |property-module=Wikidata/Population
+ |property-function=formatPopulationPropertyForGraph
+ |claim-module=Wikidata/Population
+ |claim-function=formatPopulationClaimForGraph
+|property=p1082[p585][rank:preferred, rank:normal]}}}}
+{|align="center"
+|{{Wikidata/Population/Table}}
+|}</includeonly><noinclude>{{doc}}
+[[Категория:Шаблоны:Викиданные|{{PAGENAME}}]]
+</noinclude>
