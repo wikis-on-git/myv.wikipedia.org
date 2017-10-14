@@ -1,0 +1,10 @@
+{{#invoke:Wikidata|formatStatements
+ |property-module=Wikidata/Population
+ |property-function=formatPopulationPropertyForTable
+ |claim-module=Wikidata/Population
+ |claim-function=formatPopulationClaimForTable
+ |property=p1082[p585][rank:preferred, rank:normal]
+ |unit=-
+}}<noinclude>{{doc}}
+[[Категория:Шаблоны:Викиданные|{{PAGENAME}}]]
+</noinclude>
