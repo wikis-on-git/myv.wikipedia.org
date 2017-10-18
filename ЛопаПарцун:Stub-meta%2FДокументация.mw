@@ -1,0 +1,60 @@
+<noinclude>{{docpage}}</noinclude><includeonly>{{СИШ}}</includeonly>
+
+== Примеры использования ==
+
+=== Обычный шаблон ===
+{{Stub-meta
+|article       = о [[сельское хозяйство|сельском хозяйстве]]
+|category      = о сельском хозяйстве
+|image         = Watermelon.svg
+|size          = 32
+|alt           = Арбуз
+}}
+<pre>
+{{Stub-meta
+|article       = о [[сельское хозяйство|сельском хозяйстве]]
+|category      = о сельском хозяйстве
+|image         = Watermelon.svg
+|size          = 32
+|alt           = Арбуз
+}}
+</pre>
+
+=== Тематический шаблон, требующий уточнения ===
+{{Stub-meta
+|article       = по географии
+|category      = по географии
+|image         = Globe stub.svg
+|size          = 
+|alt           = Земной шар
+|specification = Категория:Шаблоны:Незавершённые статьи по географии
+}}
+<pre>
+{{Stub-meta
+|article       = по географии
+|category      = по географии
+|image         = Globe stub.svg
+|size          = 
+|alt           = Земной шар
+|specification = Категория:Шаблоны:Незавершённые статьи по географии
+}}
+</pre>
+
+'''Внимание:''' для тематических stub-шаблонов, требующих уточнения, не викифицируйте ссылки в параметрах <tt>article</tt> и <tt>specification</tt>.
+
+=== Шаблон с текстовой иконкой ===
+{{Stub-meta
+|article       = о сериале «[[Вавилон-5]]»
+|category      = о «Вавилоне-5»
+|texticon      = <span style="font: bold 28px Arial; color:orange">B5</span>
+}}
+<pre>
+{{Stub-meta
+|article       = о сериале «[[Вавилон-5]]»
+|category      = о «Вавилоне-5»
+|texticon      = <span style="font: bold 28px Arial; color:orange">B5</span>
+}}
+</pre>
+
+<includeonly>[[Категория:Шаблоны:Незавершённые статьи| ]]
+</includeonly>
