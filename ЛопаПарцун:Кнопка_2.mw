@@ -1,0 +1,20 @@
+<includeonly><span class="plainlinks">[{{#if: {{{url|}}}
+| {{{url}}}
+| [{{{1|}}}{{!}}
+}}<span class="mw-ui-button {{{class|}}}" role="button" aria-disabled="false" style="{{#ifeq: {{FULLPAGENAME:{{{1}}}}}
+| {{FULLPAGENAME}}
+| cursor: default; {{#switch: {{{class|}}}
+  | mw-ui-progressive = background-color: #2962cb;
+  | mw-ui-destructive = background-color: #a6170f;
+  | #default = background-color: #ccc; color: #666;
+  }}
+}} {{{style|}}}">{{#if: {{{url|}}}
+| {{#if: {{{1|}}}
+  | {{{1}}}
+  | {{{url}}}
+  }}</span>
+| {{#if: {{{2|}}}
+  | {{{2|}}}
+  | {{{1|}}}
+  }}</span>]
+}}]</span></includeonly><noinclude>{{doc}}</noinclude>
