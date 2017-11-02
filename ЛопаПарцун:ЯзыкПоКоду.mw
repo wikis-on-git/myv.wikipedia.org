@@ -1,0 +1,22 @@
+{{#iferror:<!--
+
+   -->{{ЯзыкПоКоду/<!--
+       -->{{#ifexist:Шаблон:ЯзыкПоКоду/{{lc:{{{2|ru}}}}}<!-- If the target language has a list
+       -->|{{lc:{{{2|ru}}}}}<!-- use it 
+       -->|ru<!-- else use Russian
+       -->}}<!--
+   -->|{{{1}}}<!--
+   -->|{{{падеж}}}<!--
+   -->}}<!--
+-->|<!-- Use alternate list if not found
+   -->{{ЯзыкПоКоду/<!--
+       -->{{#ifexist:Шаблон:ЯзыкПоКоду/{{lc:{{{2|ru}}}+}}<!-- If the target language has a list
+       -->|{{lc:{{{2|ru}}}+}}<!-- use it 
+       -->|ru+<!-- else use Russian
+       -->}}<!--
+   -->|{{{1}}}<!--
+   -->|{{{падеж}}}<!--
+   -->}}<!--
+ -->}}<!--
+
+--><noinclude>{{doc}}</noinclude>
