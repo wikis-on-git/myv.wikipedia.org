@@ -1,0 +1,6 @@
+{{#invoke:string|replace
+ | source  = {{{1|}}}
+ | pattern = [0-9]
+ | replace =
+ | plain   = false
+}}<noinclude>{{doc}}</noinclude>
