@@ -5,7 +5,7 @@
 |-
 | colspan="2" style="text-align:center; font-size: large;" | '''{{{лем}}}'''
 |-
-| colspan="2" style="text-align:center;" | {{#if:{{{портрет|<noinclude>-</noinclude>}}}
+| colspan="2" style="text-align:center;" | 
 | {{wikidata|p18|{{{портрет|}}}|size={{#if:{{{покшолма|}}}|{{{покшолма}}}|255x350px}}|caption={{{подпись|}}}}}
 <!-- [[Image:{{{портрет}}}|{{#if:{{{покшолма|<noinclude>-</noinclude>}}}|{{{покшолма}}}|255px}}]]
 <small>{{{подпись|<noinclude>{{{подпись}}}</noinclude>}}}</small>}} -->
