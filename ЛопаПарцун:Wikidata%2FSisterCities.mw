@@ -1,0 +1,7 @@
+<includeonly><div class="autocolumns">{{#invoke:Wikidata|formatStatements
+ |property-module=Wikidata/SisterCities
+ |property-function=formatSisterCitiesProperty
+ |claim-module=Wikidata/SisterCities
+ |claim-function=formatSisterCityClaim
+ |property=p190[rank:preferred, rank:normal]}}</div></includeonly><noinclude>{{doc}}
+[[Категория:Шаблоны:Викиданные|{{PAGENAME}}]]</noinclude>
