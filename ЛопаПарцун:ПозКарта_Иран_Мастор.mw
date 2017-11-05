@@ -9,8 +9,8 @@
  |#default = Iran location map.svg
 }}
 | areas = {{#switch:{{{2|}}}
- |#default = {{ПозКарта Иран/adm}}
- |physical = {{ПозКарта Иран/adm}}
+ |#default = {{ПозКарта Иран Мастор/adm}}
+ |physical = {{ПозКарта Иран Мастор/adm}}
 }}
 }}<noinclude>{{ПозКарта/Инфо|Иран}}
 [[Категория:Шаблоны:Позиционные карты:Иран]]
