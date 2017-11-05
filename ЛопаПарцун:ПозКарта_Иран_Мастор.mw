@@ -1,0 +1,18 @@
+{{#switch:{{{1}}}
+|name   = Иран Мастор
+|top = 40.0
+|bottom = 24.5
+|left = 43.5
+|right = 64.0
+|image = {{#switch:{{{2|}}}
+ |physical = Iran relief location map.jpg
+ |#default = Iran location map.svg
+}}
+| areas = {{#switch:{{{2|}}}
+ |#default = {{ПозКарта Иран/adm}}
+ |physical = {{ПозКарта Иран/adm}}
+}}
+}}<noinclude>{{ПозКарта/Инфо|Иран}}
+[[Категория:Шаблоны:Позиционные карты:Иран]]
+
+</noinclude>
