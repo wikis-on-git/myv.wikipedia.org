@@ -1,0 +1,4 @@
+<includeonly><span style="display:none; speak:none;" class="noprint">{{padleft:0{{#expr: (({{replace|{{replace|{{replace|{{{1}}}| |}}| |}}|,|}} <!-- удаляем обычные и неразрывные пробелы и запятые --> + .5) round 0) - 1 }}|16|&}}.{{padleft:{{#expr: (1000000 * ({{replace|{{replace|{{replace|{{{1}}}| |}}| |}}|,|}} - ({{#ifexpr: ({{replace|{{replace|{{replace|{{{1}}}| |}}| |}}|,|}} - 0.5) = -0.5
+    | 0
+    | {{#expr: ({{replace|{{replace|{{replace|{{{1}}}| |}}| |}}|,|}} - 0.5) round 0 }}
+    }}))) round 0 }}|6|&}}</span>{{formatnum:{{replace|{{replace|{{{1}}}| |}}| |}}}}</includeonly><noinclude>{{doc}}</noinclude>
