@@ -4,7 +4,7 @@
 |стиль_текста     = background:#EFF0F7;
 |стиль_вверху     = background:{{#switch:{{{Фон|}}}|solo_singer=&#35;f0e68c|non_vocal_instrumentalist=&#35;f4bf92|non_performing_personnel=&#35;bfe0bf|&#35;f0e68c}};
 
-|вверху           = <span class="fn">{{карточка/имя|{{{Лем|}}}}}</span>{{#if: {{wikidata|p1559|{{{Оригинал имени|}}}|plain=1}} | <br><small class="nickname" style="font-weight: normal; font-style:italic">{{wikidata|p1559[language!:ru]|{{{Оригинал имени|}}}|monolingualLangTemplate=none}}</small>}}
+|вверху           = <span class="fn">{{карточка/имя|{{{Лем|}}}}}</span>{{#if: {{wikidata|p1559|{{{Оригинал имени|}}}|plain=1}} | <br><small class="nickname" style="font-weight: normal; font-style:italic">{{wikidata|p1559[language!:myv]|{{{Оригинал имени|}}}|monolingualLangTemplate=none}}</small>}}
 
 |артовкс       = {{wikidata|p18|{{{Артовкс|}}}|size={{#if:{{{Ширина|}}}|{{{Ширина|}}}|267x400}}|description={{{Описание изображения|}}}}}
 
