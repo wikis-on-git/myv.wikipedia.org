@@ -1,0 +1,208 @@
+{{Documentation subpage}}
+<!-- EDIT TEMPLATE DOCUMENTATION AFTER THIS LINE -->
+
+== Usage ==
+<pre style="overflow:auto;">
+{{Infobox website
+| name                 = 
+| logo                 = 
+| logocaption          = 
+| screenshot           = 
+| collapsible          = 
+| collapsetext         = 
+| caption              = 
+| url                  = <!-- {{URL|www.example.com}} -->
+| slogan               = 
+| commercial           = 
+| type                 = 
+| registration         = 
+| language             = 
+| num_users            = 
+| content_license      = 
+| programming language = 
+| owner                = 
+| author               = 
+| editor               = 
+| launch_date          = <!-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -->
+| revenue              = 
+| alexa                = <!-- {{increase}} {{steady]} {{decrease}} [http://www.alexa.com/siteinfo/example.com ##] (US/Global, MM/YYYY) -->
+| ip                   = 
+| current_status       = 
+| footnotes            = 
+}}</pre>
+
+=== Parameters ===
+
+All parameters are optional. Avoid linking to an article more than once within the infobox.
+
+<templatedata>
+{
+  "description": "An infobox for articles about website",
+  "params": {
+   "logo" : {
+      "description" : "The website logo.",
+      "label" : "Logo"
+   },
+   "logocaption" : {
+      "description" : "Caption for the logo.",
+      "label" : "Logo Caption"
+   },
+   "screenshot" : {
+      "description" : "A screen photo of the homepage; see: [[:File:EnglishWikipediaMainPage3rdAugust2007.PNG|Example 1]].",
+      "label" : "Screenshot"
+   },
+   "collapsible" : {
+      "description" : "Whether the screenshot should be collapsed / visible at page load. (Yes / No)",
+      "label" : "Collapsible"
+   },
+   "collapsetext" : {
+      "description" : "Text for the header of the collapsed section, defaults to ''Screenshot''.",
+      "label" : "Collapse Text"
+   },
+   "caption" : {
+      "description" : "Caption saying screenshot of <nowiki><website name></nowiki> as of <nowiki><date></nowiki>.",
+      "label" : "Caption"
+   },
+   "url" : {
+      "description" : "The most used [[URL]] of the website.",
+      "label" : "Url"
+   },
+   "slogan" : {
+      "description" : "The slogan of the website.",
+      "label" : "Slogan"
+   },
+   "commercial" : {
+      "description" : "Is the site commercially run / owned? (Yes / No)",
+      "label" : "Commercial"
+   },
+   "type" : {
+      "description" : "The type of website.",
+      "label" : "Type"
+   },
+   "registration" : {
+      "description" : "Is there registration? (None / Optional / Required)",
+      "label" : "Registration"
+   },
+   "language" : {
+      "description" : "The language(s) the website is available in.",
+      "label" : "Language"
+   },
+   "num_users" : {
+      "description" : "The number of registered users the website has.",
+      "label" : "Num Users"
+   },
+   "content_license" : {
+      "description" : "The license of the content of the site. Works same as content_licence.",
+      "label" : "Content License"
+   },
+   "content_licence" : {
+      "description" : "The license of the content of the site. Works same as content_license.",
+      "label" : "Content Licence"
+   },
+   "programming language" : {
+      "description" : "Programming language written or coding done for the website.",
+      "label" : "Programming Language"
+   },
+   "owner" : {
+      "description" : "The current owner, company name / persons name / alias, etc.",
+      "label" : "Owner"
+   },
+   "author" : {
+      "description" : "The person or entity that writes for the website.",
+      "label" : "Author"
+   },
+   "editor" : {
+      "description" : "The person or entity that edits the website.",
+      "label" : "Editor"
+   },
+   "launch_date" : {
+      "description" : "When the website was launched, check the [[Whois|WHOIS]] database, if needed.",
+      "label" : "Launch Date"
+   },
+   "revenue" : {
+      "description" : "The approximate revenue of the site.",
+      "label" : "Revenue"
+   },
+   "alexa" : {
+      "description" : "The website's current [[Alexa Internet|Alexa]] ranking (find on [http://www.alexa.com Alexa.com]; make sure to cite Alexa's page for this info.)",
+      "label" : "Alexa"
+   }
+}
+}
+</templatedata>
+
+== Example ==
+
+{{Infobox website
+| name            = Wikipedia
+| logo            = [[File:Wikipedia-v2-logo.svg|frameless|150px|alt=A white sphere made of large jigsaw pieces. Letters from several alphabets are shown on the pieces.]] <br />[[File:Wikipedia wordmark.svg|150px|Wikipedia wordmark]]
+| logocaption     = The [[logo of Wikipedia]], a globe featuring [[glyph]]s from several writing systems
+| screenshot      = [[File:Www.wikipedia.org screenshot 2018.png|border|300px|alt=Wikipedia's homepage with links to many languages.]]
+| collapsible     = yes
+| caption         = Screenshot of Wikipedia's multilingual portal.
+| url             = {{URL|http://www.wikipedia.org}}
+| slogan          = The Free Encyclopedia
+| commercial      = No
+| type            = [[Internet encyclopedia]]
+| registration    = Optional, but is required for certain tasks such as editing protected pages, creating pages in English Wikipedia and uploading files
+| language        = 275 active editions (285 in total)
+| num_users       = 35 million (total registered in all editions)<ref>[[meta:List of Wikipedias#Grand Total|Grand Total]]. Wikimedia. June 10, 2012. Retrieved June 11, 2012.</ref>
+| content license = {{nobr|[[Creative Commons licenses|Creative Commons Attribution / Share-Alike]] 3.0}} (most text also dual-licensed under [[GFDL]]) <br />Media licensing varies
+| owner           = [[Wikimedia Foundation]] (non-profit)
+| author          = [[Jimmy Wales]], [[Larry Sanger]]<ref name="Sidener">
+{{cite news
+| first = Jonathan
+| last = Sidener
+| title = Wikipedia co-founder looks to add accountability, end anarchy
+| url = http://www.signonsandiego.com/uniontrib/20060923/news_lz1n23wiki.html
+| publisher = [[The San Diego Union-Tribune]]
+| date = September 23, 2006
+| accessdate = 2007-03-25
+| quote = The origins of Wikipedia date to 2000, when Sanger was finishing his doctoral thesis in philosophy and had an idea for a Web site.
+}}</ref>
+| launch date     = {{Start date and years ago|mf=yes|2001|1|15}}
+| current status  = Online
+| alexa           = {{steady}}[http://www.alexa.com/siteinfo/wikipedia.org 6] (Global, January 2014)
+}}
+
+<pre style="overflow:auto;">
+{{Infobox website
+| name            = Wikipedia
+| logo            = [[File:Wikipedia-v2-logo.svg|frameless|150px|alt=A white sphere made of large jigsaw pieces. Letters from several alphabets are shown on the pieces.]] <br />[[File:Wikipedia wordmark.svg|150px|Wikipedia wordmark]]
+| logocaption     = The [[logo of Wikipedia]], a globe featuring [[glyph]]s from several writing systems
+| screenshot      = [[File:Www.wikipedia.org screenshot 2018.png|border|300px|alt=Wikipedia's homepage with links to many languages.]]
+| collapsible     = yes
+| caption         = Screenshot of Wikipedia's multilingual portal.
+| url             = {{URL|http://www.wikipedia.org}}
+| slogan          = The Free Encyclopedia
+| commercial      = No
+| type            = [[Internet encyclopedia]]
+| registration    = Optional, but is required for certain tasks such as editing protected pages, creating pages in English Wikipedia and uploading files
+| language        = 275 active editions (285 in total)
+| num_users       = 35 million (total registered in all editions)<ref>[[meta:List of Wikipedias#Grand Total|Grand Total]]. Wikimedia. June 10, 2012. Retrieved June 11, 2012.</ref>
+| content license = {{nobr|[[Creative Commons licenses|Creative Commons Attribution / Share-Alike]] 3.0}} (most text also dual-licensed under [[GFDL]]) <br />Media licensing varies
+| owner           = [[Wikimedia Foundation]] (non-profit)
+| author          = [[Jimmy Wales]], [[Larry Sanger]]<ref name="Sidener" />
+| launch date     = {{Start date and years ago|mf=yes|2001|1|15}}
+| current status  = Online
+| alexa           = {{steady}}[http://www.alexa.com/siteinfo/wikipedia.org 6] (Global, January 2014)
+}}
+</pre>
+{{Clear}}
+
+== See also ==
+* [[Wikipedia:Notability (web)]]
+* [[Wikipedia:WikiProject Websites]]
+
+== References ==
+{{reflist}}
+
+{{Organization infoboxes}}
+
+<includeonly>
+<!-- ADD CATEGORIES AFTER THIS LINE -->
+[[Category:Computing infobox templates|Website]]
+[[Category:Websites templates| ]]
+
+<!-- ADD INTERWIKIS LINKS AFTER THIS LINE -->
+</includeonly>
