@@ -1,0 +1,7 @@
+<includeonly>{{#switch: {{{4|0}}}
+ | 1 = [[{{#expr: {{{1|{{CURRENTDAY}}}}} }} {{realmonth|{{{2|{{CURRENTMONTH}}}}}}}]] [[{{{3|{{CURRENTYEAR}}}}} год]]а
+ | 2 = {{#expr: {{{1|{{CURRENTDAY}}}}} }} {{realmonth|{{{2|{{CURRENTMONTH}}}}}}} {{{3|{{CURRENTYEAR}}}}} года
+ | 3 = [[{{#expr: {{{1|{{CURRENTDAY}}}}} }} {{realmonth|{{{2|{{CURRENTMONTH}}}}}}}]] [[{{{3|{{CURRENTYEAR}}}}} год|{{{3|{{CURRENTYEAR}}}}}]]
+ | 4 = {{#expr: {{{1|{{CURRENTDAY}}}}} }} {{realmonth|{{{2|{{CURRENTMONTH}}}}}}} {{{3|{{CURRENTYEAR}}}}}
+ | [[{{#expr: {{{1|{{CURRENTDAY}}}}} }} {{realmonth|{{{2|{{CURRENTMONTH}}}}}}}|{{{1|{{CURRENTDAY}}}}}.{{{2|{{CURRENTMONTH}}}}}]].[[{{{3|{{CURRENTYEAR}}}}} год|{{{3|{{CURRENTYEAR}}}}}]]
+}}</includeonly><noinclude>{{doc}}</noinclude>
