@@ -1,0 +1,1 @@
+<includeonly>{{ {{{|safesubst:}}}#invoke:String|replace|{{{1|{{ {{{|safesubst:}}}PAGENAME}}}}}|^%s*(.+)%s+%b()%s*$|%1||false}}</includeonly><noinclude>{{doc}}</noinclude>
