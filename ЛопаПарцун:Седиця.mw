@@ -1,3 +1,4 @@
+<includeonly>{{#if:{{NAMESPACE}}{{{nocat|}}}||[[Категория:Ломантне ловнома тешкскерьксэнть коряс]]}}</includeonly>
 {{Карточка
 |стиль_тела       = 
 |стиль_заголовков = background:{{#switch:{{{Фон|}}}|solo_singer=&#35;f0e68c|non_vocal_instrumentalist=&#35;f4bf92|non_performing_personnel=&#35;bfe0bf|&#35;f0e68c}};
