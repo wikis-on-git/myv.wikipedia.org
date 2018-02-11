@@ -1,0 +1,160 @@
+{{ #ifeq: {{NAMESPACE}} |{{ns:10}}|{{Motd/Months}}|}}
+__NOTOC__
+[[#01|1]] | [[#02|2]] | [[#03|3]] | [[#04|4]] |
+[[#05|5]] | [[#06|6]] | [[#07|7]] | [[#08|8]] |
+[[#09|9]] | [[#10|10]] | [[#11|11]] | [[#12|12]] |
+[[#13|13]] | [[#14|14]] | [[#15|15]] | [[#16|16]] |
+[[#17|17]] | [[#18|18]] | [[#19|19]] | [[#20|20]] |
+[[#21|21]] | [[#22|22]] | [[#23|23]] | [[#24|24]] |
+[[#25|25]] | [[#26|26]] | [[#27|27]] | [[#28|28]] |
+{{#switch: {{#time: t | {{{Year|{{{year|{{{Год|{{{год|{{{1|{{CURRENTYEAR}}}}}}}}}}}}}}}}}-{{{Month|{{{month|{{{Месяц|{{{месяц|{{{2|{{CURRENTMONTH}}}}}}}}}}}}}}}}} }}
+|29= [[#29|29]] {{!}}
+|30= [[#29|29]] {{!}} [[#30|30]]
+|31= [[#29|29]] {{!}} [[#30|30]] {{!}} [[#31|31]]
+|}}
+
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-01}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-02}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-03}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-04}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-05}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-06}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-07}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-08}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-09}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-10}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-11}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-12}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-13}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-14}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-15}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-16}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-17}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-18}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-19}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-20}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-21}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-22}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-23}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-24}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-25}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-26}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-27}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-28}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+<!--
+-->
+{{#switch: {{#time: t | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}} }}
+|29= <!--
+-->{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-29}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+|30= <!--
+-->{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-29}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-30}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+|31= <!--
+-->{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-29}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}<!--
+-->
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-30}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}<!--
+-->
+{{Motd/Day
+|month={{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}
+|day={{#time: d | {{{Year|{{{year|{{{1|{{CURRENTYEAR}}}}}}}}}}}-{{{Month|{{{month|{{{2|{{CURRENTMONTH}}}}}}}}}}}-31}}
+|width=<includeonly>{{{width|200}}}</includeonly><noinclude>300</noinclude>}}
+|}}<noinclude>[[Категория:Википедиясь]]</noinclude>
