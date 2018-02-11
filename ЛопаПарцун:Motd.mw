@@ -1,0 +1,9 @@
+{| style="margin: 0 0 0.5em 0.5em; float: {{{float}}}; width: {{{width}}}px; text-align: center;" class="wikitable"
+! ''[[Википедиясь:Чинь мультимедиа|Чинь мультимедиа]]''
+|-
+|style="padding:0;" class="toccolours"| [[Файл:{{Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}}}|<includeonly>{{{width}}}</includeonly><noinclude>
+400</noinclude>px|]]
+|-
+|style="font-size:95%;"| {{Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}} (myv)}}
+|-
+|}<noinclude>Этот шаблон используется для подстановки [[Википедиясь:Чинь мультимедиа|медиафайла дня]], иллюстрирующего [[Прявтлопа|Заглавную страницу]].</noinclude>
