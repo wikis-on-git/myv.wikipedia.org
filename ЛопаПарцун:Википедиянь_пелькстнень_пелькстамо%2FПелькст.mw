@@ -1,7 +1,7 @@
 {{#ifexpr: {{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|koi}} | koi}}
 {{#ifexpr: ({{NUMBEROF|ARTICLES|koi}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|udm}}) | udm}}
 {{#ifexpr: ({{NUMBEROF|ARTICLES|udm}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|kv}}) | kv }}
-{{#ifexpr: ({{NUMBEROF|ARTICLES|es}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|it}}) | it }}
+{{#ifexpr: ({{NUMBEROF|ARTICLES|kv}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|it}}) | it }}
 {{#ifexpr: ({{NUMBEROF|ARTICLES|it}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|war}}) | war }}
 {{#ifexpr: ({{NUMBEROF|ARTICLES|war}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|fr}}) | fr }}
 {{#ifexpr: ({{NUMBEROF|ARTICLES|fr}} < {{NUMBEROF|ARTICLES|myv}}) and ({{NUMBEROF|ARTICLES|myv}} < {{NUMBEROF|ARTICLES|ceb}}) | ceb }}
