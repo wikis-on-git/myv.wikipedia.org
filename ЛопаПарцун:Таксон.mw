@@ -20,7 +20,7 @@
 |rang        = {{{rang|}}}
 |Кулозь       = {{{Кулозь|}}}
 |заголовок3  = Омбомасторонь наукань лем
-|текст4      = {{#if:{{{latin|}}}|{{#invoke:Taxonomy/latin|latin|{{{latin}}}}}{{bt-aut|{{#invoke:Taxonomy/latin|author|{{{author|}}}}}}}|{{if-wikidata|p225||{{wikidata/p225}}|<div style{{eq}}"background-color:Gainsboro;font-size:85%;color:Dimgray">СООБЩЕНИЕ ОБ ОШИБКЕ<br />Не заполнен параметр '''<big>latin</big>'''</div>}}}}
+|текст4      = {{#if:{{{latin|}}}|{{#invoke:Taxonomy/latin|latin|{{{latin}}}}}{{bt-aut|{{#invoke:Taxonomy/latin|author|{{{author|}}}}}}}|{{if-wikidata|p225||{{wikidata|p225}}|<div style{{eq}}"background-color:Gainsboro;font-size:85%;color:Dimgray">СООБЩЕНИЕ ОБ ОШИБКЕ<br />Не заполнен параметр '''<big>latin</big>'''</div>}}}}
 |заголовок5  = {{#if: {{{syn|}}}|[[Синоним (таксономия)|Синонимы]]|}}
 |текст6      = {{#if: {{{syn|}}}|<div align=left>
 {{{syn|}}}</div>|}} <!-- 
