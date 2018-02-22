@@ -1,0 +1,1 @@
+[[Артовкс:Wikivoyage-Logo-v3-icon.svg|16px|link=voy:|Викигидэнь Логось]] Киньветий «[[voy:{{#if:{{{3|{{{lang|}}}}}}|{{{3|{{{lang|}}}}}}:}}{{{1|Special:Search/{{PAGENAME}}}}}|{{{2|{{{1|{{PAGENAME}}}}}}}}]]» [[Викигид]]сэ {{#if:{{{3|{{{lang|}}}}}}|{{ref-{{{3|{{{lang|}}}}}}}}}}{{#if:{{NAMESPACE}}||[[Категория:Статьи со ссылками на Викигид]]}}<noinclude>{{doc}}</noinclude>
