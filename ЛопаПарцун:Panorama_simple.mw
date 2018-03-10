@@ -1,0 +1,10 @@
+<includeonly><div style="height: {{#expr: 8 + {{{height|{{{fullheight|1}}}}}} round 0}}px; width: 99%; align: center; overflow:auto; overflow-y:hidden; overflow-x:scroll; text-align: center; clear: both;"><div style="border:{{{border|1}}}px solid silver; background-color: white; width: {{#expr: {{{fullwidth|1}}} * {{{height|{{{fullheight|1}}}}}} / {{{fullheight|1}}} round 0}}px; margin:0 auto; padding: 3px;" >
+[[{{{image}}}|center|{{#expr: {{{fullwidth|1}}} * {{{height|{{{fullheight|1}}}}}} / {{{fullheight|1}}} round 0}}px|{{{caption|}}}]] </div></div>
+{{#if: {{{caption}}}|<div class="thumbcaption" style="margin: 5px; font-size:90%; text-align: center;"><div class="magnify noprint" style="float: right;">[[Артовкс:Magnify-clip.png|15x13px|link=:{{{image}}}]]</div>{{{caption|}}}</div>}}</includeonly>
+<noinclude>
+{{doc}} 
+[[en:Template:Panorama]]
+[[es:Plantilla:Panorama]]
+[[ja:Template:Panorama simple]]
+[[Категория:Шаблоны:Графические|Panorama simple]]
+</noinclude>
