@@ -1,0 +1,1 @@
+{{Motd/Month| Year={{#time: Y | {{CURRENTYEAR}}-{{CURRENTMONTH}}}} |Month={{#time: m | {{CURRENTYEAR}}-{{CURRENTMONTH}} }} }}
