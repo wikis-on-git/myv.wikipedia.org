@@ -1,0 +1,1 @@
+{{Motd/Month| Year={{#time: Y | +1 month}} |Month={{#time: m | +1 month}} }}
