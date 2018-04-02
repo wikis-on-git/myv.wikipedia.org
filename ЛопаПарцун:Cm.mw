@@ -1,0 +1,7 @@
+<includeonly>{{#if: {{{2|}}}
+| {{#if: {{{3|}}}
+  | [[{{{3}}}|<span title="{{replace|{{{2}}}|"|&quot;}}" style="border-bottom: 1px dotted; cursor: help;">{{{1}}}</span>]]
+  | <span title="{{replace|{{{2}}}|"|&quot;}}" style="border-bottom: 1px dotted; cursor: help;">{{{1}}}</span>
+  }}
+| {{{1}}}
+}}</includeonly><noinclude>{{doc}}</noinclude>
