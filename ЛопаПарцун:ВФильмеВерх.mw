@@ -1,0 +1,8 @@
+<includeonly>{| class="simple sortable" cellpadding="4" rules="all" style="margin:1em 1em 1em 0; background:#f9f9f9; border:1px #aaa solid; border-collapse:collapse; font-size:90%; {{{стиль|}}}"
+|- bgcolor="#B0C4DE" align="center"
+! Год
+!
+!{{#if: {{{1|}}} | Название | Русское название}}
+!{{#if: {{{1|}}} | {{{2|Роль}}} | Оригинальное название}}
+{{#if: {{{1|}}} | | ! {{{2|Роль}}}}}</includeonly><noinclude>{{doc|ВФильмеВерх/doc|0}}
+</noinclude>
