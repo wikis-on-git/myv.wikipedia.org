@@ -1,0 +1,20 @@
+{{ {{{1<noinclude>|масторкоцт/коцт</noinclude>}}}
+| alias = Грузия Мастор
+| flag alias = Flag of Georgia.svg
+| flag alias-1918 = Flag of Georgia (1918-1921).svg
+| flag alias-1951 = Flag of Georgian SSR.svg
+| flag alias-1990 = Flag of Georgia (1990-2004).svg
+| flag alias-ВМС = Naval Ensign of Georgia.svg
+| flag alias-ВВС = Flag of the Georgian Air Force.svg
+| flag alias-армия = Georgia. Main Military flag.svg
+| variant = {{{variant|}}}
+<noinclude>
+| var1 = 1918
+| var2 = 1951
+| var3 = 1990
+| var4 = ВМС
+| var5 = ВВС
+| var6 = армия
+</noinclude>
+| размер = {{{размер|}}}
+}}
