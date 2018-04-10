@@ -1,49 +1,49 @@
 <noinclude>
 <!--
-Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=06.04.2018.
+Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=10.04.2018.
 Пожалуйста не модифицируйте её вручную, ваши изменения будут затёрты при очередном обновлении.
 
-This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=06.04.2018.
+This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=10.04.2018.
 Please do not modify this page. Your changes will be overwritten by bot during the next update.
 -->
 {{doc}}
 
 </noinclude>
 {{#switch: {{{1}}}
-  | Date = 2018-04-06
-  | AMD = 0.11
+  | Date = 2018-04-10
+  | AMD = 0.12
   | AUD = 44
-  | AZN = 33
+  | AZN = 34
   | BGN = 36
   | BRL = 17
   | BYN = 29
   | CAD = 45
-  | CHF = 59
-  | CNY = 9.1
-  | CZK = 2.7
-  | DKK = 9.4
-  | EUR = 70
-  | GBP = 80
-  | HKD = 7.3
-  | HUF = 0.22
-  | INR = 0.88
-  | JPY = 0.53
-  | KGS = 0.84
+  | CHF = 61
+  | CNY = 9.2
+  | CZK = 2.8
+  | DKK = 9.6
+  | EUR = 71
+  | GBP = 82
+  | HKD = 7.4
+  | HUF = 0.23
+  | INR = 0.9
+  | JPY = 0.54
+  | KGS = 0.85
   | KRW = 0.054
   | KZT = 0.18
   | MDL = 3.5
-  | NOK = 7.3
-  | PLN = 16
+  | NOK = 7.4
+  | PLN = 17
   | RON = 15
   | RUB = 1
-  | SEK = 6.8
-  | SGD = 43
-  | TJS = 6.5
+  | SEK = 6.9
+  | SGD = 44
+  | TJS = 6.6
   | TMT = 16
   | TRY = 14
   | UAH = 2.2
-  | USD = 57
-  | UZS = 0.0071
-  | XDR = 83
+  | USD = 58
+  | UZS = 0.0072
+  | XDR = 84
   | ZAR = 4.8
 }}
