@@ -1,0 +1,46 @@
+<includeonly><span class="citation" {{#if:{{{ref|}}}|id="{{anchorencode:CITEREF{{{ref}}}}}"}}>{{#if: {{{title|}}}
+ | {{#if: {{{author|}}}{{{last|}}}
+    | ''{{#if: {{{authorlink|}}}
+      | [[{{{authorlink}}}|{{#if: {{{last|}}}
+        | {{{last}}}{{#if: {{{first|}}} | , {{{first}}} }}
+        | {{{author}}}
+      }}]]
+      | {{#if: {{{last|}}}
+        | {{{last}}}{{#if: {{{first|}}} | , {{{first}}} }}
+        | {{{author}}}
+        }}
+      }}''
+  }}{{#if: {{{author|}}}{{{last|}}}
+    | {{#if: {{{coauthors|}}} | ,&#32;{{{coauthors}}} }}.&#32;
+  }}{{#if: {{{url|}}}
+   | [{{{url}}} {{{title}}}] 
+   | {{{title}}}
+  }}{{#if: {{{lang|}}}{{{language|}}}
+  | {{#ifexist: Шаблон:ref-{{{lang|{{{language}}}}}}
+    | {{ref-{{{lang|{{{language}}}}}} }}
+    | &#32;({{{lang|{{{language}}}}}})
+  }}
+}}{{#if: {{{format|}}} | &#32;({{{format}}}) 
+    }}{{#if: {{{website|}}}{{{work|}}}
+    | , ''{{#if: {{{website|}}} | {{{website}}} | {{{work}}} }}''}}{{#if: {{{publisher|}}}
+      | , {{#if: {{{location|}}}
+        | {{{location}}}:&#32;
+      }}{{{publisher}}}
+    }}{{#if: {{{date|}}}
+    | &nbsp;({{HumanizeDate|{{{date}}}|{{{lang|{{{language|}}}}}}}})
+  }}{{#if: {{{pages|}}}
+    | , стр.&nbsp;{{{pages}}}
+    |{{#if: {{{page|}}}
+      | , стр.&nbsp;{{{page}}}
+    }}
+  }}.{{#if: {{{archivedate|}}}
+  | &#32;{{архивировано|{{{archiveurl}}}|{{{archivedate}}}}}
+}}{{#if: {{{accessdate|}}}
+  | &#32;<small>Проверено {{#iferror: {{#time: j xg Y | {{{accessdate}}} }} | {{{accessdate}}} }}.</small>
+}}{{ #if: {{{quote|}}}
+    | &nbsp;«{{{quote}}}».
+  }}
+ | {{error|Необходимо задать параметр {{code|title{{=}}}} в шаблоне {{tl|cite news}}}}.{{Категория только в статьях|Википедия:Страницы с некорректным использованием шаблонов:Cite news}}
+}}</span></includeonly><noinclude>
+{{doc}}
+</noinclude>
