@@ -1,6 +1,6 @@
 {{nmbox
  | header = '''{{Languages/Title|{{SUBPAGENAME}}}}'''
- | text = {{#ifeq:{{int:Lang}}|myv|'''[[{{{1|:{{NAMESPACE}}:{{BASEPAGENAME}}}}}|эрзянь]]'''|{{#ifexist:{{{1|{{FULLPAGENAME}}}}}/myv| '''[[{{{1|:{{NAMESPACE}}:{{BASEPAGENAME}}}}}/myv|эрзянь]]''' | '''[[{{{1|:{{NAMESPACE}}:{{BASEPAGENAME}}}}}|эрзянь]]'''  }}}}{{Languages/Lang|aa|{{{1|}}}|
+ | text = {{#ifeq:{{int:Lang}}|ba|'''[[{{{1|:{{NAMESPACE}}:{{BASEPAGENAME}}}}}|башҡортса]]'''|{{#ifexist:{{{1|{{FULLPAGENAME}}}}}/ba| '''[[{{{1|:{{NAMESPACE}}:{{BASEPAGENAME}}}}}/ba|башҡортса]]''' | '''[[{{{1|:{{NAMESPACE}}:{{BASEPAGENAME}}}}}|башҡортса]]'''  }}}}{{Languages/Lang|aa|{{{1|}}}|
 }}{{Languages/Lang|ab|{{{1|}}}|
 }}{{Languages/Lang|ace|{{{1|}}}|
 }}{{Languages/Lang|af|{{{1|}}}|
@@ -298,6 +298,8 @@
 }}{{Languages/Lang|zu|{{{1|}}}}}|
  | clear = {{{clear|both}}}
 }}<noinclude>
+
+
 {{documentation}}
 [[Category:ЛопаПарцунт:Ламо кельсэ теемат]]
 </noinclude>
