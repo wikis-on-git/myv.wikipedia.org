@@ -1,5 +1,5 @@
 {{Userbox
-|id       = [[Рәсем:File cabinet blue.svg|40px|none|Архив]]
+|id       = [[File:File cabinet blue.svg|40px|none|Архив]]
 |border-c = #aaaaaa
 |info-c   = #f9f9f9
 |info     = {{#if:{{{1|}}} | {{{archivename|Кортамо архив}}}:
