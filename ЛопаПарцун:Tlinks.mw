@@ -1,0 +1,17 @@
+<includeonly><span style="float:right; font-size:{{{fontsize|11}}}px; font-weight:normal;" class="plainlinks"><!-- 
+-->{{#ifexist:{{#rel2abs:{{{lc|}}}}}|<!-- 
+
+ -->{{#ifeq:{{{dislooklink|}}}|yes||<nowiki>[</nowiki>[[{{{lc}}}|просмотр]]<nowiki>]</nowiki>&nbsp;}}<nowiki>[</nowiki>[{{fullurl:{{#rel2abs:{{{lc}}}}}|action=edit}} править]<nowiki>]</nowiki><!-- 
+ -->&nbsp;<!-- 
+ -->{{#ifeq:{{{dishistlink|}}}|yes||<nowiki>[</nowiki>[{{fullurl:{{#rel2abs:{{{lc}}}}}|action=history}} история]<nowiki>]</nowiki>}}<!-- 
+
+ -->|<!-- 
+ --><nowiki>[</nowiki>[{{fullurl:{{#rel2abs:{{{lc}}}}}|action=edit&redlink=1}} создать]<nowiki>]</nowiki><!-- 
+ -->}}<!-- 
+
+ -->&nbsp;<!-- 
+ -->{{#ifeq:{{{diswatchlink|}}}|yes||<nowiki>[</nowiki>[{{fullurl:{{#rel2abs:{{{lc}}}}}|action=watch}} следить]<nowiki>]</nowiki>&nbsp;}}<!-- 
+
+ -->{{#ifeq:{{{disupdlink|}}}|yes||<nowiki>[</nowiki><span class="purgelink">[{{fullurl:{{FULLPAGENAME}}|action=purge}} обновить]</span><nowiki>]</nowiki>}}<!-- 
+                               
+ --></span></includeonly><noinclude>{{doc}}</noinclude>
