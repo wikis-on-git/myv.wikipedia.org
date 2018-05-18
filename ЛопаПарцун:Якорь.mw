@@ -1,15 +1,1 @@
-<!--
--->{{#if: {{{1|}}}|<span id="{{anchorencode:{{{1|}}}}}"></span><!--
--->{{#if: {{{2|}}}|<span id="{{anchorencode:{{{2|}}}}}"></span><!--
--->{{#if: {{{3|}}}|<span id="{{anchorencode:{{{3|}}}}}"></span><!--
--->{{#if: {{{4|}}}|<span id="{{anchorencode:{{{4|}}}}}"></span><!--
--->{{#if: {{{5|}}}|<span id="{{anchorencode:{{{5|}}}}}"></span><!--
--->{{#if: {{{6|}}}|<span id="{{anchorencode:{{{6|}}}}}"></span><!--
--->{{#if: {{{7|}}}|<span id="{{anchorencode:{{{7|}}}}}"></span><!--
--->{{#if: {{{8|}}}|<span id="{{anchorencode:{{{8|}}}}}"></span><!--
--->{{#if: {{{9|}}}|<span id="{{anchorencode:{{{9|}}}}}"></span><!--
--->{{#if: {{{10|}}}|<span id="{{anchorencode:{{{10|}}}}}"></span><!--
--->{{#if: {{{11|}}}|<span style="background:#FFDD80;padding:0.2em 0.5em"> [[Ҡалып:Якорь]]: задано более 10 названий метки </span><!--
--->}} }} }} }} }} }} }} }} }} }} }}<noinclude>{{Doc}}
-<!-- категории и интервики пишите в документацию‼ -->
-</noinclude>
+#REDIRECT [[ЛопаПарцун:Anchor]]
