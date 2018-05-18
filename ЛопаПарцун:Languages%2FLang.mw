@@ -1,7 +1,7 @@
 {{#if:{{{1|}}}|{{#if:{{#if:{{{all|}}}|1|{{#ifexist:{{#if:{{{2|}}}
   |{{{2|}}}|{{#if:{{NAMESPACE}}|{{NAMESPACE}}:}}{{BASEPAGENAME}}
   }}/{{{1|}}}|1}}}}
-|&nbsp;'''·''' <bdi lang="{{#if:{{{name|}}}|ba|{{BCP47|{{uselang}}}}}}}" title="{{{name|{{#language:{{{1|}}}|{{uselang}}}}}}} ({{{1}}})"><bdi lang="{{BCP47|{{{1}}}}}" dir="{{dir|{{{1}}}}}" class="plainlinks autonym" style="white-space:nowrap">[{{fullurl:{{#if:{{{2|}}}
+|&nbsp;'''·''' <bdi lang="{{#if:{{{name|}}}|myv|{{BCP47|{{uselang}}}}}}}" title="{{{name|{{#language:{{{1|}}}|{{uselang}}}}}}} ({{{1}}})"><bdi lang="{{BCP47|{{{1}}}}}" dir="{{dir|{{{1}}}}}" class="plainlinks autonym" style="white-space:nowrap">[{{fullurl:{{#if:{{{2|}}}
   |{{{2|}}}|{{#if:{{NAMESPACE}}|{{NAMESPACE}}:}}{{BASEPAGENAME}}
   }}/{{{1|}}}|uselang={{{1|}}}}} {{{autonym|{{#language:{{{1|}}}}}}}}]</bdi></bdi>
 }}}}<noinclude>{{documentation}}</noinclude>
