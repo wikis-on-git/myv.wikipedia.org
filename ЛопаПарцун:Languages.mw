@@ -1,6 +1,6 @@
 {{nmbox
  | header = '''{{Languages/Title|{{SUBPAGENAME}}}}'''
- | text = {{#ifeq:{{int:Lang}}|myv|'''[[{{{1|{{NAMESPACE}}:{{BASEPAGENAME}}}}}|эрзянь]]'''|{{#ifexist:{{{1|{{FULLPAGENAME}}}}}/myv| '''[[{{{1|{{NAMESPACE}}:{{BASEPAGENAME}}}}}/myv|эрзянь]]''' | '''[[{{{1|:{{NAMESPACE}}:{{BASEPAGENAME}}}}}|эрзянь]]'''  }}}}{{Languages/Lang|aa|{{{1|}}}|
+ | text = {{#ifeq:{{int:Lang}}|myv|'''[[{{{1|{{NAMESPACE}}:{{BASEPAGENAME}}}}}|эрзянь]]'''|{{#ifexist:{{{1|{{FULLPAGENAME}}}}}/myv| '''[[{{{1|{{NAMESPACE}}:{{BASEPAGENAME}}}}}/myv|эрзянь]]''' | '''[[{{{1|{{NAMESPACE}}:{{BASEPAGENAME}}}}}|эрзянь]]'''  }}}}{{Languages/Lang|aa|{{{1|}}}|
 }}{{Languages/Lang|ab|{{{1|}}}|
 }}{{Languages/Lang|ace|{{{1|}}}|
 }}{{Languages/Lang|af|{{{1|}}}|
