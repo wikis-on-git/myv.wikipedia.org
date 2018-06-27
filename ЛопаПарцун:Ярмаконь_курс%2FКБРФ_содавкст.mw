@@ -1,17 +1,17 @@
 <noinclude>
 <!--
-Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=26.06.2018.
+Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=27.06.2018.
 Пожалуйста не модифицируйте её вручную, ваши изменения будут затёрты при очередном обновлении.
 
-This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=26.06.2018.
+This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=27.06.2018.
 Please do not modify this page. Your changes will be overwritten by bot during the next update.
 -->
 {{doc}}
 
 </noinclude>
 {{#switch: {{{1}}}
-  | Date = 2018-06-26
-  | AMD = 0.12
+  | Date = 2018-06-27
+  | AMD = 0.13
   | AUD = 46
   | AZN = 36
   | BGN = 37
@@ -19,7 +19,7 @@ Please do not modify this page. Your changes will be overwritten by bot during t
   | BYN = 31
   | CAD = 47
   | CHF = 63
-  | CNY = 9.6
+  | CNY = 9.5
   | CZK = 2.8
   | DKK = 9.8
   | EUR = 73
@@ -39,9 +39,9 @@ Please do not modify this page. Your changes will be overwritten by bot during t
   | SEK = 7
   | SGD = 46
   | TJS = 6.8
-  | TMT = 18
+  | TMT = 17
   | TRY = 13
-  | UAH = 2.4
+  | UAH = 2.3
   | USD = 62
   | UZS = 0.0079
   | XDR = 88
