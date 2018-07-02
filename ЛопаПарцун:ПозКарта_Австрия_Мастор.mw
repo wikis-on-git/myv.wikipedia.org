@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+|name = Австрия Мастор
+|top = 49.2
+|bottom = 46.3
+|left = 9.4
+|right = 17.2
+|image = {{#switch:{{{2|}}}
+ |physical = Austria relief location map.jpg
+ |#default = Austria location map.svg
+}}
+}}<noinclude>
+{{ПозКарта/Инфо|Австрия Мастор}}
+</noinclude>
