@@ -1,0 +1,3 @@
+<div style="{{#if:{{{background|}}}|background:{{{background}}}|background:white}}; {{#if:{{{border|}}}|border:1px solid {{{border}}}|border:1px solid #a2a9b1}}; margin-bottom:1em; padding:0.4em 0 0; text-align:center;">{{Индекс|{{#if:{{{border|}}}|{{{border}}}|#a2a9b1}}|{{#if:{{{background|}}}|{{{background}}}|white}}}}</div><noinclude>
+[[Категория:Навигационные шаблоны:Для пространства Википедия]]
+</noinclude>
