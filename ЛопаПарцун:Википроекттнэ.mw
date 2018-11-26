@@ -28,15 +28,15 @@
 {{!}} <span class="wikiquote-ref">[[{{wikidata-link|wikiquote}}|{{{Тема|{{PAGENAME}}}}}]]</span> в Викицитатнике{{?|Викицитатник}}}}
 }}
 |-
-{{#if: {{{Викитека|}}}<!--
-   Если задана ссылка через аргумент "Викитека"
+{{#if: {{{Викикундо|}}}<!--
+   Если задана ссылка через аргумент "Викикундо"
 -->|{{#if:{{NAMESPACE}}||[[Категория:Статьи со ссылками на Викитеку]]}}
-! [[Артовкс:Wikisource-logo.svg|link=s:{{{Викитека}}}|30px|alt=s:]]
-{{!}} <span class="wikisource-ref">[[s:{{{Викитека}}}|{{{Тема|{{{Викитека}}}}}}]]</span> в Викитеке{{?|Викитека}}<!--
+! [[Артовкс:Wikisource-logo.svg|link=s:{{{Викикундо}}}|30px|alt=s:]]
+{{!}} <span class="wikisource-ref">[[s:{{{Викикундо}}}|{{{Тема|{{{Викикундо}}}}}}]]</span> Викикундосо{{?|Викикундо}}<!--
    Если есть ссылка в Викиданных
 -->| {{#if:{{wikidata-link|wikisource}}|
 ! [[Артовкс:Wikisource-logo.svg|link={{wikidata-link|wikisource}}|30px|alt=s:]]
-{{!}} <span class="wikisource-ref">[[{{wikidata-link|wikisource}}|{{{Тема|{{PAGENAME}}}}}]]</span> в Викитеке{{?|Викитека}}}}<!--
+{{!}} <span class="wikisource-ref">[[{{wikidata-link|wikisource}}|{{{Тема|{{PAGENAME}}}}}]]</span> Викикундосо{{?|Викикундо}}}}<!--
 -->}}
 |-
 {{#if: {{{Викилувтнэ|}}} | {{#if:{{NAMESPACE}}||[[Категория:Лопат невтькетень Викилувтнэсэ марто]]}}
