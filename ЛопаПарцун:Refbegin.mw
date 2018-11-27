@@ -1,0 +1,15 @@
+<includeonly><div class="reflist not-references {{#if: {{{colwidth|}}}
+| columns
+| {{#if: {{{1|}}}
+  | {{#ifeq: {{{1}}} | 1 || columns }}
+  | 
+  }}
+}}" style="{{#if: {{{colwidth|}}}
+| {{column-width|{{{colwidth}}}}}
+| {{#if: {{{1|}}}
+  | {{#iferror: {{#ifexpr: {{{1}}} > 1 }}
+    | {{column-width|{{{1}}}}}
+    | {{column-count|{{{1}}}}}
+    }}
+  }}
+}}{{#if: {{{indent|}}} | text-indent:-{{{indentsize|3.5}}}em; padding-left:0; margin-left:{{{indentsize|3.5}}}em; list-style-position:inside; }}"></includeonly><noinclude>{{doc}}</noinclude>
