@@ -1,0 +1,1 @@
+<!--логотип-->{{#if:{{{logo|}}}|<span style=vertical-align:1px>[[Артовкс:VK.com-logo.svg|15px|link=ВКонтакте]]</span>}}<!--/логотип-->&nbsp;[http://vk.com/{{#if:{{{id|}}}|id{{{id}}}|{{{1}}}}} Официальной лопась {{{2|{{{title|{{PAGENAME}}}}}}}}] вейсэнь алтымасо «[[ВКонтакте]]»<noinclude>{{doc}}</noinclude>
