@@ -1,0 +1,90 @@
+<noinclude>{{docpage}}</noinclude>
+Шаблон для создания коротких («гарвардских») ссылок на источники, указанные в списках литературы и внешних ссылок. 
+
+В отличие от шаблона {{tl|sfn}}, служащего той же цели, может использоваться внутри тега сносок <code><nowiki><ref></ref></nowiki></code>.
+
+Работает в комбинации с шаблонами библиографических ссылок и описаний {{tl|книга}}, {{tl|статья}}, {{tl|публикация}} с заданным параметром {{para|ref}}, а также с шаблоном-[[ВП:Ссылка на раздел#Якоря|якорем]] {{tl|h}}. 
+
+== Параметры ==
+ <nowiki>{{</nowiki><span style=white-space:pre-wrap>sfn0|''название''|''год''|loc= |с= |S= |s= |p= |pp= |quote= }}</span>
+
+{{описание шаблона
+ | !1        = !
+ | поле1     = 
+ | формат1   = Smith
+ | описание1 = Короткое название-идентификатор источника (как правило, фамилия автора или фамилия автора и год публикации).
+
+ | поле2     = 
+ | формат2   = 2006
+ | описание2  = Год публикации (если указан в источнике).
+
+ | поле3     = loc
+ | формат3   = Table 5
+ | описание3 = Место в источнике (раздел, глава, таблица и т. д.).
+
+ | поле4     = с
+ | формат4   = 25
+ | описание4 = Номер страницы (диапазон страниц) в источнике с ''{{abbr|с|кириллица|0}}''-[[Пагинация|пагинацией]] (на русском, белорусском, украинском, болгарском или македонском языке).
+
+ | поле5     = S
+ | формат5   = 25
+ | описание5 = Номер страницы (диапазон страниц) в источнике с ''S''-пагинацией (на немецком языке).
+
+ | поле6     = s
+ | формат6   = 25
+ | описание6 = Номер страницы (диапазон страниц) в источнике с ''s''-пагинацией (на азербайджанском, датском, исландском, норвежском, польском, словацком, словенском, турецком, туркменском, финском, хорватском, чешском или шведском языке).
+
+ | поле7     = p
+ | формат7   = 25
+ | описание7 = Номер страницы в источниках на других языках.
+
+ | поле8     = pp
+ | формат8   = 25—26
+ | описание8 = Диапазон страниц в источниках на других языках.
+
+ | поле9     = quote
+ | формат9   = Цитата
+ | описание9 = Цитата в источнике (без точки в конце последнего предложения).
+}}
+
+== Примеры использования ==
+* <code><nowiki>{{sfn0|Smith 2006}}</nowiki></code> → {{sfn0|Smith 2006}}
+* <code><nowiki>{{sfn0|Smith|2006}}</nowiki></code> → {{sfn0|Smith|2006}}
+* <code><nowiki>{{sfn0|Smith|2006|p=25}}</nowiki></code> → {{sfn0|Smith|2006|p=25}}
+* <code><nowiki>{{sfn0|Смит|2006|с=25}}</nowiki></code> → {{sfn0|Смит|2006|с=25}}
+* <code><nowiki>{{sfn0|Смит|2006|с=25|quote=Цитата}}</nowiki></code> → {{sfn0|Смит|2006|с=25|quote=Цитата}}
+* <code><nowiki>{{sfn0|Smith|2006|pp=25—26}}</nowiki></code> → {{sfn0|Smith|2006|pp=25—26}}
+* <code><nowiki>{{sfn0|Smith|2006|loc=Table 5}}</nowiki></code> → {{sfn0|Smith|2006|loc=Table 5}}
+* <code><nowiki>{{sfn0|Smith II|2006}}</nowiki></code> → {{sfn0|Smith II|2006}}
+* <code><nowiki>{{sfn0|Smith|p=25}}</nowiki></code> → {{sfn0|Smith|p=25}}
+* <code><nowiki>{{sfn0|Смит|с=25}}</nowiki></code> → {{sfn0|Смит|с=25}}
+* <code><nowiki>{{sfn0|Smith|pp=25—26}}</nowiki></code> → {{sfn0|Smith|pp=25—26}}
+* <code><nowiki>{{sfn0|Smith|loc=Table 5}}</nowiki></code> → {{sfn0|Smith|loc=Table 5}}
+
+{| class=wikitable
+ |style=padding:0.5em| <tt><nowiki>{{книга|автор=Smith, John.|заглавие=Book (2006)|</nowiki>{{highlight|ref{{=}}Smith 2006}}<nowiki>}}</nowiki></tt> 
+ |style=padding:0.5em bgcolor=#fff| {{книга|автор=Smith, John.|заглавие=Book (2006)|ref=Smith 2006}}
+ |-
+ |style=padding:0.5em| <tt><nowiki>{{статья|автор=Smith, John.|заглавие=Article|издание=Magazine|</nowiki>{{highlight|год{{=}}2006}}<nowiki>|</nowiki>{{highlight|ref{{=}}Smith}}}}<nowiki></nowiki></tt>
+ |style=padding:0.5em bgcolor=#fff| {{статья|автор=Smith, John.|заглавие=Article|издание=Magazine|год=2006|ref=Smith}}
+ |-
+ |style=padding:0.5em| <tt><nowiki>{{статья|автор=Смит, Джон.|заглавие=Статья|издание=Журнал|</nowiki>{{highlight|год{{=}}2006}}<nowiki>|</nowiki>{{highlight|ref{{=}}Смит}}}}<nowiki></nowiki></tt>
+ |style=padding:0.5em bgcolor=#fff| {{статья|автор=Смит, Джон.|заглавие=Статья|издание=Журнал|год=2006|ref=Смит}}
+ |-
+ |style=padding:0.5em| <tt><nowiki>{{h|</nowiki>{{highlight|Smith II}}<nowiki>|</nowiki>{{highlight|2006}}<nowiki>}} 2006 — {{книга|автор=Smith, John.|заглавие=Another Book}}</nowiki></tt>
+ |style=padding:0.5em bgcolor=#fff| {{h|Smith II|2006}} 2006 — {{книга|автор=Smith, John.|заглавие=Another Book}}
+ |-
+ |style=padding:0.5em| <tt><nowiki>{{книга|автор=Smith, John.|заглавие=Book|</nowiki>{{highlight|ref{{=}}Smith}}<nowiki>}}</nowiki></tt> 
+ |style=padding:0.5em bgcolor=#fff| {{книга|автор=Smith, John.|заглавие=Book|ref=Smith}}
+ |-
+ |style=padding:0.5em| <tt><nowiki>{{книга|автор=Смит, Джон.|заглавие=Книга|</nowiki>{{highlight|ref{{=}}Смит}}<nowiki>}}</nowiki></tt> 
+ |style=padding:0.5em bgcolor=#fff| {{книга|автор=Смит, Джон.|заглавие=Книга|ref=Смит}}
+|}
+
+== См. также ==
+* {{tl|harvard citation no brackets}}
+* {{tl|sfn-текст}}
+
+<includeonly>
+[[Категория:Шаблоны:Сноски]]
+</includeonly>
