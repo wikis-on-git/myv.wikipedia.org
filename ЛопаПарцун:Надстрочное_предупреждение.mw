@@ -1,0 +1,47 @@
+<includeonly>{{видимый якорь
+|1 = {{{anchor|}}}
+|текст = <span style="{{{span-style|background: #ffeaea; color: #444444;}}}">{{{span-text|}}}</span><!--
+--><sup class="{{#if: {{{noprint|}}} | noprint }}" style="white-space: nowrap"><!--
+-->{{#if: {{{text|}}}
+    | {{#iferror: &#91;<i><!--
+      -->{{автоссылка
+          |1 = {{{link|}}}
+          |2 = <span title="{{replace|{{delink|{{#ifeq: {{{comment|}}} || {{{comment-default|{{{link|}}}}}} | {{{comment|}}} }} }}|"|&quot;}}<!--
+             -->{{#if: {{{day|}}}{{{month|}}}{{{year|}}} | {{sp}}({{#time: j xg Y | {{{year|}}}-{{{month|}}}-{{{day|}}} }})}}" 
+                style="{{#if: {{{comment|}}} |border-bottom: 1px dotted;}}">{{{text|}}}</span><!--
+      -->}}</i><!--
+      -->{{#if: {{{talk|}}}
+          | <span class="noprint">{{sp}}([[{{#ifexpr: abs {{str find|{{{talk|}}}|#}} = 1 | {{TALKPAGENAME}}#}}{{{talk|}}}|обс.]])</span><!--
+      -->}}&#93;
+       | {{#if: {{#invoke:infocards|isDate|{{{day|}}}.{{{month|}}}.{{{year|}}}||false}}
+          | <strong class="error noprint">Ошибка{{?|Шаблон:Надстрочное предупреждение#Дата установки}}: некорректно задана дата установки</strong><!--
+         -->{{#if: {{NAMESPACE}}
+             || {{{errorcat|[[Категория:Википедия:Надстрочные предупреждения с некорректно заданной датой]]}}}<!--
+         -->}}<!--
+      -->}}<!--
+   -->}}       
+    | <strong class="error noprint">Ошибка{{?|Шаблон:Надстрочное предупреждение#Использование}}: не задан параметр <code>text</code></strong><!--
+-->}}<!--
+-->{{#if: {{{nocat|}}}{{NAMESPACE}}
+    || {{#iferror:
+        {{{cat|}}}<!--
+     -->{{#if: {{{day|}}}{{{month|}}}{{{year|}}}
+         | {{#if: {{{cat1|}}}
+            | {{#ifexpr: {{ютась чить|{{{day|}}}|{{{month|}}}|{{{year|}}}}} {{{cat-date1|>= 0}}}
+               | {{{cat1|}}}<!--
+           -->}}<!--
+        -->}}<!-- 
+        -->{{#if: {{{cat2|}}}
+            | {{#ifexpr: {{ютась чить|{{{day|}}}|{{{month|}}}|{{{year|}}}}} {{{cat-date2|>= 0}}}
+               | {{{cat2|}}}<!--
+           -->}}<!--
+        -->}}<!-- 
+        -->{{#if: {{{cat3|}}}
+            | {{#ifexpr: {{ютась чить|{{{day|}}}|{{{month|}}}|{{{year|}}}}} {{{cat-date3|>= 0}}}
+               | {{{cat3|}}}<!--
+           -->}}<!--
+        -->}}<!--
+     -->}}<!--
+    -->}}<!--
+-->}}</sup>
+}}</includeonly><noinclude>{{doc}}</noinclude>
