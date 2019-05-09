@@ -1,22 +1,22 @@
 <noinclude>
 <!--
-Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=07.05.2019.
+Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=08.05.2019.
 Пожалуйста не модифицируйте её вручную, ваши изменения будут затёрты при очередном обновлении.
 
-This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=07.05.2019.
+This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=08.05.2019.
 Please do not modify this page. Your changes will be overwritten by bot during the next update.
 -->
 {{doc}}
 
 </noinclude>
 {{#switch: {{{1}}}
-  | Date = 2019-05-07
+  | Date = 2019-05-08
   | AMD = 0.13
   | AUD = 45
   | AZN = 38
   | BGN = 37
   | BRL = 16
-  | BYN = 31
+  | BYN = 30
   | CAD = 48
   | CHF = 64
   | CNY = 9.6
@@ -27,7 +27,7 @@ Please do not modify this page. Your changes will be overwritten by bot during t
   | HKD = 8.3
   | HUF = 0.22
   | INR = 0.94
-  | JPY = 0.59
+  | JPY = 0.58
   | KGS = 0.93
   | KRW = 0.055
   | KZT = 0.17
