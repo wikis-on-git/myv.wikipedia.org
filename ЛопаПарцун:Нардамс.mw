@@ -1,0 +1,12 @@
+<noinclude>{{Ютавтык эрзянь кельс}}</noinclude><div align="center">
+{| style="border: Solid 1px #999999; background: #FFEEEE;"
+ |[[Image:Mail-mark-junk_red.svg]]
+ |Те лопась тешкстазь куроксто нардамонтень. {{#if:{{{1|}}}|<br />Тувталось: {{{1}}}.|<br />Тувталось апак невте.}}
+ |}
+</div><includeonly>
+[[Category:Нардамс]]
+</includeonly><noinclude>
+Невтевкс: <nowiki>{{</nowiki>Нардамс|тувталось<nowiki>}}</nowiki>
+
+[[Category:Шаблонт]]
+</noinclude>
