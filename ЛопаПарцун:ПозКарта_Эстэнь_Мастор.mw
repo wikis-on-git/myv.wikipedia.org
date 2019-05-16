@@ -1,0 +1,16 @@
+{{#switch:{{{1}}}
+|name   = Эстэнь Мастор
+| top    = 60.4
+| bottom = 57.2
+| left   = 21.5
+| right  = 28.4
+| image= {{#switch:{{{2|}}}
+ |physical = Estonia location map (2005-2017) no rivers.svg
+ |#default = Estonia location map (2005-2017) no rivers.svg
+}}
+|areas = {{#switch:{{{2|}}}
+ |physical = {{ЛопаПарцун:ПозКарта Эстэнь Мастор/adm}}
+ |#default = {{ЛопаПарцун:ПозКарта Эстэнь Мастор/adm}}
+}}
+}}<noinclude>{{ПозКарта/Инфо|Эстония}}
+</noinclude>
