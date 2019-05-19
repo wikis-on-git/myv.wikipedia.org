@@ -39,7 +39,7 @@
 |текст8       = {{s|{{NUMBEROF|ARTICLES|{{#property:p424}}|N}} ({{Википедии по числу статей|{{#property:p424}}}}-е место)}}
 
 |метка9       = Число файлов
-|текст9       = {{#ifeq: 0 | {{NUMBEROF|FILES|{{#property:p424}}|N}} | нет | {{NUMBEROF|FILES|{{#property:p424}}|N}} }}
+|текст9       = {{#ifeq: 0 | {{NUMBEROF|FILES|{{#property:p424}}|N}} | арась | {{NUMBEROF|FILES|{{#property:p424}}|N}} }}
 
 |метка10      = Число страниц
 |текст10      = {{NUMBEROF|PAGES|{{#property:p424}}|N}}
@@ -54,7 +54,7 @@
 |текст13      = {{NUMBEROF|ACTIVEUSERS|{{#property:p424}}|N}}
 
 |метка14      = Администраторов
-|текст14      = {{#ifexpr: {{NUMBEROF|ADMINS|{{#property:p424}}|N}} = 0| нет | {{NUMBEROF|ADMINS|{{#property:p424}}|N}} }}
+|текст14      = {{#ifexpr: {{NUMBEROF|ADMINS|{{#property:p424}}|N}} = 0| арась | {{NUMBEROF|ADMINS|{{#property:p424}}|N}} }}
 
 |метка15      = [[Википедия:Глубина|Глубина]]
 |текст15      = {{formatnum: {{#expr: {{NUMBEROF|EDITS|{{#property:p424}}}}*({{NUMBEROF|PAGES|{{#property:p424}}}}-{{NUMBEROF|ARTICLES|{{#property:p424}}}})^2/({{NUMBEROF|PAGES|{{#property:p424}}}}*{{NUMBEROF|ARTICLES|{{#property:p424}}}}^2) round 1}} }}
