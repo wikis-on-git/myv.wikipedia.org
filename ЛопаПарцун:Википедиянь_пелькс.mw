@@ -3,7 +3,7 @@
 |стиль_тела        = 
 |название          = 
 |стиль_названия    = 
-|вверху            = [[Артовкс:Wikipedia's W.svg|16px|Favicon Википедии]] {{карточка/название}} {{#ifeq:{{#property:p424}}|myv||<br>{{#if:{{wikidata|p1705[language!:ru]}}|{{wikidata|p1705[language!:ru]}}|{{ucfirst:{{#invoke:wikibase|struc|labels|{{wikidata|p424|{{{язык|}}}|plain=true}}|value}}}}}}}}
+|вверху            = [[Артовкс:Wikipedia's W.svg|16px|Favicon Википедии]] {{карточка/лем}} {{#ifeq:{{#property:p424}}|myv||<br>{{#if:{{wikidata|p1705[language!:ru]}}|{{wikidata|p1705[language!:ru]}}|{{ucfirst:{{#invoke:wikibase|struc|labels|{{wikidata|p424|{{{язык|}}}|plain=true}}|value}}}}}}}}
 |стиль_вверху      = 
 |вверху2           = {{wikidata|p154|size=220x150|alt=Логотип раздела}}
 |стиль_вверху2     = 
