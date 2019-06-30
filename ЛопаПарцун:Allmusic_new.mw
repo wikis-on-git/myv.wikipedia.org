@@ -1,6 +1,6 @@
 {{#if:{{{url|}}}
  |http://www.allmusic.com/{{{class|{{{тип|{{{1|artist}}}}}}}}}/{{{номер|{{{id|{{{2|}}}}}}}}}
- | [http://www.allmusic.com/{{{class|{{{тип|{{{1|artist}}}}}}}}}/{{{номер|{{{id|{{{2|}}}}}}}}} {{{label|{{{имя|{{{3|{{PAGENAME}}}}}}}}}}}]{{ref-en}} на сайте [[AllMusic]]{{
+ | [http://www.allmusic.com/{{{class|{{{тип|{{{1|artist}}}}}}}}}/{{{номер|{{{id|{{{2|}}}}}}}}} {{{label|{{{имя|{{{3|{{PAGENAME}}}}}}}}}}}]{{ref-en}} [[AllMusic]] лопасонть {{
    #if:{{{accessdate|{{{дата|}}}}}}
    | {{ref-info|проверено {{HumanizeDate|{{{accessdate|{{{дата|}}}}}}}}|Дата последней проверки этой ссылки}}.
    }}
