@@ -14,13 +14,13 @@
 |-
 ! Вариант использования !! Результат !! Комментарий
 |-
-| {{tc|_tag=tt|official|www.google.com}}<br/>{{tc|_tag=tt|official|<nowiki>http://www.google.com</nowiki>}} || '''[http://www.google.com www.google.com]''' — официальный сайт {{color|red|Google}} || Адрес сайта — единственный обязательный параметр, который нужно указать первым.
+| {{tc|_tag=tt|official|www.google.com}}<br/>{{tc|_tag=tt|official|<nowiki>http://www.google.com</nowiki>}} || '''[http://www.google.com www.google.com]''' — официальной вальмась {{color|red|Google}} || Адрес сайта — единственный обязательный параметр, который нужно указать первым.
 
 Такую запись лучше использовать в статье, соответствующей сайту. В этом случае название статьи, например, [[Google (поисковая система)|Google]] будет вставлено в конец записи.
 |-
-| {{tc|_tag=tt|official|www.google.com|корпорации Google}} || [http://www.google.com '''www.google.com'''] — официальный сайт {{color|red|корпорации Google}} || Если название статьи необходимо поставить в родительный падеж или название статьи использовать невозможно, то следует использовать второй параметр.
+| {{tc|_tag=tt|official|www.google.com|корпорации Google}} || [http://www.google.com '''www.google.com'''] — официальной вальмась {{color|red|корпорации Google}} || Если название статьи необходимо поставить в родительный падеж или название статьи использовать невозможно, то следует использовать второй параметр.
 |-
-| {{tc|_tag=tt|official|www.google.fr|корпорации Google|lang=fr}} || [http://www.google.fr '''www.google.fr'''] — официальный сайт {{color|red|корпорации Google}}{{ref-fr}} || Для указания языка можно использовать параметр {{para|lang}}. Русский язык указывать лишь в особых случаях, см. {{t|ref-ru}}.
+| {{tc|_tag=tt|official|www.google.fr|корпорации Google|lang=fr}} || [http://www.google.fr '''www.google.fr'''] — официальной вальмась {{color|red|корпорации Google}}{{ref-fr}} || Для указания языка можно использовать параметр {{para|lang}}. Русский язык указывать лишь в особых случаях, см. {{t|ref-ru}}.
 |-
 | {{tc|_tag=tt|official|www.google.com/123/456/g.php|страница Google|link_text=google.com}} || {{official|www.google.com/123/456/g.php|страница Google|link_text=google.com}} || Если ссылка длинная её можно заменить на более короткую с помощью параметра {{para|link_text}}.
 |-
