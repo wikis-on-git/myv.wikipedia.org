@@ -59,11 +59,11 @@
 |label19 = Разное:
 |data19 = {{{разное|}}}
 |belowstyle = border-top:1px solid #DDD; background:#eaeaea;
-|below       = {{#if:{{{википурнавкс|}}}|'''[[commons:Category:{{{википурнавкс|}}}|{{#if: {{{лем|}}} | {{{лем}}} | {{Васня лем|{{PAGENAME}}}} }}]]'''  [[Википурнавкс]]со|{{wikidata/p373|text_before='''|text={{#if: {{{лем|}}} | {{{лем}}} | {{Васня лем|{{PAGENAME}}}} }}|text_after=''' [[Википурнавкс]]со}}}}
+|below       = {{#if:{{{викиутом|}}}|'''[[commons:Category:{{{викиутомс|}}}|{{#if: {{{лем|}}} | {{{лем}}} | {{Васня лем|{{PAGENAME}}}} }}]]'''  [[Викиутом]]со|{{wikidata/p373|text_before='''|text={{#if: {{{лем|}}} | {{{лем}}} | {{Васня лем|{{PAGENAME}}}} }}|text_after=''' [[Викиутом]]со}}}}
 |below2     = {{#if:{{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}<!--
 -->|'''[[Артовкс:wikisource-logo.svg|15px|Логотип Викитеки|link={{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}]] [[{{#invoke:Wikidata/Wikisource|getWikisourceLink|p103}}|Произведения]]''' в [[Викитека|Викитеке]]<!--
 -->|{{#ifeq:{{{викитека|}}}|нельзя|{{Unicode|©}} Произведения этого автора [[Свободный контент|несвободны]]}}<!--
 -->}}
-}}<includeonly>{{#if:{{NAMESPACE}}||{{#if:{{{nocat|}}}||{{#if:{{{википурнавкс|}}}|}}{{#switch:{{wikidata/p18|{{{артовкс|}}}|plain=1}}|=[[Категория:Википедия:Ломантне артовкстомо]]|Replace this image male.svg=[[Категория:Википедия:Ломантне артовкстомо]]|Replace this image female.svg=[[Категория:Википедия:Ломантне артовкстомо]]|#default=}}}}}}</includeonly><noinclude>
+}}<includeonly>{{#if:{{NAMESPACE}}||{{#if:{{{nocat|}}}||{{#if:{{{викиутом|}}}|}}{{#switch:{{wikidata/p18|{{{артовкс|}}}|plain=1}}|=[[Категория:Википедия:Ломантне артовкстомо]]|Replace this image male.svg=[[Категория:Википедия:Ломантне артовкстомо]]|Replace this image female.svg=[[Категория:Википедия:Ломантне артовкстомо]]|#default=}}}}}}</includeonly><noinclude>
 {{doc}}
 </noinclude>
