@@ -1,0 +1,9 @@
+{{#switch:{{{1|nom}}}{{{2|}}}
+ ||nom =
+ |1|nom1 =_long
+ |#default =-{{{1}}}
+}}<noinclude>
+
+{{Documentation}}
+
+</noinclude>
