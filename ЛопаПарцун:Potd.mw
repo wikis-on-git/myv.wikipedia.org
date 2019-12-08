@@ -1,10 +1,10 @@
 {| style="margin: 0 0 0.5em 0.5em; float: {{{float}}}; width: {{{width}}}px; text-align: center;" class="wikitable"
 ! ''[[Википедиясь:Чинь артовкс|Чинь артовкс]]''
 |-
-|style="padding:0;" class="toccolours"| [[File:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}}}|<includeonly>{{{width}}}</includeonly><noinclude>
+|style="padding:0;" class="toccolours"| [[File:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|<includeonly>{{{width}}}</includeonly><noinclude>
 400</noinclude>px|]]
 |-
-|style="font-size:95%;"| {{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}} (myv)}}
+|style="font-size:95%;"| {{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (myv)}}
 |-
 |}
 </br>
