@@ -1,0 +1,4 @@
+<includeonly>{{#ifeq: {{FULLPAGENAME}} | Template:Potd/{{{2|}}}-{{padleft:{{{3|}}}|2|0}}-{{padleft:{{{4|}}}|2|0}} | {{Potd filename helper|1={{{1|}}}|2={{{2|}}}|3={{padleft:{{{3|}}}|2|0}}|4={{padleft:{{{4|}}}|2|0}}}}
+|{{{1|}}}}}</includeonly><noinclude>
+{{Potd filename/doc}}
+</noinclude>
