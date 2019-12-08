@@ -1,0 +1,10 @@
+== Usage ==
+
+This template is used to tag daily localized POTD templates.
+<PRE>
+{{Potd filename|<filename>|<year>|<month>|<day>}}
+</PRE>
+For example: <code><nowiki>{{Potd filename|</nowiki>{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}<nowiki>|</nowiki>{{CURRENTYEAR}}<nowiki>|</nowiki>{{CURRENTMONTH}}<nowiki>|</nowiki>{{CURRENTDAY2}}<nowiki>}}</nowiki></code><includeonly>
+
+[[Category:Potd templates| {{PAGENAME}}]]
+</includeonly>
