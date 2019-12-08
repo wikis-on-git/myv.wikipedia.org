@@ -1,4 +1,4 @@
-{{#switch:{{{2|en}}}
+{{#switch:{{{2|myv}}}
  |bn = {{formatnum|{{{1|{{CURRENTYEAR}}}}}|bn|sep=N}}
  |fa = سال {{formatnum|{{{1|{{CURRENTYEAR}}}}}|fa|sep=N}} میلادی
  |vi = năm {{{1|{{CURRENTYEAR}}}}}
