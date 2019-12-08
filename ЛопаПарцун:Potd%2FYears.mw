@@ -1,0 +1,11 @@
+{{#switch:{{{2|en}}}
+ |bn = {{formatnum|{{{1|{{CURRENTYEAR}}}}}|bn|sep=N}}
+ |fa = سال {{formatnum|{{{1|{{CURRENTYEAR}}}}}|fa|sep=N}} میلادی
+ |vi = năm {{{1|{{CURRENTYEAR}}}}}
+ |zh-classical = 公曆 {{{1|{{CURRENTYEAR}}}}} 年
+ |ja = {{{1|{{CURRENTYEAR}}}}} 年
+ |ko = {{{1|{{CURRENTYEAR}}}}} 년
+ |zh|zh-Hans|zh-hans|zh-Hant|zh-hant|yue|zh-yue = {{{1|{{CURRENTYEAR}}}}}年
+ |nan|zh-min-nan = {{{1|{{CURRENTYEAR}}}}} -nî
+ |#default = {{{1|{{CURRENTYEAR}}}}}
+}}<noinclude>[[Category:Potd templates]]</noinclude>
