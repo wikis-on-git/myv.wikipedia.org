@@ -1,0 +1,38 @@
+{{#if:{{{2|}}}|<!-- language specific version -->
+ {{#switch: {{ucfirst:{{{1|}}}}}
+  |{{ns:0}}         =<!-- Empty, return nothing at all -->
+  | 1|Jan|January   ={{MediaWiki:January{{I18n month/form  |{{{form|}}} }}/{{{2}}} }}
+  | 2|Feb|February  ={{MediaWiki:February{{I18n month/form |{{{form|}}} }}/{{{2}}} }}
+  | 3|Mar|March     ={{MediaWiki:March{{I18n month/form    |{{{form|}}} }}/{{{2}}} }}
+  | 4|Apr|April     ={{MediaWiki:April{{I18n month/form    |{{{form|}}} }}/{{{2}}} }}
+  | 5|May           ={{MediaWiki:May{{I18n month/form      |{{{form|}}}|1}}/{{{2}}} }}
+  | 6|Jun|June      ={{MediaWiki:June{{I18n month/form     |{{{form|}}} }}/{{{2}}} }}
+  | 7|Jul|July      ={{MediaWiki:July{{I18n month/form     |{{{form|}}} }}/{{{2}}} }}
+  | 8|Aug|August    ={{MediaWiki:August{{I18n month/form   |{{{form|}}} }}/{{{2}}} }}
+  | 9|Sep|September ={{MediaWiki:September{{I18n month/form|{{{form|}}} }}/{{{2}}} }}
+  |10|Oct|October   ={{MediaWiki:October{{I18n month/form  |{{{form|}}} }}/{{{2}}} }}
+  |11|Nov|November  ={{MediaWiki:November{{I18n month/form |{{{form|}}} }}/{{{2}}} }}
+  |12|Dec|December  ={{MediaWiki:December{{I18n month/form |{{{form|}}} }}/{{{2}}} }}
+  |#default         ={{MediaWiki:exif-unknowndate/{{{2}}} }}
+ }}
+| {{#switch: {{ucfirst:{{{1|}}}}} <!-- use language of the user -->
+  |{{ns:0}}         =<!-- Empty, return nothing at all -->
+  | 1|Jan|January   ={{int:January{{I18n month/form  |{{{form|}}} }} }}
+  | 2|Feb|February  ={{int:February{{I18n month/form |{{{form|}}} }} }}
+  | 3|Mar|March     ={{int:March{{I18n month/form    |{{{form|}}} }} }}
+  | 4|Apr|April     ={{int:April{{I18n month/form    |{{{form|}}} }} }}
+  | 5|May           ={{int:May{{I18n month/form      |{{{form|}}}|1}} }}
+  | 6|Jun|June      ={{int:June{{I18n month/form     |{{{form|}}} }} }}
+  | 7|Jul|July      ={{int:July{{I18n month/form     |{{{form|}}} }} }}
+  | 8|Aug|August    ={{int:August{{I18n month/form   |{{{form|}}} }} }}
+  | 9|Sep|September ={{int:September{{I18n month/form|{{{form|}}} }} }}
+  |10|Oct|October   ={{int:October{{I18n month/form  |{{{form|}}} }} }}
+  |11|Nov|November  ={{int:November{{I18n month/form |{{{form|}}} }} }}
+  |12|Dec|December  ={{int:December{{I18n month/form |{{{form|}}} }} }}
+  |#default         ={{int:exif-unknowndate}}
+ }}
+}}<noinclude>
+
+{{documentation}}
+
+</noinclude>
