@@ -1,0 +1,3 @@
+{{#ifeq:{{SUBPAGENAME}}|{{{3}}}-{{{4}}}-{{{5}}} ({{{2}}})|{{Pdh|1={{{1}}}|2={{{2}}}|3={{{3}}}|4={{{4}}}|5={{{5}}}}}|{{{1|}}}}}<noinclude>
+
+[[Category:Potd templates|Description]]</noinclude>
