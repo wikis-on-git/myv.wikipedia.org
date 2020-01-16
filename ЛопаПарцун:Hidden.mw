@@ -1,0 +1,37 @@
+<includeonly><div class="NavFrame noprint" style="clear:both; margin-top:0em;"><!--
+-->{{#if:{{{неявкс|}}}|<div class="NavPic" style="background: none; float: left; margin-right: 5px; margin-top: 1.8em;">{{{неявкс}}}</div>}}<!--
+-->{{#if:{{{неявкс2|}}}|<div class="NavPic" style="background: none; float: right; margin-left: 5px; margin-top:1.8em;">{{{неявкс2}}}</div>}}
+<div class="NavHead" style="background:{{{тюс|#ccccff}}};font-weight:normal"><span style="font-weight:bold"><center>{{{лем}}}</center></span>
+</div>
+<div class="NavContent" style="font-size:95%;">
+<center>{{{текст}}}</center>
+</div>
+<div class="NavEnd">&nbsp;</div>
+</div></includeonly><noinclude>
+
+<nowiki>{{Hidden</nowiki><br />
+<nowiki>|тюс = yellow</nowiki><br />
+<nowiki>|неявкс=[[Image:Sun01.svg|40px]]</nowiki><br />
+<nowiki>|неявкс2=[[Image:Rain01.svg|40px]]</nowiki><br />
+<nowiki>|лем= [[Абвгд]] <!-- заглавие --></nowiki><br />
+<nowiki>|текст= <!-- содержание --></nowiki><br />
+<nowiki>[[Ааааааа]] {{!}} [[Ббббббб]] {{!}} [[Вввввввв]] {{!}} [[Ггггггггггг]] {{!}} [[Ддддддд]]</nowiki><br />
+<nowiki>}}</nowiki>
+
+Получается вот что:
+
+{{Hidden
+|тюс = yellow
+|неявкс=[[Image:Sun01.svg|40px]]
+|неявкс2=[[Image:Rain01.svg|40px]]
+|лем= [[Абвгд]] <!-- заглавие -->
+|текст= <!-- содержание -->
+[[Ааааааа]] {{!}} [[Ббббббб]] {{!}} [[Вввввввв]] {{!}} [[Ггггггггггг]] {{!}} [[Ддддддд]]
+}}
+
+[[Category:Шаблонт]]
+
+[[de:Vorlage:Navigationsleiste]]
+[[ru:Шаблон:Навигационная полоса]]
+[[uk:Шаблон:Навігаційна смуга]]
+</noinclude>
