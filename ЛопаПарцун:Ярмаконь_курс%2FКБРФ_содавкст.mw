@@ -1,49 +1,49 @@
 <noinclude>
 <!--
-Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=11.03.2020.
+Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=12.03.2020.
 Пожалуйста не модифицируйте её вручную, ваши изменения будут затёрты при очередном обновлении.
 
-This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=11.03.2020.
+This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=12.03.2020.
 Please do not modify this page. Your changes will be overwritten by bot during the next update.
 -->
 {{doc}}
 
 </noinclude>
 {{#switch: {{{1}}}
-  | Date = 2020-03-11
-  | AMD = 0.15
-  | AUD = 47
+  | Date = 2020-03-12
+  | AMD = 0.14
+  | AUD = 46
   | AZN = 42
   | BGN = 41
   | BRL = 15
-  | BYN = 31
+  | BYN = 30
   | CAD = 52
-  | CHF = 77
+  | CHF = 76
   | CNY = 10
-  | CZK = 3.2
+  | CZK = 3.1
   | DKK = 10
   | EUR = 81
-  | GBP = 94
+  | GBP = 92
   | HKD = 9.2
   | HUF = 0.24
   | INR = 0.97
-  | JPY = 0.69
+  | JPY = 0.68
   | KGS = 1
-  | KRW = 0.06
+  | KRW = 0.059
   | KZT = 0.18
   | MDL = 4.1
-  | NOK = 7.5
+  | NOK = 7.4
   | PLN = 18
-  | RON = 17
+  | RON = 16
   | RUB = 1
-  | SEK = 7.6
+  | SEK = 7.5
   | SGD = 51
-  | TJS = 7.4
+  | TJS = 7.3
   | TMT = 20
   | TRY = 11
-  | UAH = 2.8
-  | USD = 72
+  | UAH = 2.7
+  | USD = 71
   | UZS = 0.0075
-  | XDR = 100
-  | ZAR = 4.5
+  | XDR = 99
+  | ZAR = 4.4
 }}
