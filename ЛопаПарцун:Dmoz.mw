@@ -1,0 +1,5 @@
+* {{#switch: {{{3|}}}
+|#default=[http://curlie.org/{{{1|{{PAGENAME}}}}} {{{2|{{PAGENAME}}}}}] в каталоге ссылок [[Open Directory Project]] (dmoz)
+|user=[http://curlie.org/public/profile?editor={{{1}}} {{{2|{{PAGENAME}}}}}] в [[Curlie]]}}<noinclude>
+{{doc}}
+</noinclude>
