@@ -1,0 +1,111 @@
+{{docpage}}
+
+Данный шаблон служит для оформления ссылки на аудиофайл. Он предназначен для звуковых отрывков, оторванных от текста, таких как отрывки музыкальных произведений.
+
+== Использование ==
+{{col-begin}}
+{{col-2}}
+<source lang="text">
+{{Listen
+| Имя_файла = 
+| Название = 
+| Описание = 
+| float =
+}}
+</source>
+{{col-2}}
+<source lang="text">
+{{Listen 
+| Имя_файла = Russian Anthem chorus.ogg
+| Название = Гимн России
+| Описание = [[Гимн России]]
+}}
+</source>
+{{col-end}}
+Здесь параметр <code>float=</code> задаёт расположение шаблона относительно текста.
+{{Listen 
+| Имя_файла = Russian Anthem chorus.ogg
+| Название = Гимн России слева
+| Описание = [[Гимн России]]
+| float = left
+}}
+Если параметр имеет значение left (<code>float=left</code>), то шаблон располагается слева от текста.
+{{-}}
+{{Listen 
+| Имя_файла = Russian Anthem chorus.ogg
+| Название = Гимн России справа
+| Описание = [[Гимн России]]
+| float = right
+}}
+Если параметр имеет значение right (<code>float=right</code>), то шаблон располагается справа от текста.
+{{-}}
+Если параметр не задан, то подразумевается <code>float=right</code>. При любом другом значении (например, <code>float=none</code>) шаблон располагается посередине текста как обычный абзац:
+{{Listen 
+| Имя_файла = Russian Anthem chorus.ogg
+| Название = Гимн России как часть текста
+| Описание = [[Гимн России]]
+| float = none
+}}
+
+== См. также ==
+* {{tl|Audio}} — вариант шаблона, предназначенный для употребления в тексте, например, для примера произношения.
+* {{tl|Listen2}} — вариант шаблона с возможностью регулировать ширину шаблона.
+
+<includeonly>
+[[Категория:Шаблоны:Аудио]]
+
+[[ar:قالب:استمع]]
+[[be:Шаблон:Listen]]
+[[be-x-old:Шаблён:Слухаць]]
+[[bg:Шаблон:Прослушване]]
+[[bn:টেমপ্লেট:Listen]]
+[[br:Patrom:Selaou]]
+[[bs:Šablon:Slušajte]]
+[[ca:Plantilla:Escoltar]]
+[[cs:Šablona:Poslech]]
+[[cv:Шаблон:Listen]]
+[[cy:Nodyn:Listen]]
+[[da:Skabelon:Lyt]]
+[[de:Vorlage:Bild mit Audio]]
+[[en:Template:Listen]]
+[[eo:Ŝablono:Aŭskultu]]
+[[es:Plantilla:Multimedia]]
+[[et:Mall:Heli]]
+[[fa:الگو:شنیدن]]
+[[fi:Malline:Kuuntele]]
+[[fr:Modèle:Son]]
+[[gu:ઢાંચો:Listen]]
+[[gv:Clowan:Eaisht]]
+[[hsb:Předłoha:Posłuchaj]]
+[[hu:Sablon:Hallgat]]
+[[hy:Կաղապար:Audio]]
+[[id:Templat:Dengar]]
+[[it:Template:Multimedia]]
+[[ja:Template:試聴]]
+[[ka:თარგი:მოსმენა]]
+[[kk:Үлгі:Listen]]
+[[ko:틀:듣기]]
+[[la:Formula:Audire]]
+[[lv:Veidne:Listen]]
+[[map-bms:Cithakan:Rungokna]]
+[[mk:Шаблон:Преслушување]]
+[[mr:साचा:ऐका]]
+[[ms:Templat:Listen/doc]]
+[[mwl:Modelo:Oube]]
+[[nl:Sjabloon:Luister]]
+[[no:Mal:Lytte]]
+[[pl:Szablon:Listen]]
+[[pt:Predefinição:Escute]]
+[[rue:Шаблона:Слуханя]]
+[[simple:Template:Listen]]
+[[sk:Šablóna:Počúvaj]]
+[[sl:Predloga:Poslušaj]]
+[[sr:Шаблон:Slušajte]]
+[[sv:Mall:Lyssna]]
+[[ta:வார்ப்புரு:Listen]]
+[[tr:Şablon:Dinle]]
+[[uk:Шаблон:Звук]]
+[[vi:Bản mẫu:Nghe nhìn]]
+[[zh:Template:Listen]]
+[[zh-min-nan:Template:Listen]]
+</includeonly>
