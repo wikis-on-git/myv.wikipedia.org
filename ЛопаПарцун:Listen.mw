@@ -1,11 +1,11 @@
 <includeonly>{| style="{{#ifeq:{{{простой|}}}|да|border:none; background:transparent; float:none;|width:250px; font-size:90%; border:1px solid #aaa; background-color:#f9f9f9;}}<!--
 -->{{#ifeq: {{#if: {{{float|}}}{{{pos|}}}|{{{float|}}}{{{pos|}}}|right}}|right|{{float right}}}}<!--
 -->{{#ifeq: {{{float|}}}{{{pos|}}}|left|{{float left}}}}"
-{{#ifeq:{{{простой|}}}|да||{{!}} rowspan="3" style="width:40px; padding-right:3px; padding-top:4px; vertical-align:middle" {{!}} [[Файл:Gnome-speakernotes.svg{{!}}50px{{!}}center{{!}}link=Википедия:Помощь с медиафайлами{{!}}(аудио)]]
+{{#ifeq:{{{простой|}}}|да||{{!}} rowspan="3" style="width:40px; padding-right:3px; padding-top:4px; vertical-align:middle" {{!}} [[Артовкс:Gnome-speakernotes.svg{{!}}50px{{!}}center{{!}}link=Википедия:Помощь с медиафайлами{{!}}(аудио)]]
 {{!}}-}}
-| align={{{pos|{{{выравнивание|left}}}}}}| [[:Файл:{{{filename|{{{Имя_файла}}}}}}|{{{title|{{{Название}}}}}}]]
+| align={{{pos|{{{выравнивание|left}}}}}}| [[:Артовкс:{{{filename|{{{Имя_файла}}}}}}|{{{title|{{{Название}}}}}}]]
 |-
-| align={{{pos|{{{выравнивание|left}}}}}}| [[Файл:{{{filename|{{{Имя_файла}}}}}}|{{{pos|{{{выравнивание|left}}}}}}|180px|noicon]] {{{description|{{{Описание|}}}}}}
+| align={{{pos|{{{выравнивание|left}}}}}}| [[Артовкс:{{{filename|{{{Имя_файла}}}}}}|{{{pos|{{{выравнивание|left}}}}}}|180px|noicon]] {{{description|{{{Описание|}}}}}}
 {{#ifeq:{{{простой|}}}|да||{{!}}-
 {{!}} colspan="2" style="font-style:italic; border-top:1px solid #aaa" {{!}} [[ВП:Помощь с медиафайлами{{!}}Помощь по воспроизведению]]}}
 |}</includeonly><noinclude>
