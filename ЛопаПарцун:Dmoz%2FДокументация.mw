@@ -1,0 +1,103 @@
+{{docpage}}
+== Назначение ==
+Ссылки на соответствующие статьям разделы [[Open Directory Project]].
+
+== Использование ==
+<nowiki>{{dmoz|Путь/к/разделу/|Название раздела}}</nowiki>
+
+И первый, «Путь/к/разделу/», и второй, «Название раздела», атрибуты не обязательны. При отсутствии первого атрибута, вместо ссылки на конкретный раздел, генерируется ссылка на результаты поиска в [[DMOZ]] второго атрибута. При отсутствии второго атрибута, вместо него используется название страницы (статьи Википедии). Подробнее, что будет, если их опустить по отдельности или вместе, смотрите в примерах.
+
+=== Примеры ===
+==== Оба атрибута введены ====
+
+<nowiki>{{dmoz|World/Russian/Общество/|Общество}}</nowiki>
+
+<nowiki>{{dmoz|World/Russian/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE/|Общество}}</nowiki>
+
+даст:
+
+{{dmoz|World/Russian/Общество/|Общество}}
+
+{{dmoz|World/Russian/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE/|Общество}}
+
+
+
+==== Первый атрибут опущен ====
+
+<nowiki>{{dmoz||Общество}}</nowiki>
+
+даст:
+
+{{dmoz||Общество}}
+
+
+
+==== Второй атрибут опущен ====
+
+<nowiki>{{dmoz|World/Russian/Общество/}}</nowiki>
+
+<nowiki>{{dmoz|World/Russian/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE/}}</nowiki>
+
+даст:
+
+{{dmoz|World/Russian/Общество/}}
+
+{{dmoz|World/Russian/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE/}}
+
+
+
+==== Оба атрибута опущены ====
+
+<nowiki>{{dmoz|}}</nowiki>
+
+даст:
+
+{{dmoz|}}
+
+
+[[Категория:Шаблоны:Внешние ссылки|Dmoz]]
+
+[[ar:قالب:مشروع الدليل المفتوح]]
+[[bar:Vorlage:Dmoz]]
+[[be:Шаблон:Dmoz]]
+[[bg:Шаблон:Dmoz]]
+[[ca:Plantilla:Dmoz]]
+[[da:Skabelon:Dmoz]]
+[[de:Vorlage:Dmoz]]
+[[en:Template:Dmoz]]
+[[eo:Ŝablono:Dmoz]]
+[[es:Plantilla:Dmoz]]
+[[fr:Modèle:Dmoz]]
+[[hi:साँचा:Dmoz]]
+[[hif:Template:Dmoz]]
+[[hr:Predložak:Dmoz]]
+[[id:Templat:Dmoz]]
+[[is:Snið:Dmoz]]
+[[it:Template:Dmoz]]
+[[ja:Template:Dmoz]]
+[[kn:ಟೆಂಪ್ಲೇಟು:Dmoz]]
+[[ko:틀:Dmoz]]
+[[ksh:Schablon:Dmoz]]
+[[lo:ແມ່ແບບ:Dmoz]]
+[[mk:Шаблон:ODP]]
+[[ml:ഫലകം:Dmoz]]
+[[mn:Загвар:Dmoz]]
+[[ms:Templat:Dmoz]]
+[[no:Mal:Dmoz]]
+[[or:ଛାଞ୍ଚ:Dmoz]]
+[[pl:Szablon:Open Directory Project]]
+[[pt:Predefinição:Dmoz]]
+[[roa-tara:Template:Dmoz]]
+[[simple:Template:Dmoz]]
+[[sl:Predloga:Dmoz]]
+[[sq:Stampa:Dmoz]]
+[[su:Citakan:Dmoz]]
+[[sv:Mall:Dmoz]]
+[[th:แม่แบบ:Dmoz]]
+[[tr:Şablon:DMOZ]]
+[[tt:Калып:Dmoz]]
+[[uk:Шаблон:Dmoz]]
+[[vec:Modèl:Dmoz]]
+[[vi:Bản mẫu:Dmoz]]
+[[zh:Template:Dmoz]]
+</includeonly>
