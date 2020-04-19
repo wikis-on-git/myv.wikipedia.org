@@ -34,9 +34,9 @@
       | , стр.&nbsp;{{{page}}}
     }}
   }}.{{#if: {{{archivedate|}}}
-  | &#32;{{архивировано|{{{archiveurl}}}|{{{archivedate}}}}}
+  | &#32;{{архив нолдазь|{{{archiveurl}}}|{{{archivedate}}}}}
 }}{{#if: {{{accessdate|}}}
-  | &#32;<small>Проверено {{#iferror: {{#time: j xg Y | {{{accessdate}}} }} | {{{accessdate}}} }}.</small>
+  | &#32;<small>Ваннозь {{#iferror: {{#time: j xg Y | {{{accessdate}}} }} | {{{accessdate}}} }}.</small>
 }}{{ #if: {{{quote|}}}
     | &nbsp;«{{{quote}}}».
   }}
