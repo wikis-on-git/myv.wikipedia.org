@@ -146,7 +146,7 @@
 <th style="{{#if:{{{wikispecies|}}}||display:none;}}background:{{Taxobox color|regnum={{{regnum}}}}};">
 [[Image:Wikispecies-logo.svg|17px]]<br>[{{fullurl:wikispecies:{{{wikispecies}}}|uselang=ru}} Систематикась<br> Викилувтнесэ]
 </th><th style="{{#if:{{{commons|}}}||display:none;}}background:{{Taxobox color|regnum={{{regnum}}}}};">
-[[Image:Commons-logo.svg|15px]]<br>[{{fullurl:commons:{{{commons}}}|uselang=ru}} Артовкст<br>Википурнавкссо]
+[[Image:Commons-logo.svg|15px]]<br>[{{fullurl:commons:{{{commons}}}|uselang=ru}} Артовкст<br>Викиутомсо]
 <!-- {{#if: {{{image file|}}}|{{#if: {{{commons|}}}||{{категория только в статьях|Статьи об организмах без иллюстраций на Викискладе}}}}|{{категория только в статьях|Статьи об организмах без иллюстраций}}}} -->
 </th><th style="{{#if: {{{itis|}}}{{{ncbi|}}}||display:none}};background:{{Taxobox color|regnum={{{regnum}}}}}"><table width=100% cellspacing=0 cellpadding=0 style="background:{{Taxobox color|regnum={{{regnum}}}}}">
 {{#if:{{{itis|}}}|{{Taxobox itis|1{{=}}{{{itis}}} }} }}
