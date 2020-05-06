@@ -1,0 +1,14 @@
+{{{{{|safesubst:}}}#ifeq: {{{{{|safesubst:}}}#invoke: String | find
+  | source = {{{1|}}}
+  | target = ^[0-9 ]+$  <!-- Только цифры и пробелы -->
+  | plain  = false
+  }}
+| 0
+| {{{{{|safesubst:}}}#invoke: String | replace
+  | source  = {{{1|}}}
+  | pattern = ( [0-9]+)(%.-)$
+  | replace = %1 года{{{{{|safesubst:}}}#switch: {{{2|}}} | * = %2 }}
+  | plain   = false
+  }}
+| {{{1|}}} год
+}}<noinclude>{{doc}}</noinclude>
