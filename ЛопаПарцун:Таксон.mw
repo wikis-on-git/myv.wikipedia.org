@@ -13,13 +13,13 @@
 |стиль_подписи     = 
 |стиль_заголовков  = background:{{Таксон/Тюс|regnum={{{regnum}}} }};font-size:110%;
 |стиль_текста      = font-size:110%;
-|заголовок1  = Наукань лем{{#if: {{{ref|}}}|{{#tag:ref|{{{ref|}}} }} }}
+|заголовок1  = Тонань лем{{#if: {{{ref|}}}|{{#tag:ref|{{{ref|}}} }} }}
 |latin       = {{wikidata|p225|{{{latin|}}}|plain=true}}
 |parent      = {{{parent|}}}
 |name        = {{#if: {{{name|}}}|{{{name|}}}|{{#switch:{{PAGENAME}}|{{wikidata|p225|{{{latin|}}}|plain=true}}|{{{wikispecies|}}}|{{{commons|}}} = {{#invoke:Taxonomy/latin|latin|{{{latin}}}}}|{{PAGENAME}}}} }}
 |rang        = {{{rang|}}}
 |Кулозь       = {{{Кулозь|}}}
-|заголовок3  = Омбомасторонь наукань лем
+|заголовок3  = Омбомасторонь тонань лем
 |текст4      = {{#if:{{{latin|}}}|{{#invoke:Taxonomy/latin|latin|{{{latin}}}}}{{bt-aut|{{#invoke:Taxonomy/latin|author|{{{author|}}}}}}}|{{if-wikidata|p225||{{wikidata|p225}}|<div style{{eq}}"background-color:Gainsboro;font-size:85%;color:Dimgray">СООБЩЕНИЕ ОБ ОШИБКЕ<br />Не заполнен параметр '''<big>latin</big>'''</div>}}}}
 |заголовок5  = {{#if: {{{syn|}}}|[[Синоним (таксономия)|Синонимы]]|}}
 |текст6      = {{#if: {{{syn|}}}|<div align=left>
