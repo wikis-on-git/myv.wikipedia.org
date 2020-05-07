@@ -1,0 +1,119 @@
+{| class="simple" border="1" style="{{float right}} width: 300px; "
+!colspan="2" style="background-color:{{Кель/familycolor|{{{чачо|}}}}}"| {{{лем|}}} 
+|-
+{{#if: {{{эсьлем|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9;"|
+    | attributes2=style="background-color:white"|
+    | data1 = Эсьлем: 
+    | data2 = {{{эсьлем}}} }} }} 
+|-
+{{#if: {{{ёвтавома|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9;"|
+    | attributes2=style="background-color:white"|
+    | data1 = [[Раскеютконь гайгема ловнома тешкскерькс|Ёвтавома]]: 
+    | data2 = {{{ёвтавома}}} }} }} 
+|-
+|align="right" style="vertical-align:top; background-color:#f9f9f9;"|Масторт:
+|style="background-color:white;"|{{{масторт|—}}}
+|-
+{{#if: {{{ёнкст|}}}
+ | {{2 cell table row
+    | row attributes=border=1 
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = Ёнкст: 
+    | data2 = {{{ёнкст}}} }} }} 
+|-
+{{#if: {{{эсьлемпелень аштемкс|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = Эсьлемпелень аштемкс: 
+    | data2 = {{{эсьлемпелень аштемкс}}} }} }} 
+|-
+{{#if: {{{вети тевкурось|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = Вети тевкурось: 
+    | data2 = {{{вети тевкурось}}} }} }} 
+|-
+{{#if: {{{Келень содыцятнень ламоксчись|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = Весе кортыцятнеде: 
+    | data2 = {{{Келень содыцятнень ламоксчись}}} }} }} 
+|-
+{{#if: {{{рейтинг|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = [[Список языков, сортировка по численности говорящих|Рейтинг]]: 
+    | data2 = {{{рейтинг}}} }} }} 
+|-
+{{#if: {{{аштемкс|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = [[Келень ванстомачинь аштевксэсь|Аштемкс]]: 
+    | data2 = {{{аштемкс}}} }} }} 
+|-
+{{#if: {{{кулось|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = [[кулозь кель|Кулось]]: 
+    | data2 = {{{кулось}}} }} }} 
+|-
+!colspan="2" style="background-color:{{Кель/familycolor|{{{чачо|}}}}}"|[[Генэнь коряс келень аравксось]]
+|-
+|align="right" style="vertical-align:top; background-color:#f9f9f9"|[[Модамасторонь кельтне|Категория]]:
+|style="background-color:white"|{{{категория|???}}}
+|-
+|colspan="2" style="background-color:white"|{{{классификация|—}}}
+|-
+{{#if: {{{Сёрмадомачись|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = [[Сёрмадомачись|Сёрмадомачись]]: 
+    | data2 = {{{Сёрмадомачись}}} }} }}
+|-
+!colspan="2" style="background-color:{{Кель/familycolor|{{{чачо|}}}}}"|Келень тешксавкстнэ
+|-
+{{#if: {{{ГОСТ 7.75–97|}}}
+ | {{2 cell table row
+    | row attributes=border=1
+    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
+    | attributes2=style="background-color:white"
+    | data1 = [[ГОСТ 7.75–97]]: 
+    | data2 = {{{ ГОСТ 7.75–97}}} }} }} 
+|-
+|align="right" style="vertical-align:top; background-color:#f9f9f9"|[[ISO 639-1]]:
+|style="background-color:white"|{{{ISO1|—}}}
+|-
+|align="right" style="vertical-align:top; background-color:#f9f9f9"|[[ISO 639-2]]:
+|style="background-color:white"|{{{ISO2|—}}}
+|-
+|align="right" style="vertical-align:top; background-color:#f9f9f9"|[[ISO/DIS 639-3]]:
+|style="background-color:white"|{{{ISO3|—}}}
+
+|}
+<noinclude>
+[[Категория:Шаблонт]]
+</noinclude>
+<noinclude>
+{{doc}}
+</noinclude>
