@@ -1,0 +1,73 @@
+.ts-doc-doc {
+	background-color: #eaf3ff;
+	border: 1px solid #a3caff;
+	margin-top: 1em;
+}
+
+.ts-doc-header {
+	background-color: #c2dcff;
+	padding: .642857em 1em .5em;
+	overflow: hidden;
+}
+
+.ts-doc-header .ts-tlinks-tlinks {
+	line-height: 24px;
+}
+
+.ts-doc-header .ts-tlinks-tlinks a.external {
+	color: #0645ad;
+}
+
+.ts-doc-header .ts-tlinks-tlinks a.external:visited {
+	color: #0b0080;
+}
+
+.ts-doc-header .ts-tlinks-tlinks a.external:active {
+	color: #faa700;
+}
+
+.ts-doc-content {
+	padding: .214286em 1em;
+}
+
+.ts-doc-content:after {
+	content: '';
+	clear: both;
+	display: block;
+}
+
+.ts-doc-heading {
+	display: inline-block;
+	padding-left: 30px;
+	background: url(//upload.wikimedia.org/wikipedia/commons/c/ca/OOjs_UI_icon_info.svg) center left/24px 24px no-repeat;
+	height: 24px;
+	line-height: 24px;
+	font-size: 13px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.ts-doc-content > *:first-child,
+.ts-doc-footer > *:first-child {
+	margin-top: .5em;
+}
+
+.ts-doc-content > *:last-child,
+.ts-doc-footer > *:last-child {
+	margin-bottom: .5em;
+}
+
+.ts-doc-footer {
+	background-color: #eaf3ff;
+	border: 1px solid #a3caff;
+	padding: .214286em 1em;
+	margin-top: .214286em;
+	font-style: italic;
+}
+
+@media (max-width: 719px) {
+	.ts-doc-header .ts-tlinks-tlinks {
+		float: none;
+	}
+}
