@@ -58,7 +58,7 @@
 
 Отрисовка ссылок Wikispecies 
 
---><td style="vertical-align:middle">{{#if: {{{wikispecies|}}}|[[Артовкс:Wikispecies-logo.svg|17px|link={{fullurl:wikispecies:{{{wikispecies|}}}|uselang=ru}}]]<br />[{{fullurl:wikispecies:{{{wikispecies}}}|uselang=ru}} Систематика<br />на Викивидах]|}}</td><!-- 
+--><td style="vertical-align:middle">{{#if: {{{wikispecies|}}}|[[Артовкс:Wikispecies-logo.svg|17px|link={{fullurl:wikispecies:{{{wikispecies|}}}|uselang=ru}}]]<br />[{{fullurl:wikispecies:{{{wikispecies}}}|uselang=ru}} Систематикась<br />Викилувтнесэ]|}}</td><!-- 
 
 Отрисовка ссылок Commons 
 
