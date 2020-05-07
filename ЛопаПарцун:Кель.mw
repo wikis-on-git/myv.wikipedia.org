@@ -1,119 +1,124 @@
-{| class="simple" border="1" style="{{float right}} width: 300px; "
-!colspan="2" style="background-color:{{Кель/familycolor|{{{чачо|}}}}}"| {{{лем|}}} 
-|-
-{{#if: {{{эсьлем|}}}
- | {{2 cell table row
-    | row attributes=border=1
-    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9;"|
-    | attributes2=style="background-color:white"|
-    | data1 = Эсьлем: 
-    | data2 = {{{эсьлем}}} }} }} 
-|-
-{{#if: {{{ёвтавома|}}}
- | {{2 cell table row
-    | row attributes=border=1
-    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9;"|
-    | attributes2=style="background-color:white"|
-    | data1 = [[Раскеютконь гайгема ловнома тешкскерькс|Ёвтавома]]: 
-    | data2 = {{{ёвтавома}}} }} }} 
-|-
-|align="right" style="vertical-align:top; background-color:#f9f9f9;"|Масторт:
-|style="background-color:white;"|{{{масторт|—}}}
-|-
-{{#if: {{{ёнкст|}}}
- | {{2 cell table row
-    | row attributes=border=1 
-    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
-    | attributes2=style="background-color:white"
-    | data1 = Ёнкст: 
-    | data2 = {{{ёнкст}}} }} }} 
-|-
-{{#if: {{{эсьлемпелень аштемкс|}}}
- | {{2 cell table row
-    | row attributes=border=1
-    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
-    | attributes2=style="background-color:white"
-    | data1 = Эсьлемпелень аштемкс: 
-    | data2 = {{{эсьлемпелень аштемкс}}} }} }} 
-|-
-{{#if: {{{вети тевкурось|}}}
- | {{2 cell table row
-    | row attributes=border=1
-    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
-    | attributes2=style="background-color:white"
-    | data1 = Вети тевкурось: 
-    | data2 = {{{вети тевкурось}}} }} }} 
-|-
-{{#if: {{{Келень содыцятнень ламоксчись|}}}
- | {{2 cell table row
-    | row attributes=border=1
-    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
-    | attributes2=style="background-color:white"
-    | data1 = Весе кортыцятнеде: 
-    | data2 = {{{Келень содыцятнень ламоксчись}}} }} }} 
-|-
-{{#if: {{{рейтинг|}}}
- | {{2 cell table row
-    | row attributes=border=1
-    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
-    | attributes2=style="background-color:white"
-    | data1 = [[Список языков, сортировка по численности говорящих|Рейтинг]]: 
-    | data2 = {{{рейтинг}}} }} }} 
-|-
-{{#if: {{{аштемкс|}}}
- | {{2 cell table row
-    | row attributes=border=1
-    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
-    | attributes2=style="background-color:white"
-    | data1 = [[Келень ванстомачинь аштевксэсь|Аштемкс]]: 
-    | data2 = {{{аштемкс}}} }} }} 
-|-
-{{#if: {{{кулось|}}}
- | {{2 cell table row
-    | row attributes=border=1
-    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
-    | attributes2=style="background-color:white"
-    | data1 = [[кулозь кель|Кулось]]: 
-    | data2 = {{{кулось}}} }} }} 
-|-
-!colspan="2" style="background-color:{{Кель/familycolor|{{{чачо|}}}}}"|[[Генэнь коряс келень аравксось]]
-|-
-|align="right" style="vertical-align:top; background-color:#f9f9f9"|[[Модамасторонь кельтне|Категория]]:
-|style="background-color:white"|{{{категория|???}}}
-|-
-|colspan="2" style="background-color:white"|{{{классификация|—}}}
-|-
-{{#if: {{{Сёрмадомачись|}}}
- | {{2 cell table row
-    | row attributes=border=1
-    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
-    | attributes2=style="background-color:white"
-    | data1 = [[Сёрмадомачись|Сёрмадомачись]]: 
-    | data2 = {{{Сёрмадомачись}}} }} }}
-|-
-!colspan="2" style="background-color:{{Кель/familycolor|{{{чачо|}}}}}"|Келень тешксавкстнэ
-|-
-{{#if: {{{ГОСТ 7.75–97|}}}
- | {{2 cell table row
-    | row attributes=border=1
-    | attributes1=align="right" style="vertical-align:top; background-color:#f9f9f9"
-    | attributes2=style="background-color:white"
-    | data1 = [[ГОСТ 7.75–97]]: 
-    | data2 = {{{ ГОСТ 7.75–97}}} }} }} 
-|-
-|align="right" style="vertical-align:top; background-color:#f9f9f9"|[[ISO 639-1]]:
-|style="background-color:white"|{{{ISO1|—}}}
-|-
-|align="right" style="vertical-align:top; background-color:#f9f9f9"|[[ISO 639-2]]:
-|style="background-color:white"|{{{ISO2|—}}}
-|-
-|align="right" style="vertical-align:top; background-color:#f9f9f9"|[[ISO/DIS 639-3]]:
-|style="background-color:white"|{{{ISO3|—}}}
+{{Карточка
+|имя              = Кель
 
-|}
-<noinclude>
-[[Категория:Шаблонт]]
-</noinclude>
-<noinclude>
+|стиль_вверху     = background:#cfe3ff;
+|стиль_заголовков = background:#dcebff;
+|стиль_внизу      = background:#dcebff;
+
+|вверху           = {{карточка/лем|{{{лем|}}}}}
+
+|метка1           = Эсьлем
+|текст1           = {{wikidata|P1705|{{{эсьлем|}}}|monolingualLangTemplate=-}}
+
+|метка2           = Масторт
+|текст2           = {{{масторт|}}}
+|викиданные2      = P17
+
+|метка3           = Ёнкст
+|текст3           = {{{ёнкст|}}}
+|викиданные3      = P131
+
+|метка4           = Эпоха
+|текст4           = {{{эпоха|}}}
+
+|метка5           = Официальной статус
+|текст5           = {{{официальной кель|}}}
+
+|метка6           = вети тевкурось
+|текст6           = {{{вети тевкурось|}}}
+|викиданные6      = P1018
+
+|метка7           = Келень содыцятнень ламоксчись
+|текст7           = {{{Келень содыцятнень ламоксчись|}}}
+|викиданные7      = P1098
+
+|метка8           = [[Список языков по количеству носителей|Рейтинг]]
+|текст8           = {{{рейтинг|}}}
+
+|метка9           = [[Келень ванстомачинь аштевксэсь|Статус]]
+|текст9           = {{{статус|}}}
+|викиданные9      = P1999
+
+|метка10           = [[кулозь кель|Кулось]]
+|текст10           = {{{кулось|}}}
+|викиданные10      = P576
+
+|заголовок11      = [[Генэнь коряс келень аравксось|Классификация]]
+
+|метка12          = [[Модамасторонь кельтне|Категория]]
+|текст12          = {{{категория|}}}
+
+|текст13          = {{#if:{{{классификация|}}}|{{{классификация|}}}|{{#invoke:WikidataTree|parentTree|parent=p279[!q20162172][!q34770]|tab=:}}}}
+|стиль_текста13   = text-align:left;
+|класс13          = noplainlist
+
+|метка14          = [[Сёрмадомачись|Сёрмадомачись]]
+|текст14          = {{wikidata|p282|{{{сёрмадома|}}}}}{{#ifeq:{{{сёрмадома|}}}|сёрмадомачивтеме|<includeonly>{{#if:{{NAMESPACE}}||
+[[Категория:Сёрмадомачивтеме кельть]]}}</includeonly>}}
+
+|заголовок15      = {{if-wikidata|p220|{{{ISO3|}}}|[[Келень кодт]]}}
+
+|метка16          = [[Келень кодт#ГОСТ 7.75-97|ГОСТ 7.75–97]]
+|текст16          = {{wikidata|p278|{{{ГОСТ 7.75–97|{{{ГОСТ 7.75-97|}}}}}}|novalue=—}}
+
+|метка17          = [[ISO 639#Альфа-2|ISO 639-1]]
+|текст17          = {{if-wikidata|p220|{{{ISO3|}}}|{{if-wikidata|p218|{{{ISO1|}}}|{{wikidata|p218|{{{ISO1|}}}|novalue=—}}|—|novalue=—}}|novalue=—}}
+
+|метка18          = [[ISO 639#Альфа-3|ISO 639-2]]
+|текст18          = {{if-wikidata|p220|{{{ISO3|}}}|{{if-wikidata|p219|{{{ISO2|}}}|{{wikidata|p219|{{{ISO2|}}}|novalue=—}}|—|novalue=—}}|novalue=—}}
+
+|метка19          = [[ISO 639#Альфа-3|ISO 639-3]]
+|текст19          = {{if-wikidata|p220|{{{ISO3|}}}|{{wikidata|p220|{{{ISO3|}}}|novalue=—}}|novalue=—}}
+
+|метка20          = ISO 639-5
+|викиданные20     = P1798
+
+|метка21          = ISO 639-6
+|викиданные21     = P221
+
+|метка22          = [[Всемирный атлас языковых структур|WALS]]
+|викиданные22     = P1466
+
+|метка23          = [[Атлас языков мира, находящихся под угрозой исчезновения|Atlas of the World’s Languages in Danger]]
+|викиданные23     = P2355
+
+|метка24          = [[Ethnologue.com|Ethnologue]]
+|викиданные24     = P1627
+
+|метка25          = Linguasphere
+|викиданные25     = P1396
+
+|метка26          = [[LINGUIST List]]
+|викиданные26     = P1232
+
+|метка27          = Guthrie
+|викиданные27     = P2161
+
+|метка28          = ABS ASCL
+|викиданные28     = P1251
+
+|метка29          = AUSTLANG
+|викиданные29     = P1252
+
+|метка30          = Келень кодт {{abbr|BPS|Статистического управления Индонезии|0}}
+|викиданные30     = P2590
+
+|метка31          = ELCat
+|викиданные31     = P2192
+
+|метка32          = IETF
+|викиданные32     = P305
+
+|метка33          = Glottolog
+|викиданные33     = P1394
+
+|внизу            = {{#if:{{{nowp|}}}||{{if-wikidata|P424||[[Файл:Wikipedia-logo-v2.svg|18px|link={{wikidata|P424|plain=1}}:]] [[:{{wikidata|P424|plain=1}}:|Кельсэнть Википедиясь]] }}}}
+}}{{#if:{{{nocat|}}}{{NAMESPACE}}||<!--
+-->[[Категория:Кельть-диалектт ловнома тешкскерьксэнть коряс]]<!--
+-->{{#if:{{{ГОСТ 7.75–97|{{{ГОСТ 7.75-97|}}}}}}|{{#ifeq:{{#property:p278}}|{{{ГОСТ 7.75–97|{{{ГОСТ 7.75-97|}}}}}}||[[Категория:Языки с ошибкой в ГОСТ 7.75–97]]}}}}<!--
+-->{{#if:{{{ISO1|}}}|{{#ifeq:{{{ISO1|}}}|—||{{#ifeq:{{#property:p218}}|{{{ISO1}}}||[[Категория:Языки с ошибкой в ISO 639-1]]}}}}}}<!--
+-->{{#if:{{{ISO2|}}}|{{#ifeq:{{{ISO2|}}}|—||{{#ifeq:{{#property:p219}}|{{{ISO2}}}||[[Категория:Языки с ошибкой в ISO 639-2]]}}}}}}<!--
+-->{{#if:{{{ISO3|}}}|{{#ifeq:{{{ISO3|}}}|—||{{#ifeq:{{#property:p220}}|{{{ISO3}}}||[[Категория:Языки с ошибкой в ISO 639-3]]}}}}}}<!--
+-->}}<noinclude>
 {{doc}}
 </noinclude>
