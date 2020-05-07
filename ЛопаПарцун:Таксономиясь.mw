@@ -6,7 +6,7 @@
 --> </td>
     </tr>
     <tr>
-      <th style="background: {{Taxobox color|regnum={{{regnum}}}}};">[[Биологиянь систематикась|Наукань классификациязо]]</th>
+      <th style="background: {{Taxobox color|regnum={{{regnum}}}}};">[[Биологиянь систематикась|Тонань классификациязо]]</th>
     </tr>
     <tr>
       <td align="center">
@@ -169,7 +169,5 @@
 <noinclude>
 
 {{doc}}
-[[Category:Таксономиянь шаблонт]]
-
-
+[[Категория:Таксономиянь шаблонт]]
 </noinclude>
