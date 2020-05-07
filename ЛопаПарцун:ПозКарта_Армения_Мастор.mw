@@ -1,0 +1,14 @@
+{{#switch:{{{1}}}
+|name   = Армения Мастор
+|top    = 41.4
+|bottom = 38.8
+|left   = 43.4
+|right  = 46.7
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Armenia.png
+ |#default = Armenia location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Армения}}
+[[Категория:Шаблоны:Позиционные карты:Армения| ]]
+
+</noinclude>
