@@ -1,0 +1,30 @@
+<includeonly></div>
+</div><templatestyles src="Template:Doc/styles.css" />{{#ifexpr: {{NAMESPACENUMBER}} mod 2 = 1  <!-- Например, [[Обсуждение MediaWiki:Robots.txt]] -->
+| {{^|1em}}
+| <div class="ts-doc-footer plainlinks">
+{{#ifeq: {{str left|{{PAGENAME}}|9}} 
+  | Песочница 
+  |
+  | {{#ifeq: {{str rightc|{{PAGENAME}}|10}}
+    | /песочница
+    | 
+    | Во избежание поломок страниц, использующих этот {{#ifeq: {{NAMESPACE}}
+      | Модуль
+      | модуль
+      | шаблон
+      }}, экспериментируйте в {{#ifeq: {{NAMESPACE}}
+      | Модуль
+      | [[Модуль:Песочница|песочнице для модулей]]
+      | [[Википедия:Правка и тестирование шаблонов в песочнице|песочнице]] <small style="font-style:normal;">({{#ifexist: {{FULLPAGENAME}}/песочница
+        | [{{fullurl:{{FULLPAGENAME}}/песочница|action=edit}} редактировать] {{!}} [{{fullurl:Special:ComparePages|page1={{FULLPAGENAMEE}}&page2={{FULLPAGENAMEE}}/песочница}} разница]
+        | [{{fullurl:{{FULLPAGENAME}}/песочница|action=edit&preload=Шаблон:Doc/предзагрузка-песочница}} создать] {{!}} [{{fullurl:{{FULLPAGENAME}}/песочница|action=edit&preload=Шаблон:Doc/зеркало}} зеркало]
+        }})</small> или своём [[ВП:ЛП|личном пространстве]]
+      }}.<br>
+    }}
+  }}{{#ifexist: {{FULLPAGENAME}}/doc | Пожалуйста, добавляйте категории на подстраницу [[/doc]].&#32;}}[[Special:PrefixIndex/{{FULLPAGENAME}}/|Подстраницы этого {{#ifeq: {{NAMESPACE}}
+  | Модуль
+  | модуля
+  | шаблона
+  }}]].
+</div>
+}}</includeonly><noinclude>{{doc}}</noinclude>
