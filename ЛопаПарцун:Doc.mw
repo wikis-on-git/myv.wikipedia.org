@@ -1,7 +1,9 @@
-<noinclude>{{template navigation}}
-
+<includeonly>{{doc/begin|{{SUBJECTSPACE}}:{{PAGENAME:{{{1|{{SUBJECTPAGENAME}}/doc}}}}}|editsection={{{editsection|}}}}}
+{{#if:{{{1|}}}|{{#ifexist:{{{1}}}|{{{{{1}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}}}|{{#ifexist:{{SUBJECTSPACE}}:{{{1}}}|{{{{{1}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}}}|{{Документировать|{{{1}}}}}}}}}|{{#ifexist:{{SUBJECTPAGENAME}}/doc|{{{{SUBJECTPAGENAME}}/doc}}|{{Документировать|{{SUBJECTPAGENAME}}/doc}}}}}}
+{{doc/end}}</includeonly><noinclude>
 {{doc}}
-[[Category:Шаблонт]]</noinclude><includeonly>{{Template doc begin|{{SUBJECTPAGENAME}}/Документация|notoc={{{notoc|}}}}}{{{{SUBJECTPAGENAME}}/Документация}}{{Template doc end}}</includeonly><noinclude>
-
-
+<!--
+[Rus]: Добавляйте категории и интервики на подстраницу /doc, не сюда!
+[Eng]: Please add categories and interwiki links to the /doc subpage, not here!
+-->
 </noinclude>
