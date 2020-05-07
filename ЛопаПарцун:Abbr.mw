@@ -1,0 +1,6 @@
+<includeonly>{{#switch: {{{3|1}}}
+ | 0        = <abbr title="{{#tag:nowiki|{{replace|{{{2}}}|"|&quot;}}}}">{{{1}}}</abbr>
+ | 1        = [[{{{1}}}|<abbr title="{{#tag:nowiki|{{replace|{{{2}}}|"|&quot;}}}}">{{{1}}}</abbr>]]
+ | 2        = [[{{{2}}}|<abbr title="{{#tag:nowiki|{{replace|{{{2}}}|"|&quot;}}}}">{{{1}}}</abbr>]]
+ | #default = [[{{{3}}}|<abbr title="{{#tag:nowiki|{{replace|{{{2}}}|"|&quot;}}}}">{{{1}}}</abbr>]]
+}}</includeonly><noinclude>{{doc}}</noinclude>
