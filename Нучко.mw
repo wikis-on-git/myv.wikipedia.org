@@ -1,4 +1,4 @@
-{{Таксономиясь
+<!-- {{Таксономиясь
 | name = Нучко
 | image file = Esox lucius1.jpg
 | image descr = Нучко
@@ -14,7 +14,27 @@
 | species = '''Нучко'''
 | latin = ''Esox lucius''
 }}
-
+-->
+{{VT|Kaftaj}}
+{{Таксон
+ |image file        = 
+ |image descr       = 
+ |regnum            = Ракшат
+ |parent            = Esox
+ |rang              = Чачо
+ |latin             = Esox lucius
+ |author            = Linnaeus
+ |syn               = 
+ |children name     = 
+ |children          = 
+ |range map         = Distribution map of Esox lucius.png
+ |range map caption = 
+ |range map width   = 
+ |range legend      = 
+ |iucnstatus        = LC
+ |iucn              = 
+ |wikispecies       = Esox lucius
+}}
 '''Нучко'''<ref name="ЭРВ">Эрзянь-рузонь валкс — Русско-эрзянский словарь / Рецензентнэ: Р. Н. Бузакова, Т. М. Тихонова. — Саранск: Мордовский книжной издательствась, 1992. — 400 с. — Эрзя и рус. яз. ISBN 5-7595-0483-5 {{ref-ru}},  {{ref-myv}}</ref> ({{lang-la|Esox lucius }}, {{lang-ru|Щука, или обыкновенная щука}}) — те [[Кал|калось]] калонь порий. 
 
 Эри салтомо ведьсе Евразиянь Масторсо ды Пелевеёнксонь Америкасо. Сехте вечкевикс эрямо тарказо ведькстыень ды парсеень поцо, косо эрить вишка калнеть.
