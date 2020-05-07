@@ -1,0 +1,1 @@
+{{#invoke:TemplateDataDoc|generateBlank|{{#if:{{{1|}}}|{{{1}}}|{{BASEPAGENAME}}}}|description={{{описание|}}}}}<noinclude>{{doc}}</noinclude>
