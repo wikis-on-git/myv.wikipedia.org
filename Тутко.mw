@@ -1,18 +1,21 @@
-{{Таксономиясь
-| name = Тутко
-| image file = Tinca tinca Prague Vltava 3.jpg
-| image descr = 
-| regnum = Ракшат
-| phylum = [[Хордовоень]]
-| subphylum = [[Каряз мартот]]
-| superclassis = [[Калт]]
-| classis = [[Костные калт]]
-| subclassis = [[Лучепёрые]]
-| ordo = [[Карпа кондямт]]
-| familia = [[Карпинькань]]
-| genus = ''[[Tinca]]''
-| species = '''Тутко'''
-| latin = {{Btname|Tinca tinca (Linnaeus, [[1758]])}}
+{{Таксон
+ |image file        = 
+ |image descr       = 
+ |regnum            = Ракшат
+ |parent            = Tinca
+ |rang              = Чачо
+ |latin             = Tinca tinca
+ |author            = Linnaeus
+ |syn               = 
+ |children name     = 
+ |children          = 
+ |range map         = 
+ |range map caption = 
+ |range map width   = 
+ |range legend      = 
+ |iucnstatus        = LC
+ |iucn              = 21912
+ |wikispecies       = Tinca tinca
 }}
 
 '''Тутко''' (лат. ''Tinca tinca'') — те [[Кал|калось]] карпа кондямтнэде.
