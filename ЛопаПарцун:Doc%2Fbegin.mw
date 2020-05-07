@@ -1,0 +1,7 @@
+<includeonly><templatestyles src="Шаблон:Doc/styles.css" />{{#if: {{{editsection|}}} || __NOEDITSECTION__ }}{{clear}}<div>{{якорь|Документация|doc}}</div>
+<div class="ts-doc-doc">
+<div class="ts-doc-header">
+<div class="ts-doc-heading">Документация</div>
+{{#if: {{{inline|}}} || {{tlinks|lc={{{1}}}|nowatch=yes}} }}
+</div>
+<div class="ts-doc-content"></includeonly><noinclude>{{doc}}</noinclude>
