@@ -1,0 +1,4 @@
+{{#ifexist:{{{1|{{PAGENAME}}}}}|:<div class="boilerplate" id="catmore">''Ван. истяжо категориянть: '''[[{{{1|{{PAGENAME}}}}}]]'''''</div>|:<div class="boilerplate" id="catmore">''У этой категории нет смежной категории — '''[[{{{1|{{PAGENAME}}}}}]]'''. Вы поможете проекту, если создадите её''.</div>}}<noinclude>
+{{doc}}
+[[Категория:Шаблонт]]
+</noinclude>
