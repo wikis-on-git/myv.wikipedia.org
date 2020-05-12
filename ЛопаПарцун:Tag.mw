@@ -1,0 +1,35 @@
+<{{#ifeq: {{{style|}}} | regular | span | code }} class="{{#ifeq: {{{wrap|}}} | yes | wrap | nowrap }}" style="{{#switch: {{{style|}}}
+| plain = border:none; background:transparent;
+| regular =
+| {{{style|}}}
+}}"><!--
+ Opening tag
+-->{{#switch: {{#if: {{{2|}}} | {{{2|}}} | pair }}
+  |c|close =
+  |s|single
+  |o|open
+  |p|pair = {{#ifeq: {{{1|tag}}}
+    | !--
+    | {{#ifeq: {{{style|}}} | regular | <span class="wp-templatelink">&lt;!--</span> | &lt;!-- }}
+    | {{#ifeq: {{{style|}}} | regular | <span class="wp-templatelink">&lt;</span> | &lt; }}{{{1|tag}}}{{#if: {{{params|{{{p|}}}}}} | &#32;{{{params|{{{p|}}}}}} }}
+    }}
+ }}<!--
+ Content between tags
+-->{{#switch: {{#if: {{{2|}}} | {{{2|}}} | pair }}
+  |c|close = {{{content|{{{c|}}}}}}
+  |s|single = &#32;{{#ifeq: {{{style|}}} | regular | <span class="wp-templatelink">/&gt;</span> | /&gt; }}
+  |o|open = {{#ifeq: {{{style|}}} | regular | <span class="wp-templatelink">&gt;</span> | &gt; }}{{{content|{{{c|}}}}}}
+  |p|pair = {{#ifeq: {{{1|tag}}} | !-- || {{#ifeq: {{{style|}}} | regular | <span class="wp-templatelink">&gt;</span> | &gt; }} }}{{{content|{{{c|}}}}}}
+ }}<!--
+ Closing tag
+-->{{#switch: {{#if: {{{2|}}} | {{{2|}}} | pair }}
+  |s|single
+  |o|open =
+  |c|close
+  |p|pair = {{#ifeq: {{{1|tag}}}
+    | !--
+    | {{#ifeq: {{{style|}}} | regular | <span class="wp-templatelink">--&gt;</span> | --&gt; }}
+    | {{#ifeq: {{{style|}}} | regular | <span class="wp-templatelink">&lt;/</span>{{{1|tag}}}<span class="wp-templatelink">&gt;</span> | &lt;/{{{1|tag}}}&gt; }}
+    }}
+ }}<!--
+--></{{#ifeq: {{{style|}}} | regular | span | code }}><noinclude>{{doc}}</noinclude>
