@@ -1,0 +1,28 @@
+{{Documentation subpage}}
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+
+:''{{tlx|Category}} redirects here.  You may be looking for {{tlx|Wikipedia category}}''
+
+{{tnull|{{BASEPAGENAME}}}} (or "category link") is used to link to a category.
+It is a companion to {{tlx|tl}}, which serves the same purpose for templates.
+
+== Example ==
+
+{{evaldemo/3|cl|Africa}}
+
+Easier than <nowiki>[[:Category:Africa]]</nowiki>.
+
+== See also ==
+* {{tn|c}}: Produces {{c|Africa}}
+* {{tl|cls}}: Produces {{cls|Africa}}
+* {{tn|lc}}: Produces {{lc|Africa}}
+* {{tl|Lcs}}: Produces {{lcs|Africa}}
+* {{tn|tl}}: Links to a template.
+* {{cl|Internal link templates}}
+
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Category:Internal link templates|Cl]]
+
+<!-- ADD INTERWIKIS BELOW THIS LINE -->
+</includeonly>
