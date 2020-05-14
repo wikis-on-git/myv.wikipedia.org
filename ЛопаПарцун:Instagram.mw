@@ -1,0 +1,6 @@
+[https://instagram.com/{{{1|{{{id|{{urlencode:{{PAGENAME}}}}}}}}}} {{{2|{{{name|{{PAGENAME}}}}}}}}]{{#if: {{{lang|}}}
+  | {{#ifexist: ЛопаПарцун:ref-{{{lang}}}
+    | &#32;{{ref-{{{lang}}} }}
+    | &#32;({{{lang}}})
+  }}
+}} [[Instagram]]-co<noinclude>{{doc}}</noinclude>
