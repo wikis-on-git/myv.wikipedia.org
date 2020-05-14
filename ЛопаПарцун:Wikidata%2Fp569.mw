@@ -1,1 +1,1 @@
-{{#if:{{{1|}}}|{{#invoke:Infocards|dateOfBirth|{{{1|}}}|{{{2|}}}|nocat={{{nocat|}}}{{NAMESPACE}}}}|{{#invoke:Wikidata|formatStatements|property=p569|claim-module=Wikidata/date|claim-function=formatDateOfBirthClaim|nocat={{{nocat|}}}{{NAMESPACE}}}}}}<noinclude>{{doc}}</noinclude>
+{{#switch:{{{1|}}}|-=|={{#invoke:Wikidata|formatStatements|property=p569|claim-module=Wikidata/date|claim-function=formatDateOfBirthClaim|nocat={{{nocat|}}}{{NAMESPACE}}}}|{{#invoke:Infocards|dateOfBirth|{{{1|}}}|{{{2|}}}|nocat={{{nocat|}}}{{NAMESPACE}}}}}}<noinclude>{{doc}}</noinclude>
