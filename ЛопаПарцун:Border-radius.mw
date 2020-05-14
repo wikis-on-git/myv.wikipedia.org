@@ -1,0 +1,5 @@
+<includeonly>border-radius: {{{1|8px}}}; -moz-border-radius: {{{1|8px}}}; -webkit-border-radius: {{{1|8px}}};</includeonly><noinclude>
+
+<!-- ДОБАВЛЯЙТЕ КАТЕГОРИИ И ИНТЕРВИКИ НА СТРАНИЦЕ ДОКУМЕНТАЦИИ -->
+{{doc}}
+</noinclude>
