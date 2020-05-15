@@ -1,0 +1,10 @@
+{{#if:{{if-wikidata|p41|{{{Коцт|}}}|1}}{{if-wikidata|p94|{{{герб|}}}|1}}|<table style="background:inherit; border-collapse:collapse; width:100%; display:table; text-align:center;">
+<tr>
+{{if-wikidata|p41|{{{Коцт|}}}|<td style<nowiki>=</nowiki>"vertical-align: middle">{{wikidata|p41|{{{Коцт|}}}|border=true|size={{#if:{{{Коцт ширина|}}}|{{{Коцт ширина|}}}|160x160}}px|alt={{#if:{{{Коцт подпись|}}} | {{{Коцт подпись}}} | Коцт }} }}</td>}}
+{{if-wikidata|p94|{{{герб|}}}|<td style<nowiki>=</nowiki>"vertical-align: middle">{{wikidata|p94|{{{герб|}}}|size={{#if:{{{герб ширина|}}}|{{{герб ширина|}}}|90x160}}px|alt={{#if:{{{герб подпись|}}} | {{{герб подпись}}} | Герб }} }}</td>}}
+</tr>
+{{#if:{{if-wikidata|p41|{{{Коцт|}}}|1}}{{if-wikidata|p94|{{{герб|}}}|1}}|<tr>
+{{if-wikidata|p41|{{{Коцт|}}}|<td>{{#if:{{{Коцт подпись|}}} | {{{Коцт подпись}}} | Коцт }}</td>}}
+{{if-wikidata|p94|{{{герб|}}}|<td>{{#if:{{{герб подпись|}}} | {{{герб подпись}}} | Герб }}</td>}}
+</tr>}}</table>
+}}<noinclude>{{doc}}</noinclude>
