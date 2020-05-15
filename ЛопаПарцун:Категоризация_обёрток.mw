@@ -1,0 +1,1 @@
+<includeonly>{{#ifeq:{{NAMESPACE}}|ЛопаПарцун|{{#ifeq:{{SUBJECTPAGENAME}}|{{NAMESPACE}}:{{BASEPAGENAME}}|{{#ifeq:{{PAGENAME}}|{{{1|}}}||[[Категория:Шаблоны на основе шаблона {{{1|}}}]]}}}}}}</includeonly><noinclude>{{doc}}</noinclude>
