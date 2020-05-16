@@ -1,20 +1,17 @@
-{{Таксономиясь
-| name =Ашо ривезь
-| image file = Polarfuchs 1 2004-11-17.jpg
-| regnum = Ракшат
-| phylum = 
-| subphylum = [[Позвоночные]]
-| classis = [[Ловцосотрицят]]
-| infraclassis = [[Плацентарные]]
-| ordo = [[Сывельде ярсыцят]]
-| familia = [[Кисканькань]]
-| subfamilia = Ашо ривезень
-| genus = 
-| species = ''Ашо ривезь''
-| latin = {{btname|Alopex lagopus| <br />[[Linnaeus]], [[1758]]}}
-| range map = Alopex lagopus.png
-| wikispecies = Alopex lagopus
-| commons = Category:Alopex lagopus
+{{Таксон
+|regnum = Ракшат
+|parent = Vulpes
+|rang = Чачо
+|latin = Vulpes lagopus
+|author = ([[Линней, Карл|Linnaeus]], [[1758 ие|1758]])
+|syn =
+* {{bt|Alopex lagopus|(Linnaeus, 1758)}}
+* {{bt|Canis lagopus|Linnaeus, 1758}}
+|range map = Cypron-Range Vulpes lagopus.svg
+|range map caption =
+|iucnstatus = LC
+|iucn = 899
+|wikispecies = Vulpes lagopus
 }}
 '''Ашо ривезь''' ({{lang-la|Alopex lagopus}}, {{lang-ru|''Обыкновенный песе́ц'', эли ''полярная лисица''}}) — те сывельде ярсыця [[Ракшат|ракша]], кискань семиястонть ("Canidae"), вейкине  ашо ривезтнень буестэ ("Alopex"). [[Ривезь]] ланкс молиця.  
 
@@ -28,4 +25,5 @@
 == Ванодо ==
 [[Image:Arcticfox-3.jpg|thumb|left|250px|Ашо ривезесь ванстомань — ракшань вид]]
 
+{{lisj}}
 [[Категория:Ракшат|А]]
