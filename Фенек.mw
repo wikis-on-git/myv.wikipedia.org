@@ -1,20 +1,17 @@
-{{Таксономиясь
-| name =Фенек
-| image file = Fennec Fox Vulpes zerda.jpg
-| regnum = Ракшат
-| phylum = 
-| subphylum = [[Позвоночные]]
-| classis = [[Ловцосотрицят]]
-| infraclassis = [[Плацентарные]]
-| ordo = [[Сывельде ярсыцят]]
-| familia = [[Кисканькань]]
-| subfamilia = Кискань
-| genus = 
-| species = ''Ривезь''
-| latin = {{btname|Vulpes zerda|([[Циммерман, Эберхард Август Вильгельм фон|Zimmermann]], [[1780]])}}
-| range map = Vulpes zerda distribution.png
-| wikispecies = Vulpes zerda
-| commons = Category:Vulpes zerda
+{{Таксон
+|image file = Fennec Fox Vulpes zerda.jpg
+|regnum = Ракшат
+|parent = Vulpes
+|rang = Чачо
+|latin = Vulpes zerda
+|author = ([[Циммерман, Эберхард Август Вильгельм фон|Zimmermann]], [[1780 ие|1780]])
+|syn =
+* {{bt|Canis zerda|Zimmermann, 1780}}<ref>{{ITIS|621865}}</ref>
+* {{bt|Fennecus zerda|(Zimmermann, 1780)}}<ref>{{NCBI|68732}}</ref><ref>{{IUCN|41588}}</ref>
+|range map = Vulpes zerda distribution.png
+|range map caption =
+|iucnstatus = LC
+|wikispecies = Vulpes zerda
 }}
 '''Фенек''' ({{lang-la|Vulpes zerda}}, {{lang-ru|''Фе́нек''}}) — [[Ракшат|ракша]], вишкинька [[ривезь|ривезьке]], кона эри  [[Пелевеёнкс Африка Мастор|Пелевеёнксонь Африка]] чаво паксятнесэ. 
 
