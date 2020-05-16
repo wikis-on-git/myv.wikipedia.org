@@ -1,20 +1,19 @@
-{{Таксономиясь
-| name =Андонь ривезь
-| image file = Culpeo MC.jpg
-| regnum = Ракшат
-| phylum = 
-| subphylum = [[Позвоночные]]
-| classis = [[Ловцосотрицят]]
-| infraclassis = [[Плацентарные]]
-| ordo = [[Сывельде ярсыцят]]
-| familia = [[Кисканькань]]
-| subfamilia = ''Лембеёнксамерикань ривезть''
-| genus = 
-| species = ''Лембеёнксамерикань ривезь''
-| latin = {{btname|Lycalopex culpaeus| <br />[[Молина, Хуан Игнасио|Molina]], 1782}}
-| range map = Pseudalopex culpaeus map.png
-| wikispecies = Lycalopex culpaeus
-| commons = Category:Pseudalopex culpaeus
+{{Таксон
+|image file = 
+|image title = 
+|regnum = Ракшат
+|parent = Lycalopex
+|rang = Чачо
+|latin = Lycalopex culpaeus
+|author = ([[Молина, Хуан Игнасио|Molina]], 1782)
+|syn = {{btname|Pseudalopex culpaeus|(Molina, 1782)}}
+|range map = Distribution of culpeo's subspecies.png
+|range map caption =
+|range legend = {{легенда|yellow|Lycalopex culpaeus andinus}} {{легенда|#000|Lycalopex culpaeus culpaeus}} {{легенда|red|Lycalopex culpaeus lycoides}} {{легенда|#7fffd4|Lycalopex culpaeus magellanicus}} {{легенда|#4f7930|Lycalopex culpaeus reissii}} {{легенда|#1560bd|Lycalopex culpaeus smithersi}}
+|iucnstatus = LC
+|iucn = 6929
+|wikispecies = Lycalopex culpaeus
+|commons = Category:Pseudalopex culpaeus
 }}
 '''Андонь ривезь''' ({{lang-la|Lycalopex culpaeus}}, {{lang-ru|''Андская лисица''}}) — те сывельде ярсыця [[Ракшат|ракша]], кискань семиястонть (''Canidae'').
 
@@ -27,4 +26,5 @@
 
 == Ванодо ==
 
+{{lisj}}
 [[Категория:Ракшат|А]]
