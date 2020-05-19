@@ -1,0 +1,12 @@
+{{#if: {{{3|}}}
+| {{#if: {{{5|}}} | {{{5|}}} | {{{3|}}} }}
+| {{#if: {{{2|}}}
+  | {{#if: {{{4|}}} | {{{4|}}} | {{{2|}}} }}
+  | {{#if: {{{4|}}}{{{5|}}}
+    | {{#if: {{wikidata|{{{1|}}}|property-module=Wikidata/count|property-function=isMultiple|from={{{from|}}}}} | {{{5|}}} | {{{4|}}} }}
+    | {{wikidata|{{{1|}}}|from={{{from|}}}}}
+    }}
+  }}
+}}<noinclude>
+{{doc}}
+</noinclude>
