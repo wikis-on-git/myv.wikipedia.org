@@ -1,0 +1,10 @@
+{{#if: {{{1|}}} {{if-wikidata|p166||{{{wikidata|}}}}} |
+<div class="{{{class|NavFrame expanded}}}"><div class="infobox-header NavHead" style="background:{{#if:{{{цвет|}}}|{{{цвет|}}}|#eaecf0}};">{{{2|казнеть ды медальть}}}</div><div class="infobox-medals NavContent">
+{{(!}}
+{{!}}
+{{{1|}}}
+{{!)}}
+{{#if: {{{wikidata|}}} | {{wikidata|p166}} }}  <!-- если {{{wikidata|}}} имеет любое значение, то выводятся данные с Wikidata -->
+</div></div>}}<noinclude>
+{{doc}}
+</noinclude>
