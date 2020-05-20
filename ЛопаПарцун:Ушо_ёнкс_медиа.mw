@@ -14,24 +14,24 @@
 
 |вверху           = {{#if:{{{image1|}}}
                     | {{#if: {{{audio1|}}}{{{video1|}}}
-                      | [[File:Images.png|link=]] Внешние медиафайлы
-                      | [[File:Images.png|link=]] Внешние изображения
+                      | [[File:Images.png|link=]] Ушо ёнкс медиафайлы
+                      | [[File:Images.png|link=]] Ушо ёнкс артовкст
                       }}
                     | {{#if:{{{audio1|}}}
                       | {{#if:{{{video1|}}}
-                        | [[File:Images.png|link=]] Внешние медиафайлы
-                        | [[File:Sound.png|link=]] Внешние аудиофайлы
+                        | [[File:Images.png|link=]] Ушо ёнкс медиафайлы
+                        | [[File:Sound.png|link=]] Ушо ёнкс аудиофайлы
                         }}
                       | {{#if:{{{video1|}}}
-                        | [[File:Silk-film.png|link=]] Внешние видеофайлы
-                        | [[File:Images.png|link=]] Внешние медиафайлы
+                        | [[File:Silk-film.png|link=]] Ушо ёнкс видеофайлы
+                        | [[File:Images.png|link=]] Ушо ёнкс медиафайлы
                         }}
                       }}
                     }}
 |вверху2          = {{{topic|}}}
 |вверху3          = {{#if: {{{subtopic|}}} | ({{{subtopic|}}}) }}
 
-|заголовок1       = {{#if: {{{image1|}}} | {{#if: {{{audio1|}}}{{{video1|}}} | Изображения }} }}
+|заголовок1       = {{#if: {{{image1|}}} | {{#if: {{{audio1|}}}{{{video1|}}} | Артовкст }} }}
 
 |метка2           = [[File:Image-silk.png|link=]]
 |текст2           = {{{image1|}}}
