@@ -1,0 +1,314 @@
+{{Карточка
+|имя              = -
+
+|класс_тела       = 
+|стиль_тела       = {{#if: {{{width|}}} | width:{{{width|}}}; }}<!--
+                    -->{{#if: {{{clear|}}} | {{#ifeq: {{{clear|}}} | yes || clear:{{{clear|}}}; }} }}<!--
+					   -->{{#ifeq: {{{align|}}} | left | float:left; margin-left:0; margin-right:1em; }}
+|стиль_вверху     = text-align:left; font-style:normal; font-size:100%; background:#eaecf0;
+|стиль_вверху2    = padding-top:0.4em; padding-bottom:0.4em; text-align:left; font-style:normal; font-weight:bold; font-size:{{{font-size|150}}}%; 
+|стиль_вверху3    = text-align:left; font-style:normal; font-weight:bold;
+|стиль_заголовков = padding-top:0.4em; text-align:left;
+|стиль_меток      = text-align:left; flex:0;
+|стиль_теста      = text-align:left;
+
+|вверху           = {{#if:{{{image1|}}}
+                    | {{#if: {{{audio1|}}}{{{video1|}}}
+                      | [[File:Images.png|link=]] Внешние медиаFileы
+                      | [[File:Images.png|link=]] Внешние изображения
+                      }}
+                    | {{#if:{{{audio1|}}}
+                      | {{#if:{{{video1|}}}
+                        | [[File:Images.png|link=]] Внешние медиаFileы
+                        | [[File:Sound.png|link=]] Внешние аудиоFileы
+                        }}
+                      | {{#if:{{{video1|}}}
+                        | [[File:Silk-film.png|link=]] Внешние видеоFileы
+                        | [[File:Images.png|link=]] Внешние медиаFileы
+                        }}
+                      }}
+                    }}
+|вверху2          = {{{topic|}}}
+|вверху3          = {{#if: {{{subtopic|}}} | ({{{subtopic|}}}) }}
+
+|заголовок1       = {{#if: {{{image1|}}} | {{#if: {{{audio1|}}}{{{video1|}}} | Изображения }} }}
+
+|метка2           = [[File:Image-silk.png|link=]]
+|текст2           = {{{image1|}}}
+
+|метка3           = [[File:Image-silk.png|link=]]
+|текст3           = {{{image2|}}}
+
+|метка4           = [[File:Image-silk.png|link=]]
+|текст4           = {{{image3|}}}
+
+|метка5           = [[File:Image-silk.png|link=]]
+|текст5           = {{{image4|}}}
+
+|метка6           = [[File:Image-silk.png|link=]]
+|текст6           = {{{image5|}}}
+
+|метка7           = [[File:Image-silk.png|link=]]
+|текст7           = {{{image6|}}}
+
+|метка8           = [[File:Image-silk.png|link=]]
+|текст8           = {{{image7|}}}
+
+|метка9           = [[File:Image-silk.png|link=]]
+|текст9           = {{{image8|}}}
+
+|метка10          = [[File:Image-silk.png|link=]]
+|текст10          = {{{image9|}}}
+
+|метка11          = [[File:Image-silk.png|link=]]
+|текст11          = {{{image10|}}}
+
+|метка12          = [[File:Image-silk.png|link=]]
+|текст12          = {{{image11|}}}
+
+|метка13          = [[File:Image-silk.png|link=]]
+|текст13          = {{{image12|}}}
+
+|метка14          = [[File:Image-silk.png|link=]]
+|текст14          = {{{image13|}}}
+
+|метка15          = [[File:Image-silk.png|link=]]
+|текст15          = {{{image14|}}}
+
+|метка16          = [[File:Image-silk.png|link=]]
+|текст16          = {{{image15|}}}
+
+|метка17          = [[File:Image-silk.png|link=]]
+|текст17          = {{{image16|}}}
+
+|метка18          = [[File:Image-silk.png|link=]]
+|текст18          = {{{image17|}}}
+
+|метка19          = [[File:Image-silk.png|link=]]
+|текст19          = {{{image18|}}}
+
+|метка20          = [[File:Image-silk.png|link=]]
+|текст20          = {{{image19|}}}
+
+|метка21          = [[File:Image-silk.png|link=]]
+|текст21          = {{{image20|}}}
+
+|метка22          = [[File:Image-silk.png|link=]]
+|текст22          = {{{image21|}}}
+
+|метка23          = [[File:Image-silk.png|link=]]
+|текст23          = {{{image22|}}}
+
+|метка24          = [[File:Image-silk.png|link=]]
+|текст24          = {{{image23|}}}
+
+|метка25          = [[File:Image-silk.png|link=]]
+|текст25          = {{{image24|}}}
+
+|метка26          = [[File:Image-silk.png|link=]]
+|текст26          = {{{image25|}}}
+
+|метка27          = [[File:Image-silk.png|link=]]
+|текст27          = {{{image26|}}}
+
+|метка28          = [[File:Image-silk.png|link=]]
+|текст28          = {{{image27|}}}
+
+|метка29          = [[File:Image-silk.png|link=]]
+|текст29          = {{{image28|}}}
+
+|метка30          = [[File:Image-silk.png|link=]]
+|текст30          = {{{image29|}}}
+
+|метка31          = [[File:Image-silk.png|link=]]
+|текст31          = {{{image30|}}}
+
+|текст32          = {{{images|}}}
+
+|заголовок33      = {{#if: {{{audio1|}}} | {{#if: {{{image1|}}}{{{video1|}}} | АудиоFileы }} }}
+
+|метка34          = [[File:Sound.png|link=]]
+|текст34          = {{{audio1|}}}
+
+|метка35          = [[File:Sound.png|link=]]
+|текст35          = {{{audio2|}}}
+
+|метка36          = [[File:Sound.png|link=]]
+|текст36          = {{{audio3|}}}
+
+|метка37          = [[File:Sound.png|link=]]
+|текст37          = {{{audio4|}}}
+
+|метка38          = [[File:Sound.png|link=]]
+|текст38          = {{{audio5|}}}
+
+|метка39          = [[File:Sound.png|link=]]
+|текст39          = {{{audio6|}}}
+
+|метка40          = [[File:Sound.png|link=]]
+|текст40          = {{{audio7|}}}
+
+|метка41          = [[File:Sound.png|link=]]
+|текст41          = {{{audio8|}}}
+
+|метка42          = [[File:Sound.png|link=]]
+|текст42          = {{{audio9|}}}
+
+|метка43          = [[File:Sound.png|link=]]
+|текст43          = {{{audio10|}}}
+
+|метка44          = [[File:Sound.png|link=]]
+|текст44          = {{{audio11|}}}
+
+|метка45          = [[File:Sound.png|link=]]
+|текст45          = {{{audio12|}}}
+
+|метка46          = [[File:Sound.png|link=]]
+|текст46          = {{{audio13|}}}
+
+|метка47          = [[File:Sound.png|link=]]
+|текст47          = {{{audio14|}}}
+
+|метка48          = [[File:Sound.png|link=]]
+|текст48          = {{{audio15|}}}
+
+|метка49          = [[File:Sound.png|link=]]
+|текст49          = {{{audio16|}}}
+
+|метка50          = [[File:Sound.png|link=]]
+|текст50          = {{{audio17|}}}
+
+|метка51          = [[File:Sound.png|link=]]
+|текст51          = {{{audio18|}}}
+
+|метка52          = [[File:Sound.png|link=]]
+|текст52          = {{{audio19|}}}
+
+|метка53          = [[File:Sound.png|link=]]
+|текст53          = {{{audio20|}}}
+
+|метка54          = [[File:Sound.png|link=]]
+|текст54          = {{{audio21|}}}
+
+|метка55          = [[File:Sound.png|link=]]
+|текст55          = {{{audio22|}}}
+
+|метка56          = [[File:Sound.png|link=]]
+|текст56          = {{{audio23|}}}
+
+|метка57          = [[File:Sound.png|link=]]
+|текст57          = {{{audio24|}}}
+
+|метка58          = [[File:Sound.png|link=]]
+|текст58          = {{{audio25|}}}
+
+|метка59          = [[File:Sound.png|link=]]
+|текст59          = {{{audio26|}}}
+
+|метка60          = [[File:Sound.png|link=]]
+|текст60          = {{{audio27|}}}
+
+|метка61          = [[File:Sound.png|link=]]
+|текст61          = {{{audio28|}}}
+
+|метка62          = [[File:Sound.png|link=]]
+|текст62          = {{{audio29|}}}
+
+|метка63          = [[File:Sound.png|link=]]
+|текст63          = {{{audio30|}}}
+
+|заголовок64      = {{#if: {{{video1|}}} | {{#if: {{{audio1|}}}{{{image1|}}} | ВидеоFileы }} }}
+
+|метка65          = [[File:Silk-film.png|link=]]
+|текст65          = {{{video1|}}}
+
+|метка66          = [[File:Silk-film.png|link=]]
+|текст66          = {{{video2|}}}
+
+|метка67          = [[File:Silk-film.png|link=]]
+|текст67          = {{{video3|}}}
+
+|метка68          = [[File:Silk-film.png|link=]]
+|текст68          = {{{video4|}}}
+
+|метка69          = [[File:Silk-film.png|link=]]
+|текст69          = {{{video5|}}}
+
+|метка70          = [[File:Silk-film.png|link=]]
+|текст70          = {{{video6|}}}
+
+|метка71          = [[File:Silk-film.png|link=]]
+|текст71          = {{{video7|}}}
+
+|метка72          = [[File:Silk-film.png|link=]]
+|текст72          = {{{video8|}}}
+
+|метка73          = [[File:Silk-film.png|link=]]
+|текст73          = {{{video9|}}}
+
+|метка74          = [[File:Silk-film.png|link=]]
+|текст74          = {{{video10|}}}
+
+|метка75          = [[File:Silk-film.png|link=]]
+|текст75          = {{{video11|}}}
+
+|метка76          = [[File:Silk-film.png|link=]]
+|текст76          = {{{video12|}}}
+
+|метка77          = [[File:Silk-film.png|link=]]
+|текст77          = {{{video13|}}}
+
+|метка78          = [[File:Silk-film.png|link=]]
+|текст78          = {{{video14|}}}
+
+|метка79          = [[File:Silk-film.png|link=]]
+|текст79          = {{{video15|}}}
+
+|метка80          = [[File:Silk-film.png|link=]]
+|текст80          = {{{video16|}}}
+
+|метка81          = [[File:Silk-film.png|link=]]
+|текст81          = {{{video17|}}}
+
+|метка82          = [[File:Silk-film.png|link=]]
+|текст82          = {{{video18|}}}
+
+|метка83          = [[File:Silk-film.png|link=]]
+|текст83          = {{{video19|}}}
+
+|метка84          = [[File:Silk-film.png|link=]]
+|текст84          = {{{video20|}}}
+
+|метка85          = [[File:Silk-film.png|link=]]
+|текст85          = {{{video21|}}}
+
+|метка86          = [[File:Silk-film.png|link=]]
+|текст86          = {{{video22|}}}
+
+|метка87          = [[File:Silk-film.png|link=]]
+|текст87          = {{{video23|}}}
+
+|метка88          = [[File:Silk-film.png|link=]]
+|текст88          = {{{video24|}}}
+
+|метка89          = [[File:Silk-film.png|link=]]
+|текст89          = {{{video25|}}}
+
+|метка90          = [[File:Silk-film.png|link=]]
+|текст90          = {{{video26|}}}
+
+|метка91          = [[File:Silk-film.png|link=]]
+|текст91          = {{{video27|}}}
+
+|метка92          = [[File:Silk-film.png|link=]]
+|текст92          = {{{video28|}}}
+
+|метка93          = [[File:Silk-film.png|link=]]
+|текст93          = {{{video29|}}}
+
+|метка94          = [[File:Silk-film.png|link=]]
+|текст94          = {{{video30|}}}
+
+}}<noinclude>
+{{doc}}
+</noinclude>
