@@ -1,0 +1,5 @@
+{{#ifeq: {{{1|}}}
+| inherit
+| {{{2|тюссов текст}}}
+| <span style="color:{{{1|#f00}}}; text-decoration: inherit; -moz-text-decoration-color: {{{1|#f00}}}; text-decoration-color: {{{1|#f00}}};">{{{2|тюссов текст}}}</span>
+}}<noinclude>{{doc}}</noinclude>
