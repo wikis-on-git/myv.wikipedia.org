@@ -14,13 +14,13 @@
 
 |вверху           = {{#if:{{{image1|}}}
                     | {{#if: {{{audio1|}}}{{{video1|}}}
-                      | [[File:Images.png|link=]] Внешние медиаFileы
+                      | [[File:Images.png|link=]] Внешние медиафайлы
                       | [[File:Images.png|link=]] Внешние изображения
                       }}
                     | {{#if:{{{audio1|}}}
                       | {{#if:{{{video1|}}}
-                        | [[File:Images.png|link=]] Внешние медиаFileы
-                        | [[File:Sound.png|link=]] Внешние аудиоFileы
+                        | [[File:Images.png|link=]] Внешние медиафайлы
+                        | [[File:Sound.png|link=]] Внешние аудиофайлы
                         }}
                       | {{#if:{{{video1|}}}
                         | [[File:Silk-film.png|link=]] Внешние видеоFileы
