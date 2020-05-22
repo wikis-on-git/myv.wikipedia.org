@@ -1,37 +1,18 @@
-{{Таксономиясь
-|name = ''Пиже озяз''
-|latin = {{Btname|Parus major|}}
-|image file = Parus major male.jpg
-|image descr = Пиже озяз
-|superregnum =
-|subregnum = [[Ракшат]]
-|раздел =
-|superphylum =
-|phylum = [[Chordata]]
-|subphylum =
-|superdivisio =
-|divisio =
-|subdivisio = 
-|superclassis =
-|classis = [[Нармунть|нармунь]]
-|subclassis =
-|infraclassis =
-|superordo =
-|ordo = [[Passeriformes]]
-|subordo =
-|infraordo =
-|superfamilia =
-|familia = [[Paridae]]
-|subfamilia =
-|tribus =
-|genus =
-|subgenus =
-|species = 
-|subspecies =
-|unranked =
-|wikispecies = Parus major
-| commons = Parus major
-|range map = ParusMajorMap.svg
+{{Таксон
+| regnum = Ракшат
+| image file = Parus major m.jpg
+| parent = Parus
+| rang = Чамо
+| latin = Parus major
+| author = [[Линней, Карл|Linnaeus]], [[1758 ие|1758]]
+| children name = 
+| children = 
+| range map = Parus major distribution map.png
+| range map caption =
+| iucnstatus = LC
+| wikispecies = Parus major
+| commons = Category:Parus major
+| iucn = 22735990
 }}
 {{Лия смустьтне|Пиже озяз (смустьтне)}}
 [[File:Parus major excelsus MHNT 232 Aïn Béïda Algerie.jpg|thumb|''Parus major'']]
