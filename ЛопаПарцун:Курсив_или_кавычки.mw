@@ -1,0 +1,32 @@
+{{#ifeq:0
+ | {{#invoke:string|find
+    | source = {{#invoke:string|replace
+       | source  = {{{1|}}}
+       | pattern = %[%{{хх}}^{{!}}%]]+{{!}}
+       | replace = 
+       | plain   = false
+      }}
+    | target = [А-яЁё]
+    | plain  = false
+   }}
+ | {{#ifeq:0
+    | {{#invoke:string|find
+       | source = {{#invoke:string|replace
+          | source  = {{{1|}}}
+          | pattern = %[%{{хх}}^{{!}}%]]+{{!}}
+          | replace = 
+          | plain   = false
+         }}
+       | target = [A-Za-z]
+       | plain  = false
+      }}
+    | <nowiki />{{{1|}}}
+    | <i>{{{1|}}}</i>
+   }}
+ | {{{кавычки|}}} «{{вложенные кавычки|{{#invoke:string|replace
+    | source  = <span></span><!-- лечение случаев принятия символов #, * и т. п. за разметку, например в [[Небы]] -->{{{1|}}}
+    | pattern = ^<span></span>«(.+)»$
+    | replace = %1
+    | plain   = false
+   }}}}»
+}}<noinclude>{{doc}}</noinclude>
