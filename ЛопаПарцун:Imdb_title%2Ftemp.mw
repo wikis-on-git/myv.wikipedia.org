@@ -1,0 +1,3 @@
+[http://www.imdb.com/title/tt{{{1|{{{id}}}}}}/ {{#if: {{{noquotes|}}}{{{бескавычек|}}}|{{{2|{{{title|{{PAGENAME}}}}}}}}|«{{{2|{{{title|{{PAGENAME}}}}}}}}»}}]{{ref-en}} на сайте [[Internet Movie Database]]<noinclude>
+{{doc}}
+</noinclude>
