@@ -1,0 +1,6 @@
+{{#if: {{{иконка|}}} 
+| <templatestyles src="Template:Спортсмен/лем/styles.css" /><div class="ts_Спортсмен_лем"><div class="icon" style="{{{стиль иконки|}}}">[[Артовкс:{{{иконка|}}}|{{{ширина иконки|20px}}}|{{{подпись|}}}]]</div><div class="label">{{карточка/лем|{{{1|}}}}}</div></div>
+| {{карточка/лем|{{{1|}}}}}
+}}<noinclude>
+{{doc}}
+</noinclude>
