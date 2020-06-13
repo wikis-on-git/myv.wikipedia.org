@@ -1,0 +1,3 @@
+<includeonly>{{#invoke:WD|format_property|{{{1}}}|{{#if: {{{lang|}}} | {{{lang|}}} | myv }}}}</includeonly><noinclude>
+{{doc}}
+</noinclude>
