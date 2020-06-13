@@ -1,0 +1,30 @@
+.ts_Спортсмен_лем {
+	position: relative;
+}
+
+.ts_Спортсмен_лем .icon {
+	display: flex;
+	align-items: center;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+}
+
+.ts_Спортсмен_лем .icon img {
+	display: block;
+}
+
+.ts_Спортсмен_лем .label {
+	margin: 0 2em;
+}
+
+@media (min-width: 720px) {
+	.ts_Спортсмен_лем {
+		margin: .15em;
+	}
+}
+
+body.skin-minerva .ts_Спортсмен_лем {
+	margin: 0;
+}
