@@ -1,0 +1,14 @@
+{{<includeonly>safesubst:</includeonly>#invoke:string|replace
+| source  = {{<includeonly>safesubst:</includeonly>#invoke:string|replace
+  | source  = {{<includeonly>safesubst:</includeonly>#switch: {{{2|}}}{{<includeonly>safesubst:</includeonly>#if: {{<includeonly>safesubst:</includeonly>yesno|{{{br2space|}}}|blank=yes}} || x }}
+    | br | = {{<includeonly>safesubst:</includeonly>#invoke:string|replace|{{{1|}}}|<br */?>| |plain=false}}
+    | {{{1|}}}
+    }}
+  | pattern = </?{{{2|%w+}}}[ %w]*/?>
+  | replace = 
+  | plain   = false
+  }}
+| pattern = <{{{2|%w+}}} [%w ]-=[^<>]->
+| replace = 
+| plain   = false
+}}<noinclude>{{doc}}</noinclude>
