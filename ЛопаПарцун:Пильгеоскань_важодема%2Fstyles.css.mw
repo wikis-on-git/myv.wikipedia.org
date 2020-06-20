@@ -1,0 +1,40 @@
+.ts-Спортивная_карьера-table {
+	width: 100% !important;
+	display: table;
+	margin: 0 0 -2px;
+	border-collapse: separate;
+	text-align: left;
+}
+
+.ts-Спортивная_карьера-table th {
+	background-color: #dcebff;
+	text-align: center;
+}
+
+.ts-Спортивная_карьера-table td:nth-child(1) {
+	width: 27%;
+}
+
+.ts-Спортивная_карьера-table td:nth-child(3) {
+	width: 20%;
+}
+
+.ts-Спортивная_карьера-table.stripped tr:nth-child(odd) {
+	background-color: #f8f9fa;
+}
+
+.ts-Спортивная_карьера-table.stripped tr:nth-child(even) {
+	background-color: #eff1f3;
+}
+
+.ts-Спортивная_карьера-table.stripped tr.odd {
+	background-color: #f8f9fa;
+}
+
+.ts-Спортивная_карьера-table.stripped tr.even {
+	background-color: #eff1f3;
+}
+
+body.skin-minerva .ts-Спортивная_карьера-table.stripped tr {
+	background-color: transparent;
+}
