@@ -1,0 +1,10 @@
+<div>
+'''Теемс од лопань сёрмадовкс:'''
+<inputbox>
+ type=create
+ width=40
+ bgcolor=#ffffff
+ default=
+ buttonlabel=Теемс лопа
+</inputbox>
+</div>
