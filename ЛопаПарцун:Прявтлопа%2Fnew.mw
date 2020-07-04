@@ -1,4 +1,3 @@
-<div>
 '''Теемс од лопань сёрмадовкс:'''
 <inputbox>
  type=create
@@ -7,4 +6,3 @@
  default=
  buttonlabel=Теемс лопа
 </inputbox>
-</div>
