@@ -1,0 +1,4 @@
+.ts-navbox-plaintitle {
+	font-size: 100% !important;
+	margin: 0 6em !important;
+}
