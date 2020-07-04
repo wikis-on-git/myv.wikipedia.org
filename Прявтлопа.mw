@@ -1,28 +1,73 @@
-{| border="0" cellspacing="5" cellpadding="0"
-| colspan=2 |{{Прякслопа пандо}}
-|-
-| valign=top width="60%" |{{Чинь артовкс}}
-{{Прявтлопа/Ковкерькс}}
-| width="40%" valign=top|{{Нурька тексттнэ}}{{Чинь мультимедиа}}{{Потмо}}
-<div>
-<center>'''Теемс од лопань сёрмадовкс:'''</center>
-<inputbox>
- type=create
- width=40
- bgcolor=#ffffff
- default=
-</inputbox>
-</div>
-<!--|-
-| colspan=2 |--> {{Индекс А-Я}}
-<!--|-
-| colspan=2 |--> {{Википедият}}
-|-
-| colspan=2 | {{Малавикс проекттнэ}}
-|-
-| colspan=2 |{{Прякслопа куншка}}
+__NOTOC__
+{{Прявтлопа/Прякслопа пандо}}
+{| style="margin-top:10px; background:none;"
+| style="width:65%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;" |
+{| cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;"
+|<!-- Список статей -->
+<!-- {{Прявтлопа/section
+|image=HSutvald2.svg
+|header=Нурька тексттнэ
+|content=<div id="mf-image" title="Нурька тексттнэ">{{Нурька тексттнэ}}</div>
+|down=[[ЛопаПарцун:Нурька тексттнэ|Витнемс-петнемс]]
+|font-size=95
+}}-->
+{{Прявтлопа/section
+|image=HS Liste.svg
+|header=Нурька тексттнэ
+|content=<div id="mf-image" title="Нурька тексттнэ">{{Нурька тексттнэ}}</div>
+|down=[[ЛопаПарцун:Нурька тексттнэ|Витнемс-петнемс]]
+|font-size=95
+}}
+{{Прявтлопа/section
+|image=PL Wiki InM ikona.svg
+|header=Чинь артовкс
+|content=<div id="mf-image" title="Чинь артовкс">{{Чинь артовкс}}</div>
+|down=[[ЛопаПарцун:Чинь артовкс|Витнемс-петнемс]]
+|font-size=95
+}}
+{{Прявтлопа/section
+|image=HSCinema.svg
+|header=Чинь мультимедиа
+|content=<div id="mf-image" title="Чинь мультимедиа">{{Чинь мультимедиа}}</div>
+|down=[[ЛопаПарцун:Чинь мультимедиа|Витнемс-петнемс]]
+|font-size=95
+}}
+{{Прявтлопа/section
+|image=HSBook.svg
+|header=Потмокс
+|content=<div id="mf-image" title="Потмокс">{{Прявтлопа/articles}}</div>
+|down=[[ЛопаПарцун:Прявтлопа/articles|Витнемс-петнемс]]
+|font-size=95
+}}
+{{Прявтлопа/section
+|image=HSWikimedia.svg
+|header=1000 лопат
+|content=<div id="mf-thousand" title="1000 лопат">{{Прявтлопа/1000}}</div>
+|down=[[Википедиясь:Лопань потмокс, конатат эрявить эрьва келень пельксэ|1000 лопат]] {{!}} [[ЛопаПарцун:Прявтлопа/1000|Витнемс-петнемс]]
+|font-size=95
+}}
 |}
+| style="border:5px solid transparent;" |
+| style="width:35%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;"|
+{| id="mp-right" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5faff; background:transparent;  text-align: left;"
+|{{Прявтлопа/section
+|image=W-circle.svg
+|header=Теемс лопа
+|content=<div id="mf-image" title="Теемс лопа">{{Прявтлопа/new}}</div>
+|down=[[ЛопаПарцун:Прявтлопа/new|Витнемс-петнемс]]
+|font-size=95
+}}
+{{Прявтлопа/section
+|image=Datum{{CURRENTDAY}}.svg
+|header=[[Википедиясь:Ковкерькс|Вики-ковкерькс]]: ''[[{{CURRENTMONTHNAME}}]]''
+|content=<div id="mf-image" title="Вики-календарь">{{Прявтлопа/Ковкерькс/{{CURRENTMONTH}}}}</div>
+|down=[[ЛопаПарцун:Прявтлопа/Ковкерькс/{{CURRENTMONTH}}|Витнемс-петнемс]]
+|font-size=95
+}}
+|}
+|}
+{{Википедият}}
+{{Малавикс проекттнэ}}
 {{Прявтлопа/interwiki}}
-__notoc__ __noeditsection__
-<!-- интервики больших разделов (более 200 тыс. статей) + финно-угорские + языки России -->
-[[Category:Весе]]
+{{Noexternallanglinks}}
+&nbsp;
