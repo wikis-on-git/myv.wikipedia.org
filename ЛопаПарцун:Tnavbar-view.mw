@@ -1,13 +1,14 @@
-<span class="noprint plainlinksneverexpand" style="white-space:nowrap;font-size:xx-small<!--
-  -->{{#if:{{{fontcolor|}}}|<nowiki>;</nowiki>color:{{{fontcolor}}}}}<!--
-  -->{{#if:{{{fontstyle|}}}|<nowiki>;</nowiki>{{{fontstyle}}}}}<!--
-  -->{{#if:{{{style|}}}    |<nowiki>;</nowiki>{{{style}}}}}">&nbsp;<!--
+<span class="noprint plainlinks nowrap" style="font-size:85%; <!--
+  -->{{#if:{{{fontcolor|}}}|color:{{{fontcolor}}};}}<!--
+  -->{{#if:{{{fontstyle|}}}|{{{fontstyle}}};}}<!--
+  -->{{#if:{{{style|}}}    |{{{style}}};}}"><!--
 -->{{#if:{{{text|}}}<!--
   -->|<nowiki>[</nowiki>[[template:{{{1<noinclude>|test</noinclude>}}}|<span style="color:<!--
-      -->{{#if:{{{fontcolor|}}}|{{{fontcolor}}}|#002bb8}}<!--
-      -->{{#if:{{{fontstyle|}}}|<nowiki>;</nowiki>{{{fontstyle}}}}}"<!--
+      -->{{#if:{{{fontcolor|}}}|{{{fontcolor}}}|#002bb8}};<!--
+      -->{{#if:{{{fontstyle|}}}|{{{fontstyle}}};}}"<!--
       --> title="Просмотр этого шаблона">{{{text}}}</span>]]<nowiki>]</nowiki><!--
-  -->|[[file:Searchtool.svg|14px|И шаблондиз килигун|link=template:{{{1<noinclude>|test</noinclude>}}}]]}}<!--
+  -->|[[File:Wikipedia interwiki section gear icon{{#switch:{{lc:{{{fontcolor|}}}}}|#fff|#ffffff|white=_white|{{#ifexpr:{{#invoke:Color contrast|styleratio|{{{fontstyle|}}}||#666}} < 3.66|_white}}}}.svg|14px|Просмотр этого шаблона|link=Шаблон:{{{1<noinclude>|test</noinclude>}}}|alt=⚙️]]<!--
+-->}}<!--
 -->&nbsp;</span><noinclude>
 {{doc}}<!-- Пожалуйста, добавляйте категории и интервики на страницу документации! -->
 </noinclude>
