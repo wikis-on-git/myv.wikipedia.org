@@ -2,7 +2,9 @@
 <inputbox>
  type=create
  width=40
- bgcolor=#ffffff
+ bgcolor=
  default=
  buttonlabel=Теемс лопа
-</inputbox>
+</inputbox><noinclude>
+[[Category:Прякслопань шаблонт]]
+</noinclude>
