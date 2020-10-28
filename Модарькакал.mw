@@ -1,25 +1,18 @@
-{{Таксономиясь
-| name = Модарькакал
-| image file = Salvelinus alpinus.jpg
+{{Таксон
+| name = 
+| image file = Salvelinusalpinus.jpg
 | image descr = 
 | regnum = Ракшат
-| phylum = [[Хордовоень]]
-| subphylum = [[Каряз мартот]]
-| superclassis = [[Калт]]
-| classis = [[Ловажа марто калт]]
-| subclassis = [[Лучепёрые]]
-| ordo = 
-| familia = [[Лососень]]
-| genus = ''[[Salvelinus]]''
-| species = '''Модарькакал'''
-| latin = {{Btname|Salvelinus|(Linnaeus, [[1758]])}}
-| section name = Синонимы
-| section text =
-{{Btname|Salvelinus|(Linnaeus, [[1758]])}}
+| parent = Salmoninae
+| rang = Кано
+| latin = Salvelinus
+| author =[[Richardson]], [[1836 год|1836]]
+| wikispecies = Salvelinus
 }}
-'''Модарькакал''' — те [[кал]] ''лососёвоень'' (Salmonidae) буестэ ''семиясто'' — ({{Lang-lat|''Salvelinus''}}). 
+'''Модарькакал''' (лиякс '''Кивкал'''<ref>Эрзянь-рузонь валкс: малава 27 000 валт. витницязо.Б.А.Серебренниковонь, филол. наукань доктортнэнь Р.Н.Бузаковань, М.В.Мосинэнь.— Москов: Тип. «Русский язык», «Дигора» 1993.— 804 с.— Рус, эрзян. ISBN 5-200-01585-5.,{{ref-ru}}, {{ref-myv}}</ref>) — те [[кал]] ''лососёвоень'' (Salmonidae) буестэ ''семиясто'' — ({{Lang-lat|''Salvelinus''}}). 
 
 
+{{lisj}}
 
 [[Категория:Калт]]
 [[Категория:Лососень]]
