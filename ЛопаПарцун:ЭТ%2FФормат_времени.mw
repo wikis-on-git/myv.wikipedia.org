@@ -1,0 +1,6 @@
+{{#if: {{{Шкань каркс|}}} | {{#invoke:Calendar|unitime|{{{Шкань каркс|}}}|{{{DST|}}}}} }}<noinclude>
+{{doc-inline}}
+{{OnLua|Calendar|unitime}}
+Шаблон служил для оформления часового пояса в карточке {{t|ЭТ}}.
+{{doc-end}}
+</noinclude>
