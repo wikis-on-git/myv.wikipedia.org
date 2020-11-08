@@ -1,54 +1,33 @@
-{{Таксономиясь
-|name =Алашань тикше
-|latin =Petroselinum alba
-|image file =Parsley bush.jpg
-|image descr =Алашань тикше (''Petroselinum alba'')
-|superregnum =
-|subregnum = 
-|раздел =
-|superphylum =
-|phylum = 
-|subphylum =
-|superdivisio =
-|divisio =
-|subdivisio = 
-|superclassis =
-|classis = 
-|subclassis =
-|infraclassis =
-|superordo =
-|ordo = 
-|subordo =
-|infraordo =
-|superfamilia =
-|familia = 
-|subfamilia =
-|tribus =
-|genus =
-|subgenus =
-|species =
-|subspecies =
-|unranked =
-|range map =
-| wikispecies       =Petroselinum
-| commons           =Category:Petroselinum
+{{Таксон
+| regnum            = Касыкст
+| image file = Petroselinum.jpg
+| image title = 
+| image descr = 
+| parent            = Petroselinum
+| rang              = Чачо
+| latin             = Petroselinum alba
+| author            = ([[Mill.]]) [[Fuss]], 1866
+| syn               = 	
+| children name     = 
+| children          = 
+| range map         = 
+| range map caption = 
+| range map width   = 
+| range legend      = 
+| iucnstatus        = 
 | iucn              = 
-| itis              = 
-| ncbi              = 
-| eol               = 
-| grin             = 
-| ipni              = 
+| wikispecies = Petroselinum
+| commons = Category:Petroselinum
+| grin              = 27448
 }}
-
-'''Алашань тикше'''<ref name="Агафонова Н">Агафонова Н. А., Алёшкина Р. А., Гребнева А. М., Имайкина М. Д., Мосин М. В., Рузанкин Н. И., Тихонова Т. М., Цыганкин Д. В., Харитонова А. М., Цыпайкина В. П.; Гаврилова Т. Г. (отв. секретарь). Вейсэ, башка, тешкс вельде (Слитно, раздельно, через дефис). Словарь трудностей эрзянского языка. Саранск, 2001. - 172с{{ref-ru}}, {{ref-myv}}</ref>, лиякс: '''Алашань анис''' ({{lang-la|Petroselinum alba}}, {{lang-ru| ''Петрушка кудрявая''}}) — ламо иень перть касыця тикше зонтичноень семиясто. 
+'''Алашань тикше'''<ref name="Агафонова Н">Агафонова Н. А., Алёшкина Р. А., Гребнева А. М., Имайкина М. Д., Мосин М. В., Рузанкин Н. И., Тихонова Т. М., Цыганкин Д. В., Харитонова А. М., Цыпайкина В. П.; Гаврилова Т. Г. (отв. секретарь). Вейсэ, башка, тешкс вельде (Слитно, раздельно, через дефис). Словарь трудностей эрзянского языка. Саранск, 2001. - 172с{{ref-ru}}, {{ref-myv}}</ref>, лиякс: '''алашань анис<ref name="ЭРС27"> Эрзянско-русский словарь: Ок. 27 000 слов / НИИ языка, литературы, истории и экономики при Правительстве Мордовской ССР; под ред. Серебренникова Б.А., Бузаковой Р.Н., Мосина М.В. — М.: Рус. яз., Дигора, 1993. 803 с. — ISBN 5-200-01585-5 {{ref-ru}}, {{ref-myv}}</ref>''' ({{lang-la|Petroselinum alba}}, {{lang-ru| ''Петрушка кудрявая''}}) — ламо иень перть касыця тикше зонтичноень семиясто. 
 
 Ундоксозо эчке. Нетьксэнзэ сэрей прясто рацяня лопанзо човинеть, пек керсевезь. Нетьксэнть прясо зонтикень кондямо цецянь пурнавкс. Цецянзо [[ашо|ашот]], али ашола-[[якстере|якстереть]]. 
 
 Те — ядов тикше<ref name="Агафонова Н"/>, сонзе эйстэ ормалгады кодоютконь [[ракшат]]не. Касы [[лей]] чирева, куракш юткова.
-== Лисьм.: ==
-<references /> 
 
-{{stub}}
+
+{{Lisj}}
 
 [[Category:Тикшеть|А]]
 [[Category:Ядовт|А]]
