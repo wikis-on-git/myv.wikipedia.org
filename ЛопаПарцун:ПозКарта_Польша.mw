@@ -1,0 +1,13 @@
+{{#switch:{{{1}}}
+| name   = Польша
+| top    = 55.2
+| bottom = 48.7
+| left   = 13.8
+| right  = 24.5
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Poland.svg
+ |#default = Poland adm location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Польша}}
+
+</noinclude>
