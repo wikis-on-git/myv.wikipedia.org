@@ -1,19 +1,16 @@
-{{Таксономиясь
-| name = Шарапуло
-| image file = Ondatra zibethicus FWS.jpg
-| regnum = Ракшат
-| phylum = [[Хордовоень]]
-| subphylum = [[Карязмартот]]
-| classis = [[Ловцосотрицят]]
-| infraclassis = [[Плацентарные]]
-| ordo = [[Калгыйть]]
-| familia = [[Кажварчынькань]]
-| subfamilia = Полёвковые
-| genus = '''Шарапулот'''
-| species = ''Шарапуло''
-| latin = {{Btname|Ondatra zibethicus|(Linnaeus, 1766)}}
+{{Таксон
+| image file = Bisamratte.jpg
+| image descr = 
+| regnum     = Ракшат
+| parent     = Ondatra 
+| rang       = Чачо
+| latin      = Ondatra zibethicus
+| author     = ([[Linnaeus]], [[1766]])
+| iucnstatus = LC
+| commons = Category:Ondatra zibethicus
 | wikispecies = Ondatra zibethicus
-| commons = Ondatra zibethicus
+| range map = Verbreitungsgebiet Bisamratten.jpg
+| range legend = 
 }}
 '''Шарапуло''' (Ведькатка) ({{lang-la|Ondatra zibethicus}}, {{lang-ru|Ондатра}}) — те идем [[ракшат|ракша]].
 
