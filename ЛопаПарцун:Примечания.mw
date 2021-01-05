@@ -1,26 +1,57 @@
-<div class="references-small <!--
- -->{{#if: {{{colwidth|}}}
+<div class="reflist {{#if: {{{colwidth|}}}
     | columns
     | {{#if: {{{1|}}}
-      | {{#ifeq: {{{1}}} | 1 || columns }}
-      | 
+      | {{#iferror: {{#ifexpr: {{{1}}} > 1 }}
+        | {{#switch: {{{1}}}
+          | узкие = columns reflist-narrow
+          | широкие = columns reflist-wide
+          | #default = columns<!-- 30em & invalid params -->
+          }}
+        | {{#switch: {{{1}}}
+          | 1 = 
+          | 2 | 3 = columns
+          | #default = columns reflist-narrow
+          }}
+        }}
+      | columns
       }}
-    }}" <!--
- -->style="<!--
- -->{{#if: {{{colwidth|}}}
-    | column-width:{{{colwidth}}};<!--
-   -->-moz-column-width:{{{colwidth}}};<!--
-   -->-webkit-column-width:{{{colwidth}}};
+    }}" style="{{#if: {{{colwidth|}}}
+    | {{column-width|1={{{colwidth}}}}}
     | {{#if: {{{1|}}}
       | {{#iferror: {{#ifexpr: {{{1}}} > 1 }}
-        | column-width:{{{1}}};<!--
-       -->-moz-column-width:{{{1}}};<!--
-       -->-webkit-column-width:{{{1}}};
-        | column-count:{{{1}}};<!--
-       -->-moz-column-count:{{{1}}};<!--
-       -->-webkit-column-count:{{{1}}};
+        | {{#switch: {{{1}}}
+          | узкие | широкие = 
+          | #default = {{column-width|1={{{1}}}}}
+          }}
         }}
       }}
-    }}">
-{{#tag:references|{{{refs|}}}|group={{{group|{{{группа|}}}}}}}}
-</div><noinclude>{{doc}}</noinclude>
+    }} list-style-type: {{{liststyle|{{#switch: {{{group|}}}
+    | upper-alpha
+    | upper-roman
+    | lower-alpha
+    | lower-greek
+    | lower-roman = {{{group}}}
+    | #default = decimal
+    }}}}};">
+{{#tag: references |{{{refs|}}}| group = {{{group|{{{группа|}}}}}} | responsive = {{#if: {{{colwidth|}}}
+  | 0
+  | {{#if: {{{1|}}}
+    | {{#iferror: {{#expr: {{{1}}} > 1 }}
+      | {{#switch: {{{1}}}
+        | узкие | широкие = 1
+        | #default = 0<!-- 30em & invalid params -->
+        }}
+      | {{#switch: {{{1}}}
+        | 1 = 0
+        | #default = 1
+        }}
+      }}
+    | 1
+    }}
+  }}
+}}</div>{{#invoke: Check for unknown parameters | check
+| unknown = {{#if: {{NAMESPACE}} || [[Категория:Википедия:Страницы с некорректным использованием шаблонов:Примечания|_VALUE_{{PAGENAME}}]] }}
+| preview = Страница использует [[ЛопПарцун:Примечания]] с неизвестным параметром «_VALUE_»
+| ignoreblank = y
+| 1 | colwidth | group | liststyle | refs
+}}<noinclude>{{doc}}</noinclude>
