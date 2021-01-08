@@ -1,3 +1,1 @@
-{{nobr|{{formatnum:{{replace|{{{1|}}}|,|.}}}}{{#if:{{{2|}}}|&nbsp;{{{2|}}}}}<!--end formatnum-->}}<noinclude><!--
-Пожалуйста, добавляйте категории только на страницу документации.
--->{{doc}}</noinclude>
+{{#if:{{{1|}}}|{{nobr|{{formatnum:{{replace|{{{1|}}}|,|.}}}}{{#if:{{{2|}}}|&nbsp;{{{2|}}}}}<!--end formatnum-->}}}}<noinclude>{{doc}}</noinclude>
