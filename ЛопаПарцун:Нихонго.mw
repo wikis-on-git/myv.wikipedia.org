@@ -1,0 +1,4 @@
+<includeonly>{{{1}}}&#32;<span style="font-weight: normal;">({{lang-ja|{{{2}}}}}{{#if: {{{3|}}}|&#32;''{{{3}}}''}}{{#if: {{{4|{{{extra|}}}}}}|,&#32;{{{4|{{{extra}}}}}}}}){{#if: {{{5|{{{extra2|}}}}}}|&#32;{{{5|{{{extra2}}}}}}}}</span></includeonly><noinclude>
+{{doc}}
+[[Категория:Шаблоны языков|{{PAGENAME}}]]
+</noinclude>
