@@ -1,4 +1,4 @@
-{| style="margin: 0 0 0.5em 0.5em; float: {{{float}}}; width: {{{width}}}px; text-align: center;" class="wikitable"
+{| style="margin: 0 0 0.5em 0.5em; float: {{{float}}}; width: {{{width}}}px; text-align: center; margin-left:auto; margin-right:auto;" class="wikitable"
 |-
 |style="padding:0;" class="toccolours"| [[File:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|<includeonly>{{{width}}}</includeonly><noinclude>
 400</noinclude>px|]]
