@@ -1,1 +1,3 @@
-universal
+{{#invoke:Universal infocard|render}}<noinclude>
+{{doc}}
+</noinclude>
