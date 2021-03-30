@@ -1,0 +1,84 @@
+__NOTOC__
+{{Порталы}}
+{{Политические порталы}}
+{| width="100%" cellpadding="5" cellspacing="10" style="background: none; border-style:solid; border-width:3px; border-color: Red;"
+| width="55%" valign="top" style="padding: 0; margin:0;" | 
+<div style="float:right; width:100%">
+
+<div class="radius" style="margin-bottom:.4em; padding:.1em; background:#dF0000; text-align:center; font-size:170%">[[Image:Hammer and sickle nobg.svg|40px]] <font color=gold>'''КОММУНИЗМ'''</font> [[Image:Hammer and sickle nobg.svg|40px]]</div>
+<!-- This portal was created using subst:box portal skeleton  -->
+<!-- {| width="100%" cellpadding="5" cellspacing="10" style="background: Yellow; border-style:solid; border-width:3px; border-color: Red;" 
+{{browsebar}} -->__NOTOC__
+----
+{{Политические порталы}}
+{{Портал:Коммунизм/Навигация}}
+{{#ifexist:Портал:Коммунизм/Закладки|{{/Закладки}} }}
+<!-- {{/Intro-box-header|<big>Коммунизм</big>|Портал:Коммунизм/Введение}} -->
+{{#ifexist:Портал:Коммунизм/Введение|{{Портал:Коммунизм/Введение}} }}
+{{box-footer}}
+
+{{/box-header|Избранная статья|Портал:Коммунизм/Избранная статья}}
+{{#ifexist:Портал:Коммунизм/Избранная статья|{{Портал:Коммунизм/Избранная статья}} }}
+{{box-footer|[[Портал:Коммунизм/Избранная статья/Архив|Архив]]}}
+</div>
+
+<div style="float:right; width:40%">
+<!--
+{{/box-header|Новости|Портал:Коммунизм/Новости/{{CURRENTDAY}}-{{CURRENTMONTHNAMEGEN}}-{{CURRENTYEAR}}}}
+{{#ifexist:Портал:Коммунизм/Новости/{{CURRENTDAY}}-{{CURRENTMONTHNAMEGEN}}-{{CURRENTYEAR}}|{{Портал:Коммунизм/Новости/{{CURRENTDAY}}-{{CURRENTMONTHNAMEGEN}}-{{CURRENTYEAR}}}} }}
+{{box-footer|[[Портал:Коммунизм/Новости/Архив|Архив]]}}
+
+{{/box-header|Новости|Портал:Коммунизм/В этот день/{{CURRENTDAY}}-{{CURRENTMONTHNAMEGEN}}}}
+{{#ifexist:Портал:Коммунизм/В этот день/{{CURRENTDAY}}-{{CURRENTMONTHNAMEGEN}}|{{Портал:Коммунизм/В этот день/{{CURRENTDAY}}-{{CURRENTMONTHNAMEGEN}}}} }}
+{{box-footer|[[Портал:Коммунизм/Новости/Архив|Архив]]}}
+
+{{/box-header|Новости|Портал:Коммунизм/На этой неделе/{{CURRENTWEEK}}}}
+{{#ifexist:Портал:Коммунизм/На этой неделе/{{CURRENTWEEK}}-неделя|{{Портал:Коммунизм/На этой неделе/{{CURRENTWEEK}}-неделя}} }}
+{{box-footer|[[Портал:Коммунизм/Новости/Архив|Архив]]}}
+-->
+{{/box-header|Избранная личность|Портал:Коммунизм/Избранная личность}}
+{{#ifexist:Портал:Коммунизм/Избранная личность|{{Портал:Коммунизм/Избранная личность}} }}
+{{box-footer|<!-- [[Портал:Коммунизм/Избранная личность/Архив|Архив]] -->}}
+
+{{/box-header|Категории|Портал:Коммунизм/Категории}}
+{{#ifexist:Портал:Коммунизм/Категории|{{Портал:Коммунизм/Категории}} }}
+{{box-footer|[[:Категория:Коммунизм|Другие категории…]]}}
+</div>
+
+<div style="float:left; width:55%">
+{{/box-header|Избранное изображение|Портал:Коммунизм/Избранное изображение}}
+{{#ifexist:Портал:Коммунизм/Избранное изображение|{{Портал:Коммунизм/Избранное изображение}} }}
+{{box-footer|<!-- [[Портал:Коммунизм/Избранное изображение/Архив|Архив]] -->}}
+</div>
+<div style="float:left; width:55%">
+{{/box-header|Знаете ли вы, что…|Портал:Коммунизм/Знаете ли вы}}
+{{#ifexist:Портал:Коммунизм/Знаете ли вы|{{Портал:Коммунизм/Знаете ли вы}} }}
+{{box-footer|[[Портал:Коммунизм/Знаете ли вы/Архив|Архив]]}}
+
+{{/box-header|Новые статьи|Портал:Коммунизм/Новые статьи}}
+{{#ifexist:Портал:Коммунизм/Новые статьи|{{Портал:Коммунизм/Новые статьи}} }}
+{{box-footer}}
+
+{{/box-header|Как я могу помочь|Портал:Коммунизм/Как я могу помочь}}
+{{#ifexist:Портал:Коммунизм/Как я могу помочь|{{Портал:Коммунизм/Как я могу помочь}} }}
+{{box-footer}}
+
+{{/box-header|Статьи|Портал:Коммунизм/Статьи}}
+{{#ifexist:Портал:Коммунизм/Статьи|{{Портал:Коммунизм/Статьи}} }}
+{{box-footer}}
+
+{{/box-header|Проекты|Портал:Коммунизм/Проекты}}
+{{#ifexist:Портал:Коммунизм/Проекты|{{Портал:Коммунизм/Проекты}} }}
+{{box-footer}}
+
+</div>
+
+<div style="float:center; width:100%;">
+{{/box-header|Родственные Порталы|{{FULLPAGENAME}}/Порталы}}
+{{#ifexist:{{FULLPAGENAME}}/Порталы|{{{{FULLPAGENAME}}/Порталы}} }}
+{{box-footer}}
+</div>
+__NOTOC__ __NOEDITSECTION__
+
+[[Категория:Порталы в разработке|Коммунизм]]<!-- Уберите эту категорию после того как доделаете портал. -->
+[[Категория:Портал:Политика]]
