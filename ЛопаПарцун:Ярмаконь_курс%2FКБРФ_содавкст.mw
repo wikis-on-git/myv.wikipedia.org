@@ -1,20 +1,20 @@
 <noinclude>
 <!--
-Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=16.04.2021.
+Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=20.04.2021.
 Пожалуйста не модифицируйте её вручную, ваши изменения будут затёрты при очередном обновлении.
 
-This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=16.04.2021.
+This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=20.04.2021.
 Please do not modify this page. Your changes will be overwritten by bot during the next update.
 -->
 {{doc}}
 
 </noinclude>
 {{#switch: {{{1}}}
-  | Date = 2021-04-16
+  | Date = 2021-04-20
   | AMD = 0.14
   | AUD = 59
-  | AZN = 45
-  | BGN = 47
+  | AZN = 44
+  | BGN = 46
   | BRL = 13
   | BYN = 29
   | CAD = 61
@@ -22,28 +22,28 @@ Please do not modify this page. Your changes will be overwritten by bot during t
   | CNY = 11
   | CZK = 3.5
   | DKK = 12
-  | EUR = 92
-  | GBP = 106
-  | HKD = 9.9
+  | EUR = 91
+  | GBP = 105
+  | HKD = 9.8
   | HUF = 0.25
   | INR = 1
   | JPY = 0.7
-  | KGS = 0.9
+  | KGS = 0.89
   | KRW = 0.068
   | KZT = 0.17
-  | MDL = 4.3
+  | MDL = 4.2
   | NOK = 9.1
   | PLN = 20
   | RON = 18
   | RUB = 1
   | SEK = 9
   | SGD = 57
-  | TJS = 6.7
-  | TMT = 22
-  | TRY = 9.5
+  | TJS = 6.6
+  | TMT = 21
+  | TRY = 9.4
   | UAH = 2.7
   | USD = 76
-  | UZS = 0.0073
+  | UZS = 0.0072
   | XDR = 109
   | ZAR = 5.3
 }}
