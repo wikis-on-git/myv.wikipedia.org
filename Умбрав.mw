@@ -1,43 +1,21 @@
-{{Таксономиясь
-|name =Умбрав
-|latin = Rumex
-|image file =(MHNT) Rumex acetosa - Habit.jpg
-|image descr = Чапамо умбрав
-|superregnum =
-|subregnum = 
-|раздел =
-|superphylum =
-|phylum = 
-|subphylum =
-|superdivisio =
-|divisio =
-|subdivisio = 
-|superclassis =
-|classis = 
-|subclassis =
-|infraclassis =
-|superordo =
-|ordo = 
-|subordo =
-|infraordo =
-|superfamilia =
-|familia = 
-|subfamilia =
-|tribus =
-|genus =
-|subgenus =
-|species =
-|subspecies =
-|unranked =
-|range map =
-| wikispecies       = Rumex
-| commons           =Category:Rumex
-| iucn              = 
-| itis              = 
-| ncbi              = 
-| eol               = 
-| grin             = 10584
-| ipni              = 
+{{Таксон
+ | name              = Умбрав
+ | image file        = (MHNT) Rumex acetosa - Habit.jpg
+ | image title       = Rumex acetosa
+ | image descr       = 
+ | regnum            = Касыкст
+ | ref               = 
+ | comment           = 
+ | rang              = Кано
+ | latin             = Rumex
+ | author            = [[L.]], 1753
+ | syn               = 
+ | typus             = 
+ | children name     = 
+ | children          = 
+ | wikispecies       = Rumex
+ | commons           = Category:Rumex
+ | grin              = 10584
 }}
 '''Умбрав<ref name="Русско-эрзянский ботанический">Русско-эрзянский ботанический словарь (названия сосудистых): Ок.  1600 назв.  /А. М. Гребнева, В. В. Лещанкина.— Саранск: Тип. «Крас. Окт.», 2002.— 60 с.— Рус, эрзян. ISBN 5-7493-0433-7.,{{ref-ru}},{{ref-myv}}</ref>''' ({{lang-la|Rúmex}}, {{lang-ru| ''Щавель''}}) — буе вейке- ды ламоиень [[тикше]] ды пельскуракшт Ликшань семиястонть (Polygonaceae). Лапужа лопанзо марто.
 
@@ -53,8 +31,8 @@
 * ({{Lang-lat|Rúmex críspus}}, {{lang-ru| ''Щавель курчавый''}})  - '''''[[Атякшонь морамо|атякшонь морамо]]'''''<ref name="Русско-эрзянский ботанический"/>. 
 * ({{Lang-lat|Rumex Hydrolapathum}}, {{lang-ru| ''Вороньи пучки''}})  - '''''элди чурамъ начька'''''<ref name="Н. И. Анненковъ">Н. И. Анненковъ. Ботаническій словарь. — СПб.: Имп. Академія наукъ, 1878. — С. 306{{ref-ru}}</ref>
 == Содамоёвкст ==
-== Лисьм.: ==
-<references />
+
+{{lisj}}
 
 [[Категория:Биология|У]]
 [[Категория:Ярсамопель|У]]
