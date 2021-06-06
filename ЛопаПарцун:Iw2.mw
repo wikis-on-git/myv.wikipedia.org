@@ -1,0 +1,13 @@
+<includeonly><!--
+-->{{#ifexist: {{{1|}}}
+    | <span style="background: #ffff00;">[[{{{1|}}}{{#if: {{{2|}}} | {{!}}{{{2|}}} | }}]]</span><!-- 
+   --><sup>[[ЛопаПарцун:Iw2#После перевода|<nowiki>[убрать шаблон]</nowiki>]]</sup><!--
+   -->
+    | <!--
+    -->[[{{{1|}}}{{#if: {{{2|}}} | {{!}}{{{2}}} }}]]<!--
+    --><span class="link-myv" style="font-size:80%; margin-left:.2em; position: relative; top: -.4em;" ><!--
+      -->([[:{{#if: {{{3|}}} | {{{3}}} | en }}:<!--
+         -->{{#if: {{{4|}}} | {{{4}}} | {{{1|}}} }}{{!}}<!--
+         -->{{#if: {{{3|}}} | {{{3}}} | en }}]])</span><!--
+-->}}</includeonly><noinclude>
+{{doc}}[[Категория:Невтевкст]]</noinclude>
