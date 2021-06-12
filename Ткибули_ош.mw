@@ -11,8 +11,8 @@
  |описание флага          = 
  |ширина герба            = 
  |ширина флага            = 
-  |lat_dir = |lat_deg = 42|lat_min = 20|lat_sec = 39
-  |lon_dir = |lon_deg = 42|lon_min = 59|lon_sec = 24
+  |lat_dir = |lat_deg = 42|lat_min = 21|lat_sec = 01
+  |lon_dir = |lon_deg = 42|lon_min = 59|lon_sec = 54
   |CoordAddon             = type:city(1250000)_region:GE
   |CoordScale             = 
  |размер карты страны     = 
