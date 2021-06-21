@@ -175,7 +175,7 @@
 |викиданные43     = p856
 
 |стиль_внизу1     = padding: 0 1px 1px 0;
-|внизу1           = {{#if:{{{lat_deg|}}}{{wikidata|p625|plain=true}}|{{#ifeq: {{{карта страны|}}}{{{карта региона|}}}{{{карта района|}}}| 000 || {{#ifexpr: {{REVISIONSIZE}} < 10240 | <div class="mw-customtoggle-maps1 noprint" style="background:#dcebff; padding: 1px 0; min-width: 297px; width: 100%;"><span style="border-bottom:1px dotted;">Показать/скрыть карты</span></div>
+|внизу1           = {{#if:{{{lat_deg|}}}{{wikidata|p625|plain=true}}|{{#ifeq: {{{карта страны|}}}{{{карта региона|}}}{{{карта района|}}}| 000 || {{#ifexpr: {{REVISIONSIZE}} < 10240 | <div class="mw-customtoggle-maps1 noprint" style="background:#dcebff; padding: 1px 0; min-width: 297px; width: 100%;"><span style="border-bottom:1px dotted;">Невтэмс /сёпомс картат/span></div>
 <div class="mw-collapsible {{#if:{{{развернуть карты|}}}||mw-collapsed}}" id="mw-customcollapsible-maps1">
 <div class="mw-collapsible-content" style="margin-top: 2px;">}}}}{{#if:{{{основные НП на карте|}}}|{{wikidata-coords|ЭТ/ПозКарта+
       |эрзянь лем           = {{карточка/лем|{{{эрзянь лем|}}}}}
