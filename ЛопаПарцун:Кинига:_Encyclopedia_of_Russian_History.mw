@@ -1,0 +1,19 @@
+{{Кинига
+ | автор         = {{{автор|}}}
+ | часть         = {{{часть|}}}{{#if: {{{часть|}}}|{{ref-en}}|}}
+ | ссылка часть  = {{{ссылка|}}}
+ | заглавие      = ''[[Encyclopedia of Russian History]]''{{#if: {{{часть|}}}||{{ref-en}}}}
+ | оригинал      = 
+ | ссылка        = 
+ | ответственный = Ed.-in-Chief {{Nobr|[[:en:James R. Millar|J. R. Millar]]}}
+ | издание       = 
+ | место         = New York
+ | издательство  = [[:en:Gale (publisher)|Macmillan Reference USA]]
+ | год           = 2004
+ | pages      = {{{страницы|}}}
+ | allpages       = {{#if: {{{страницы|}}}||xcvii, 1828}}
+ | серия         = 
+ | isbn          = 0-02-865907-4
+ | ref           = {{{ref|}}}
+}}<noinclude>{{doc}}{{DEFAULTSORT:Encyclopedia of Russian History}}
+[[Категория:Шаблонт]]</noinclude>
