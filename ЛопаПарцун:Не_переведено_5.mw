@@ -1,4 +1,1 @@
-<includeonly>{{{{{|safesubst:}}}ifsubst
-|1={{subst:#invoke:Languages|unwrapIW|title={{{title|{{{надо|{{{1}}}}}}}}}|text={{{text|{{{текст|{{{2|}}}}}}}}}}}
-|2={{#invoke:Languages|getIW|title={{{title|{{{надо|{{{1}}}}}}}}}|text={{{text|{{{текст|{{{2|}}}}}}}}}|lang={{{lang|{{{язык|{{{3|}}}}}}}}}|page={{{page|{{{есть|{{{4|}}}}}}}}}|state={{{status|{{{статус|{{{5|}}}}}}}}}|nocat={{{nocat|}}}}}
-}}</includeonly><noinclude>{{doc}} <!-- Категории на странице документации. --></noinclude>
+#перенаправление [[ЛопаПарцун:Iw2]]
