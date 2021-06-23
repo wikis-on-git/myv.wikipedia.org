@@ -1,0 +1,62 @@
+<includeonly>
+<table style="background-color:{{{color|black}}}; border-collapse:collapse; border:{{{border|1}}}px solid {{{color_border|black}}}" {{#if:{{{position|}}}|align="{{{position}}}"}}> 
+<tr><td style="border-top:0; padding:{{{spacing|1}}}px 0px 0px {{{spacing|1}}}px">
+        {{#if:{{{photo7a|}}}|
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo1a|}}}|1|0}}+{{#if:{{{photo1b|}}}|1|0}}+{{#if:{{{photo1c|}}}|1|0}}+{{#if:{{{photo1d|}}}|1|0}}+{{#if:{{{photo1e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo1a|}}}|{{{photo1b|}}}|{{{photo1c|}}}|{{{photo1d|}}}|{{{photo1e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo2a|}}}|1|0}}+{{#if:{{{photo2b|}}}|1|0}}+{{#if:{{{photo2c|}}}|1|0}}+{{#if:{{{photo2d|}}}|1|0}}+{{#if:{{{photo2e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo2a|}}}|{{{photo2b|}}}|{{{photo2c|}}}|{{{photo2d|}}}|{{{photo2e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo3a|}}}|1|0}}+{{#if:{{{photo3b|}}}|1|0}}+{{#if:{{{photo3c|}}}|1|0}}+{{#if:{{{photo3d|}}}|1|0}}+{{#if:{{{photo3e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo3a|}}}|{{{photo3b|}}}|{{{photo3c|}}}|{{{photo3d|}}}|{{{photo3e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo4a|}}}|1|0}}+{{#if:{{{photo4b|}}}|1|0}}+{{#if:{{{photo4c|}}}|1|0}}+{{#if:{{{photo4d|}}}|1|0}}+{{#if:{{{photo4e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo4a|}}}|{{{photo4b|}}}|{{{photo4c|}}}|{{{photo4d|}}}|{{{photo4e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo5a|}}}|1|0}}+{{#if:{{{photo5b|}}}|1|0}}+{{#if:{{{photo5c|}}}|1|0}}+{{#if:{{{photo5d|}}}|1|0}}+{{#if:{{{photo5e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo5a|}}}|{{{photo5b|}}}|{{{photo5c|}}}|{{{photo5d|}}}|{{{photo5e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo6a|}}}|1|0}}+{{#if:{{{photo6b|}}}|1|0}}+{{#if:{{{photo6c|}}}|1|0}}+{{#if:{{{photo6d|}}}|1|0}}+{{#if:{{{photo6e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo6a|}}}|{{{photo6b|}}}|{{{photo6c|}}}|{{{photo6d|}}}|{{{photo6e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo7a|}}}|1|0}}+{{#if:{{{photo7b|}}}|1|0}}+{{#if:{{{photo7c|}}}|1|0}}+{{#if:{{{photo7d|}}}|1|0}}+{{#if:{{{photo7e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo7a|}}}|{{{photo7b|}}}|{{{photo7c|}}}|{{{photo7d|}}}|{{{photo7e|}}}}}
+|
+        {{#if:{{{photo6a|}}}|
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo1c|}}}|1|0}}+{{#if:{{{photo1b|}}}|1|0}}+{{#if:{{{photo1c|}}}|1|0}}+{{#if:{{{photo1d|}}}|1|0}}+{{#if:{{{photo1e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo1a|}}}|{{{photo1b|}}}|{{{photo1c|}}}|{{{photo1d|}}}|{{{photo1e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo2a|}}}|1|0}}+{{#if:{{{photo2b|}}}|1|0}}+{{#if:{{{photo2c|}}}|1|0}}+{{#if:{{{photo2d|}}}|1|0}}+{{#if:{{{photo2e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo2a|}}}|{{{photo2b|}}}|{{{photo2c|}}}|{{{photo2d|}}}|{{{photo2e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo3a|}}}|1|0}}+{{#if:{{{photo3b|}}}|1|0}}+{{#if:{{{photo3c|}}}|1|0}}+{{#if:{{{photo3d|}}}|1|0}}+{{#if:{{{photo3e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo3a|}}}|{{{photo3b|}}}|{{{photo3c|}}}|{{{photo3d|}}}|{{{photo3e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo4a|}}}|1|0}}+{{#if:{{{photo4b|}}}|1|0}}+{{#if:{{{photo4c|}}}|1|0}}+{{#if:{{{photo4d|}}}|1|0}}+{{#if:{{{photo4e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo4a|}}}|{{{photo4b|}}}|{{{photo4c|}}}|{{{photo4d|}}}|{{{photo4e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo5a|}}}|1|0}}+{{#if:{{{photo5b|}}}|1|0}}+{{#if:{{{photo5c|}}}|1|0}}+{{#if:{{{photo5d|}}}|1|0}}+{{#if:{{{photo5e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo5a|}}}|{{{photo5b|}}}|{{{photo5c|}}}|{{{photo5d|}}}|{{{photo5e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo6a|}}}|1|0}}+{{#if:{{{photo6b|}}}|1|0}}+{{#if:{{{photo6c|}}}|1|0}}+{{#if:{{{photo6d|}}}|1|0}}+{{#if:{{{photo6e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo6a|}}}|{{{photo6b|}}}|{{{photo6c|}}}|{{{photo6d|}}}|{{{photo6e|}}}}}
+|
+        {{#if:{{{photo5a|}}}|
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo1c|}}}|1|0}}+{{#if:{{{photo1b|}}}|1|0}}+{{#if:{{{photo1c|}}}|1|0}}+{{#if:{{{photo1d|}}}|1|0}}+{{#if:{{{photo1e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo1a|}}}|{{{photo1b|}}}|{{{photo1c|}}}|{{{photo1d|}}}|{{{photo1e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo2a|}}}|1|0}}+{{#if:{{{photo2b|}}}|1|0}}+{{#if:{{{photo2c|}}}|1|0}}+{{#if:{{{photo2d|}}}|1|0}}+{{#if:{{{photo2e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo2a|}}}|{{{photo2b|}}}|{{{photo2c|}}}|{{{photo2d|}}}|{{{photo2e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo3a|}}}|1|0}}+{{#if:{{{photo3b|}}}|1|0}}+{{#if:{{{photo3c|}}}|1|0}}+{{#if:{{{photo3d|}}}|1|0}}+{{#if:{{{photo3e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo3a|}}}|{{{photo3b|}}}|{{{photo3c|}}}|{{{photo3d|}}}|{{{photo3e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo4a|}}}|1|0}}+{{#if:{{{photo4b|}}}|1|0}}+{{#if:{{{photo4c|}}}|1|0}}+{{#if:{{{photo4d|}}}|1|0}}+{{#if:{{{photo4e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo4a|}}}|{{{photo4b|}}}|{{{photo4c|}}}|{{{photo4d|}}}|{{{photo4e|}}}}}
+  {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo5a|}}}|1|0}}+{{#if:{{{photo5b|}}}|1|0}}+{{#if:{{{photo5c|}}}|1|0}}+{{#if:{{{photo5d|}}}|1|0}}+{{#if:{{{photo5e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo5a|}}}|{{{photo5b|}}}|{{{photo5c|}}}|{{{photo5d|}}}|{{{photo5e|}}}}}
+|
+  {{#if:{{{photo4a|}}}|
+    {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo1a|}}}|1|0}}+{{#if:{{{photo1b|}}}|1|0}}+{{#if:{{{photo1c|}}}|1|0}}+{{#if:{{{photo1d|}}}|1|0}}+{{#if:{{{photo1e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo1a|}}}|{{{photo1b|}}}|{{{photo1c|}}}|{{{photo1d|}}}|{{{photo1e|}}}}}
+    {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo2a|}}}|1|0}}+{{#if:{{{photo2b|}}}|1|0}}+{{#if:{{{photo2c|}}}|1|0}}+{{#if:{{{photo2d|}}}|1|0}}+{{#if:{{{photo2e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo2a|}}}|{{{photo2b|}}}|{{{photo2c|}}}|{{{photo2d|}}}|{{{photo2e|}}}}}
+    {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo3a|}}}|1|0}}+{{#if:{{{photo3b|}}}|1|0}}+{{#if:{{{photo3c|}}}|1|0}}+{{#if:{{{photo3d|}}}|1|0}}+{{#if:{{{photo3e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo3a|}}}|{{{photo3b|}}}|{{{photo3c|}}}|{{{photo3d|}}}|{{{photo3e|}}}}}
+    {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo4a|}}}|1|0}}+{{#if:{{{photo4b|}}}|1|0}}+{{#if:{{{photo4c|}}}|1|0}}+{{#if:{{{photo4d|}}}|1|0}}+{{#if:{{{photo4e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo4a|}}}|{{{photo4b|}}}|{{{photo4c|}}}|{{{photo4d|}}}|{{{photo4e|}}}}}
+|
+  {{#if:{{{photo3a|}}}|
+      {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo1a|}}}|1|0}}+{{#if:{{{photo1b|}}}|1|0}}+{{#if:{{{photo1c|}}}|1|0}}+{{#if:{{{photo1d|}}}|1|0}}+{{#if:{{{photo1e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo1a|}}}|{{{photo1b|}}}|{{{photo1c|}}}|{{{photo1d|}}}|{{{photo1e|}}}}}
+      {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo2a|}}}|1|0}}+{{#if:{{{photo2b|}}}|1|0}}+{{#if:{{{photo2c|}}}|1|0}}+{{#if:{{{photo2d|}}}|1|0}}+{{#if:{{{photo2e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo2a|}}}|{{{photo2b|}}}|{{{photo2c|}}}|{{{photo2d|}}}|{{{photo2e|}}}}}
+      {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo3a|}}}|1|0}}+{{#if:{{{photo3b|}}}|1|0}}+{{#if:{{{photo3c|}}}|1|0}}+{{#if:{{{photo3d|}}}|1|0}}+{{#if:{{{photo3e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo3a|}}}|{{{photo3b|}}}|{{{photo3c|}}}|{{{photo3d|}}}|{{{photo3e|}}}}}
+| 
+  {{#if:{{{photo2a|}}}|
+        {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo1a|}}}|1|0}}+{{#if:{{{photo1b|}}}|1|0}}+{{#if:{{{photo1c|}}}|1|0}}+{{#if:{{{photo1d|}}}|1|0}}+{{#if:{{{photo1e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo1a|}}}|{{{photo1b|}}}|{{{photo1c|}}}|{{{photo1d|}}}|{{{photo1e|}}}}}
+        {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo2a|}}}|1|0}}+{{#if:{{{photo2b|}}}|1|0}}+{{#if:{{{photo2c|}}}|1|0}}+{{#if:{{{photo2d|}}}|1|0}}+{{#if:{{{photo2e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo2a|}}}|{{{photo2b|}}}|{{{photo2c|}}}|{{{photo2d|}}}|{{{photo2e|}}}}}
+|
+  {{#if:{{{photo1a|}}}|
+        {{Template:Photomontage/Horizontal|size={{{size|246}}}|spacing={{{spacing|1}}}|quantity={{#expr:{{#if:{{{photo1a|}}}|1|0}}+{{#if:{{{photo1b|}}}|1|0}}+{{#if:{{{photo1c|}}}|1|0}}+{{#if:{{{photo1d|}}}|1|0}}+{{#if:{{{photo1e|}}}|1|0}}}}|color={{{color|black}}}|{{{photo1a|}}}|{{{photo1b|}}}|{{{photo1c|}}}|{{{photo1d|}}}|{{{photo1e|}}}}}
+        }}
+       }}
+      }}
+     }}
+    }}
+   }}
+}}
+</td></tr>
+{{#if:{{{text|}}}|
+<tr><td class="thumbcaption" style="background-color:{{{text_background|#F8F8FF}}};" width="{{{size|246}}}"><small>{{{text|{{{foot|{{{caption}}}}}}}}}</small> </div>
+</td></tr>
+}}
+</table>
+{{#if:{{{foot_montage|}}}|{{{foot_montage}}}}}
+</includeonly><noinclude>
+{{documentation}}
+[[Категория:Шаблонт]]
+</noinclude>
