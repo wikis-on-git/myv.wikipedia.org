@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+| name   = Львовонь ёнкс
+| top    = 50.6390103
+| bottom = 48.7199612
+| left   = 22.6702881
+| right  = 25.4388428
+|image = {{#switch:{{{2|}}}
+ |physical = Lviv province physical map.svg
+ |#default = Lviv Oblast location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Украина}}
+</noinclude>
