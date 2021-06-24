@@ -1,0 +1,41 @@
+
+== Параметры ==
+{{Тарказо
+| Centre    = 
+| North     = 
+| Northeast = 
+| East      = 
+| Southeast = 
+| South     = 
+| Southwest = 
+| West      = 
+| Northwest = 
+| Анклав    = 
+}}
+== Пример ==
+{{Тарказо
+| Centre    = Самбиронь буе 
+| North     = [[Яворивонь буе]]
+| Northeast = [[Львивонь буе]]
+| East      = [[Дрогобычень буе]]
+| Southeast = [[Стрыень буе]]
+| South     = [[Закарпатскоень ёнкс]]
+| Southwest = [[Польша]]
+| West      = [[Польша]]
+| Northwest = [[Польша]]
+| Анклав    = 
+}}
+<pre style="width: 620px;">
+{{Тарказо
+| Centre    = Самбиронь буе 
+| North     = [[Яворивонь буе]]
+| Northeast = [[Львивонь буе]]
+| East      = [[Дрогобычень буе]]
+| Southeast = [[Стрыень буе]]
+| South     = [[Закарпатскоень ёнкс]]
+| Southwest = [[Польша]]
+| West      = [[Польша]]
+| Northwest = [[Польша]]
+| Анклав    = 
+}}
+</pre>
