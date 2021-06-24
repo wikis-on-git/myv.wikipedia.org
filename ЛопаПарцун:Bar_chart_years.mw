@@ -1,0 +1,116 @@
+{{#tag:timeline|
+Colors=
+  id:cSMinor	value:{{#if:{{{Тюс покш шкалы|}}}|{{{Тюс покш шкалы}}}|gray(0.8)}}
+  id:cSMajor	value:{{#if:{{{Тюс вишкине шкалы|}}}|{{{Тюс вишкине шкалы}}}|gray(0.6)}}
+  id:cBar	value:{{#if:{{{Тюс палманькс|}}}|{{{Тюс палманькс}}}|rgb(1,0.75,0.4)}}
+
+Define $periodMin = {{#if:{{{Минимум шкалы|}}}|{{{Минимум шкалы}}}|0}}
+
+ImageSize  = width:{{#if:{{{Келе артовкс|}}}|{{{Келе артовкс}}}|500}} height:{{#if:{{{Сэрь артовкс|}}}|{{{Сэрь артовкс}}}|300}}
+PlotArea   = left:50 bottom:20 top:20 right:30
+DateFormat = x.y
+Period     = from:$periodMin till:{{#if:{{{Максимум шкалы|}}}|{{{Максимум шкалы}}}|30000}}
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:cSMajor increment:{{#if:{{{Эскелькс покш шкалы|}}}|{{{Эскелькс покш шкалы}}}|5000}} start:$periodMin
+ScaleMinor = gridcolor:cSMinor increment:{{#if:{{{Эскелькс вишкине шкалы|}}}|{{{Эскелькс вишкине шкалы}}}|1000}} start:$periodMin
+BackgroundColors = canvas:white
+
+Define $txtform = fontsize:S shift:{{#if:{{{Айгемс тешкс|}}}|{{{Айгемс тешкс}}}|(-{{#expr:floor({{{Сэрь палманькс|20}}}/2)}},5)}}
+Define $value1 = {{#ifeq:{{{Значения1|}}}|н/д|0|{{#if:{{{Значения1|}}}|{{{Значения1}}}|0}} }}
+Define $value2 = {{#ifeq:{{{Значения2|}}}|н/д|0|{{#if:{{{Значения2|}}}|{{{Значения2}}}|0}} }}
+Define $value3 = {{#ifeq:{{{Значения3|}}}|н/д|0|{{#if:{{{Значения3|}}}|{{{Значения3}}}|0}} }}
+Define $value4 = {{#ifeq:{{{Значения4|}}}|н/д|0|{{#if:{{{Значения4|}}}|{{{Значения4}}}|0}} }}
+Define $value5 = {{#ifeq:{{{Значения5|}}}|н/д|0|{{#if:{{{Значения5|}}}|{{{Значения5}}}|0}} }}
+Define $value6 = {{#ifeq:{{{Значения6|}}}|н/д|0|{{#if:{{{Значения6|}}}|{{{Значения6}}}|0}} }}
+Define $value7 = {{#ifeq:{{{Значения7|}}}|н/д|0|{{#if:{{{Значения7|}}}|{{{Значения7}}}|0}} }}
+Define $value8 = {{#ifeq:{{{Значения8|}}}|н/д|0|{{#if:{{{Значения8|}}}|{{{Значения8}}}|0}} }}
+Define $value9 = {{#ifeq:{{{Значения9|}}}|н/д|0|{{#if:{{{Значения9|}}}|{{{Значения9}}}|0}} }}
+Define $value10 = {{#ifeq:{{{Значения10|}}}|н/д|0|{{#if:{{{Значения10|}}}|{{{Значения10}}}|0}} }}
+Define $value11 = {{#ifeq:{{{Значения11|}}}|н/д|0|{{#if:{{{Значения11|}}}|{{{Значения11}}}|0}} }}
+Define $value12 = {{#ifeq:{{{Значения12|}}}|н/д|0|{{#if:{{{Значения12|}}}|{{{Значения12}}}|0}} }}
+Define $value13 = {{#ifeq:{{{Значения13|}}}|н/д|0|{{#if:{{{Значения13|}}}|{{{Значения13}}}|0}} }}
+Define $value14 = {{#ifeq:{{{Значения14|}}}|н/д|0|{{#if:{{{Значения14|}}}|{{{Значения14}}}|0}} }}
+Define $value15 = {{#ifeq:{{{Значения15|}}}|н/д|0|{{#if:{{{Значения15|}}}|{{{Значения15}}}|0}} }}
+Define $value16 = {{#ifeq:{{{Значения16|}}}|н/д|0|{{#if:{{{Значения16|}}}|{{{Значения16}}}|0}} }}
+Define $value17 = {{#ifeq:{{{Значения17|}}}|н/д|0|{{#if:{{{Значения17|}}}|{{{Значения17}}}|0}} }}
+Define $value18 = {{#ifeq:{{{Значения18|}}}|н/д|0|{{#if:{{{Значения18|}}}|{{{Значения18}}}|0}} }}
+Define $value19 = {{#ifeq:{{{Значения19|}}}|н/д|0|{{#if:{{{Значения19|}}}|{{{Значения19}}}|0}} }}
+Define $value20 = {{#ifeq:{{{Значения20|}}}|н/д|0|{{#if:{{{Значения20|}}}|{{{Значения20}}}|0}} }}
+Define $value21 = {{#ifeq:{{{Значения21|}}}|н/д|0|{{#if:{{{Значения21|}}}|{{{Значения21}}}|0}} }}
+Define $value22 = {{#ifeq:{{{Значения22|}}}|н/д|0|{{#if:{{{Значения22|}}}|{{{Значения22}}}|0}} }}
+Define $value23 = {{#ifeq:{{{Значения23|}}}|н/д|0|{{#if:{{{Значения23|}}}|{{{Значения23}}}|0}} }}
+Define $value24 = {{#ifeq:{{{Значения24|}}}|н/д|0|{{#if:{{{Значения24|}}}|{{{Значения24}}}|0}} }}
+Define $value25 = {{#ifeq:{{{Значения25|}}}|н/д|0|{{#if:{{{Значения25|}}}|{{{Значения25}}}|0}} }}
+Define $value26 = {{#ifeq:{{{Значения26|}}}|н/д|0|{{#if:{{{Значения26|}}}|{{{Значения26}}}|0}} }}
+Define $value27 = {{#ifeq:{{{Значения27|}}}|н/д|0|{{#if:{{{Значения27|}}}|{{{Значения27}}}|0}} }}
+Define $value28 = {{#ifeq:{{{Значения28|}}}|н/д|0|{{#if:{{{Значения28|}}}|{{{Значения28}}}|0}} }}
+Define $value29 = {{#ifeq:{{{Значения29|}}}|н/д|0|{{#if:{{{Значения29|}}}|{{{Значения29}}}|0}} }}
+Define $value30 = {{#ifeq:{{{Значения30|}}}|н/д|0|{{#if:{{{Значения30|}}}|{{{Значения30}}}|0}} }}
+
+PlotData=
+  color:cBar width:{{{Сэрь палманькс|20}}} align:left
+  {{#if:{{{Ие1|}}}|bar:{{{Ие1}}}  from:$periodMin till:$value1
+  at:$value1 $txtform text:{{{Тешкс1|{{#ifeq:{{{Значения1|0}}}|н/д|н/д|{{formatnum:{{{Значения1|0}}} }} }} }}}   }}
+  {{#if:{{{Ие2|}}}|bar:{{{Ие2}}}  from:$periodMin till:$value2
+  at:$value2 $txtform text:{{{Тешкс2|{{#ifeq:{{{Значения2|0}}}|н/д|н/д|{{formatnum:{{{Значения2|0}}} }} }} }}}   }}
+  {{#if:{{{Ие3|}}}|bar:{{{Ие3}}}  from:$periodMin till:$value3
+  at:$value3 $txtform text:{{{Тешкс3|{{#ifeq:{{{Значения3|0}}}|н/д|н/д|{{formatnum:{{{Значения3|0}}} }} }} }}}   }}
+  {{#if:{{{Ие4|}}}|bar:{{{Ие4}}}  from:$periodMin till:$value4
+  at:$value4 $txtform text:{{{Тешкс4|{{#ifeq:{{{Значения4|0}}}|н/д|н/д|{{formatnum:{{{Значения4|0}}} }} }} }}}   }}
+  {{#if:{{{Ие5|}}}|bar:{{{Ие5}}}  from:$periodMin till:$value5
+  at:$value5 $txtform text:{{{Тешкс5|{{#ifeq:{{{Значения5|0}}}|н/д|н/д|{{formatnum:{{{Значения5|0}}} }} }} }}}   }}
+  {{#if:{{{Ие6|}}}|bar:{{{Ие6}}}  from:$periodMin till:$value6
+  at:$value6 $txtform text:{{{Тешкс6|{{#ifeq:{{{Значения6|0}}}|н/д|н/д|{{formatnum:{{{Значения6|0}}} }} }} }}}   }}
+  {{#if:{{{Ие7|}}}|bar:{{{Ие7}}}  from:$periodMin till:$value7
+  at:$value7 $txtform text:{{{Тешкс7|{{#ifeq:{{{Значения7|0}}}|н/д|н/д|{{formatnum:{{{Значения7|0}}} }} }} }}}   }}
+  {{#if:{{{Ие8|}}}|bar:{{{Ие8}}}  from:$periodMin till:$value8
+  at:$value8 $txtform text:{{{Тешкс8|{{#ifeq:{{{Значения8|0}}}|н/д|н/д|{{formatnum:{{{Значения8|0}}} }} }} }}}   }}
+  {{#if:{{{Ие9|}}}|bar:{{{Ие9}}}  from:$periodMin till:$value9
+  at:$value9 $txtform text:{{{Тешкс9|{{#ifeq:{{{Значения9|0}}}|н/д|н/д|{{formatnum:{{{Значения9|0}}} }} }} }}}   }}
+  {{#if:{{{Ие10|}}}|bar:{{{Ие10}}}  from:$periodMin till:$value10
+  at:$value10 $txtform text:{{{Тешкс10|{{#ifeq:{{{Значения10|0}}}|н/д|н/д|{{formatnum:{{{Значения10|0}}} }} }} }}}   }}
+  {{#if:{{{Ие11|}}}|bar:{{{Ие11}}}  from:$periodMin till:$value11
+  at:$value11 $txtform text:{{{Тешкс11|{{#ifeq:{{{Значения11|0}}}|н/д|н/д|{{formatnum:{{{Значения11|0}}} }} }} }}}   }}
+  {{#if:{{{Ие12|}}}|bar:{{{Ие12}}}  from:$periodMin till:$value12
+  at:$value12 $txtform text:{{{Тешкс12|{{#ifeq:{{{Значения12|0}}}|н/д|н/д|{{formatnum:{{{Значения12|0}}} }} }} }}}   }}
+  {{#if:{{{Ие13|}}}|bar:{{{Ие13}}}  from:$periodMin till:$value13
+  at:$value13 $txtform text:{{{Тешкс13|{{#ifeq:{{{Значения13|0}}}|н/д|н/д|{{formatnum:{{{Значения13|0}}} }} }} }}}   }}
+  {{#if:{{{Ие14|}}}|bar:{{{Ие14}}}  from:$periodMin till:$value14
+  at:$value14 $txtform text:{{{Тешкс14|{{#ifeq:{{{Значения14|0}}}|н/д|н/д|{{formatnum:{{{Значения14|0}}} }} }} }}}   }}
+  {{#if:{{{Ие15|}}}|bar:{{{Ие15}}}  from:$periodMin till:$value15
+  at:$value15 $txtform text:{{{Тешкс15|{{#ifeq:{{{Значения15|0}}}|н/д|н/д|{{formatnum:{{{Значения15|0}}} }} }} }}}   }}
+  {{#if:{{{Ие16|}}}|bar:{{{Ие16}}}  from:$periodMin till:$value16
+  at:$value16 $txtform text:{{{Тешкс16|{{#ifeq:{{{Значения16|0}}}|н/д|н/д|{{formatnum:{{{Значения16|0}}} }} }} }}}   }}
+  {{#if:{{{Ие17|}}}|bar:{{{Ие17}}}  from:$periodMin till:$value17
+  at:$value17 $txtform text:{{{Тешкс17|{{#ifeq:{{{Значения17|0}}}|н/д|н/д|{{formatnum:{{{Значения17|0}}} }} }} }}}   }}
+  {{#if:{{{Ие18|}}}|bar:{{{Ие18}}}  from:$periodMin till:$value18
+  at:$value18 $txtform text:{{{Тешкс18|{{#ifeq:{{{Значения18|0}}}|н/д|н/д|{{formatnum:{{{Значения18|0}}} }} }} }}}   }}
+  {{#if:{{{Ие19|}}}|bar:{{{Ие19}}}  from:$periodMin till:$value19
+  at:$value19 $txtform text:{{{Тешкс19|{{#ifeq:{{{Значения19|0}}}|н/д|н/д|{{formatnum:{{{Значения19|0}}} }} }} }}}   }}
+  {{#if:{{{Ие20|}}}|bar:{{{Ие20}}}  from:$periodMin till:$value20
+  at:$value20 $txtform text:{{{Тешкс20|{{#ifeq:{{{Значения20|0}}}|н/д|н/д|{{formatnum:{{{Значения20|0}}} }} }} }}}   }}
+  {{#if:{{{Ие21|}}}|bar:{{{Ие21}}}  from:$periodMin till:$value21
+  at:$value21 $txtform text:{{{Тешкс21|{{#ifeq:{{{Значения21|0}}}|н/д|н/д|{{formatnum:{{{Значения21|0}}} }} }} }}}   }}
+  {{#if:{{{Ие22|}}}|bar:{{{Ие22}}}  from:$periodMin till:$value22
+  at:$value22 $txtform text:{{{Тешкс22|{{#ifeq:{{{Значения22|0}}}|н/д|н/д|{{formatnum:{{{Значения22|0}}} }} }} }}}   }}
+  {{#if:{{{Ие23|}}}|bar:{{{Ие23}}}  from:$periodMin till:$value23
+  at:$value23 $txtform text:{{{Тешкс23|{{#ifeq:{{{Значения23|0}}}|н/д|н/д|{{formatnum:{{{Значения23|0}}} }} }} }}}   }}
+  {{#if:{{{Ие24|}}}|bar:{{{Ие24}}}  from:$periodMin till:$value24
+  at:$value24 $txtform text:{{{Тешкс24|{{#ifeq:{{{Значения24|0}}}|н/д|н/д|{{formatnum:{{{Значения24|0}}} }} }} }}}   }}
+  {{#if:{{{Ие25|}}}|bar:{{{Ие25}}}  from:$periodMin till:$value25
+  at:$value25 $txtform text:{{{Тешкс25|{{#ifeq:{{{Значения25|0}}}|н/д|н/д|{{formatnum:{{{Значения25|0}}} }} }} }}}   }}
+  {{#if:{{{Ие26|}}}|bar:{{{Ие26}}}  from:$periodMin till:$value26
+  at:$value26 $txtform text:{{{Тешкс26|{{#ifeq:{{{Значения26|0}}}|н/д|н/д|{{formatnum:{{{Значения26|0}}} }} }} }}}   }}
+  {{#if:{{{Ие27|}}}|bar:{{{Ие27}}}  from:$periodMin till:$value27
+  at:$value27 $txtform text:{{{Тешкс27|{{#ifeq:{{{Значения27|0}}}|н/д|н/д|{{formatnum:{{{Значения27|0}}} }} }} }}}   }}
+  {{#if:{{{Ие28|}}}|bar:{{{Ие28}}}  from:$periodMin till:$value28
+  at:$value28 $txtform text:{{{Тешкс28|{{#ifeq:{{{Значения28|0}}}|н/д|н/д|{{formatnum:{{{Значения28|0}}} }} }} }}}   }}
+  {{#if:{{{Ие29|}}}|bar:{{{Ие29}}}  from:$periodMin till:$value29
+  at:$value29 $txtform text:{{{Тешкс29|{{#ifeq:{{{Значения29|0}}}|н/д|н/д|{{formatnum:{{{Значения29|0}}} }} }} }}}   }}
+  {{#if:{{{Ие30|}}}|bar:{{{Ие30}}}  from:$periodMin till:$value30
+  at:$value30 $txtform text:{{{Тешкс30|{{#ifeq:{{{Значения30|0}}}|н/д|н/д|{{formatnum:{{{Значения30|0}}} }} }} }}}   }}
+
+  }}<noinclude>
+{{Documentation}}
+</noinclude>
