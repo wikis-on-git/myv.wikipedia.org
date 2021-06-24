@@ -1,0 +1,24 @@
+<includeonly><div style="margin:0 auto;overflow:hidden;padding-left:1px">
+{| class="toccolours" style="clear: both; margin:0.5em auto; font-size:95%; text-align:center; width: 80%;"
+| width="5%" style="text-align: center; !important" rowspan="5"|[[file:Compass rose pale.svg|50px|Rose des vents]]
+| width="30%" style="text-align: center; !important" | {{if1|{{{Northwest|{{{Northwest|{{{NW|}}}}}}}}}}}
+| width="30%" style="text-align: center; !important" | {{if1|{{{North|{{{North|{{{N|<br/>}}}}}}}}}}}
+| width="30%" style="text-align: center; !important" | {{if1|{{{Northeast|{{{Northeast|{{{NE|}}}}}}}}}}}
+| width="5%" style="text-align: center; !important" rowspan="5"|[[file:Compass rose pale.svg|50px|Rose des vents]]
+|-
+| width="30%" style="text-align: center; !important" rowspan="3" | {{if1|{{{зх|{{{West|{{{W|}}}}}}}}}}}
+| width="30%" style="text-align: center; !important" | <span style="border: 1px solid; font-size:100%; padding:0.2em 0.5em 0.2em 0.4em; color:#AAAAAA;">'''''N'''''</span>
+| width="30%" style="text-align: center; !important" rowspan="3" | {{if1|{{{сх|{{{East|{{{E|}}}}}}}}}}}
+|-
+| width="30%" style="text-align: center; !important" nowrap="nowrap" | <span style="border: 1px solid; font-size:100%; padding:0.2em 0.5em 0.2em 0.4em; color:#AAAAAA;">'''''W'''''</span>&nbsp;&nbsp;&nbsp; {{if1|'''{{{цэнтр|{{{Centre|{{{Center|{{PAGENAMEBASE}}}}}}}}}}}'''}} &nbsp;&nbsp;&nbsp;<span style="border: 1px solid; font-size:100%; padding:0.2em 0.5em 0.2em 0.4em; color:#AAAAAA;">'''''E'''''</span>
+|-
+| width="30%" style="text-align: center; !important" | <span style="border: 1px solid; font-size:100%; padding:0.2em 0.5em 0.2em 0.4em; color:#AAAAAA;">'''''S'''''</span>
+|-
+| width="30%" style="text-align: center; !important" | {{if1|{{{Southwest|{{{Southwest|{{{SW|}}}}}}}}}}}
+| width="30%" style="text-align: center; !important" | {{if1|{{{South|{{{South|{{{S|<br/>}}}}}}}}}}}
+| width="30%" style="text-align: center; !important" | {{if1|{{{Southeast|{{{Southeast|{{{SE|}}}}}}}}}}}
+<!-- |-class="hiddenStructure{{{анклав|}}}"
+|colspan="100%" style="text-align: center; !important" |Анклав: {{{анкляв}}} -->
+|}</div></includeonly><noinclude>{{doc}}
+[[Категория:География]]
+</noinclude>
