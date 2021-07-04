@@ -7,7 +7,7 @@
 
 |вверху           = <span class="fn">{{карточка/имя|{{{Лем|}}}}}</span>{{#if: {{wikidata|p1559|{{{Оригинал имени|}}}|plain=1}} | <br><small class="nickname" style="font-weight: normal; font-style:italic">{{wikidata|p1559[language!:myv]|{{{Оригинал имени|}}}|monolingualLangTemplate=none}}</small>}}
 
-|артовкс       = {{wikidata|p18|{{{Артовкс|}}}|size={{#if:{{{Ширина|}}}|{{{Ширина|}}}|267x400}}|description={{{Описание изображения|}}}}}
+|артовкс       = {{wikidata|p18|{{{артовкс|}}}|size={{{ширина|}}}|alt={{{артовксонть эйсте|Портрет}}}|caption={{{артовксонть эйсте|}}}|from={{{from|}}}}}
 
 |заголовок1   = {{#if:{{wikidata|p18|{{{Артовкс|}}}}}|Лувонь информациясь}}
 
