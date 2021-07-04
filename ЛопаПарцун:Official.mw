@@ -1,2 +1,2 @@
-{{#if:{{wikidata|p856|{{{1|}}}|plain=true}}|'''{{#if:{{{1|}}}|{{URL|{{{1|}}}|{{{link_text|}}}}}|{{wikidata|p856|text={{{link_text|}}}}}}}'''{{#if: {{{lang|}}} | {{ref-{{{lang}}}}} | }}{{#if:{{{скрыть|}}}||&#32;— официальный сайт {{#if:{{{2|}}}|{{{2|}}}|{{сначала имя|{{PAGENAME}}}}}}}}|}}<noinclude>
+{{#if:{{wikidata|p856|{{{1|}}}|plain=true}}|'''{{#if:{{{1|}}}|{{URL|{{{1|}}}|{{{link_text|}}}}}|{{wikidata|p856|text={{{link_text|}}}}}}}'''{{#if: {{{lang|}}} | {{ref-{{{lang}}}}} | }}{{#if:{{{скрыть|}}}||&#32;— официальной сайт {{#if:{{{2|}}}|{{{2|}}}|{{сначала имя|{{PAGENAME}}}}}}}}|}}<noinclude>
 {{doc}}</noinclude>
