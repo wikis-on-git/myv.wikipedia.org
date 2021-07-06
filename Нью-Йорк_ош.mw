@@ -59,12 +59,40 @@
  |язык сайта              = 
 }}
 Нью-Йорк ({{Lang-en|New York}}) - ош [[Американь Вейтьсэндявкс Штаттнэ]]сэ.
+
 == Эрицятне ==
-{{ЭрицятнеВД}}
+{{USCensusPop
+| align = left
+| 1790 = 33131
+| 1800 = 60515
+| 1810 = 96373
+| 1820 = 123706
+| 1830 = 202589
+| 1840 = 312710
+| 1850 = 696490
+| 1860 = 813669
+| 1870 = 942292
+| 1880 = 1206299
+| 1890 = 1515301
+| 1900 = 3437202
+| 1910 = 4766883
+| 1920 = 5620048
+| 1930 = 6930446
+| 1940 = 7454995
+| 1950 = 7891957
+| 1960 = 7781984
+| 1970 = 7894862
+| 1980 = 7071639
+| 1990 = 7322564
+| 2000 = 8008288
+| 2010 = 8175133
+| Estimate = 8295029
+| Estyear = 2007
+| Estref = <ref name=CensusEst>{{Citácia elektronického dokumentu | url=http://factfinder.census.gov/servlet/SAFFPopulation?_event=Search&geo_id=16000US3403940&_geoContext=01000US%7C04000US34%7C16000US3403940&_street=&_county=new+york+city&_cityTown=new+york+city&_state=04000US36&_zip=&_lang=en&_sse=on&ActiveGeoDiv=geoSelect&_useEV=&pctxt=fph&pgsl=160&_submenuId=population_0&ds_name=null&_ci_nbr=null&qr_name=null&reg=null%3Anull&_keyword=&_industry=Census | titul=Data for New York city, New York | vydavateľ=[[United States Census Bureau]]}}</ref>
+| Footnote = Populačný vývoj 1790 – 1990<ref>{{Citácia elektronického dokumentu | priezvisko=Gibson | meno=Campbell | url=http://www.census.gov/population/www/documentation/twps0027.html | titul=Population of the 100 largest Cities and Other Urban Places in the United States: 1790 to 1990 | vydavateľ=[[United States Census Bureau]] | dátum=jún 1998}}</ref>
+}}
 == Ошт-ялгат ==
 {{Wikidata/SisterCities}}
-
-
 == Литературась ==
 * [http://www.lib.ru/INPROZ/IRWING/irving_hystory.txt_Contents Ирвинг Вашингтон «История Нью-Йорка»]
 * {{книга
