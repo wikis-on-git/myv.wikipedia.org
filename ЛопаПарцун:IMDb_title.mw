@@ -1,13 +1,3 @@
-{{#if:<!-- 
--->{{{1|{{{id|}}}}}}<!-- 
-  -->|[[<!-- 
-       -->IMDbTitle:{{{1|{{{id}}}}}}<!-- 
-       -->|{{курсив или кавычки|{{без уточнения|{{{2|{{{title|{{PAGENAME}}}}}}}}}}}}<!-- 
-  -->]]{{{3|{{{info|}}}}}}<!-- 
--->|{{#if:{{#property:p345}}<!-- 
-     -->|[[IMDbTitle:{{str right|{{#property:p345}}|2}}|{{курсив или кавычки|<!-- 
-      -->{{без уточнения|{{{2|{{{title|{{PAGENAME}}}}}}}}}}<!-- 
-    -->}}]]}}<!-- 
--->}}{{ref-en}} [[Internet Movie Database]] вальмасонть<noinclude>
-{{doc}}<!-- Пожалуйста, добавляйте категории на страницу документации! -->
+[http://www.imdb.com/title/tt{{{1|{{{id|}}}}}} {{{2|{{{name|{{PAGENAME}}}}}}}}] {{iw2|IMDb|''«Internet Movie Database»''|en|IMDb}} вальмасонть{{ref-en}}<noinclude>
+{{doc}}
 </noinclude>
