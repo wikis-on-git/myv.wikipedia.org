@@ -1,0 +1,48 @@
+<includeonly><!--
+-->{{#ifeq: <!-- compare "04" to 4, and if so, output 4-digits pure
+  What might be "04" is composed of three outputs: dot, len, and fmt -->
+  {{#invoke:String|find|{{{1}}}|.}}<!-- Output the zero if no dot.
+  -->{{#invoke:String|len <!-- Length of 4 with sign and spaces filtered? -->
+    |{{#invoke:String|replace|{{{1}}}|[-+ ]|plain=false}}}}<!-- 
+    That replace just filtered out any and all spaces, + or - characters.
+    But it's gotta have the minus sign first in the [-charclass].
+    Any fmt given?  If so comparison to "4" will fail -->{{{fmt|}}}
+| 4 |{{#invoke:String|replace|{{{1}}}|-|&minus;}}<!-- 
+If fmt is nil, found . is 0, and filtered len is 4, then 04=4, 
+and we have just output the number, replacing any - with a minus sign
+
+Else: 
+-->|{{#switch: <!-- its not a pure 4-digit number with no fmt options given-->
+{{#invoke:String|sub|{{{1|0}}}|1|1}}
+  <!-- If the first char is ... -->
+
+  |- <!-- ... one kind of dash, or another -->
+  |− = {{#ifeq:{{{nosign|off}}}|off|−}}<!-- output a &minus; sign unless nosign
+     -->{{#ifeq:
+          {{#invoke:String|sub|{{{1|0}}}|2|2}}|.|0}}<!--And then 
+          then if next char is . then output a zero, else do || nothing.
+     -->{{#switch: {{{fmt}}} <!-- Format the rest of the number. -->
+       |commas={{formatnum:{{#invoke:String|sub|{{{1|0}}}|2}}}}
+       |#default = {{#invoke:Gapnum|main|{{#invoke:String|sub|{{{1|0}}}|2}}}}
+   }} 
+
+  <!-- follow same logic for leading + char -->
+  |+={{#ifeq:{{{nosign|off}}}|off|+}}<!--
+    -->{{#ifeq:{{#invoke:String|sub|{{{1|0}}}|2|2}}|.|0}}<!--
+      -->{{#switch:{{{fmt}}}
+        |commas = {{formatnum:{{#invoke:String|sub|{{{1|0}}}|2}}}}
+        |#default = {{#invoke:Gapnum|main|{{#invoke:String|sub|{{{1|0}}}|2}}}}
+     }} <!-- follow similar logic for leading . char -->
+  |.=0<!--
+    -->{{#switch:{{{fmt}}}
+      |commas={{{1|0}}}
+      |#default = {{#invoke:Gapnum|main|{{{1|0}}}}}
+    }}
+
+  <!-- Else if first char is not . or - or + -->
+  |#default = {{#switch:{{{fmt}}} 
+     |commas={{formatnum:{{{1|0}}}}}
+     |#default = {{#invoke:Gapnum|main|{{{1|0}}}}}
+      }}
+   }}
+}}</includeonly><noinclude>{{documentation}}</noinclude>
