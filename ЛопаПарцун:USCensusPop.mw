@@ -56,7 +56,7 @@
 }}{{#if:{{{2010|}}} |
 <tr><td style="text-align:center">'''[[Раськень сёрмацтомась АВШ (2010)|2010]]'''</td><td style="padding-left:8px">{{formatnum: {{{2010}}} }}</td><td>{{{2010n|}}}</td><td style="padding-left:8px">{{#ifexpr: {{#if:{{{2000|}}}|{{{2000}}}|0}} | {{Val|{{Decimals| (100 * {{{2010}}}/{{{2000}}} - 100) | 1}}}}% | <center>—</center> }}</td></tr>
 }}{{#if:{{{estimate|}}} |
-<tr><td style="text-align:center">'''Онкстнемамелесь {{{estyear}}}'''</td><td style="padding-left:8px">{{formatnum: {{{estimate}}} }}</td><td>{{{estref|}}}</td><td style="padding-left:8px">{{#ifexpr: {{#if:{{{2010|}}}|{{{2010}}}|0}} | {{Val|{{Decimals| (100 * {{{estimate}}}/{{{2010}}} - 100) | 1}}}}% |}}</td></tr>
+<tr><td style="text-align:center">'''{{comment|Он.|Онкстнемамелесь}} {{{estyear}}}'''</td><td style="padding-left:8px">{{formatnum: {{{estimate}}} }}</td><td>{{{estref|}}}</td><td style="padding-left:8px">{{#ifexpr: {{#if:{{{2010|}}}|{{{2010}}}|0}} | {{Val|{{Decimals| (100 * {{{estimate}}}/{{{2010}}} - 100) | 1}}}}% |}}</td></tr>
 }}{{#if:{{{footnote|}}} |
 <tr><td colspan=4 style="border-top:1px solid black; font-size:85%; text-align:left">{{{footnote}}}</td></tr>
 }}
