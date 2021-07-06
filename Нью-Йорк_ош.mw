@@ -86,10 +86,10 @@
 | 1990 = 7322564
 | 2000 = 8008288
 | 2010 = 8175133
-| Estimate = 8295029
-| Estyear = 2007
-| Estref = <ref name=CensusEst>{{Citácia elektronického dokumentu | url=http://factfinder.census.gov/servlet/SAFFPopulation?_event=Search&geo_id=16000US3403940&_geoContext=01000US%7C04000US34%7C16000US3403940&_street=&_county=new+york+city&_cityTown=new+york+city&_state=04000US36&_zip=&_lang=en&_sse=on&ActiveGeoDiv=geoSelect&_useEV=&pctxt=fph&pgsl=160&_submenuId=population_0&ds_name=null&_ci_nbr=null&qr_name=null&reg=null%3Anull&_keyword=&_industry=Census | titul=Data for New York city, New York | vydavateľ=[[United States Census Bureau]]}}</ref>
-| Footnote = Populačný vývoj 1790 – 1990<ref>{{Citácia elektronického dokumentu | priezvisko=Gibson | meno=Campbell | url=http://www.census.gov/population/www/documentation/twps0027.html | titul=Population of the 100 largest Cities and Other Urban Places in the United States: 1790 to 1990 | vydavateľ=[[United States Census Bureau]] | dátum=jún 1998}}</ref>
+| estimate = 8253213
+| estyear = 2020
+| estref = <ref name=CensusEst>{{Cite web | url=http://factfinder.census.gov/servlet/SAFFPopulation?_event=Search&geo_id=16000US3403940&_geoContext=01000US%7C04000US34%7C16000US3403940&_street=&_county=new+york+city&_cityTown=new+york+city&_state=04000US36&_zip=&_lang=en&_sse=on&ActiveGeoDiv=geoSelect&_useEV=&pctxt=fph&pgsl=160&_submenuId=population_0&ds_name=null&_ci_nbr=null&qr_name=null&reg=null%3Anull&_keyword=&_industry=Census |title=Data for New York city, New York |publisher=United States Census Bureau}}{{ref-en}}</ref>
+<ref>{{Cite web|author=Gibson Campbell |url=http://www.census.gov/population/www/documentation/twps0027.html |title=Population of the 100 largest Cities and Other Urban Places in the United States: 1790 to 1990 |publisher=United States Census Bureau |date=1998}}{{ref-en}}</ref>
 }}
 == Ошт-ялгат ==
 {{Wikidata/SisterCities}}
@@ -122,11 +122,9 @@
 |страницы = 416
 |isbn = 978-5-699-25413-2
 }}
-
+{{Lisj}}
 == Невтевкст ==
 * [https://www1.nyc.gov/ Официальный сайт города Нью-Йорк]{{ref-en}}
 * [https://www.nycgo.com/ Официальный сайт о туризме в Нью-Йорке]{{ref-en}}
 
-
-{{Lisj}}
 [[Категория:Американь Вейтьсэндявкс Штаттнэнь ошт]]
