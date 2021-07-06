@@ -1,0 +1,10 @@
+{{#if: {{{1<includeonly>|</includeonly>}}} {{{id|}}} {{#property:P1146}}
+
+| [{{#ifeq: {{#invoke:String|pos|target={{{1|{{{id|{{#property:P1146}}}}}}}}|pos=1}} | 0 | https://www.worldathletics.org/athletes/_/ | https://www.worldathletics.org/athletes/biographies/athcode= }}{{#if: {{{1|{{{id<includeonly>|</includeonly>}}}}}} | {{{1|{{{id}}}}}} | {{First word|1={{#property:P1146}}|sep=,}} }} {{#if: {{{2|{{{name<includeonly>|</includeonly>}}}}}} | {{{2|{{{name}}}}}} | {{PAGENAMEBASE}} }}] at «[[World Athletics]]» {{ref-en}}<includeonly>{{EditAtWikidata|pid=P1146|{{{1|{{{id|}}}}}}}}{{Main other|{{#if:{{{1|{{{id|}}}}}}|{{#if:{{#property:P1146}}|{{#ifeq:{{{1|{{{id|}}}}}}|{{#property:P1146}}||[[Category:World Athletics template with ID different from Wikidata]]}}|[[Category:World Athletics template with ID not in Wikidata]]}}}}}}</includeonly>
+
+| <span class="error">&#123;&#123;[[Template:World Athletics|World Athletics]]&#125;&#125; template missing ID and not present in Wikidata.</span>{{preview warning|1=to find the ID, try these searches at [https://www.worldathletics.org/athletes/search?query={{urlencode:{{PAGENAMEBASE}}}} World Athletics] or [https://www.google.com/search?q={{urlencode:{{PAGENAMEBASE}}}}+site%3Aworldathletics.org Google]}}{{Main other|[[Category:World Athletics template missing ID and not in Wikidata]]}}
+
+}}<noinclude>
+{{Documentation}}
+[[Категория:ЛопаПарцунт:Спорт]]
+</noinclude>
