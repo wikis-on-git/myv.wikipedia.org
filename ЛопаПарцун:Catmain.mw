@@ -1,4 +1,4 @@
-{{#ifexist:{{{1|{{PAGENAME}}}}}|:<div class="boilerplate" id="catmore">''Юронь лопась: '''[[{{{1|{{PAGENAME}}}}}]]'''''</div>|:<div class="boilerplate" id="catmore">''Те категориясонть арасть лопат-медият — '''[[{{{1|{{PAGENAME}}}}}]]'''. Вы поможете проекту, если напишете её''.</div><includeonly>[[Категория:Википедиясь:Категории без основных статей]]</includeonly>}}<noinclude>
+{{#ifexist:{{{1|{{PAGENAME}}}}}|:<div class="boilerplate" id="catmore">''Юронь лопась: '''[[{{{1|{{PAGENAME}}}}}]]'''''</div>|:<div class="boilerplate" id="catmore">''Те категориясонть арасть лопат-медият — '''[[{{{1|{{PAGENAME}}}}}]]'''. Тон лездат проектэнть туртов, бути сёрмадсак сонзэ''.</div><includeonly>[[Категория:Википедиясь:Категории без основных статей]]</includeonly>}}<noinclude>
 {{doc}}
 [[Категория:Шаблонт]]
 
