@@ -1,3 +1,3 @@
 <includeonly>{{#invoke:Wikidata|formatStatements|value-module=Wikidata/media|value-function=formatCommonsCategory|property=p373|value={{{1|}}}|plain={{{plain|false}}}|text={{{text|}}}|icon={{{icon|}}}|icon_size={{{icon_size|}}}|text_before={{{text_before|}}}|text_after={{{text_after|}}}}}{{#ifeq:{{NAMESPACENUMBER}}|10|[[Категория:Википедия:Шаблоны, использующие Викиданные|{{PAGENAME}}]]}}{{#if:{{{1|}}}|{{#if:{{wikidata|p373|plain=true}}|{{#ifeq:{{wikidata|p373|plain=true}}|{{{1|}}}|[[К:Википедия:Ссылка на Викисклад непосредственно в статье‎]]|[[К:Википедия:Ссылка на Викисклад отличается от свойства Викиданных‎]]}}|[[К:Википедия:Ссылка на категорию Викисклада отсутствует в Викиданных‎]]}}}}</includeonly><noinclude>{{doc}}
-[[Категория:Шаблоны:Викимедиа|{{PAGENAME}}]]
+[[Категория:ЛопаПарцунт:Викиутомсо|{{PAGENAME}}]]
 </noinclude>
