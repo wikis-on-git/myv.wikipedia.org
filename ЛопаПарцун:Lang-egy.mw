@@ -1,10 +1,5 @@
-[[Египетонь кель|егип.]] {{lang-egy2|{{{1}}}}}<noinclude>[[Категория:Келень шаблонт|egy]]
-
-Шаблон для транслитераций египетского языка в Unicode. 
-См. правила:
-* [[:en:Transliteration_of_ancient_Egyptian#Unicode]] 
-* [http://www.ifao.egnet.net/c.php?f=/doc/Outils/Polices.php http://www.ifao.egnet.net/c.php?f=/doc/Outils/Polices.php]
-== См. также ==
-* [[ЛопаПарцун:Lang-egy2]] — для второго и последующих случаев употребления транслитерации
-
+[[Египетонь кель|егип.]] {{lang-egy2|{{{1}}}}}<noinclude>
+{{doc}}
+[[Категория:Келень шаблонт]]
+[[Категория:ЛопаПарцунт lang-x]]
 </noinclude>
