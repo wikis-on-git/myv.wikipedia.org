@@ -1,7 +1,5 @@
 <div class="notice metadata" id="cleanup" style="text-align: center; background: #efefff; margin: 1em 10%; border: #9F9FFF 1px solid;">'''Те сёрмадовксонть эряви ютавтомонзо эрзянь кельс.'''</div><includeonly>{{#if:{{{nocat|}}}||{{#ifeq:{{NAMESPACE}}{{BASEPAGENAME}}|{{ns:10}}Translate||[[Category:Апак ютавтозь сёрмадовкст]]}}}}
 </includeonly><noinclude>
-
-[[Category:Шаблонт]]
-
+[[Категория:ЛопаПарцунт:Ютавтома]]
 [[vi:Tiêu bản:Đang dịch]]
 </noinclude>
