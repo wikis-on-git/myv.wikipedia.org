@@ -1,7 +1,5 @@
-<span lang="egy" style="font-family: dejavu sans, junicode, code2000, linux libertine otf, thryomanes, charis sil, titus cyberbit basic, freemono, everson mono unicode, arial unicode ms, chrysanthi unicode, microsoft sans serif; font-size: 100%;">{{{1}}}</span><noinclude>
-[[Категория:Келень шаблонт|egy2]]
-Шаблон для транслитераций египетского языка в Unicode. 
-См. правила:
-* [[:en:Transliteration_of_ancient_Egyptian#Unicode]] 
-* [http://www.ifao.egnet.net/c.php?f=/doc/Outils/Polices.php http://www.ifao.egnet.net/c.php?f=/doc/Outils/Polices.php]
+{{lang|egy|{{{1}}}}}<noinclude>
+{{doc}}
+[[Категория:Келень шаблонт]]
+[[Категория:ЛопаПарцунт lang-x]]
 </noinclude>
