@@ -6,7 +6,7 @@
 -->|{{{2|{{{1|{{PAGENAME}}}}}}}}<!--
 -->}}<includeonly>{{#if:{{{1|}}}||[[Category:Commons category template with no category set]]}}</includeonly><noinclude>
 
-{{Documentation}}
+{{Documentation}}[[Категория:ЛопаПарцунт:Невтевкст]]
 <!-- Add categories and interwikis to the /doc subpage, not here! -->
 </noinclude><includeonly><!-- Some tracking categories to see if we're ready to switch to Wikidata -->
 {{#switch:{{NAMESPACE}}||{{ns:14}}=<!-- Only articles and categories. -->
@@ -23,4 +23,4 @@
   }}
  | [[Category:Commons category without a link on Wikidata]] <!-- These we still need to import -->
  }}
-}}[[Категория:ЛопаПарцунт:Невтевкст]]</includeonly>
+}}</includeonly>
