@@ -1,0 +1,6 @@
+<div style="background:#F0F8FF;border:1px dotted #8BCBFF;padding:10px;margin-top:10px">__NOEDITSECTION__
+<div style="float:right;padding-right:1em;"><span class=plainlinks style="font-size:11px"><nowiki>[</nowiki>[[{{{1}}}|неявт пельксэсь]]<nowiki>]</nowiki>&nbsp;<nowiki>[</nowiki>[{{fullurl:{{{1}}}|action=edit}} витнемс]<nowiki>]</nowiki>&nbsp;<nowiki>[</nowiki>[{{fullurl:{{{1}}}|action=history}} ютазесь]<nowiki>]</nowiki>&nbsp;<nowiki>[</nowiki>[{{fullurl:{{FULLPAGENAMEE}}|action=purge}} обновить]<nowiki>]</nowiki></span></div><span style="font-size:11pt;line-height:11pt;">[[Image:information.svg|20px|Документация]]&nbsp;Документация</span>
+----{{#if:{{{notoc|}}}|__NOTOC__|{{TOC-right}}}}
+<noinclude>[[Категория:Шаблонт]]
+[[Категория: Википедия:Stuff templates|{{PAGENAME}}]]
+</noinclude>
