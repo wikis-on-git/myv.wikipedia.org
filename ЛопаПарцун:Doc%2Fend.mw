@@ -16,7 +16,7 @@
       | Модуль
       | [[Модуль:Песочница|песочнице для модулей]]
       | [[Википедия:Правка и тестирование шаблонов в песочнице|песочнице]] <small style="font-style:normal;">({{#ifexist: {{FULLPAGENAME}}/песочница
-        | [{{fullurl:{{FULLPAGENAME}}/песочница|action=edit}} полавтомс] {{!}} [{{fullurl:Special:ComparePages|page1={{FULLPAGENAMEE}}&page2={{FULLPAGENAMEE}}/песочница}} разница]
+        | [{{fullurl:{{FULLPAGENAME}}/песочница|action=edit}} витнемс] {{!}} [{{fullurl:Special:ComparePages|page1={{FULLPAGENAMEE}}&page2={{FULLPAGENAMEE}}/песочница}} разница]
         | [{{fullurl:{{FULLPAGENAME}}/песочница|action=edit&preload=Шаблон:Doc/предзагрузка-песочница}} теемс] {{!}} [{{fullurl:{{FULLPAGENAME}}/песочница|action=edit&preload=Шаблон:Doc/зеркало}} чавачамо]
         }})</small> или своём [[ВП:ЛП|личном пространстве]]
       }}.<br>
