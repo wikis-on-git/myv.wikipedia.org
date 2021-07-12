@@ -1,0 +1,10 @@
+.ts-tlinks-tlinks {
+	font-weight: normal;
+	float: right;
+	font-size: 13px;
+}
+
+.ts-tlinks-tlinks .mw-editsection-divider {
+	display: inline;
+}
+/* [[Категория:Шаблоны:Подстраницы CSS]] */
