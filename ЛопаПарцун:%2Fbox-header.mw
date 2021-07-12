@@ -1,0 +1,10 @@
+<div style="clear:both"></div> 
+<div style="border:1px solid {{{border|#699}}}; background:{{{titlebackground|#ecf3f3}}}; text-align:center; padding:.1em; margin-bottom:0; border-bottom:none"><!--
+-->{{#if: {{{editpage|}}}|<span class="plainlinks noprint" style="float:right; margin-bottom:.1em; font-size:80%">[{{fullurl:{{{editpage}}}|action={{{action|edit}}}}} <span style="color:{{{titleforeground|black}}}">редактировамс</span>]&nbsp;</span>}}<!--
+--><h2 style="margin:0; padding:0; color:{{{titleforeground|black}}};font-family: {{{font-family|sans-serif}}}; font-size:100%;  border:0">{{{title}}}</h2><!--
+--></div>
+<div style="display:block; border:1px solid {{{border|#699}}}; vertical-align:top; background:{{{background|white}}}; color:{{{foreground|black}}}; margin-bottom:10px; padding:.3em 1em 0.5em; margin-top:0"><noinclude>
+{{box-footer}}
+{{doc}}
+[[Категория:Шаблонт]]
+</noinclude>
