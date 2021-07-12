@@ -14,4 +14,4 @@
 
  -->{{#ifeq:{{{disupdlink|}}}|yes||<nowiki>[</nowiki><span class="purgelink">[{{fullurl:{{FULLPAGENAME}}|action=purge}} обновить]</span><nowiki>]</nowiki>}}<!-- 
                                
- --></span></includeonly><noinclude>{{doc}}</noinclude>
+ --></span></includeonly><noinclude>{{doc}}[[Категория:Шаблонт]]</noinclude>
