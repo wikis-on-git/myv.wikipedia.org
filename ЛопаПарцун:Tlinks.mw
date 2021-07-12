@@ -13,6 +13,6 @@
   |
   | [{{fullurl:{{#rel2abs: {{{lc}}} }}|action=edit&redlink=1}} теемс]
   }}
-|5={{#ifeq: {{{diswatchlink|{{{nowatch|}}}}}} | yes || [{{fullurl:{{#rel2abs: {{{lc}}} }}|action=watch}} следить] }}
+|5={{#ifeq: {{{diswatchlink|{{{nowatch|}}}}}} | yes || [{{fullurl:{{#rel2abs: {{{lc}}} }}|action=watch}} ваномс] }}
 |6={{#ifeq: {{{disupdlink|{{{noupdate|}}}}}} | yes || <span class="purgelink" data-pagename="{{{lc|{{FULLPAGENAME}}}}}">[[Special:Purge/{{{lc|{{FULLPAGENAME}}}}}|одкстомтомс]]</span> }}
 }}<span class="mw-editsection-bracket">]</span></div><noinclude>{{doc}}</noinclude>
