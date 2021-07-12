@@ -1,0 +1,14 @@
+== Невтемакс ==
+<code><nowiki>{{tlinks|lc=ЛопаПарцун:Tlinks}}</nowiki></code>
+{{tlinks|lc=Шаблон:Tlinks}}
+----
+<code><nowiki>{{tlinks|lc=ЛопаПарцун:Tlinks|dislooklink=yes|dishistlink=yes|diswatchlink=yes|fontsize=16}}</nowiki></code>
+{{tlinks|lc=ЛопаПарцун:Tlinks|dislooklink=yes|dishistlink=yes|diswatchlink=yes|fontsize=16}}
+----
+<code><nowiki>{{tlinks|lc=ЛопаПарцун:Tlinks/Неіснуючую падстаронка|fontsize=10}}</nowiki></code>
+{{tlinks|lc=ЛопаПарцун:Tlinks/Несуществующая подстраница|fontsize=10}}
+
+<includeonly>
+[[Категория:Шаблонт]]
+[[Категория:ЛопаПарцунт:Невтевкст]]
+</includeonly>
