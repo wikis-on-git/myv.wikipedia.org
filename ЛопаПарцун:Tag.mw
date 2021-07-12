@@ -32,4 +32,4 @@
     | {{#ifeq: {{{style|}}} | regular | <span class="wp-templatelink">&lt;/</span>{{{1|tag}}}<span class="wp-templatelink">&gt;</span> | &lt;/{{{1|tag}}}&gt; }}
     }}
  }}<!--
---></{{#ifeq: {{{style|}}} | regular | span | code }}><noinclude>{{doc}}</noinclude>
+--></{{#ifeq: {{{style|}}} | regular | span | code }}><noinclude>{{doc}}[[Категория:Шаблонт]]</noinclude>
