@@ -1,20 +1,5 @@
-<span class="IPA audiolink nounderlines" style="white-space: nowrap;">[[:Media:{{{1}}}|{{{2}}}]]</span> <span class="metadata audiolinkinfo"><small><span class="plainlinks">([[:File:{{{1}}}|i]])</span></small></span><noinclude>
-__NOTOC__
-== Цель ==
-Этот шаблон ссылается на аудиофайл для быстрого прослушивания. Он предназначен для использования наряду с текстом передающим произношение в международном фонетическом формате ([[Международный фонетический алфавит|МФА]]).
-
-== Использование ==
-<code><nowiki>{{Audio-IPA|название аудиофайла|произношение МФА}}</nowiki></code>
-
-Пример:
-: <code><nowiki>Французский: Париж {{Audio-IPA|Paris1.ogg|[paʀi]}}</nowiki></code>
-что даст на выходе:
-: Французский: Париж {{Audio-IPA|Paris1.ogg|[paʀi]}}
-
-== См. также ==
-* {{tl|Audio}} — вариант без [[Международный фонетический алфавит|МФА]]-произношения.
-
-{{Языковые шаблоны}}
-
-[[Категория:Шаблоны:Аудио|{{PAGENAME}}]]
+<span class="IPA audiolink nounderlines" style="white-space: nowrap;">[[:Media:{{{1}}}|{{{2}}}]]</span> <span class="metadata audiolinkinfo"><small><span class="plainlinks">([[:File:{{{1}}}|i]])</span></small></span><noinclude>{{doc}}
+[[Категория:ЛопаПарцунт:Невтевкст]]
+[[Категория:Эне]]
+[[Категория:ЛопаПарцунт:Аудио|{{PAGENAME}}]]
 </noinclude>
