@@ -1,4 +1,5 @@
-{{ЭТ|статус=Оков
+{{ЭТ
+|статус=Оков
 |оригинальное название=Шемышейка
 |изображение=
 |подчинение=
@@ -6,9 +7,10 @@
 |описание герба=|описание флага=|ширина флага=|ширина герба=
 |регион=Пенза ёнкс
 |вид региона=Ёнкс
-|регион в таблице=Пенза ёнкс{{!}}Пенза ёнкс
-|район=[[Шемышень буе (Пенза ёнкс)|Шемышень буе]]
-|вид района=|район в таблице=|община=|вид общины=|община в таблице=
+|регион в таблице=Пенза ёнкс{{!}}Пенза
+|вид района = Буесь
+|район=Шемышень буе (Пенза ёнкс){{!}}Шемышень
+|район в таблице=|община=|вид общины=|община в таблице=
  | lat_deg                  = 52 |lat_min = 53 |lat_sec = 30
  | lon_deg                  = 45 |lon_min = 23 |lon_sec = 30
  | CoordAddon               = type:city_region:RU
@@ -47,7 +49,7 @@
 == Эрицятне ==
 {| class="wikitable"
 |-
-! Год !! 1710<ref name="Суслоны">{{cite web|url=http://www.suslony.ru/Penzagebiet/pathelma.htm|title=На портале «Суслоны»|archiveurl=https://www.webcitation.org/65WVoWmwf|archivedate=2012-02-17}}</ref> !! 1859<ref name="Суслоны"/> !! 1897<ref name="Суслоны"/> !! 1926<ref name="Суслоны"/> !! 1939<ref name="Суслоны"/> !! 1959<ref name="Перепись1959">{{cite web|url=http://www.webgeo.ru/db/1959/rus-2.htm|title=Всесоюзная перепись населения 1959 г.|archiveurl=https://www.webcitation.org/618U6H5DX|archivedate=2011-08-23}}</ref> !! 1970<ref name="Перепись1970">{{cite web|url=http://www.webgeo.ru/db/1970/rus-povol.htm|title=Всесоюзная перепись населения 1970 г.|archiveurl=https://www.webcitation.org/65BTpmREe|archivedate=2012-02-03}}</ref> !! 1979<ref name="Перепись1979">{{cite web|url=http://www.webgeo.ru/db/1979/rus-povol.htm|title=Всесоюзная перепись населения 1979 г.|archiveurl=https://www.webcitation.org/65BTqH3za|archivedate=2012-02-03}}</ref> !! 1989<ref name="Перепись1989">{{cite web|url=http://demoscope.ru/weekly/ssp/rus89_reg2.php|title=Всесоюзная перепись населения 1989 г.|archiveurl=https://www.webcitation.org/617x0o0Pa|archivedate=2011-08-22}}</ref> !! 2002<ref name="Перепись2002">{{cite web|url=http://demoscope.ru/weekly/ssp/rus02_reg2.php|title=Всероссийская перепись населения 2002 г.|archiveurl=https://www.webcitation.org/618U7kNfv|archivedate=2011-08-23}}</ref> !! 2010<ref name="Перепись2010"/>
+! Год !! 1710<ref name="Суслоны">{{cite web|url=http://www.suslony.ru/Penzagebiet/pathelma.htm|title=На портале «Суслоны»|archiveurl=https://www.webcitation.org/65WVoWmwf|archivedate=2012-02-17}}</ref> !! 1859<ref name="Суслоны"/> !! 1897<ref name="Суслоны"/> !! 1926<ref name="Суслоны"/> !! 1939<ref name="Суслоны"/> !! 1959<ref name="Перепись1959">{{cite web|url=http://www.webgeo.ru/db/1959/rus-2.htm|title=Всесоюзная перепись населения 1959 г.|archiveurl=https://www.webcitation.org/618U6H5DX|archivedate=2011-08-23}}</ref> !! 1970<ref name="Перепись1970">{{cite web|url=http://www.webgeo.ru/db/1970/rus-povol.htm|title=Всесоюзная перепись населения 1970 г.|archiveurl=https://www.webcitation.org/65BTpmREe|archivedate=2012-02-03}}</ref> !! 1979<ref name="Перепись1979">{{cite web|url=http://www.webgeo.ru/db/1979/rus-povol.htm|title=Всесоюзная перепись населения 1979 г.|archiveurl=https://www.webcitation.org/65BTqH3za|archivedate=2012-02-03}}</ref> !! 1989<ref name="Перепись1989">{{cite web|url=http://demoscope.ru/weekly/ssp/rus89_reg2.php|title=Всесоюзная перепись населения 1989 г.|archiveurl=https://www.webcitation.org/617x0o0Pa|archivedate=2011-08-22}}</ref> !! 2002<ref name="Перепись2002">{{cite web|url=http://demoscope.ru/weekly/ssp/rus02_reg2.php|title=Всероссийская перепись населения 2002 г.|archiveurl=https://www.webcitation.org/618U7kNfv|archivedate=2011-08-23}}</ref> !! 2010<ref name="Перепись2010">Всероссийская перепись населения 2010 г.{{ref-ru}}</ref>
 |-
 | Население, чел. || 337 || 2&nbsp;553 || 3&nbsp;059 || 3&nbsp;481 || 2&nbsp;863 || 2&nbsp;569 || 2&nbsp;914 || 5&nbsp;532 || 6&nbsp;806 || 6&nbsp;708 || 6&nbsp;513
 |}
