@@ -1,33 +1,4 @@
-<pre>
-{{Col-begin}}
-{{Col-break}}
-Палманькс 1
-{{Col-break}}
-Палманькс 2
-{{Col-break}}
-Палманькс 3
-{{Col-break}}
-Палманькс 4
-{{Col-break}}
-Палманькс 5 
-{{Col-break}}
-Палманькс 6
-{{Col-end}}
-</pre>
-{{Col-begin}}
-{{Col-break}}
-Палманькс 1
-{{Col-break}}
-Палманькс 2
-{{Col-break}}
-Палманькс 3
-{{Col-break}}
-Палманькс 4
-{{Col-break}}
-Палманькс 5
-{{Col-break}}
-Палманькс 6
-{{Col-end}}
+
 == Вн. истяжо ==
 * {{tl|Col-begin}}
 * {{tl|Col-end}}
