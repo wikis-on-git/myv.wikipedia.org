@@ -1,0 +1,31 @@
+[[:Категория:{{{1}}}|{{{2|Категория:{{{1}}}}}}]]{{
+#switch:{{lc:{{{3|{{Yesno|{{{count|no}}} }} }}} }}
+||=|yes|split|all|pages|subcats|files
+=<small>&nbsp;{{
+#switch:{{{count_type|{{{count|{{{3|}}} }}} }}}|split
+={{nobr |(к:{{PAGESINCAT:{{{1}}}|SUBCATS
+}}&thinsp;с:{{PAGESINCAT:{{{1}}}|PAGES}}{{
+#ifeq:{{PAGESINCAT:{{{1}}}|FILES}}|0
+||&thinsp;ф:{{PAGESINCAT:{{{1}}}|FILES}}}})}}
+|#default=({{
+PAGESINCAT:{{{1}}}|{{UC:{{{count_type|{{{count|{{{3|ALL}}} }}} }}} }} }}{{
+
+#if:{{{backlog|}}}|{{
+#ifexpr:
+{{PAGESINCAT:{{{1}}}|{{UC:{{{count_type|{{{count|{{{3|ALL}}} }}} }}} }}|R}} >= {{{backlog|}}}
+  |<span style="font-weight: bold; color: #DD0000;">}}{{
+
+#ifexpr:{{#expr:
+{{PAGESINCAT:{{{1}}}|{{UC:{{{count_type|ALL}}}}}|R}} -
+  {{{backlog|}}} }} > 0
+|/+{{#expr:{{
+  PAGESINCAT:{{{1}}}|{{UC:{{{count_type|ALL}}}}}|R}} -
+  {{{backlog|}}} }} }} }}{{
+
+#if:{{{backlog|}}}|{{#ifexpr:
+{{PAGESINCAT:{{{1}}}|{{UC:{{{count_type|{{{count|{{{3|ALL}}} }}} }}} }}|R}} >=
+{{{backlog|}}}
+  |</span>|}}|}}) }}</small>
+}}<noinclude>
+{{doc}}
+</noinclude>
