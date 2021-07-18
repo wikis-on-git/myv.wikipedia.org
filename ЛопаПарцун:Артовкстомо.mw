@@ -10,4 +10,4 @@
     -->{{#if:{{#property:P373}}|[[Категория:Википедия:Статьи без изображений (указано в Викиданных: P373)|{{wikidata|P31|plain=true}}{{PAGENAME}}]]}}<!--
     -->{{Сортировка по типу|статьи без изображений}}<!--
   -->}}<!--
--->}}</includeonly><noinclude>{{doc}}</noinclude>
+-->}}</includeonly><noinclude>{{doc}}[[Категория:Шаблонт]]</noinclude>
