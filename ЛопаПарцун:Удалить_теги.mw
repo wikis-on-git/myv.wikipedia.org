@@ -11,4 +11,4 @@
 | pattern = <{{{2|%w+}}} [%w ]-=[^<>]->
 | replace = 
 | plain   = false
-}}<noinclude>{{doc}}</noinclude>
+}}<noinclude>{{doc}}[[Категория:Шаблонт]]</noinclude>
