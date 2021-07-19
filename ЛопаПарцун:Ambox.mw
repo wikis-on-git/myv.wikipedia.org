@@ -3,4 +3,4 @@
 |class="ambox-text"|{{{text|<span style="font-size:smaller;color:#AAAAAA">Параметр&nbsp;''text'' не&nbsp;задан</span>}}}{{#if:{{{text-small|}}}|<div class="ambox-text-small">{{{text-small}}}</div>}}
 {{#if:{{{imageright|}}}|{{!}}class="ambox-imageright"{{!}}<div>{{{imageright}}}</div>}}
 |class="widthhack"|<!-- a hack for some cases to keep the box wide -->
-|}</includeonly><noinclude></noinclude>
+|}</includeonly><noinclude>{{doc}}[[Категория:Шаблонт]]</noinclude>
