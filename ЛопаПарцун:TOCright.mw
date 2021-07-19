@@ -1,4 +1,1 @@
-<div style="clear: {{{clear|right}}}; margin-bottom: .5em; float: right; padding: .5em 0 .8em 1.4em; background: none; width: {{{width|{{{1|auto}}}}}}; max-width: {{{max-width|none}}};" {{#if: {{{limit|}}} | class="toclimit-{{{limit}}}" }}>__TOC__</div><noinclude>
-{{doc}}
-[[Категория:ЛопаПарцунт:TOC]]
-</noinclude>
+#перенаправление [[ЛопаПарцун:TOC right]]
