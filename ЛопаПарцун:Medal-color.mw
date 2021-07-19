@@ -1,0 +1,58 @@
+{{#switch: {{lc:{{{1}}}}} 
+ | gold   | сырне  = gold
+ | silver | сия = silver
+ | bronze | бронза = <nowiki>#</nowiki>cc9966
+ | gold-light   | золото-св  | золото-св.  = <nowiki>#</nowiki>f7f6a8
+ | silver-light | серебро-св | серебро-св. = <nowiki>#</nowiki>dce5e5
+ | bronze-light | бронза-св  | бронза-св.  = <nowiki>#</nowiki>ffdab9
+}}<noinclude>
+{{заголовок со строчной буквы}}
+Шаблон создан для унификации цветов спортивных медалей.
+
+Шаблон принимает единственный аргумент и возвращает цвет, обычно используемый как цвет фона ячейки таблицы. 
+ 
+{|class=standard width=70%
+|-
+!Аргумент  
+!Результат
+|-
+|colspan=2|
+«Основные» стили обычно используются для одной-двух ячеек таблицы.
+|-
+| gold / сырне
+|bgcolor="{{medal-color|gold}}"|{{medal-color|gold}}
+|-
+| silver / сия
+|bgcolor="{{medal-color|silver}}"|{{medal-color|silver}}
+|-
+| bronze / бронза
+|bgcolor="{{medal-color|bronze}}"|{{medal-color|bronze}}
+
+|-
+|colspan=2|
+Более светлые варианты следует использовать, если стиль применяется к целой строке таблицы (с соответсвующим медалистом), так как на светлом фоне текст легче читать.
+|-
+| gold-light  / золото-св  / золото-св.
+|bgcolor="{{medal-color|gold-light}}"|{{medal-color|gold-light}}
+|-
+| silver-light / серебро-св / серебро-св.
+|bgcolor="{{medal-color|silver-light}}"|{{medal-color|silver-light}}
+|-
+| bronze-light / бронза-св  / бронза-св.
+|bgcolor="{{medal-color|bronze-light}}"|{{medal-color|bronze-light}}
+|}
+
+
+Для удобства шаблон может использоваться:
+* в таблицах — через {{tl|medal-bg}}, возвращающий <code>bgcolor=''тюс''</code> :
+<pre>
+{|
+|-
+|{{medal-bg|gold}} align=center | ...
+</pre>
+* в других элементах — через {{tl|medal-style}}, возвращающий <code>background-color:''тюс'';</code> :
+<pre>
+<span style="{{medal-style|gold}}; font-weight:bold"> ...
+</pre>
+[[Категория:ЛопаПарцунт:Спорт]]
+</noinclude>
