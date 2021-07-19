@@ -1,0 +1,6 @@
+<includeonly>background-color:{{medal-color|{{{1}}}}};</includeonly><noinclude>
+{{заголовок со строчной буквы}}
+<tt style="border:1px solid gray; padding:4px"><nowiki>{{medal-bg|bronze}}</nowiki></tt> &nbsp;→&nbsp; <code style="border:1px solid gray; padding:4px">background-color:#cc9966;</code>, подробнее см. {{tl|medal-color}}
+
+[[Категория:ЛопаПарцунт:Спорт]]
+</noinclude>
