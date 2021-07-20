@@ -10,5 +10,6 @@
   -->|[[File:Wikipedia interwiki section gear icon{{#switch:{{lc:{{{fontcolor|}}}}}|#fff|#ffffff|white=_white|{{#ifexpr:{{#invoke:Color contrast|styleratio|{{{fontstyle|}}}||#666}} < 3.66|_white}}}}.svg|14px|Просмотр этого шаблона|link=Шаблон:{{{1<noinclude>|test</noinclude>}}}|alt=⚙️]]<!--
 -->}}<!--
 -->&nbsp;</span><noinclude>
-{{doc}}<!-- Пожалуйста, добавляйте категории и интервики на страницу документации! -->
+{{doc}}
+[[Категория:Шаблонт]]
 </noinclude>
