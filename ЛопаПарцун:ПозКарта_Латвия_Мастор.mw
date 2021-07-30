@@ -6,7 +6,7 @@
 | right  = 28.6
 | image  = {{#switch:{{{2|}}}
  |physical = Relief Map of Latvia.jpg
- |#default = Latvia location map.svg
+ |#default = Latvia adm location map.svg
  |hydro = Latvijas upes relief location map.svg
 }}
 }}<noinclude>{{ПозКарта/Инфо|Латвия}}
