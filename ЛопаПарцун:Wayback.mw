@@ -1,0 +1,5 @@
+<includeonly>{{#switch:x{{#if:{{{2|{{{title|}}}}}}|t}}{{#iferror:{{#time:U|{{{date|*}}}}}||d}}
+ |xd=[http://web.archive.org/web/{{{date|*}}}/{{{1|{{{site|{{{url}}}}}}}}} Архивная копия] от {{#time: j xg Y|{{{date|*}}}}} на Wayback Machine
+ |x|xt|xtd|#default=[http://web.archive.org/web/{{{date|*}}}/{{{1|{{{site|{{{url}}}}}}}}} {{{2|{{{title|Архивная копия}}}}}}] на Wayback Machine{{#iferror:&#32;(''от {{#time: j xg Y|{{{date|*}}}}}'')}}
+}}</includeonly><noinclude>{{doc}}
+</noinclude>
