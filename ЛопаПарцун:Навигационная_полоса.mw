@@ -1,13 +1,36 @@
-<includeonly><div class="NavFrame noprint" style="clear:both; margin-top:0em;"><!--
--->{{#if:{{{изображение|}}}|<div class="NavPic" style="background: none; float: left; margin-right: 5px; margin-top: 1.8em;">{{{изображение}}}</div>}}<!--
--->{{#if:{{{изображение2|}}}|<div class="NavPic" style="background: none; float: right; margin-left: 5px; margin-top:1.8em;">{{{изображение2}}}</div>}}
-<div class="NavHead" style="background:{{{тюс|#ccccff}}};font-weight:normal"><span style="font-weight:bold">{{{лем}}}</span>
+{{Navbox
+ |{{{1|}}}
+ |имя              = {{{имя|}}}
+ |navbar           = {{{navbar|}}}
+ |state            = {{#if: {{{скрыть|}}}
+  | collapsed
+  | {{#switch: {{{state|}}}
+    | | autocollapsed | autocollapse = autocollapse
+    | collapsed | collapse = collapsed
+    | uncollapsed = uncollapsed
+    }}
+  }}
+ |навигация        = {{{навигация|}}}
+ |класс_списков    = {{{класс_содержания|{{{класс_списка|hlist}}}}}}
+ |стиль            = {{#if: {{{цвет|}}} | background:{{{цвет}}}; }}
+ |стиль_заголовка  = {{{стиль_заголовка|}}}
+ |заголовок        = {{{заголовок|{{{заглавие|{{PAGENAME}}}}}}}}
+ |изображение      = {{{изображение2|}}}
+ |изображение2     = {{{изображение|}}}
+ |стиль_заголовков = 
+ |стиль_списков    = {{{стиль_содержания|{{{стиль_списка|}}}}}}
+ |стиль_вверху     = 
+ |вверху           = 
+ |список1          = <div class="NavContent">
+{{{содержание|{{{список}}}}}}
 </div>
-<div class="NavContent" style="font-size:95%;">
-{{{содержание}}}
-</div>
-<div class="NavEnd">&nbsp;</div>
-</div></includeonly>
+ |стиль_внизу      = {{{стиль_внизу|}}}
+ |класс_внизу      = {{{класс_внизу|hlist}}}
+ |внизу            = {{{внизу|}}}
+}}<noinclude>
+{{doc}}
+</noinclude>
+
 <noinclude>
 
 <!--Этот шаблон предназначен для единообразных навигационных полос. Не рекомендуется его использовать прямо в статьях, лучше включить его в другой шаблон.-->
