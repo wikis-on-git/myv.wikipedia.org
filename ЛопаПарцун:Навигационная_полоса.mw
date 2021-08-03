@@ -1,0 +1,17 @@
+<includeonly><div class="NavFrame noprint" style="clear:both; margin-top:0em;"><!--
+-->{{#if:{{{изображение|}}}|<div class="NavPic" style="background: none; float: left; margin-right: 5px; margin-top: 1.8em;">{{{изображение}}}</div>}}<!--
+-->{{#if:{{{изображение2|}}}|<div class="NavPic" style="background: none; float: right; margin-left: 5px; margin-top:1.8em;">{{{изображение2}}}</div>}}
+<div class="NavHead" style="background:{{{тюс|#ccccff}}};font-weight:normal"><span style="font-weight:bold">{{{лем}}}</span>
+</div>
+<div class="NavContent" style="font-size:95%;">
+{{{содержание}}}
+</div>
+<div class="NavEnd">&nbsp;</div>
+</div></includeonly>
+<noinclude>
+
+<!--Этот шаблон предназначен для единообразных навигационных полос. Не рекомендуется его использовать прямо в статьях, лучше включить его в другой шаблон.-->
+
+[[Category:Шаблонт]]
+
+</noinclude>
