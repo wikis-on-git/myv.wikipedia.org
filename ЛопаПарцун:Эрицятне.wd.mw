@@ -1,0 +1,11 @@
+{{#switch:{{{2|}}}
+|таблица|Таблица={{#invoke:Wikidata|formatStatements|property=p1082[! rank:deprecated][p585]|property-function=formatTable|property-module=Wikidata.table|column={{{Столбцов|7}}}|claim-function=firstDateRefClaim|claim-module=Wikidata.p1082|class=standard|caption=Численность населения|th.class=bright|tr.style=text-align:center|sort=p585}}
+|график|График={{Graph:Population history|{{#invoke:Nx|Значение Q}}}}
+|д|диаграмма|Диаграмма={{#invoke:Wikidata|formatStatements|property=p1082[! rank:deprecated][p585]|property-function=formatTable|property-module=Wikidata.table|claim-function=firstDateClaim|claim-module=Wikidata.p1082|sort=p585|tablefunction=gist|colors=#B0C4DE|default color=#1E90FF|group names=Эрицятне ловнома-сёрмадстоманть коряс}}
+|г={{#invoke:Wikidata|formatStatements|property=p1082[! rank:deprecated][p585]|property-function=formatTable|property-module=Wikidata.table|claim-function=firstDateClaim|claim-module=Wikidata.p1082|sort=p585|tablefunction=last}}
+|ф={{#invoke:Wikidata|formatStatements|property=p1082[! rank:deprecated][p585]|property-function=formatTable|property-module=Wikidata.table|claim-function=firstDateClaim|claim-module=Wikidata.p1082|sort=p585|tablefunction=last2}}
+|т={{#invoke:Wikidata|formatStatements|property=p1082[! rank:deprecated][p585]|property-function=formatTable|property-module=Wikidata.table|claim-function=firstTQuantityWithoutRefClaim|claim-module=Wikidata.p1082||sort=p585|tablefunction=last}}
+|ч={{#invoke:Wikidata|formatStatements|property=p1082[! rank:deprecated][p585]|property-function=formatTable|property-module=Wikidata.table|claim-function=firstDateClaim|claim-module=Wikidata.p1082|sort=p585|tablefunction=last2}}
+|тс={{#invoke:Wikidata|formatStatements|property=p1082[! rank:deprecated][p585]|property-function=formatTable|property-module=Wikidata.table|claim-function=firstTQuantitRefClaim|claim-module=Wikidata.p1082||sort=p585|tablefunction=last}}
+}}<noinclude>{{doc<!--|ЛопаПарцун:Эрицятне/doc-->}}[[Категория:ЛопаПарцунт:Демография|{{PAGENAME}}]]
+[[Категория:ЛопаПарцунт:География]]</noinclude>
