@@ -1,0 +1,15 @@
+<includeonly>{{#invoke:Navbox|navbox}}</includeonly>{{#ifeq: {{NAMESPACE}} | ЛопаПарцун 
+| {{#switch: {{{1|}}}
+  | child | subgroup | none =
+  | {{#ifeq: {{{имя|{{{name|}}}}}} | {{PAGENAME}}
+    |
+    | {{#if:{{yesno|{{{tracking|}}}|no=1|yes=|blank=}}
+      |
+      | {{#if: {{{имя|{{{name|}}}}}}
+        | [[Категория:Навигационные шаблоны, у которых нужно проверить параметр Имя]]
+        | [[Категория:Навигационные шаблоны, у которых предположительно недостаёт параметра Имя]]
+        }}
+      }}
+    }}
+  }}
+}}<noinclude>{{doc}}</noinclude>
