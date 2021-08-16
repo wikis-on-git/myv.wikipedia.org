@@ -1,7 +1,7 @@
 {{Навигационная полоса
 |лем  = Польшань воеводстват
 |заглавие = Польшань воеводстват
-|state = <includeonly>collapsed</includeonly>
+|state = <includeonly>{{{state|autocollapsed}}}</includeonly>
 |изображение = [[File:Flag of Poland.svg|40px|border]]
 |изображение2 = [[File:Herb Polski.svg|40px|border]]
 |тюс = {{тюс|Польша}}
