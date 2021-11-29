@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+|name = Ненецэнь аулькедьало кужомастор
+|top    = 71.0
+|bottom = 65.4
+|left   = 42.0
+|right  = 66.5
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Nenets Autonomous Okrug.png
+ |#default = Outline Map of Nenets Autonomous Okrug.png
+}}
+}}<noinclude>{{ПозКарта/Инфо|Россия}}
+</noinclude>
