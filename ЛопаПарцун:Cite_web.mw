@@ -62,11 +62,11 @@
     | &nbsp;
   }}
 }}{{#if: {{{accessdate|}}}
-  | &#32;<small>Проверено {{#iferror: {{#time: j xg Y | {{{accessdate}}} {{{accessyear|}}} }} | {{{accessdate}}}{{#if: {{{accessyear|}}} | &#32;{{{accessyear}}} }} }}.</small>
+  | &#32;<small>Ваннозь {{#iferror: {{#time: j xg Y | {{{accessdate}}} {{{accessyear|}}} }} | {{{accessdate}}}{{#if: {{{accessyear|}}} | &#32;{{{accessyear}}} }} }}.</small>
 }}{{#if: {{{accessmonthday|}}}
-  | &#32;<small>Проверено {{#iferror: {{#time: j xg Y | {{{accessmonthday}}} {{{accessyear|}}} }} | {{{accessmonthday}}}{{#if: {{{accessyear|}}} | &#32;{{{accessyear}}} }} }}.</small>
+  | &#32;<small>Ваннозь {{#iferror: {{#time: j xg Y | {{{accessmonthday}}} {{{accessyear|}}} }} | {{{accessmonthday}}}{{#if: {{{accessyear|}}} | &#32;{{{accessyear}}} }} }}.</small>
 }}{{#if: {{{accessdaymonth|}}}
-  | &#32;<small>Проверено {{#iferror: {{#time: j xg Y | {{{accessdaymonth}}} {{{accessyear|}}} }} | {{{accessdaymonth}}}{{#if: {{{accessyear|}}} | &#32;{{{accessyear}}} }} }}.</small>
+  | &#32;<small>Ваннозь {{#iferror: {{#time: j xg Y | {{{accessdaymonth}}} {{{accessyear|}}} }} | {{{accessdaymonth}}}{{#if: {{{accessyear|}}} | &#32;{{{accessyear}}} }} }}.</small>
 }}{{#if: {{{archivedate|}}}
   | &#32;<small>[{{{archiveurl}}} Архивировано из первоисточника {{#iferror: {{#time: j xg Y | {{{archivedate}}} }} | {{{archivedate}}} }}].</small>
 }}</span></includeonly><noinclude>
