@@ -1,16 +1,16 @@
 <noinclude>
 <!--
-Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=11.01.2022.
+Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=12.01.2022.
 Пожалуйста не модифицируйте её вручную, ваши изменения будут затёрты при очередном обновлении.
 
-This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=11.01.2022.
+This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=12.01.2022.
 Please do not modify this page. Your changes will be overwritten by bot during the next update.
 -->
 {{doc}}
 
 </noinclude>
 {{#switch: {{{1}}}
-  | Date = 2022-01-11
+  | Date = 2022-01-12
   | AMD = 0.15
   | AUD = 53
   | AZN = 44
@@ -18,13 +18,13 @@ Please do not modify this page. Your changes will be overwritten by bot during t
   | BRL = 13
   | BYN = 29
   | CAD = 59
-  | CHF = 81
+  | CHF = 80
   | CNY = 11
   | CZK = 3.4
   | DKK = 11
-  | EUR = 85
-  | GBP = 102
-  | HKD = 9.6
+  | EUR = 84
+  | GBP = 101
+  | HKD = 9.5
   | HUF = 0.23
   | INR = 1
   | JPY = 0.64
@@ -42,8 +42,8 @@ Please do not modify this page. Your changes will be overwritten by bot during t
   | TMT = 21
   | TRY = 5.4
   | UAH = 2.7
-  | USD = 75
+  | USD = 74
   | UZS = 0.0069
-  | XDR = 105
-  | ZAR = 4.7
+  | XDR = 104
+  | ZAR = 4.8
 }}
