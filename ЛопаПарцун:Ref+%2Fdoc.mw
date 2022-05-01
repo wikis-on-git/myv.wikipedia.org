@@ -1,0 +1,116 @@
+{{docpage}}__NOTOC__
+Шаблон для создания многоуровневых [[ВП:Сноски|примечаний (сносок)]].
+
+{| class="wikitable wide" style=min-width:800px
+ ! Код 
+ ! Результат
+ |- 
+ |style="padding:1em; width:50%"|<code>{{nobr|Текст{{oncolor|lightcyan||<nowiki>{{ref+|</nowiki>}}Комментарий<nowiki><ref>Примечание.</ref></nowiki>.{{oncolor|lightcyan||<nowiki>|К}}</nowiki>}}.}}<br/><code>{{nobr|Текст{{oncolor|lightcyan||<nowiki>{{ref+|</nowiki>}}Комментарий<nowiki><ref name=xxx /></nowiki>.{{oncolor|lightcyan||<nowiki>|К}}</nowiki>}}.}}<br/><br/><nowiki>
+
+
+== Комментарии ==
+</nowiki><br/><nowiki>{{примечания</nowiki>{{oncolor|lightcyan||<nowiki>|group=К</nowiki>}}}}<br/><br/><nowiki>
+
+== Примечания ==
+</nowiki><br/><nowiki>{{примечания}}</nowiki></code>
+ |style="background:#fff; padding:1em; width:50%"|Текст{{ref+|Комментарий<ref>Примечание.</ref>.|К}}.
+
+== Комментарии ==
+{{примечания|group=К}}
+
+== Примечания ==
+{{примечания}}
+|}
+
+<code>К</code> — произвольное имя [[ВП:Сноски#Группировка сносок|группы примечаний]], для которых необходимо создать примечания второго уровня. Допустимо любое буквенно-цифровое обозначение, не содержащее знака равенства.
+
+Если имя группы примечаний не будет указано, примечание к примечанию (с «перевёрнутой» нумерацией сносок) будет создано в основной группе примечаний ''над'' комментируемой строкой:
+
+{| class="wikitable wide" style=min-width:800px
+ ! Код 
+ ! Результат
+ |- 
+ |style="padding:1em; width:50%"|<code>{{nobr|Текст{{oncolor|lightcyan||<nowiki>{{ref+|</nowiki>}}Примечание<nowiki><ref>Примечание.</ref>}}</nowiki>}}.<br/><br/><nowiki>
+
+== Примечания ==
+</nowiki><br/><nowiki>{{примечания}}</nowiki></code>
+ |style="background:#fff; padding:1em; width:50%"|Текст{{ref+|Примечание<ref>Примечание.</ref>.}}.
+
+== Примечания ==
+{{примечания}}
+|}
+
+Для создания примечания, относящегося одновременно к нескольким фрагментам текста, укажите имя этого примечания в качестве третьего параметра:
+
+{| class="wikitable wide" style=min-width:800px
+ ! Код 
+ ! Результат
+ |- 
+ |style="padding:1em; width:50%"|<code>{{nobr|Текст{{oncolor|lightcyan||<nowiki>{{ref+|</nowiki>}}Комментарий<nowiki><ref>Примечание.</ref></nowiki>.{{oncolor|lightcyan||<nowiki>|К|П}}</nowiki>}}.}} Текст{{oncolor|lightcyan||<nowiki>{{ref+||К|П}}</nowiki>}}. Текст{{oncolor|lightcyan||<nowiki>{{ref+||К|П}}</nowiki>}}.<br/><br/><nowiki>
+
+==  Чарькодевтемат ==
+</nowiki><br/><nowiki>{{примечания</nowiki>{{oncolor|lightcyan||<nowiki>|group=К</nowiki>}}}}<br/><br/><nowiki>
+
+== Примечания ==
+</nowiki><br/><nowiki>{{примечания}}</nowiki></code>
+ |style="background:#fff; padding:1em; width:50%"|Текст{{ref+|Комментарий<ref>Примечание.</ref>.|К|П}}. Текст{{ref+||К|П}}. Текст{{ref+||К|П}}.
+
+== Чарькодевтемат ==
+{{примечания|group=К}}
+
+== Примечания ==
+{{примечания}}
+|}
+
+Для создания ''z''-уровневых примечаний используйте ''z''-кратное вложение шаблона с параллельным созданием соответствующих групп примечаний:
+
+{| class="wikitable wide" style=min-width:800px
+ ! Код 
+ ! Результат
+ |- 
+ |style="padding:1em; width:50%"|<code>Текст{{oncolor|blanchedalmond||<nowiki>{{ref+|</nowiki>}}Цитата{{oncolor|lightcyan||<nowiki>{{ref+|</nowiki>}}Комментарий<nowiki><ref>Примечание.</ref></nowiki>.{{oncolor|lightcyan||<nowiki>|К}}</nowiki>}}.{{oncolor|blanchedalmond||<nowiki>|Ц}}</nowiki>}}.<br/><br/><nowiki>
+
+== Цитаты ==
+</nowiki><br/><nowiki>{{примечания</nowiki>{{oncolor|blanchedalmond||<nowiki>|group=Ц</nowiki>}}}}<br/><br/><nowiki>
+
+== Комментарии ==
+</nowiki><br/><nowiki>{{примечания</nowiki>{{oncolor|lightcyan||<nowiki>|group=К</nowiki>}}}}<br/><br/><nowiki>
+
+== Примечания ==
+</nowiki><br/><nowiki>{{примечания}}</nowiki></code>
+ |style="background:#fff; padding:1em; width:50%;"|Текст{{ref+|Цитата{{ref+|Комментарий<ref>Примечание.</ref>.|К}}.|Ц}}.
+
+== Цитаты ==
+{{примечания|group=Ц}}
+
+== Комментарии ==
+{{примечания|group=К}}
+
+== Примечания ==
+{{примечания}}
+|}
+
+Параметры «имя группы примечаний» и «имя примечания» можно оформить как именованные:
+
+ <nowiki>{{ref+|Текст<ref>Текст.</ref>|group=К|name=П}}</nowiki>
+ <nowiki>{{ref+|Текст<ref>Текст.</ref>|g=К|n=П}}</nowiki>
+
+Для создания многоколоночной группы примечаний укажите число колонок или значение ширины колонки, отделив его от имени группы вертикальной чертой: 
+
+ <nowiki>{{примечания|group=К|3}}</nowiki>
+ <nowiki>{{примечания|group=К|colwidth=30em}}</nowiki>
+
+В случае некорректной работы шаблона с кодом, содержащим знаки равенства, заключите все <code>=</code> в [[Шаблон:=|двойные фигурные скобки]]:
+
+ <nowiki>http://www.2x2</nowiki>{{oncolor|red|#fff|<nowiki>=</nowiki>}}<nowiki>5.ru</nowiki>
+ <nowiki>http://www.2x2</nowiki>{{oncolor|green|#fff|<nowiki>{{=}}</nowiki>}}<nowiki>5.ru</nowiki>
+
+== См. также==
+* {{t|чарькодевтемат}}
+* {{t|примечания}}
+* {{t|efn}}
+* {{t|refn}}
+
+<includeonly>
+[[Категория:Шаблоны:Сноски]]
+</includeonly>
