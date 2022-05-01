@@ -1,0 +1,46 @@
+<templatestyles src="Модуль:Template call code/styles.css" />{{{{{|safesubst:}}}#switch: {{{1|}}}
+| NOTOC | FORETOC | TOC | NOEDITSECTION | NEWSECTIONLINK | NONEWSECTIONLINK | NOGALLERY | HIDDENCAT | NOCONTENTCONVERT | NOCC | NOTITLECONVERT | NOTC | START | END | INDEX | NOINDEX | STATICREDIRECT = {{#if: {{{nl|}}}
+  | __{{{1}}}__
+  | [[mw:Help:Magic words/ru#Переключатели поведения|<nowiki>__</nowiki>{{{1}}}__]]
+  }}
+| #default = <span class="ts-templateCallCode-opening ts-templateCallCode-weak">&#123;&#123;{{{{{|safesubst:}}}#if: {{{pref|}}} | {{{pref}}}: }}</span>{{#if: {{{nl|}}}
+  | {{{1}}}
+  | [[{{{{{|safesubst:}}}#switch: {{{1|}}} <!-- Переключатель по ВП:ПАРС -->
+    | expr | if | ifeq | ifexist | ifexpr | switch | time | rel | abs | titleparts | iferror = Википедия:Функции парсера##{{{1}}}{{{{{|safesubst:}}}!}}#
+    | #expr | #if | #ifeq | #ifexist | #ifexpr | #switch | #time | #rel | abs | #titleparts | #iferror = Википедия:Функции парсера#{{{1}}}{{{{{|safesubst:}}}!}}
+    | categorytree | #categorytree = mw:Extension:CategoryTree#The .7B.7B#categorytree.7D.7D parser function{{{{{|safesubst:}}}#ifeq: {{{1}}}
+      | categorytree
+      | {{{{{|safesubst:}}}!}}#
+      | {{{{{|safesubst:}}}!}}
+      }}
+    | invoke | #invoke = mw:Extension:Scribunto/Lua_reference_manual/ru#Возвращаемый текст{{{{{|safesubst:}}}#ifeq: {{{1}}}
+      | invoke
+      | {{{{{|safesubst:}}}!}}#
+      | {{{{{|safesubst:}}}!}}
+      }}
+    | mw:Help:Magic words/ru#{{{{{|safesubst:}}}#switch: {{{1|}}} <!-- Переключатель по Magic words -->
+      | CURRENTYEAR | CURRENTMONTH | CURRENTMONTHNAME | CURRENTMONTHNAMEGEN | CURRENTMONTHABBREV | CURRENTDAY | CURRENTDAY2 | CURRENTDOW | CURRENTDAYNAME | CURRENTTIME | CURRENTHOUR | CURRENTWEEK | CURRENTTIMESTAMP | LOCALYEAR | LOCALMONTH | LOCALMONTHNAME | LOCALMONTHNAMEGEN | LOCALMONTHABBREV | LOCALDAY | LOCALDAY2 | LOCALDOW | LOCALDAYNAME | LOCALTIME | LOCALHOUR | LOCALWEEK | LOCALTIMESTAMP = Дата и время
+      | SITENAME | SERVER | SERVERNAME | DIRMARK | DIRECTIONMARK | SCRIPTPATH | CURRENTVERSION | CONTENTLANGUAGE | CONTENTLANG | REVISIONID | REVISIONDAY | REVISIONDAY2 | REVISIONMONTH | REVISIONYEAR | REVISIONTIMESTAMP | REVISIONUSER | PAGESIZE | PAGESIZE | PROTECTIONLEVEL | DISPLAYTITLE | DEFAULTSORT | DEFAULTSORTKEY | DEFAULTCATEGORYSORT = Технические метаданные
+      | NUMBEROFPAGES | NUMBEROFARTICLES | NUMBEROFFILES | NUMBEROFEDITS | NUMBEROFUSERS | NUMBEROFACTIVEUSERS | PAGESINCATEGORY | PAGESINCAT | NUMBEROFADMINS | NUMBERINGROUP | NUMINGROUP | PAGESINNS | PAGESINNAMESPACE | PAGESIZE = Статистика
+      | FULLPAGENAME | PAGENAME | BASEPAGENAME | SUBPAGENAME | SUBJECTPAGENAME | ARTICLEPAGENAME | TALKPAGENAME | ROOTPAGENAME
+ = Названия страниц
+      | FULLPAGENAMEE | PAGENAMEE | BASEPAGENAMEE | SUBPAGENAMEE | SUBJECTPAGENAMEE | ARTICLEPAGENAMEE | ROOTPAGENAMEE | TALKPAGENAMEE = URL-кодирование названий страниц
+      | localurl | fullurl | canonicalurl | filepath | urlencode | anchorencode = Получение фрагментов URL
+      | 
+ns = Пространство имён
+      | plural | grammar | gender | int = Локализация
+      | lc | uc | lcfirst | ucfirst | formatnum | padleft | padright | DIRMARK | DIRECTIONMARK = Форматирование
+      | Прочее
+      }}{{{{{|safesubst:}}}!}}
+    }}{{{1}}}]]
+  }}{{{{{|safesubst:}}}#ifeq: {{{2|-}}}
+  | {{{2}}}
+  | <nowiki />:{{{2}}}
+  }}{{{{{|safesubst:}}}#if: {{{3|}}}
+  | <span class="ts-templateCallCode-pipe ts-templateCallCode-weak">&#124;</span><span class="ts-templateCallCode-param">{{{3}}}</span>
+  }}{{{{{|safesubst:}}}#if: {{{4|}}}
+  | <span class="ts-templateCallCode-pipe ts-templateCallCode-weak">&#124;</span><span class="ts-templateCallCode-param">{{{4}}}</span>
+  }}{{{{{|safesubst:}}}#if: {{{5|}}}
+  | <span class="ts-templateCallCode-pipe ts-templateCallCode-weak">&#124;</span><span class="ts-templateCallCode-param">{{{5}}}</span>
+  }}<span class="ts-templateCallCode-weak ts-templateCallCode-closing">&#125;&#125;</span>
+}}<noinclude>{{doc}}</noinclude>
