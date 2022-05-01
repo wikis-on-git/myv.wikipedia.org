@@ -1,0 +1,11 @@
+{{примечания|{{#if:{{{2|}}}|{{{2}}}|широкие}}|refs={{{refs|{{{notes|}}}}}}|group=
+{{#switch: {{{group|{{{1|}}}}}}
+    | note
+    | upper-alpha
+    | upper-roman
+    | lower-alpha
+    | lower-greek
+    | lower-roman = {{{group|}}}
+    | #default = lower-alpha
+   }}
+}}<noinclude>{{doc}}</noinclude>
