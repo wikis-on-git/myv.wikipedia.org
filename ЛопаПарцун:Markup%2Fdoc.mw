@@ -1,0 +1,119 @@
+{{docpage}}
+{{TOC right |limit=2}}
+{{translate|en}}
+Этот шаблон используется, чтобы представить разметку или код рядом с результатом его применения.
+
+===Использование===
+Каждая ячейка в первой колонке ("Markup") использует {{tag|pre|o}}, to retain newlines and spaces but styled to allow content to wrap within it. It is usually desirable to escape the content of these cells so that the markup is displayed by wrapping the markup in {{xtag|nowiki}}. It is technically not possible to add this feature to the template.
+
+Каждая ячейка во второй колонке ("Renders as") скопирована из соответствующей ячейки "разметки"  перед ней. Есть случаи, когда это может отличаться:
+* Если первая строка содержит викиразметку, которая должна начать новую строку.
+* Заголовки разметки, такой как {{code|1===}} покажет  странице оглавления; will show in the page table of contents; use {{tlx|fake heading}}.
+* Some templates will place the page in a maintenance category, which is usually undesired:
+** Instead of {{tlx|citation needed}}, use {{tlx|fake citation needed}}.
+* Some templates may have error checking that places the page in a maintenance category. Suppress the category as possible:
+** {{cs1}} templates can suppress the maintenance category by setting {{para|template doc demo|true}}.
+
+===Ограничение===
+===={{xtag|nowiki}}====
+Если вы не поместите содержимое ячейки разметки в {{xtag|nowiki}}, then any template markup will not be escaped, it will be expanded.
+
+This example shows the markup for <nowiki>{{tl|tag}}</nowiki>:
+{{Markup
+|t1=Renders as |t2=Expected rendering
+| {{tl|tag}} | <nowiki>{{tl|tag}}</nowiki>
+}}
+
+====HTML entities====
+HTML entities are parsed in the markup cell:
+{{Markup
+|t1=Nowikied markup shows as |t2=Expected markup
+| <nowiki>&nbsp;–</nowiki> | &amp;nbsp;&amp;ndash;
+}}
+
+To work around this, replace the <code>&</code> with <code>&amp;amp;</code> thus <code>&amp;amp;nbsp;</code> will show as <code>&amp;nbsp;</code>
+
+====List and indent markup====
+If the first line includes wikimarkup that must start on a new line such as #, * or ; then use {{tag|nowiki|s}}:
+
+{{Markup |title=Without {{tag|nowiki|s}}
+| <nowiki># Item 1
+# Item 2
+# Item 3
+# Item 4</nowiki>
+|
+# Item 1
+# Item 2
+# Item 3
+# Item 4
+}}
+
+{{Markup |title=With {{tag|nowiki|s}}
+| &lt;nowiki />
+<nowiki># Item 1
+# Item 2
+# Item 3
+# Item 4</nowiki>
+| <nowiki />
+# Item 1
+# Item 2
+# Item 3
+# Item 4
+}}
+
+===Examples===
+
+====Simple====
+{{Markup
+| <nowiki>'''Bold text'''</nowiki> | '''Bold text'''
+| <nowiki>''Italic text''</nowiki> | ''Italic text''
+}}
+
+====More complex====
+Note that {{tl2|Markup}}'s second argument here uses {{tl2|fake heading}} and {{tl2|fake citation needed}}.
+{{Markup
+| <nowiki>The quick brown fox jumps over the lazy dog.{{#tag:ref|A footnote.<ref>A reference for the footnote.</ref>|group=nb}} The cow jumped over the moon.{{fact}}
+
+== Notes ==
+{{reflist|group=nb}}
+
+== References ==
+{{reflist}}
+</nowiki>
+| The quick brown fox jumps over the lazy dog.{{#tag:ref|A footnote.<ref>A reference for the footnote.</ref>|group=nb}} The cow jumped over the moon.{{fake citation needed}}
+
+{{fake heading|sub=2|Notes}}
+{{reflist|group=nb}}
+
+{{fake heading|sub=2|References}}
+{{reflist|close}}
+}}
+
+====Multiple rows====
+{{Markup
+| The quick brown fox jumps over the lazy dog. | The quick brown fox jumps over the lazy dog.
+| The quick brown fox jumps over the lazy dog. | The quick brown fox jumps over the lazy dog.
+| The quick brown fox jumps over the lazy dog. | The quick brown fox jumps over the lazy dog.
+| The quick brown fox jumps over the lazy dog. | The quick brown fox jumps over the lazy dog.
+| The quick brown fox jumps over the lazy dog. | The quick brown fox jumps over the lazy dog.
+}}
+
+====With title====
+{{Markup |title=Foxes and dogs
+| The quick brown fox jumps over the lazy dog. | The quick brown fox jumps over the lazy dog.
+}}
+
+====Showing rendered HTML====
+When a template is enclosed within {{tl|code}}, it shows the rendered HTML:
+
+{{Markup
+ | <nowiki>{{книга |заглавие=The Book of Merlyn |год=1977 |язык=en |автор=White, T. H.}}</nowiki>
+ | {{книга |заглавие=The Book of Merlyn |год=1977 |язык=en |автор=White, T. H.}}
+
+ | <nowiki>{{code|{{книга |заглавие=The Book of Merlyn |год=1977 |язык=en |автор=White, T. H.}}}}</nowiki>
+ | {{code|{{книга |заглавие=The Book of Merlyn |год=1977 |язык=en |автор=White, T. H.}}}}
+}}
+
+{{шаблоны для документирования}}
+
+<includeonly>[[Категория: Шаблоны:Для документирования шаблонов]]</includeonly>
