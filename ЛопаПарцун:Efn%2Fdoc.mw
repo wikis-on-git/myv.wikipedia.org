@@ -1,0 +1,82 @@
+{{docpage}}
+
+Этот шаблон предназначен для создания сносок, которые не являются ссылками на источники (например, комментарии).
+
+{{TOC right}}
+
+== Использование ==
+: {{tc|efn|''текст сноски''{{optp|1=name=''имя сноски''|2=group=''группа''}}}}
+Например,
+: {{demo|<nowiki>Текст с комментариями{{efn|1-й комментарий}}, которые оформляются в виде сносок{{efn|ещё один комментарий}}.</nowiki>}}
+Шаблон по умолчанию нумерует сноски строчными латинскими буквами, однако при задании параметра <code>group</code> может нумеровать сноски заглавными латинскими буквами, римскими цифрами или греческими буквами. Например,
+: {{demo|<nowiki>Сноски могут быть помечены греческими буквами{{efn|group=lower-greek|например, эта}}.</nowiki>}}
+Чтобы использовать одну и ту же сноску несколько раз, нужно использовать параметр <code>name</code>. Например,
+: {{demo|<nowiki>Здесь будет сноска{{efn|name=a|сноска}}, а здесь мы ее повторим{{efn|name=a}}.</nowiki>}}
+
+Сами комментарии выводятся при помощи шаблона {{t|комментарии}}. Если у сносок была задана группа <code>group</code>, то у шаблона {{t|комментарии}} должна быть задана та же группа. Например:
+
+{{demo|<nowiki>{{комментарии}}</nowiki>}}
+
+{{demo|<nowiki>{{комментарии|group=lower-greek}}</nowiki>}}
+
+Обычно комментарии ставят в раздел «Примечания» до сносок на источники:
+<pre>
+== Примечания ==
+
+=== Комментарии ===
+{{комментарии}}
+
+=== Источники ===
+{{примечания}}
+</pre>
+
+Этот текст можно вставить шаблоном {{t|Комментарии и источники|п}}.
+
+== Группы примечаний ==
+Параметр {{para|group}} может принимать следующие значения:
+* <code>lower-alpha</code> — нумерация строчными латинскими буквами;
+* <code>upper-alpha</code> — нумерация заглавными латинскими буквами;
+* <code>lower-roman</code> — нумерация римскими цифрами строчными буквами;
+* <code>upper-roman</code> — нумерация римскими цифрами заглавными буквами;
+* <code>lower-greek</code> — нумерация строчными греческими буквами.
+
+== Примеры ==
+{{markup|title=Маленькие буквы
+|<nowiki>Lorem ipsum dolor sit amet{{efn|Текст сноски 1}}. Consectetur adipisicing elit{{efn|Текст сноски 2}}. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{{efn|Текст сноски 3}}.
+
+{{комментарии}}
+</nowiki>
+|Lorem ipsum dolor sit amet{{efn|Текст сноски 1}}. Consectetur adipisicing elit{{efn|Текст сноски 2}}. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{{efn|Текст сноски 3}}.
+
+{{комментарии}}
+}}
+
+{{markup|title=Римские цифры
+|<nowiki>Lorem ipsum dolor sit amet{{efn|group=lower-roman|Текст сноски 1}}. Consectetur adipisicing elit{{efn|group=lower-roman|Текст сноски 2}}. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{{efn|group=lower-roman|Текст сноски 3}}.
+
+{{комментарии|group=lower-roman}}
+</nowiki>
+|Lorem ipsum dolor sit amet{{efn|group=lower-roman|Текст сноски 1}}. Consectetur adipisicing elit{{efn|group=lower-roman|Текст сноски 2}}. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{{efn|group=lower-roman|Текст сноски 3}}.
+{{комментарии|group=lower-roman}}
+}}
+
+{{markup|title=Именованные сноски
+|<nowiki>Lorem ipsum dolor sit amet{{efn|name=fn1|Текст сноски 1}}. Consectetur adipisicing elit{{efn|Текст сноски 2}}. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{{efn|name=fn1}}.
+
+{{комментарии}}
+</nowiki>
+|Lorem ipsum dolor sit amet{{efn|name=fn1|Текст сноски 1}}. Consectetur adipisicing elit{{efn|Текст сноски 2}}. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{{efn|name=fn1}}.
+{{комментарии}}
+}}
+
+== См. также ==
+* {{t|Комментарии}}
+* {{t|Комментарии и источники|п}}
+* {{t|ref+}}
+* {{t|t+}}{{t|t-}}
+* {{t|ref label}}{{t|note label}}
+
+<includeonly>
+[[Категория:Шаблоны/модули, нуждающиеся в усовершенствовании]]
+[[Категория:Шаблоны:Сноски]]
+</includeonly>
