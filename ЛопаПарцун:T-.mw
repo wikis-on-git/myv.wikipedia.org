@@ -1,0 +1,31 @@
+{{#if:{{{2|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{2}}}]}}"><!--
+--><{{t-/тег|{{{2}}}}} style=margin-right:.2em>'''''[[#CITEREF{{anchorencode:[{{{2}}}+]}}|{{{2}}}]]'''''</{{t-/тег|{{{2}}}}}>}}{{
+  #if:{{{3|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{3}}}]}}"><!--
+--><{{t-/тег|{{{3}}}}} style=margin-right:.2em>'''''[[#CITEREF{{anchorencode:[{{{3}}}+]}}|{{{3}}}]]'''''</{{t-/тег|{{{3}}}}}>}}{{
+  #if:{{{4|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{4}}}]}}"><!--
+--><{{t-/тег|{{{4}}}}} style=margin-right:.2em>'''''[[#CITEREF{{anchorencode:[{{{4}}}+]}}|{{{4}}}]]'''''</{{t-/тег|{{{4}}}}}>}}{{
+  #if:{{{5|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{5}}}]}}"><!--
+--><{{t-/тег|{{{5}}}}} style=margin-right:.2em>'''''[[#CITEREF{{anchorencode:[{{{5}}}+]}}|{{{5}}}]]'''''</{{t-/тег|{{{5}}}}}>}}{{
+  #if:{{{6|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{6}}}]}}"><!--
+--><{{t-/тег|{{{6}}}}} style=margin-right:.2em>'''''[[#CITEREF{{anchorencode:[{{{6}}}+]}}|{{{6}}}]]'''''</{{t-/тег|{{{6}}}}}>}}{{
+  #if:{{{7|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{7}}}]}}"><!--
+--><{{t-/тег|{{{7}}}}} style=margin-right:.2em>'''''[[#CITEREF{{anchorencode:[{{{7}}}+]}}|{{{7}}}]]'''''</{{t-/тег|{{{7}}}}}>}}{{
+  #if:{{{8|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{8}}}]}}"><!--
+--><{{t-/тег|{{{8}}}}} style=margin-right:.2em>'''''[[#CITEREF{{anchorencode:[{{{8}}}+]}}|{{{8}}}]]'''''</{{t-/тег|{{{8}}}}}>}}{{
+  #if:{{{9|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{9}}}]}}"><!--
+--><{{t-/тег|{{{9}}}}} style=margin-right:.2em>'''''[[#CITEREF{{anchorencode:[{{{9}}}+]}}|{{{9}}}]]'''''</{{t-/тег|{{{9}}}}}>}}{{
+  #if:{{{10|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{10}}}]}}"><!--
+--><{{t-/тег|{{{10}}}}} style=margin-right:.2em>'''''[[#CITEREF{{anchorencode:[{{{10}}}+]}}|{{{10}}}]]'''''</{{t-/тег|{{{10}}}}}>}}{{
+  #if:{{{11|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{11}}}]}}"><!--
+--><{{t-/тег|{{{11}}}}} style=margin-right:.2em>'''''[[#CITEREF{{anchorencode:[{{{11}}}+]}}|{{{11}}}]]'''''</{{t-/тег|{{{11}}}}}>}}<!--
+   -->{{{1|}}}{{
+  #if:{{{11|}}}|</span>}}{{
+  #if:{{{10|}}}|</span>}}{{
+  #if:{{{9|}}}|</span>}}{{
+  #if:{{{8|}}}|</span>}}{{
+  #if:{{{7|}}}|</span>}}{{
+  #if:{{{6|}}}|</span>}}{{
+  #if:{{{5|}}}|</span>}}{{
+  #if:{{{4|}}}|</span>}}{{
+  #if:{{{3|}}}|</span>}}{{
+  #if:{{{2|}}}|</span>}}<noinclude>{{doc|t+/doc}}</noinclude>
