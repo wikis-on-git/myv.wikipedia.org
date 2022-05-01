@@ -1,0 +1,17 @@
+<includeonly>
+|-
+|style="width:50%; background:#f8f9fa; border-width:1px;border-style:solid none none solid;border-color:#c8ccd1; padding:9px 5px 5px; vertical-align:top;"| <!--
+ -->{{#tag:pre |{{{c1|[markup]}}} |style="margin:0;border:none;padding:0; white-space:pre-wrap; {{{c1style|}}}"}}
+|style="width:50%; background:#f8f9fa; border-width:1px;border-style:solid solid none solid;border-color:#c8ccd1; padding:5px; vertical-align:top;"| <!--
+ --><div style="{{{c2style|}}}">
+{{{c2|[''rendering'']}}}</div></includeonly><noinclude>
+{{doc-inline}}
+{| style="width:90%;border-width: medium;"
+{{Markup/row}}
+|-
+|style="width:50%; border-width:1px;border-style:solid none none none;border-color:#c8ccd1; padding:5px; vertical-align:text-top;"|
+|style="width:50%; border-width:1px;border-style:solid none none none;border-color:#c8ccd1; padding:5px; vertical-align:text-top;"|
+|}
+{{doc-end}}
+[[Категория:Шаблоны:Подстраницы шаблонов]]
+</noinclude>
