@@ -1,0 +1,22 @@
+{{#if:{{{11|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{11}}}+]}}">}}{{
+  #if:{{{10|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{10}}}+]}}">}}{{
+   #if:{{{9|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{9}}}+]}}">}}{{
+   #if:{{{8|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{8}}}+]}}">}}{{
+   #if:{{{7|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{7}}}+]}}">}}{{
+   #if:{{{6|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{6}}}+]}}">}}{{
+   #if:{{{5|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{5}}}+]}}">}}{{
+   #if:{{{4|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{4}}}+]}}">}}{{
+   #if:{{{3|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{3}}}+]}}">}}{{
+   #if:{{{2|}}}|<span class=citation id="CITEREF{{anchorencode:[{{{2}}}+]}}">}}<!--
+    -->{{{1|}}}{{
+   #if:{{{2|}}}|<sup>[[#CITEREF{{anchorencode:[{{{2}}}]}}|[{{{2}}}]]]</sup></span>}}{{
+   #if:{{{3|}}}|<sup>[[#CITEREF{{anchorencode:[{{{3}}}]}}|[{{{3}}}]]]</sup></span>}}{{
+   #if:{{{4|}}}|<sup>[[#CITEREF{{anchorencode:[{{{4}}}]}}|[{{{4}}}]]]</sup></span>}}{{
+   #if:{{{5|}}}|<sup>[[#CITEREF{{anchorencode:[{{{5}}}]}}|[{{{5}}}]]]</sup></span>}}{{
+   #if:{{{6|}}}|<sup>[[#CITEREF{{anchorencode:[{{{6}}}]}}|[{{{6}}}]]]</sup></span>}}{{
+   #if:{{{7|}}}|<sup>[[#CITEREF{{anchorencode:[{{{7}}}]}}|[{{{7}}}]]]</sup></span>}}{{
+   #if:{{{8|}}}|<sup>[[#CITEREF{{anchorencode:[{{{8}}}]}}|[{{{8}}}]]]</sup></span>}}{{
+   #if:{{{9|}}}|<sup>[[#CITEREF{{anchorencode:[{{{9}}}]}}|[{{{9}}}]]]</sup></span>}}{{
+  #if:{{{10|}}}|<sup>[[#CITEREF{{anchorencode:[{{{10}}}]}}|[{{{10}}}]]]</sup></span>}}{{
+  #if:{{{11|}}}|<sup>[[#CITEREF{{anchorencode:[{{{11}}}]}}|[{{{11}}}]]]</sup></span>}}<!--
+--><noinclude>{{doc}}</noinclude>
