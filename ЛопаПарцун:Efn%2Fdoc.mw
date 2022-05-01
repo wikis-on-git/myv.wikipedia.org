@@ -13,24 +13,24 @@
 Чтобы использовать одну и ту же сноску несколько раз, нужно использовать параметр <code>name</code>. Например,
 : {{demo|<nowiki>Здесь будет сноска{{efn|name=a|сноска}}, а здесь мы ее повторим{{efn|name=a}}.</nowiki>}}
 
-Сами комментарии выводятся при помощи шаблона {{t|комментарии}}. Если у сносок была задана группа <code>group</code>, то у шаблона {{t|комментарии}} должна быть задана та же группа. Например:
+Сами комментарии выводятся при помощи шаблона {{t|чарькодевтемат}}. Если у сносок была задана группа <code>group</code>, то у шаблона {{t|чарькодевтемат}} должна быть задана та же группа. Например:
 
-{{demo|<nowiki>{{комментарии}}</nowiki>}}
+{{demo|<nowiki>{{чарькодевтемат}}</nowiki>}}
 
-{{demo|<nowiki>{{комментарии|group=lower-greek}}</nowiki>}}
+{{demo|<nowiki>{{чарькодевтемат|group=lower-greek}}</nowiki>}}
 
 Обычно комментарии ставят в раздел «Примечания» до сносок на источники:
 <pre>
 == Примечания ==
 
-=== Комментарии ===
-{{комментарии}}
+=== Чарькодевтемат ===
+{{чарькодевтемат}}
 
 === Источники ===
 {{примечания}}
 </pre>
 
-Этот текст можно вставить шаблоном {{t|Комментарии и источники|п}}.
+Этот текст можно вставить шаблоном {{t|Чарькодевтемат ды лисьмапрят|п}}.
 
 == Группы примечаний ==
 Параметр {{para|group}} может принимать следующие значения:
@@ -44,34 +44,34 @@
 {{markup|title=Маленькие буквы
 |<nowiki>Lorem ipsum dolor sit amet{{efn|Текст сноски 1}}. Consectetur adipisicing elit{{efn|Текст сноски 2}}. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{{efn|Текст сноски 3}}.
 
-{{комментарии}}
+{{чарькодевтемат}}
 </nowiki>
 |Lorem ipsum dolor sit amet{{efn|Текст сноски 1}}. Consectetur adipisicing elit{{efn|Текст сноски 2}}. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{{efn|Текст сноски 3}}.
 
-{{комментарии}}
+{{чарькодевтемат}}
 }}
 
 {{markup|title=Римские цифры
 |<nowiki>Lorem ipsum dolor sit amet{{efn|group=lower-roman|Текст сноски 1}}. Consectetur adipisicing elit{{efn|group=lower-roman|Текст сноски 2}}. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{{efn|group=lower-roman|Текст сноски 3}}.
 
-{{комментарии|group=lower-roman}}
+{{чарькодевтемат|group=lower-roman}}
 </nowiki>
 |Lorem ipsum dolor sit amet{{efn|group=lower-roman|Текст сноски 1}}. Consectetur adipisicing elit{{efn|group=lower-roman|Текст сноски 2}}. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{{efn|group=lower-roman|Текст сноски 3}}.
-{{комментарии|group=lower-roman}}
+{{чарькодевтемат|group=lower-roman}}
 }}
 
 {{markup|title=Именованные сноски
 |<nowiki>Lorem ipsum dolor sit amet{{efn|name=fn1|Текст сноски 1}}. Consectetur adipisicing elit{{efn|Текст сноски 2}}. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{{efn|name=fn1}}.
 
-{{комментарии}}
+{{чарькодевтемат}}
 </nowiki>
 |Lorem ipsum dolor sit amet{{efn|name=fn1|Текст сноски 1}}. Consectetur adipisicing elit{{efn|Текст сноски 2}}. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua{{efn|name=fn1}}.
-{{комментарии}}
+{{чарькодевтемат}}
 }}
 
 == См. также ==
-* {{t|Комментарии}}
-* {{t|Комментарии и источники|п}}
+* {{t|Чарькодевтемат}}
+* {{t|Чарькодевтемат ды лисьмапрят|п}}
 * {{t|ref+}}
 * {{t|t+}}{{t|t-}}
 * {{t|ref label}}{{t|note label}}
