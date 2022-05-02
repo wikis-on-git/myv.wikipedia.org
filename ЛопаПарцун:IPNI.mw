@@ -1,0 +1,9 @@
+[http://www.ipni.org/ipni/idPlantNameSearch.do?id={{{1}}} {{#if:{{{2|}}}|{{{2}}}|{{PAGENAME}}}}]{{ref-en}}:  ''[[International Plant Names Index]] (IPNI)''сайтсонть. {{#if: {{{access-date|}}}
+| <small>Токамо шкась: {{#iferror: {{#time: Y-m-d | {{{access-date|}}} }}
+    | {{#invoke:Dates|yyyymmdd|{{{access-date|}}}}}
+    | {{#time: Y-m-d  | {{{access-date|}}} }}
+    }}.</small>
+| <span title{{Eq}}"Ваннозь" style{{Eq}}"cursor:help; margin-left:0.2em; color:#888888;">{{{3|}}}</span>
+}}<noinclude>
+{{doc}}
+</noinclude>
