@@ -1,49 +1,49 @@
 <noinclude>
 <!--
-Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=10.06.2022.
+Эта страница автоматически обновляется роботом на основе данных http://www.cbr.ru/scripts/XML_daily.asp?date_req=15.06.2022.
 Пожалуйста не модифицируйте её вручную, ваши изменения будут затёрты при очередном обновлении.
 
-This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=10.06.2022.
+This page is updated automatically. It is based on data from http://www.cbr.ru/scripts/XML_daily.asp?date_req=15.06.2022.
 Please do not modify this page. Your changes will be overwritten by bot during the next update.
 -->
 {{doc}}
 
 </noinclude>
 {{#switch: {{{1}}}
-  | Date = 2022-06-10
+  | Date = 2022-06-15
   | AMD = 0.13
-  | AUD = 41
-  | AZN = 34
-  | BGN = 32
+  | AUD = 39
+  | AZN = 33
+  | BGN = 30
   | BRL = 11
   | BYN = 22
-  | CAD = 46
-  | CHF = 59
-  | CNY = 9
-  | CZK = 2.5
-  | DKK = 8.4
-  | EUR = 62
-  | GBP = 73
-  | HKD = 7.4
-  | HUF = 0.15
-  | INR = 0.75
-  | JPY = 0.43
-  | KGS = 0.73
-  | KRW = 0.046
+  | CAD = 44
+  | CHF = 57
+  | CNY = 8.6
+  | CZK = 2.4
+  | DKK = 8
+  | EUR = 59
+  | GBP = 69
+  | HKD = 7.2
+  | HUF = 0.14
+  | INR = 0.73
+  | JPY = 0.42
+  | KGS = 0.71
+  | KRW = 0.044
   | KZT = 0.13
-  | MDL = 3
-  | NOK = 6.1
-  | PLN = 13
+  | MDL = 2.9
+  | NOK = 5.7
+  | PLN = 12
   | RON = 12
   | RUB = 1
-  | SEK = 5.9
-  | SGD = 42
+  | SEK = 5.6
+  | SGD = 40
   | TJS = 5.1
   | TMT = 16
-  | TRY = 3.4
+  | TRY = 3.3
   | UAH = 1.9
-  | USD = 58
-  | UZS = 0.0052
-  | XDR = 78
-  | ZAR = 3.8
+  | USD = 57
+  | UZS = 0.0051
+  | XDR = 76
+  | ZAR = 3.5
 }}
