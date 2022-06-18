@@ -1,8 +1,55 @@
-{{Регион}}
+{{Регион
+ |Эрицятне                         = 1 040 902<ref name="ukrcensus">{{UKR-EnumPopEstimate2021}}</ref>
+}}
 '''Ривнэнь ёнкс''' ({{Lang-uk|Рівненська о́бласть}}) — масторпельксесь [[Украина]]со. Ёнксонть куншка ош — [[Ривнэ ош]]ось.
 
-==Ривнэнь ёнксонь буетне ==
+== Географической аштема тарказо ==
+{{тарказо
+| Centre = Ривнэнь ёнкс
+| North =[[Артовкс:Flag of Belarus.svg|27пкс]] [[Белорузия Республикась|Белорузия]]
+| Northeast =
+| East = [[Артовкс:Flag of Zhytomyr Oblast.svg|27пкс]] [[Жытомырэнь ёнкс]]
+| Southeast = [[Артовкс:Flag of Khmelnytskyi Oblast.svg|27пкс]] [[Хмельницкоень ёнкс|Хмэльныцкоень ёнкс]]
+| South = [[Артовкс:Flag of Ternopil Oblast.svg|27пкс]] [[Тэрнопилэнь ёнкс]]
+| Southwest = [[Артовкс:Flag of Lviv Oblast.svg|27пкс]] [[Львовонь ёнкс|Львивонь ёнкс]]
+| West = [[Артовкс:Flag of Volyn Oblast.svg|27пкс]] [[Волынэнь ёнкс]]
+| Northwest = 
+| Анклав = 
+}}
+== Эрицятне ==
+{{ЭрицятнеВД}}
+
+== Ривнэнь ёнксонь буетне<ref name="rada">[https://zakon.rada.gov.ua/laws/show/807-IX#Text Постанова Верховної Ради України від 17 липня 2020 року № 807-IX «Про утворення та ліквідацію районів»]{{ref-uk}}</ref>==
+{| border=0 align="center" class="sortable" 
+|+
+!bgcolor=#AFD6FF align="center" class="unsortable" | Герб
+!bgcolor=#AFD6FF align="center"|Буетне
+!bgcolor=#AFD6FF align="center"|Покшолмазо<br/>([[вайгельпе|вп.²]])
+!bgcolor=#AFD6FF align="center"|Эрицятне<ref name="ukrcensus"/><br/>(ломанть)
+!bgcolor=#AFD6FF align="center"|Ош
+!bgcolor=#AFD6FF align="center"|{{Comment|Ошкондямо|Ошкондямо од веле}}
+!bgcolor=#AFD6FF align="center"|Куншка таркась
+!bgcolor=#AFD6FF align="center"|Картат
+
+|-height=38px bgcolor=#E6F2FF																									
+|align="center"|[[Артовкс:Coat of Arms of Varash.svg|30px]] ||[[Варашонь буе]]<br/>({{lang-uk|Вараський район}})||align="center"|{{Formatnum:3327,2}} ||align="center"|{{Formatnum:139 000}} ||align="center"| 1 ||align="center"| 3 ||align="center"| [[Вараш]] ||align="center"| [[Артовкс:Varash Raion 2020.svg|150px]]
+
+|-height=38px bgcolor=#E6F2FF																									
+|align="center"|[[Артовкс:Coat of Arms of Dubenskiy Raion in Rivne Oblast.png|30px]] ||[[Дубнонь буе]]<br/>({{lang-uk|Дубенський район}})||align="center"|{{Formatnum:1200}} ||align="center"|{{Formatnum:170 400}} ||align="center"| 2 ||align="center"| 3 ||align="center"| [[Дубно]] ||align="center"| [[Артовкс:Dubno Raion 2020.svg|150px]]
+
+|-height=38px bgcolor=#E6F2FF													
+|align="center"| [[Артовкс:Rovenskiy rayon gerb.png|30px]] || [[Ривнэнь буе]] <br/>({{lang-uk|Рівненський район}})||align="center"|{{Formatnum:7218}} ||align="center"|{{Formatnum:634 900}} ||align="center"| 6 ||align="center"| 6 ||align="center"| [[Ривнэ]] ||align="center"| [[Артовкс:Rivne Raion 2020.svg|150px]]
+	
+|-height=38px bgcolor=#E6F2FF							
+				
+|align="center"|[[Артовкс:Sarnenskyy rayon gerb.png|37px]] ||[[Сарнынь буе]]<br/>({{lang-uk|Сарненський район}}) ||align="center"|{{Formatnum:1970}} ||align="center"|{{Formatnum:213 000}} ||align="center"| 2 ||align="center"| 4 ||align="center"| [[Сарны]] ||align="center"| [[Артовкс:Sarny Raion 2020.svg|150px]]
+
+|-height=38px class="sortbottom" bgcolor=#AFD6FF												
+|align="center"|[[Артовкс:Coat of Arms of Rivne Oblast.svg|35px]] ||'''Ривнэнь ёнкс''' <br/>({{Lang-uk|Рівненська область}}) ||align="center"|'''{{Formatnum:20 051}}''' ||align="center"|'''{{Formatnum:1 040 902}}''' ||align="center"| '''11''' ||align="center"| '''16''' ||align="center"| [[Ривнэ]] ||align="center"| [[Артовкс:Rivne Oblast location map.svg|150px]]
+|+ 
+|}
 {{Lisj}}
+{{Ривнэнь ёнкс}}
 {{Украинань масторпелькстне}}
 
 [[Категория:Украина]]
