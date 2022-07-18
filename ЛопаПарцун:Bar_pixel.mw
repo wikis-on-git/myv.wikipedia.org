@@ -1,0 +1,20 @@
+<includeonly><tr>
+<td style="padding:0 4px; min-width:2em;">{{{1|}}}</td>
+<td style="padding:{{#if:{{{слева2|}}}|0 4px; min-width:2em|0}}; text-align:right;">{{{слева2|}}}</td>
+<td style="border-left:solid 1px silver;border-right:solid 1px silver;"><div style="background:{{{2|grey}}}; width:{{#expr:{{replace|{{{3|0}}}|,|.}}/{{replace|{{{делитель|1}}}|,|.}}}}px; height:17px; overflow:hidden">&nbsp;&emsp;</div></td>
+<td style="padding:0 4px; min-width:2em; text-align:right;">{{{5|{{{3|0}}}{{{4|}}}}}}</td>
+<td style="padding:{{#if:{{{справа2|{{{note|}}}}}}|0 4px; min-width:2em|0}}; text-align:right;">{{{справа2|{{{note|}}}}}}</td>
+</tr></includeonly><noinclude>
+{{doc-inline}}
+Служебная подстраница. Используется совместно с {{tl|bar box}} для создания [[Гистограмма|гистограмм]].
+
+;Все параметры
+<pre>
+{{bar pixel|подпись слева|цвет полосы|ширина полосы (в пикселях)|единицы|подпись справа|слева2 = Вторая подпись слева|справа2 = Вторая подпись справа|делитель = целое число}}
+</pre>
+* px указывать не нужно, только число
+* подпись справа по умолчанию = ширина полосы + единицы
+* делитель нужен для уменьшения ширины полос
+{{doc-end}}
+[[Категория:Шаблоны:Гистограммы]]
+</noinclude>
