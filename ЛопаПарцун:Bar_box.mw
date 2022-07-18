@@ -1,0 +1,33 @@
+<includeonly><div class="barbox {{#switch: {{{расположение|{{{float|}}}}}} 
+  | left = tleft | слева = tleft 
+  | right = tright | справа = tright 
+  | center = center | центр = center 
+  | #default = tnone }}" style="border:{{{толщина рамки|{{{border_width|1}}}}}}px solid silver; padding:{{{отступ|{{{padding|0.4em}}}}}}; width:{{#if:{{{ширина|{{{width|}}}}}}
+  |{{{ширина|{{{width|}}}}}}
+  |{{#expr:<!-- 
+-->trunc 20 + {{str len|{{обрезать слева и справа|{{{слева1|{{{left1|}}}}}}}}}} * 10 + 16<!-- 
+-->{{#if:{{{слева2|{{{left2|}}}}}}| + 20 + {{str len|{{обрезать слева и справа|{{{слева2|{{{left2|}}}}}}}}}} * 10 + 16}}<!-- 
+-->+ {{только число|{{{ширина полосок|{{{barwidth|100}}}}}}}}<!-- 
+-->+ 20 + {{str len|{{обрезать слева и справа|{{{справа1|{{{right1|}}}}}}}}}} * 10 + 16<!-- 
+-->{{#if:{{{справа2|{{{right2|}}}}}}| + 20 + {{str len|{{обрезать слева и справа|{{{справа2|{{{right2|}}}}}}}}}} * 10 + 16}}<!-- 
+-->+ 32}}px<!-- 
+-->}}; {{#iferror: background: {{{цвет фона|{{{background-color|white}}}}}}; color: {{#ifexpr:{{#invoke:Color contrast|ratio|{{{цвет фона|{{{background-color|white}}}}}}|#202122}} < 4.5|#fff|#202122}}|background:white}}; {{{стиль|{{{style|}}}}}}">
+<table style="border-collapse:collapse; width:100%; font-size:88%;">
+{{#if:{{{заголовок|{{{title|}}}}}}
+|<tr style="{{#iferror: background: {{{цвет заголовка|{{{titlebar|none}}}}}}; color: {{#ifexpr:{{#invoke:Color contrast|ratio|{{{цвет заголовка|{{{titlebar|none}}}}}}|#202122}} < 4.5|#fff|#202122}}|background:none}};"><th colspan="5">{{{заголовок|{{{title|}}}}}}</th></tr>
+}}
+<tr>
+<td style="padding:0 4px; min-width:2em;">{{{слева1|{{{left1|}}}}}}</td>
+<td style="padding:{{#if:{{{слева2|{{{left2|}}}}}}|0 4px; min-width:2em|0}}; text-align:right;">{{{слева2|{{{left2|}}}}}}</td>
+<td style="width:{{{ширина полосок|{{{barwidth|200px}}}}}};"></td>
+<td style="padding:0 4px; min-width:2em; text-align:right;">{{{справа1|{{{right1|}}}}}}</td>
+<td style="padding:{{#if:{{{справа2|{{{right2|}}}}}}|0 4px; min-width:2em|0}}; text-align:right;">{{{справа2|{{{right2|}}}}}}</td>
+</tr>
+{{{строки|{{{bars|}}}}}}
+{{#if:{{{подпись|{{{caption|}}}}}}
+|<tr><td colspan="5" style="padding:{{{отступ подписи|{{{caption padding|5px 4px}}}}}};">{{{подпись|{{{caption|}}}}}}</td></tr>
+}}
+</table>
+</div></includeonly><noinclude>
+{{doc}}
+</noinclude>
