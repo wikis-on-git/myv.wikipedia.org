@@ -1,0 +1,161 @@
+<table class="vertical-navbox {{#if:{{{wraplinks|}}}|{{#ifeq:{{{wraplinks|}}}|true||nowraplinks}}|nowraplinks}} {{{class|}}} {{{bodyclass|}}}" cellspacing="5" <!--
+    -->style="float:right; clear:right; color:black; background:#f9f9f9; border:1px solid #aaa; <noinclude>width:22em;</noinclude> margin:0 0 1.0em 1.0em; padding:0.2em; border-spacing:0.4em 0; text-align:center; line-height:1.4em; font-size:88%; {{{style|}}} {{{bodystyle|}}}" <!--
+    -->cellpadding="{{{cellpadding|0}}}"><!--
+
+ ------------------------------ outertitle -------------------------------
+ -->{{#if:{{{outertitle<includeonly>|</includeonly>}}}
+     | <caption class="{{{outertitleclass|}}}" style="padding-bottom:0.2em; font-size:125%; line-height:1.15em; font-weight:bold; {{{outertitlestyle|}}}">{{{outertitle}}}</caption><!--
+ -->}}<!--
+
+ ------------------------- topimage, topcaption --------------------------
+ -->{{#if:{{{topimage<includeonly>|</includeonly>}}}
+     | <tr><td class="{{{topimageclass|}}}" style="padding:0.4em 0; {{{topimagestyle|}}}">{{{topimage}}}<!--
+        -->{{#if:{{{topcaption<includeonly>|</includeonly>}}} |<div style="padding-top:0.2em; font-size:85%; line-height:1.2em; {{{topcaptionstyle|}}}">{{{topcaption}}}</div>}}<!--
+ --></td></tr>}}<!--
+
+ --------------------------- pretitle, title -----------------------------
+ -->{{#if:{{{pretitle<includeonly>|</includeonly>}}} 
+     | <tr><td class="{{{pretitleclass|}}}" style="{{#if:{{{topimage<includeonly>|</includeonly>}}} |padding-top:0.2em; |padding-top:0.4em;}} font-size:85%; line-height:1.2em; {{{pretitlestyle|}}}">{{{pretitle}}}<!--
+ --></td></tr>}}<!--
+ -->{{#if:{{{title<includeonly>|</includeonly>}}}
+     | <tr><th class="{{{titleclass|}}}" style="padding:0.2em 0.4em 0.2em; {{#if:{{{pretitle<includeonly>|</includeonly>}}} |padding-top:0;}} font-size:145%; line-height:1.15em; font-weight:bold; {{{titlestyle|}}}">{{{title}}}<!--
+ --></th></tr>}}<!--
+
+ --------------------------- image, caption ------------------------------
+ -->{{#if:{{{image<includeonly>|</includeonly>}}}
+     | <tr><td class="{{{imageclass|}}}" style="padding:0.2em 0 0.4em; {{{imagestyle|}}}">{{{image}}}<!--
+        -->{{#if:{{{caption<includeonly>|</includeonly>}}} |<div style="padding-top:0.2em; font-size:85%; line-height:1.2em; {{{captionstyle|}}}">{{{caption}}}</div>}}<!--
+ --></td></tr>}}<!--
+
+ ------------------------------- above -----------------------------------
+ -->{{#if:{{{above<includeonly>|</includeonly>}}} |<tr><td class="{{{aboveclass|}}}" style="padding:0.3em 0.4em 0.3em; font-weight:bold; {{{abovestyle|}}}">{{{above}}}<!---->}}<!--
+
+ --------------------------- sections 1 to 4 -----------------------------
+ -->{{#if:{{{heading1<includeonly>|</includeonly>}}}
+     |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; {{#if:{{{image<includeonly>|</includeonly>}}} |padding-top:0.4em;}} font-weight:bold; {{{headingstyle|}}} {{{heading1style|}}}"><!--
+       -->{{{heading1}}}<!--
+ --></td></tr>}}<!--
+ -->{{#if:{{{content1<includeonly>|</includeonly>}}}
+     |<tr><td style="{{#if:{{{heading1|{{{heading<includeonly>|</includeonly>}}}}}} | |padding-top:0.2em;}} padding-bottom:0.2em; {{{contentstyle|}}} {{{content1style|}}}"><!--
+       -->{{{content1}}}<!--
+ --></td></tr>}}<!--
+
+ -->{{#if:{{{heading2<includeonly>|</includeonly>}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading2style|}}}">{{{heading2}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content2<includeonly>|</includeonly>}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content2style|}}}">{{{content2}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading3<includeonly>|</includeonly>}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading3style|}}}">{{{heading3}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content3<includeonly>|</includeonly>}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content3style|}}}">{{{content3}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading4|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading4style|}}}">{{{heading4}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content4<includeonly>|</includeonly>}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content4style|}}}">{{{content4<noinclude>|................</noinclude>}}}<!----></td></tr>}}<!--
+
+ --------------------------- section 5 onward ----------------------------
+ -->{{#if:{{{heading5|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading5style|}}}">{{{heading5}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content5|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content5style|}}}">{{{content5}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading6|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading6style|}}}">{{{heading6}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content6|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content6style|}}}">{{{content6}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading7|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading7style|}}}">{{{heading7}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content7|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content7style|}}}">{{{content7}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading8|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading8style|}}}">{{{heading8}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content8|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content8style|}}}">{{{content8}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading9|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading9style|}}}">{{{heading9}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content9|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content9style|}}}">{{{content9}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading10|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading10style|}}}">{{{heading10}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content10|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content10style|}}}">{{{content10}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading11|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading11style|}}}">{{{heading11}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content11|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content11style|}}}">{{{content11}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading12|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading12style|}}}">{{{heading12}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content12|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content12style|}}}">{{{content12}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading13|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading13style|}}}">{{{heading13}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content13|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content13style|}}}">{{{content13}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading14|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading14style|}}}">{{{heading14}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content14|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content14style|}}}">{{{content14}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading15|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading15style|}}}">{{{heading15}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content15|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content15style|}}}">{{{content15}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading16|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading16style|}}}">{{{heading16}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content16|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content16style|}}}">{{{content16}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading17|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading17style|}}}">{{{heading17}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content17|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content17style|}}}">{{{content17}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading18|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading18style|}}}">{{{heading18}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content18|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content18style|}}}">{{{content18}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading19|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading19style|}}}">{{{heading19}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content19|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content19style|}}}">{{{content19}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading20|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading20style|}}}">{{{heading20}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content20|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content20style|}}}">{{{content20}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading21|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading21style|}}}">{{{heading21}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content21|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content21style|}}}">{{{content21}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading22|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading22style|}}}">{{{heading22}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content22|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content22style|}}}">{{{content22}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading23|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading23style|}}}">{{{heading23}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content23|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content23style|}}}">{{{content23}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading24|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading24style|}}}">{{{heading24}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content24|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content24style|}}}">{{{content24}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading25|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading25style|}}}">{{{heading25}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content25|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content25style|}}}"> {{{content25}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading26|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading26style|}}}">{{{heading26}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content26|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content26style|}}}">{{{content26}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading27|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading27style|}}}">{{{heading27}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content27|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content27style|}}}">{{{content27}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading28|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading28style|}}}">{{{heading28}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content28|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content28style|}}}">{{{content28}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading29|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading29style|}}}">{{{heading29}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content29|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content29style|}}}">{{{content29}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading30|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading30style|}}}">{{{heading30}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content30|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content30style|}}}">{{{content30}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading31|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading31style|}}}">{{{heading31}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content31|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content31style|}}}">{{{content31}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading32|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading32style|}}}">{{{heading32}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content32|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content32style|}}}">{{{content32}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading33|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading33style|}}}">{{{heading33}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content33|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content33style|}}}">{{{content33}}}<!----></td></tr>}}<!--
+
+ -->{{#if:{{{heading34|}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading34style|}}}">{{{heading34}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content34|}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content34style|}}}">{{{content34}}}<!----></td></tr>}}<!--
+
+ ---------------------------- final section ------------------------------
+ -->{{#if:{{{heading35<includeonly>|</includeonly>}}} |<tr><td class="{{{headingclass|}}}" style="padding-top:0.2em; font-weight:bold; {{{headingstyle|}}} {{{heading35style|}}}">{{{heading35}}}<!----></td></tr>}}<!--
+ -->{{#if:{{{content35<includeonly>|</includeonly>}}} |<tr><td style="padding-bottom:0.2em; {{{contentstyle|}}} {{{content35style|}}}">{{{content35}}}<!----></td></tr>}}<!--
+
+ -------------------------------- below ----------------------------------
+ -->{{#if:{{{below<includeonly>|</includeonly>}}} |<tr><td class="{{{belowclass|}}}" style="padding:0.3em 0.4em 0.3em; font-weight:bold; {{{belowstyle|}}}">{{{below}}}<!----></td></tr>}}<!--
+
+ ------------------------------- navbar ----------------------------------
+ -->{{#switch:{{{navbar|{{{tnavbar<includeonly>|</includeonly>}}}}}}
+     |none |off=
+     |#default=<tr><td style="text-align:right; {{{navbarstyle|{{{tnavbarstyle|}}}}}}">{{tnavbar |{{{name|{{PAGENAME}}}}} |mini=1 |{{{navbaroptions|{{{tnavbaroptions|}}}}}}<!---->}}</td></tr><!--
+ -->}}
+</table><noinclude>
+{{documentation}}
+<!---
+ Please add metadata (categories, interwikis) to the <includeonly>
+ section at the bottom of Template:Sidebar/doc, not here - thanks!
+ ---->
+</noinclude>
