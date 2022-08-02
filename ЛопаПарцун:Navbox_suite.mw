@@ -1,0 +1,25 @@
+<onlyinclude>{{sidebar
+|width=auto
+|bodystyle = border-spacing:0; padding:2px; background:#f7f7f7
+|title = Navbox suite
+|titleclass = navbox-title
+|contentstyle = padding:0.25em; background:#fdfdfd
+
+|content1 =<div class="plainlist">
+*{{tl|Navbox}}
+*{{tl|Navbox subgroup}}
+*{{tl|Navbox with collapsible groups}}
+*{{tl|Navbox with columns}}
+*{{tl|Navboxes}}
+</div>
+
+|name = Navbox suite
+|navbarstyle = padding:0 5px
+}}</onlyinclude><!--
+
+NOTE: A template MUST support all of the parameters marked with a cross in Template:Navbox/doc in order to be Navbox suite compliant.  In particular, the name, state, border, and navbar parameters are especially important.  
+
+--><noinclude>
+[[Category:Navigational boxes| ]]
+
+</noinclude>
