@@ -1,4 +1,1 @@
-{{ {{{|safesubst:}}}ifsubst
-| 1 = {{арась АЛ|{{{1|{{<includeonly>subst:</includeonly>CURRENTDAY}}}}}|{{{2|{{<includeonly>subst:</includeonly>CURRENTMONTH}}}}}|{{{3|{{<includeonly>subst:</includeonly>CURRENTYEAR}}}}}}}
-| 2 = {{арась АЛ|{{{1|{{CURRENTDAY}}}}}|{{{2|{{CURRENTMONTH}}}}}|{{{3|{{CURRENTYEAR}}}}}}}
-}}<noinclude>{{doc}}</noinclude>
+#REDIRECT [[ЛопаПарцун:Арась лисьмапря]]
