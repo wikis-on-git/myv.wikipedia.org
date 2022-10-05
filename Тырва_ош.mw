@@ -1,0 +1,191 @@
+{{ЭТ
+ |статус                  = Ош
+ |Эрзянь лем              = Тырва
+ |оригинальное название   = {{lang-et|Tõrva}}
+ |изображение             = {{Photomontage
+ |position=center
+ |color=#ffffff
+ |photo1a = Keskväljak.jpg
+ |photo2a = Tõrva kino.jpg
+ |photo2b = Kauplus-Elamu Tõrvas Valga t. 2.jpg
+ |photo3a = Kauplus-Elamu Tõrvas Valga t. 4.jpg
+ |photo3b = Trafoalajaam Tõrvas Veski t. 6.jpg
+ |photo4a = Veskijärv3.jpg
+ | spacing = 2
+ | border = 0
+ | size = 280
+}}
+ |подчинение              = 
+ |мастор                  = Эстэнь Мастор
+ |герб                    =
+ |коцт                    =
+ |описание герба          = 
+ |описание флага          = 
+ |ширина герба            = 
+ |ширина флага            = 
+  |lat_dir = |lat_deg = |lat_min = |lat_sec =
+  |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+  |CoordAddon             =type:city
+  |CoordScale             = 
+ |размер карты страны     = 
+ |размер карты региона    = 
+ |размер карты района     = 
+ |вид региона             = ёнкс
+ |регион                  = Вильяндимаа ёнкс{{!}}Вильяндимаа
+ |регион в таблице        = 
+ |вид района              = Буе
+ |район                   = Тырва (буе){{!}}Тырва
+ |район в таблице         = 
+ |вид общины              = 
+ |община                  = 
+ |община в таблице        = 
+ |внутреннее деление      = 
+ |вид главы               = Бургомистр
+ |глава                   = 
+ |дата основания          = 
+ |первое упоминание       =
+ |прежние имена           = 
+ |статус с                = 
+ |покшолмазо              =   
+ |вид высоты              = 
+ |высота центра НП        = 
+ |климат                  = 
+ |официальный язык        = 
+  |эрицятне               = 
+  |год переписи           = 
+  |плотность              =  
+  |агломерация            = 
+  |национальный состав    = 
+  |конфессиональный состав= 
+  |этнохороним            = 
+ |часовой пояс            = 
+ |DST                     = 
+ |телефонный код          = 
+ |почтовый индекс         = 
+ |почтовые индексы        = 
+ |автомобильный код       = 
+ |вид идентификатора      = 
+ |цифровой идентификатор  = 
+ |категория в Commons     = 
+|язык сайта=ee
+|язык сайта 2=
+|язык сайта 3=
+|язык сайта 4= 
+|язык сайта 5= 
+}}
+
+'''Тырва ош''' ({{lang-et|Tõrva}}) — ош лембень ёнкссо [[Эстэнь Мастор]]со, [[Валгамаа ёнкс]]о<ref>{{cite book|author=Adrian Room|title=Placenames of the World: Origins and Meanings of the Names for Over 5000 Natural Features, Countries, Capitals, Territories, Cities and Historic Sights|publisher=McFarland|year=2003|isbn=9780786418145}}{{ref-en}}</ref>.
+== Венельксчачо ==
+{|
+|-
+|{{Climate chart
+| Тырва 
+|-6.8 |-2.7 |54
+|-7.3 |-2.6 |43
+|-5.0 |1.5 |40
+|0.4 |9.0 |41
+|5.8 |14.9 |50
+|10.4 |18.5 |81
+|14.1 |21.6 |78	
+|13.1 |20.1 |90
+|9.3  |1.3 |66
+|4.0 |8.4 |65
+|0.3 |3.5 |54
+|-3.5 |0.1 |55
+|float=left
+|clear=left
+|source =  «Climate-Data.org»<ref>[https://en.climate-data.org/europe/estonia/torva/torva-9451/ Тырва ош] «Climate-Data.org» {{ref-en}}</ref>
+}}
+|}
+== Эрицятне ==
+{{ЭрицятнеВД}}
+<timeline>
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+ImageSize = width:800 height:320
+PlotArea = left:50 bottom:50 top:20 right:30
+DateFormat = x.y
+Period = from:0 till:4
+TimeAxis = orientation:vertical
+AlignBars = late
+ScaleMajor = unit:year gridcolor:linegrey increment:5 start:0
+ScaleMinor = unit:year gridcolor:linegrey2 increment:1 start:0
+PlotData=
+  color:cobar width:28 align:left
+  bar:1909 from:0 till:1.750
+  bar:1922 from:0 till:1.810
+  bar:1932 from:0 till:2.482
+  bar:1940 from:0 till:3.128
+  bar:1989 from:0 till:3.564 color:cobar2
+  bar:2006 from:0 till:3.112
+  bar:2008 from:0 till:3.101
+  bar:2010 from:0 till:3.099
+  bar:2011 from:0 till:2.729
+  bar:2012 from:0 till:2.736
+  bar:2013 from:0 till:2.820
+  bar:2014 from:0 till:2.913
+  bar:2015 from:0 till:2.855
+  bar:2016 from:0 till:2.820
+  bar:2017 from:0 till:2.804
+  bar:2018 from:0 till:2.741
+  bar:2019 from:0 till:2.723
+  bar:2020 from:0 till:2.744
+  bar:2021 from:0 till:2.690
+  bar:2022 from:0 till:2.641
+PlotData=
+  bar:1909 at: 1.750 fontsize:S text: 1.750 shift:(-16,5)
+  bar:1922 at: 1.810 fontsize:S text: 1.810 shift:(-16,5)
+  bar:1932 at: 2.482 fontsize:S text: 2.482 shift:(-16,5)
+  bar:1940 at: 3.128 fontsize:S text: 3.128 shift:(-16,5)
+  bar:1989 at: 3.564 fontsize:S text: 3.564 shift:(-16,5)
+  bar:2006 at: 3.112 fontsize:S text: 3.112 shift:(-16,5)
+  bar:2008 at: 3.101 fontsize:S text: 3.101 shift:(-16,5)
+  bar:2010 at: 3.099 fontsize:S text: 3.099 shift:(-16,5)
+  bar:2011 at: 2.729 fontsize:S text: 2.729 shift:(-16,5)
+  bar:2012 at: 2.736 fontsize:S text: 2.736 shift:(-16,5)
+  bar:2013 at: 2.877 fontsize:S text: 2.820 shift:(-16,5)
+  bar:2014 at: 2.913 fontsize:S text: 2.913 shift:(-16,5)
+  bar:2015 at: 2.855 fontsize:S text: 2.855 shift:(-16,5)
+  bar:2016 at: 2.820 fontsize:S text: 2.820 shift:(-16,5)
+  bar:2017 at: 2.804 fontsize:S text: 2.804 shift:(-16,5)
+  bar:2018 at: 2.741 fontsize:S text: 2.741 shift:(-16,5)
+  bar:2019 at: 2.723 fontsize:S text: 2.723 shift:(-16,5)
+  bar:2020 at: 2.744 fontsize:S text: 2.744 shift:(-16,5)
+  bar:2021 at: 2.690 fontsize:S text: 2.690 shift:(-16,5)
+  bar:2022 at: 2.641 fontsize:S text: 2.641 shift:(-16,5)
+TextData=
+  fontsize:S pos:(180,30)
+</timeline>
+== Содавикс ломанть, конат сюлмавозь те ошонть марто ==
+
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+== Фотокувт ==
+<gallery mode="packed" heights=110px>
+Артовкс:Tõrva veskijärv lennult.jpg
+Артовкс:Õhnejõe hoiuala Tõrvalinnavalitsuse juures mai 2014 255.jpg
+Артовкс:Riiska järv lennult2.jpg
+Артовкс:Vanamõisa järv lennuklt2.jpg
+Артовкс:Tõrva staadion.jpg
+Артовкс:Õhne jõgi.jpg
+</gallery>
+<gallery mode="packed" heights=120px>
+Артовкс:Tõrva church 2008 2.jpg
+Артовкс:Elamu Tõrvas Kevade t. 2.jpg
+Артовкс:Kauplus-Elamu Tõrvas Valga t. 3.jpg
+Артовкс:Tõrva Linnaraamatukogu 2016 juuli.jpg
+Артовкс:Torva gymnasium.jpg
+Артовкс:Haigla Tõrvas Tartu t. 1.jpg
+Артовкс:Tõrva kõrts.jpg
+Артовкс:Kauplus-Elamu Tõrvas Tartu t. 6.jpg
+</gallery>
+
+{{Lisj}}
+
+{{Эстэнь Масторонь ошт}}
+
+[[Категория:Эстэнь Масторонь ошт]]
+[[Категория:Валгамаа ёнкс]]
