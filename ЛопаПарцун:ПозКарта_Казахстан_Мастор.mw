@@ -1,0 +1,12 @@
+{{#switch:{{{1}}}
+|name =Казахстан Мастор
+|top    = 56
+|bottom = 40
+|left   = 46
+|right  = 88
+|image = {{#switch:{{{2|}}}
+ |physical = Relief Map of Kazakhstan.png
+ |#default = Kazakhstan adm location map.svg
+}}
+}}<noinclude>{{ПозКарта/Инфо|Казахстан}}
+</noinclude>
