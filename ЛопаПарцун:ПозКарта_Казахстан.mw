@@ -6,7 +6,7 @@
 |right  = 88
 |image = {{#switch:{{{2|}}}
  |physical = Relief Map of Kazakhstan.png
- |#default = Kazakhstan location map.svg
+ |#default = Kazakhstan adm location map.svg
 }}
 |areas = {{#switch:{{{2|}}}
  |#default = {{Шаблон:ПозКарта Казахстан/adm}}
